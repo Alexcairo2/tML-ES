@@ -104,7 +104,7 @@ Estos son los nombres oficiales de la localización de Terraria en español. Ús
 | Expert Mode | Modo Experto |
 | Master Mode | Modo Maestro |
 | Moon Lord | Señor de la Luna |
-| Post-Moon Lord | Tras el Señor de la Luna |
+| Post-Moon Lord | Después el Señor de la Luna |
 
 ---
 
@@ -119,12 +119,16 @@ Reglas generales — ver también las directrices de traducción en `CONTRIBUTIN
 | Calamitas |
 | Draedon |
 | Solyn |
+| Mutant |
+| Dragonfolly |
+| ...etc |
 
 ### Se traducen (nombres descriptivos, ya establecidos)
 
 | Inglés | Español |
 |--------|---------|
 | Desert Scourge | Azote del Desierto |
+| Aquatic Scourge | Azote Acuático |
 | Giant Clam | Almeja Gigante |
 
 ### Se mantienen en inglés (cóctel, cultura o marca)
@@ -133,7 +137,11 @@ Reglas generales — ver también las directrices de traducción en `CONTRIBUTIN
 |--------|
 | Bloody Mary |
 | Everclear |
-
+| Vodka |
+| Whisky |
+| Salak |
+| Purple Haze |
+| Everclear |
 ---
 
 Ante cualquier duda sobre un término que no aparece aquí, consulta en Discord antes de inventar una traducción.
