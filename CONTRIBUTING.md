@@ -85,7 +85,9 @@ Trabajar en un archivo que no está disponible puede resultar en que tu aporte n
 > Guía paso a paso con capturas de pantalla: **[Cómo hacer fork y abrir tu primera Pull Request](HOW_TO_FORK.md)**.
 
 > [!IMPORTANT]
-> El CI ejecutará una validación de sintaxis HJSON automáticamente al abrir la PR. Si hay errores de formato, el CI aparecerá en rojo y la PR no será revisada hasta que estén corregidos.
+> El CI valida la sintaxis HJSON de tu PR. Si hay errores de formato, el CI aparecerá en rojo y la PR no será revisada hasta que estén corregidos.
+>
+> Si es tu primera contribución a este repositorio, es normal que el CI quede en estado **"esperando aprobación"** (`Workflow awaiting approval`) hasta que alguien del equipo lo apruebe manualmente — es una protección estándar de GitHub para colaboradores nuevos, no un error de tu parte. A partir de tu segunda PR corre automático.
 
 ---
 
