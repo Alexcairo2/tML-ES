@@ -1,0 +1,63 @@
+// Ambient Objects
+GiantBulb: Gran Bulbo de Plantera
+Fossil: Fósil
+Column: Columna
+Ribs: Costillas
+Stalagmite: Estalagmita
+Stalactite: Estalactita
+PirateCrate: Cajón Abandonado
+IronBall: Bola de Hierro
+// Basic Calamity Furniture
+Basin: Pila
+LavaFountain: Fuente de Lava
+BaroqueCello: Cello Barroco
+Jukebox: Gramola
+PipeOrgan: Órgano de Tubos
+Sconce: Aplique
+// Draedon Lab Furniture
+Console: Consola
+ContainmentBox: Caja de Contención
+Display: Visor
+ElectricPanel: Panel Eléctrico
+ReinforcedCrate: Cajón Reforzado
+Screen: Pantalla
+Server: Servidor
+Terminal: Terminal
+// Individual entries
+// Sulphurous Sea & Abyss
+SteamGeyser.MapEntry: Géiser
+AbyssVent.MapEntry: Respiradero de Vapor
+ThermalVent.MapEntry: Respiradero Termal
+// Brimstone Crag
+SpineSapling.MapEntry: Plantón de Espinas
+SpineTree.MapEntry: Espina Gigante
+// Draedon
+InactivePowerCellFactory.MapEntry: Fábrica de Celdas de Energía Inactiva
+OnyxExcavatorTile.MapEntry: Excavadora de Ónice
+CodebreakerTile.MapEntry: El Descifrador
+// Ores
+AerialiteOre.MapEntry: Aerialita
+AerialiteOreDisenchanted.MapEntry: Aerialita Desencantada
+AstralOre.MapEntry: Mineral Astral
+AuricOre.MapEntry: Áurico
+CryonicOre.MapEntry: Criónico
+ExodiumOre.MapEntry: Exodio
+HallowedOre.MapEntry: Mineral Sagrado
+InfernalSuevite.MapEntry: Suevita Infernal
+PerennialOre.MapEntry: Perenne
+ScoriaOre.MapEntry: Escoria
+UelibloomOre.MapEntry: Uelibloom
+// Misc
+ArenaTile.MapEntry: Arena
+
+AshenChest: {
+	MapEntry0: "{$Items.Placeables.AshenChest.DisplayName}"
+	MapEntry1: "{$Items.Placeables.AshenChest.DisplayName} Cerrado"
+}
+
+AstralChestLocked: {
+	MapEntry0: "{$Items.Placeables.AstralChest.DisplayName}"
+	MapEntry1: "{$Items.Placeables.AstralChest.DisplayName} Cerrado"
+}
+
+PlaguedPlateBed.MapEntry: "'Cama'"

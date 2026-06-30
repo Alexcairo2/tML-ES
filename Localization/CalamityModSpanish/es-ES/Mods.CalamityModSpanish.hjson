@@ -1,0 +1,59 @@
+Configs: {
+	CalSpanishConfig: {
+		DisplayName: Configuración
+		Headers.General: Sección General
+
+		ColoredDamageTypes: {
+			Label: Tipo de daño coloreado
+			Tooltip: Si no te gustan los tipos de daño coloreados en las armas, puedes desactivarlos.
+		}
+
+		ArmorSetBonusPreview: {
+			Label: Vista previa del bonus del conjunto de armadura
+			Tooltip: Muestra el bonus del conjunto de armadura en los cascos cuando se mantiene presionada la tecla designada.
+		}
+
+		RandomDeathText: {
+			Label: Frases de muerte aleatorias
+			Tooltip: Agrega varias nuevas frases divertidas de muerte cuando mueres.
+		}
+
+		CalamityModLocalization: {
+			Label: Calamity Mod
+			Tooltip: Desactiva la traducción del mod Calamity.
+		}
+
+		NoxusBossLocalization: {
+			Label: Calamity: Wrath of the Gods
+			Tooltip: Desactiva la traducción de Wrath of the Gods.
+		}
+
+		InfernumModeLocalization: {
+			Tooltip: Desactiva la traducción de Infernum Mode.
+			Label: Infernum Mode
+		}
+
+		FargowiltasLocalization: {
+			Label: Fargo's Mutant Mod
+			Tooltip: Desactiva la traducción de Fargo's Mutant Mod.
+		}
+
+		FargowiltasSoulsLocalization: {
+			Label: Fargo's Souls Mod
+			Tooltip: Desactiva la traducción de Fargo's Souls Mod.
+		}
+
+		FargowiltasCrossmodLocalization: {
+			Label: Calamity - Fargo's Souls DLC
+			Tooltip: Desactiva la traducción de Calamity - Fargo's Souls DLC.
+		}
+	}
+}
+
+AuthorTags: {
+	Doremy.DisplayName: Doremy
+	Blass.DisplayName: Blassurks
+	Tetan.DisplayName: tetan47
+	Morselli.DisplayName: purrMorselli
+	Allan.DisplayName: all_xozzin
+}

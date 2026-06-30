@@ -1,0 +1,19 @@
+GraphicalUniverseImager: {
+	EternalGardenAurora: Aurora del Jardín Eterno
+	NamelessDeityStars: Cielo Estrellado
+	NamelessDeityKaleidoscope: Realidad
+	AvatarP1Background: Horizonte Carmesí
+	AvatarP2Background: Expansión Turbulenta
+	BloodWhirlpool: Remolino de Sangre
+	CryonicStatic: Estasis Criogénica
+	RiftEclipse: Eclipse del Abismo
+	TerminusStairway: Empíreo Tranquilo
+	NoMusic: Silencio
+	AvatarMusic: Quietud
+}
+
+SolynBookExchange: {
+	BookObtainmentPercentage: ¡{0}% de libros encontrados!
+	CreditText: Encontrado por [c/FF84D8:{0}]
+	RarityText: "Rareza: "
+}

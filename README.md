@@ -1,0 +1,84 @@
+<div align="center">
+
+<img src="https://i.imgur.com/RWT1SCl.png" alt="tModLoader en Español" width="128" />
+
+# tModLoader en Español — Localizaciones
+
+**Repositorio de contribuciones de traducción para tML ES.**
+
+[![Discord](https://img.shields.io/badge/Discord-Unirse-5865F2?logo=discord&logoColor=white)](https://discord.gg/Z43xMxKdXZ)
+[![Steam Workshop](https://img.shields.io/badge/Steam_Workshop-Suscribirse-1b2838?logo=steam&logoColor=white)](https://steamcommunity.com/sharedfiles/filedetails/?id=2830666695)
+
+**tML ES Team**
+
+</div>
+
+---
+
+## ¿Qué es tML ES?
+
+**tModLoader en Español** es un mod para tModLoader que traduce al español los mods más populares de Terraria: Calamity Mod, Infernum Mode, Wrath of the Gods, Fargo's Mutant Mod y más.
+
+### [Soy un **jugador**](https://steamcommunity.com/sharedfiles/filedetails/?id=2830666695) (Juego con Mods)
+
+### [Soy un **contribuidor**](CONTRIBUTING.md) (Creo traducciones)
+
+### [Encontré un **error**](https://discord.gg/Z43xMxKdXZ) (Reportar por Discord)
+
+---
+
+## Este repositorio
+
+Este es el **repositorio público de localización** de tML ES; este espacio existe exclusivamente para que la comunidad pueda contribuir traducciones.
+
+Aquí encontrarás:
+- Los archivos fuente en inglés (`en-US`) de cada mod, como referencia.
+- Las traducciones al español (`es-ES`) mantenidas por el equipo.
+- Las herramientas de CI para validar el formato de los archivos.
+
+Los cambios aprobados aquí son integrados periódicamente al mod principal y publicados en Steam Workshop.
+
+---
+
+## Mods cubiertos
+
+| Mod | Estado |
+|-----|:------:|
+| Calamity Mod | ✅ |
+| Calamity Mod Music | ✅ |
+| Infernum Mode | ✅ |
+| Infernum Mode Music | ✅ |
+| Calamity: Wrath of the Gods | ✅ |
+| Fargo's Mutant Mod | ✅ |
+| Fargo's Souls Mod | ✅ |
+| Fargo's Souls DLC - Calamity | ✅ |
+
+---
+
+## Comunidad
+
+El equipo y la comunidad de tML ES están en Discord. Es el lugar donde coordinamos traducciones, resolvemos dudas y anunciamos qué contenido está disponible para contribuir.
+
+### [Unirse al Discord →](https://discord.gg/Z43xMxKdXZ)
+
+---
+
+## Equipo
+
+**tML ES Team** — Desarrollo del mod y las traducciones.
+
+| Miembro | Rol |
+|---------|-----|
+| **Doremy** | Desarrollo del núcleo del mod; parcheo en tiempo de ejecución; sistema de localización |
+| **Blassurks** | QA Testing; propuesta de nuevas entradas de localización |
+| **purrMorselli** | Arte de UI |
+| **tetan47** | Revisión y retroalimentación de localización |
+| **all_xozzin** | Diseño del icono del mod; pixel art |
+
+---
+
+## Licencia
+
+Copyright © 2026 **tML ES Team**. Todos los derechos reservados.
+
+Los archivos de localización de este repositorio no pueden ser copiados, redistribuidos ni utilizados en obras derivadas sin permiso escrito explícito del titular de los derechos.

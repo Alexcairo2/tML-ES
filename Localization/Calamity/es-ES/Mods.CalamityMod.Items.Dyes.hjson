@@ -1,0 +1,239 @@
+AcidRainDye: {
+	DisplayName: Tinte de Lluvia Ácida
+	Tooltip: ""
+}
+
+AerialiteDye: {
+	DisplayName: Tinte de Aerialita
+	Tooltip: ""
+}
+
+AstralBlueDye: {
+	DisplayName: Tinte Astral Azul
+	Tooltip: ""
+}
+
+AstralDye: {
+	DisplayName: Tinte de Piel Astral
+	Tooltip: ""
+}
+
+AstralOrangeDye: {
+	DisplayName: Tinte Astral Naranja
+	Tooltip: ""
+}
+
+AstralSwirlDye: {
+	DisplayName: Tinte Astral Arremolinado
+	Tooltip: ""
+}
+
+AuricDye: {
+	DisplayName: Tinte Áurico
+	Tooltip: ""
+}
+
+BloodflareDye: {
+	DisplayName: Tinte de Llamasangre
+	Tooltip: ""
+}
+
+BlueCosmicFlameDye: {
+	DisplayName: Tinte de Llama Cósmica Azul
+	Tooltip: ""
+}
+
+BlueStatigelDye: {
+	DisplayName: Tinte de Statigel Azul
+	Tooltip: ""
+}
+
+BrimflameDye: {
+	DisplayName: Tinte de Llamazufre
+	Tooltip: ""
+}
+
+CalamitousDye: {
+	DisplayName: Tinte Calamitoso
+	Tooltip: ""
+}
+
+CeaselessDye: {
+	DisplayName: Tinte Incesante
+	Tooltip: ""
+}
+
+CosmiliteDye: {
+	DisplayName: Tinte de Cosmilita
+	Tooltip: ""
+}
+
+CryonicDye: {
+	DisplayName: Tinte Criónico
+	Tooltip: ""
+}
+
+DaedalusDye: {
+	DisplayName: Tinte de Dédalo
+	Tooltip: ""
+}
+
+DefiledFlameDye: {
+	DisplayName: Tinte de Llama Corrupta
+	Tooltip: ""
+}
+
+DragonSoulDye: {
+	DisplayName: Tinte del Alma de Dragón
+	Tooltip: ""
+}
+
+ElementalDye: {
+	DisplayName: Tinte Elemental
+	Tooltip: ""
+}
+
+EndothermicDye: {
+	DisplayName: Tinte Endotérmico
+	Tooltip: ""
+}
+
+ExoDye: {
+	DisplayName: Tinte Exo
+	Tooltip: ""
+}
+
+AdrenalineHairDye: {
+	DisplayName: Tinte de Cabello de Adrenalina
+	Tooltip: ""
+}
+
+RageHairDye: {
+	DisplayName: Tinte de Cabello de Rabia
+	Tooltip: ""
+}
+
+StealthHairDye: {
+	DisplayName: Tinte de Cabello de Sigilo
+	Tooltip: ""
+}
+
+WingTimeHairDye: {
+	DisplayName: Tinte de Cabello de Tiempo de Vuelo
+	Tooltip: ""
+}
+
+InvisibleDye: {
+	DisplayName: Tinte Invisible
+	Tooltip: ""
+}
+
+LivingShardDye: {
+	DisplayName: Tinte de Fragmento Viviente
+	Tooltip: ""
+}
+
+MeldDye: {
+	DisplayName: Tinte de Meld
+	Tooltip: ""
+}
+
+NecromanticDye: {
+	DisplayName: Tinte Necromántico
+	Tooltip: ""
+}
+
+NecroplasmicDye: {
+	DisplayName: Tinte Necroplásico
+	Tooltip: ""
+}
+
+NightmareDye: {
+	DisplayName: Tinte de Pesadilla
+	Tooltip: ""
+}
+
+PinkCosmicFlameDye: {
+	DisplayName: Tinte de Llama Cósmica Rosa
+	Tooltip: ""
+}
+
+PinkStatigelDye: {
+	DisplayName: Tinte de Statigel Rosa
+	Tooltip: ""
+}
+
+PlagueGooDye: {
+	DisplayName: Tinte de Limo de Plaga
+	Tooltip: ""
+}
+
+PlaguePlateDye: {
+	DisplayName: Tinte de Placa de Plaga
+	Tooltip: ""
+}
+
+ProfanedCrystalDye: {
+	DisplayName: Tinte de Cristal Profanado
+	Tooltip: ""
+}
+
+ProfanedFlameDye: {
+	DisplayName: Tinte de Llama Profanada
+	Tooltip: ""
+}
+
+ProfanedMoonlightDye: {
+	DisplayName: Tinte de Luz de Luna Profanada
+	Tooltip: ""
+}
+
+ProfanedRockDye: {
+	DisplayName: Tinte de Roca Profanada
+	Tooltip: ""
+}
+
+ReaverDye: {
+	DisplayName: Tinte del Saqueador
+	Tooltip: ""
+}
+
+ScoriaDye: {
+	DisplayName: Tinte de Escoria
+	Tooltip: ""
+}
+
+ShadowspecDye: {
+	DisplayName: Tinte Shadowspec
+	Tooltip: ""
+}
+
+SilvaDye: {
+	DisplayName: Tinte de Silva
+	Tooltip: ""
+}
+
+SlimeGodDye: {
+	DisplayName: Tinte del Dios Slime
+	Tooltip: ""
+}
+
+StratusDye: {
+	DisplayName: Tinte Stratus
+	Tooltip: ""
+}
+
+SwirlingCosmicFlameDye: {
+	DisplayName: Tinte de Llama Cósmica Arremolinada
+	Tooltip: ""
+}
+
+TarragonDye: {
+	DisplayName: Tinte de Estragón
+	Tooltip: ""
+}
+
+WulfrumDye: {
+	DisplayName: Tinte de Wulfrum
+	Tooltip: ""
+}

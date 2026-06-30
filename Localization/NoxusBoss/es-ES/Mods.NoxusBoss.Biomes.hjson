@@ -1,0 +1,9 @@
+EternalGardenBiome: {
+	DisplayName: Jardín Eterno
+	TownNPCDialogueName: el Jardín Eterno
+}
+
+DeadUniverseBiome: {
+	DisplayName: Universo Muerto
+	TownNPCDialogueName: el Universo Muerto
+}

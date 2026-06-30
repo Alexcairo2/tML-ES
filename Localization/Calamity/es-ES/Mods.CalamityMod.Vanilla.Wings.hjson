@@ -1,0 +1,14 @@
+BeeWings: Reduce la velocidad de caída mientras no se presione {$Key.DOWN}
+BoneWings: Reduce a la mitad el tiempo de vuelo al recibir un golpe
+DemonWings: Aumenta la velocidad de caída y acelera hacia arriba más rápido al caer
+FestiveWings: Genera adornos que recuperan tiempo de vuelo
+FinWings: Permite moverse rápidamente en el agua
+TatteredFairyWings: Deja un rastro de polvo de hada que drena el tiempo de vuelo
+WingsNebula: Aumenta enormemente el alcance de recolección de los potenciadores de la armadura de nebulosa mientras flotas
+WingsSolar: El escudo de la armadura de llamarada solar recupera tiempo de vuelo cada vez que se consume una carga
+WingsStardust:
+	'''
+	Aumenta enormemente el alcance de ataque del guardián de polvo estelar de la armadura de polvo estelar
+	El daño del guardián de polvo estelar aumenta cuanto menor sea tu tiempo de vuelo
+	'''
+WingsVortex: El sigilo de la armadura de vórtice recupera tiempo de vuelo gradualmente mientras está activado

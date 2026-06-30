@@ -1,0 +1,137 @@
+// Slime God
+SlimeGodRun: El Dios Slime huye para luchar en otra ocasión...
+// Cryogen
+CryogenBossText: ¡Cryogen se está volviendo loco!
+PyrogenBossText: ¡Pyrogen se está volviendo loco!
+// Calamitas Clone
+CalamitasBossText: Subestimas mi poder...
+CalamitasBossText2: Levántense de nuevo, mis hermanos.
+CalamitasBossText3: Impresionante, chico, muy impresionante...
+// Great Sand Shark
+SandSharkText: Algo se agita en las cálidas arenas del desierto...
+SandSharkText2: Un enorme superdepredador se acerca...
+// Plaguebringer Goliath
+PlagueBossText: ¡¡¡BOMBARDEO NUCLEAR DE LA PLAGA ARMADO, PREPARANDO LANZAMIENTO!!!
+PlagueBossText2: ¡¡¡MISILES LANZADOS, RUTINA DE BÚSQUEDA DE OBJETIVO INICIADA!!!
+// Providence
+ProfanedBossText: Llamas sagradas queman tus alas...
+// Polterghast
+GhostBossText2: Lamentos resuenan por los pasillos destartalados de la mazmorra...
+GhostBossText3: Prisioneros que murieron hace mucho tiempo buscan su ferviente venganza...
+// Devourer of Gods
+DoGSpawn: No eres un dios... ¡pero me daré un festín con tu esencia de todos modos!
+DoGSubphase1: Lo has hecho mejor que la mayoría, ¡pero no te confíes!
+DoGPhase2: ¡Aún no ha terminado, chico!
+DoGPhase3: ¡UN DIOS NO LE TEME A LA MUERTE!
+DoGHead1: ¡Cae de rodillas, gusano!
+DoGHead2: Veamos cuánto más duras...
+DoGHead3: ¿Ya te estás cansando?
+DoGHead4: ¡Caerás, igual que los demás!
+DoGHead5: ¡Ríndete! ¡Será más fácil para ambos!
+DoGHead6: ¡Déjame acabar contigo de una vez!
+DoGHead7: ¡Esto empieza a ser ridículo...!
+DoGHead8: ¡¿Cómo estás haciendo esto?!
+DoGHead9: ¡¿Me tomas por tonto?!
+DoGHead10: ¡¿Por qué no MUERES?!
+DoGHead11: ¡CAE!
+DoGHead12: ¡DESAPARECE!
+DoGHead13: ¡MUERE!
+DoGHeadDeath1: Basura insípida.
+DoGHeadDeath2: Delicioso... ¡Un festín digno de un dios!
+DoGHeadDeath3: ¡Y QUÉDATE muerto!
+DoGHeadDeath4: DÉBIL.
+DoGHeadDeath5: PATÉTICO. ¡¿TANTO CORRER SOLO PARA MORIR DE UN TOQUE?!
+DoGHeadRunning: ¡No puedes correr para siempre!
+DoGHeadRunning2: ¡¿CUÁL ES EL PROBLEMA?! ¡¿YA NO PUEDES CORRER MÁS?!
+// Yharon
+FlameText: El aire se está volviendo más cálido a tu alrededor.
+// Draedon (introduction)
+DraedonIntroductionText1: He esperado mucho tiempo este momento.
+DraedonIntroductionText2: Tu naturaleza me fascina, porque no la comprendo.
+DraedonIntroductionText3: Te enfrentarás a mis creaciones, las cuales han superado a los dioses.
+DraedonIntroductionText4: Y me mostrarás tu disposición a través de la batalla.
+DraedonIntroductionText5: Ahora, elige.
+DraedonResummonText: Haz tu elección.
+DraedonBossRushText: Haz tu elección. Tienes 20 segundos.
+// Draedon (Exo Mechs mid-battle dialogue)
+DraedonExoPhase1Text1: Los diseños mejorados con tiempo y conocimiento son la esencia de mi trabajo.
+DraedonExoPhase1Text2: A través de ningún otro método puedo acercarme a la perfección.
+DraedonExoPhase2Text1: Tu rendimiento cae perfectamente dentro de los márgenes de error.
+DraedonExoPhase2Text2: Eso es bastante satisfactorio. Procederemos a la siguiente fase de pruebas.
+DraedonExoPhase3Text1: Desde que fui alertado de tu presencia, he procesado tus batallas para hacer a mis máquinas más fuertes.
+DraedonExoPhase3Text2: Incluso ahora, monitoreo tus acciones. Nada debería escapar de los límites de mis cálculos.
+DraedonExoPhase4Text1: Curioso. Muy curioso.
+DraedonExoPhase4Text2: Progresas constantemente contra desafíos más difíciles.
+DraedonExoPhase5Text1: Tu naturaleza sigue siéndome desconocida. Esto no servirá.
+DraedonExoPhase5Text2: ...Busqué la perfección. El destino debe favorecer a la ironía, porque ese debió ser mi primer error.
+DraedonExoPhase6Text1: Absurdo.
+DraedonExoPhase6Text2: Ya no dejaré que mis cálculos impidan mi observación de esta batalla.
+DraedonExoPhase6Text3: Te mostraré toda la furia de mi máquina final.
+DraedonAresEnrageText: Qué insensato. No puedes escapar.
+// Draedon (ending)
+DraedonEndText1: Un factor desconocido... un catalizador es lo que eres.
+DraedonEndText2: Casi tan desconectado de esta tierra y su historia como yo.
+DraedonEndText3: ...Disculpa mi introspección. Debo ordenar mis pensamientos después de esa exhibición.
+DraedonEndText4: Esta tierra se ha vuelto rancia y rígida con la sangre que se ha derramado hasta ahora.
+DraedonEndText5: Tú también has derramado sangre, pero podría ser suficiente para dar paso a una nueva era... De qué, no lo sé. Pero es algo que ansío ver.
+DraedonEndText6: Ahora. Deseas alcanzar al Tirano. No puedo ayudarte en eso.
+DraedonEndText7: No es una cuestión de rencor, porque nada desearía más que observar tal conflicto.
+DraedonEndText8: Pero te las has arreglado antes. Encontrarás la manera eventualmente.
+DraedonEndText9: Debo reconocer tu triunfo, pero volveré ahora a mi maquinaria.
+DraedonEndKillAttemptText: ...Completamente innecesario.
+// Draedon (GFB)
+DraedonMechdusaBeginText: ...Muere.
+DraedonMechdusaEndText1: Espera, ¿qué? ¿Cómo?
+DraedonMechdusaEndText2: No
+// SCal (First Battle)
+SCalSummonText: ¿Disfrutas pasando por el infierno?
+SCalStartText: Simplemente debiste haber muerto...
+SCalBH2Text: No hace mucho tiempo que a duras penas lograste derrotar a mi clon. Todo un fracaso, ¿no es así?
+SCalBH3Text: Has dominado un gran poder, pero no lo esgrimes para nadie más que para ti.
+SCalBrothersText: ¿Te gustaría conocer a mi familia? Horrible, ¿no es así?
+SCalPhase2Text: Sufrirás enormemente.
+SCalBH4Text: Es absurdo siquiera pensar en intentar escapar. Mientras vivas, sufrirás.
+SCalSeekerRingText: Un advenedizo que robó y mató imprudentemente para llegar al poder. Me pregunto, ¿a quién me recuerda eso...?
+SCalBH5Text: No tienes nada que ganar en esta batalla. ¡Nadie te dio voz ni voto en este asunto!
+SCalSepulcher2Text: Una vez que el polvo se haya asentado y solo quede uno, si eres tú, ¡¿qué valor habrá tenido esto?!
+SCalDesparationText1: ¡Solo detente!
+SCalDesparationText2: No tengo futuro si pierdo aquí.
+SCalDesparationText3: Una vez que me hayas vencido, solo tendrás un camino por delante.
+SCalDesparationText4: Y ese camino... tampoco tiene futuro.
+SCalAcceptanceText1: Incluso si él ha desechado todo lo demás, su poder permanece.
+SCalAcceptanceText2: Ya no me queda energía para guardarle rencor, ni a ti...
+SCalAcceptanceText3: Todo estará en tus manos ahora.
+// SCal (Rematch)
+SCalSummonTextRematch: Si buscas algunas quemaduras de cuarto grado, tienes a la persona indicada.
+SCalStartTextRematch: Cuando llegue el momento, ¿te gustaría unirte a mi creación?
+SCalBH2TextRematch: Aún tendrás que esforzarte mucho por esta victoria.
+SCalBH3TextRematch: No había tenido un muñeco de pruebas tan interesante con el que probar mi magia en mucho tiempo.
+SCalBrothersTextRematch: Cascarones vacíos de lo que alguna vez fueron. Dudo que quede siquiera un rastro de sus espíritus.
+SCalPhase2TextRematch: Aquí vamos de nuevo.
+SCalBH4TextRematch: Me pregunto si has visto esto en tus pesadillas desde nuestra primera batalla.
+SCalSeekerRingTextRematch: Tu habilidad no ha flaqueado en lo más mínimo.
+SCalBH5TextRematch: ¿No es emocionante?
+SCalSepulcher2TextRematch: Aquí viene la tumba reptante, una última vez.
+SCalDesparationText1Rematch: Una exhibición magnífica, te concedo este combate.
+SCalDesparationText2Rematch: Sin duda te enfrentarás a enemigos más fuertes que yo.
+SCalDesparationText3Rematch: Confío en que no cometerás los mismos errores que él.
+SCalDesparationText4Rematch: No puedo imaginar qué te depara el futuro ahora.
+// Permafrost (GFB)
+PermafrostSummonText: ¿Estás preparado para una tarea digna de Sísifo?
+PermafrostBirbSwarmText: Esos corazones fueron un poco demasiado brutales para mi gusto. ¿Qué tal unos adorables pajaritos en su lugar?
+PermafrostBH2Text: ¿Cansándote de la batalla, aventurero? ¿Hambriento? ¿Qué te parece algo de Carne Deliciosa?
+PermafrostBH3Text: ¿Sorprendido de cómo me mantengo firme contra ti? ¡Yo entrené a Calamitas, después de todo!
+PermafrostDoGText: ¡¿La serpiente?! ¡¿Cómo?! ¡¿Qué hace ÉL aquí?! ¡¿Vino a atormentarme más?! ¡Mátalo, aventurero!
+PermafrostPhase2Text: ¡Ja! Supongo que ya no puedo quedarme "helado" en este duelo. ¿Entiendes?
+PermafrostBH4Text: ¿Necesitas un descanso? ¿Acaso ni siquiera puedes seguirle el ritmo a un anciano?
+PermafrostHallowBossSpamText: ¡Realmente te has vuelto fuerte! Afortunadamente, Calamitas y yo reconstruimos esto para ayudarme.
+PermafrostBH5Text: ¡Vaya, ha pasado bastante tiempo desde que tuve una excusa para usar estas magias!
+PermafrostSecondBirbSwarmText: Debo decir que, ¡esos pajaritos de antes eran bastante lindos! ¿Acaso no suenan bien unos cuantos más?
+PermafrostNonchalantText: Debo decir que, no soy el mago que solía ser. Esto empieza a cansar a mi viejo cuerpo...
+PermafrostBruhText: ¡Ja! ¡Solo bromeaba! ¡Mira lo que pasa cuando lanzo un hechizo que conozco!
+PermafrostGiveUpText: ¡Agh, creo que me tiré un músculo! Ah, bueno. Parece que debo conceder. ¡Bien peleado!
+// Primordial Wyrm
+PrimordialWyrmSpawn: La caótica energía de teletransporte enfurece a un gigante abisal...
+// April Fools
+AprilFools: THE LORDE se acerca...
+AprilFoolsGFB: La Ruga se acerca...

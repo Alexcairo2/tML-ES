@@ -1,0 +1,189 @@
+Conditions: {
+	InHardmode: En el modo Difícil
+	PreHardmode: Antes del modo Difícil
+	SmashedShadowOrb: Después de destruir un orbe sombrío o un corazón carmesí
+	WorldCrimson: En un mundo con el Carmesí
+	WorldCorrupt: En un mundo con la Corrupción
+	WorldDrunk: En un mundo borracho
+	WorldRemix: En un mundo Remix
+	WorldNotTheBees: En un mundo Not the Bees
+	WorldForTheWorthy: En un mundo For the Worthy
+	WorldAnniversary: En un mundo Celebration Mk 10
+	WorldDontStarve: En un mundo Don't Starve
+	WorldNoTraps: En un mundo sin trampas
+	WorldZenith: En la semilla Legendaria
+	WorldSkyblock: En un mundo Skyblock
+	SeedVampire: En un mundo de vampirismo
+	SeedInfected: En un mundo Purify this
+	SeedTeamBasedSpawns: En un mundo Royale with cheese
+	SeedDualDungeons: En un mundo Double daring dangers
+	WorldNotDrunk: No en un mundo borracho
+	WorldNotRemix: No en un mundo Remix
+	WorldNotNotTheBees: No en un mundo Not the Bees
+	WorldNotAnniversary: No en un mundo Celebration Mk 10
+	WorldNotForTheWorthy: No en un mundo For the Worthy
+	WorldNotDontStarve: No en un mundo Don't Starve
+	WorldNotNoTraps: No en un mundo sin trampas
+	WorldNotZenith: No en la semilla Legendaria
+	WorldNotSkyblock: No en un mundo Skyblock
+	SeedNotVampire: No en un mundo de vampirismo
+	SeedNotInfected: No en un mundo Purify this
+	SeedNotTeamBasedSpawns: No en un mundo Royale with cheese
+	SeedNotDualDungeons: No en un mundo Double daring dangers
+	Christmas: Durante Navidad
+	Halloween: Durante Halloween
+	Thunderstorm: Durante una tormenta eléctrica
+	BirthdayParty: Durante la fiesta de cumpleaños de un PNJ
+	NightLanterns: Durante una noche de faroles
+	HappyWindyDay: Durante un día de mucho viento
+	SolarEclipse: Durante un Eclipse solar
+	BloodMoon: Durante una Luna de Sangre
+	NotSolarEclipse: No durante un Eclipse solar
+	NotBloodMoon: No durante una Luna de Sangre
+	DownedKingSlime: Después de derrotar al Rey Slime
+	DownedEyeOfCthulhu: Después de derrotar al Ojo de Cthulhu
+	DownedBoss2: Después de derrotar al Devoramundos o al Cerebro de Cthulhu
+	DownedEaterOfWorlds: Después de derrotar al Devoramundos
+	DownedBrainOfCthulhu: Después de derrotar al Cerebro de Cthulhu
+	DownedQueenBee: Después de derrotar a la Abeja Reina
+	DownedSkeletron: Después de derrotar a Esqueletrón
+	DownedDeerclops: Después de derrotar al Ciervíclope
+	DownedQueenSlime: Después de derrotar a la Reina Slime
+	DownedEarlygameBoss: Después de derrotar al Ojo de Cthulhu, Devoramundos, Cerebro de Cthulhu, Abeja Reina, Esqueletrón o Muro carnoso
+	DownedMechBossAny: Después de derrotar a cualquier jefe mecánico
+	DownedTwins: Después de derrotar a Los Gemelos
+	DownedDestroyer: Después de derrotar al Destructor
+	DownedSkeletronPrime: Después de derrotar a Esqueletrón Mayor
+	DownedMechBossAll: Después de derrotar a todos los jefes mecánicos
+	DownedPlantera: Después de derrotar a Plantera
+	DownedEmpressOfLight: Después de derrotar a la Emperatriz de la Luz
+	DownedDukeFishron: Después de derrotar al Duque Fishron
+	DownedGolem: Después de derrotar al Golem
+	DownedMourningWood: Después de derrotar a la Madera Lúgubre
+	DownedPumpking: Después de derrotar al Rey Calabaza
+	DownedEverscream: Después de derrotar a Gritoeterno
+	DownedSantaNK1: Después de derrotar a Papá-NK1
+	DownedIceQueen: Después de derrotar a la Reina de Hielo
+	DownedLunaticCultist: Después de derrotar al Sectario Lunático
+	DownedMoonLord: Después de derrotar al Señor de la Luna
+	DownedClown: Después de derrotar a un payaso
+	DownedGoblinArmy: Después de derrotar al Ejército Duende
+	DownedPirates: Después de derrotar a los piratas
+	DownedMartians: Después de derrotar a los marcianos
+	DownedFrostLegion: Después de derrotar a la Legión de Escarcha
+	DownedSolarPillar: Después de derrotar a la Columna Solar
+	DownedVortexPillar: Después de derrotar a la Columna de Vórtice
+	DownedNebulaPillar: Después de derrotar a la Columna de Nebulosa
+	DownedStardustPillar: Después de derrotar a la Columna de Polvo Estelar
+	DownedOldOnesArmyAny: Después de derrotar a cualquier grado del Ejército del Antiguo
+	DownedOldOnesArmyT1: Después de derrotar al grado 1 del Ejército del Antiguo
+	DownedOldOnesArmyT2: Después de derrotar al grado 2 del Ejército del Antiguo
+	DownedOldOnesArmyT3: Después de derrotar al grado 3 del Ejército del Antiguo
+	NotDownedKingSlime: Antes de derrotar al Rey Slime
+	NotDownedEyeOfCthulhu: Antes de derrotar al Ojo de Cthulhu
+	NotDownedBoss2: Antes de derrotar al Devoramundos o al Cerebro de Cthulhu
+	NotDownedEaterOfWorlds: Antes de derrotar al Devoramundos
+	NotDownedBrainOfCthulhu: Antes de derrotar al Cerebro de Cthulhu
+	NotDownedQueenBee: Antes de derrotar a la Abeja Reina
+	NotDownedSkeletron: Antes de derrotar a Esqueletrón
+	NotDownedDeerclops: Antes de derrotar al Ciervíclope
+	NotDownedQueenSlime: Antes de derrotar a la Reina Slime
+	NotDownedMechBossAny: Antes de derrotar a cualquier jefe mecánico
+	NotDownedTwins: Antes de derrotar a Los Gemelos
+	NotDownedDestroyer: Antes de derrotar al Destructor
+	NotDownedSkeletronPrime: Antes de derrotar a Esqueletrón Mayor
+	NotDownedPlantera: Antes de derrotar a Plantera
+	NotDownedEmpressOfLight: Antes de derrotar a la Emperatriz de la Luz
+	NotDownedDukeFishron: Antes de derrotar al Duque Fishron
+	NotDownedGolem: Antes de derrotar al Golem
+	NotDownedMourningWood: Antes de derrotar a la Madera Lúgubre
+	NotDownedPumpking: Antes de derrotar al Rey Calabaza
+	NotDownedEverscream: Antes de derrotar a Gritoeterno
+	NotDownedSantaNK1: Antes de derrotar a Papá Noel-NK1
+	NotDownedIceQueen: Antes de derrotar a la Reina de Hielo
+	NotDownedLunaticCultist: Antes de derrotar al Sectario Lunático
+	NotDownedMoonLord: Antes de derrotar al Señor de la Luna
+	NotDownedClown: Antes de derrotar a un payaso
+	NotDownedGoblinArmy: Antes de derrotar al Ejército Duende
+	NotDownedPirates: Antes de derrotar a los piratas
+	NotDownedMartians: Antes de derrotar a los marcianos
+	NotDownedFrostLegion: Antes de derrotar a la Legión de Escarcha
+	NotDownedSolarPillar: Antes de derrotar a la Columna Solar
+	NotDownedVortexPillar: Antes de derrotar a la Columna de Vórtice
+	NotDownedNebulaPillar: Antes de derrotar a la Columna de Nebulosa
+	NotDownedStardustPillar: Antes de derrotar a la Columna de Polvo Estelar
+	NotDownedOldOnesArmyAny: Antes de derrotar a cualquier grado del Ejército del Antiguo
+	NotDownedOldOnesArmyT1: Antes de derrotar al grado 1 del Ejército del Antiguo
+	NotDownedOldOnesArmyT2: Antes de derrotar al grado 2 del Ejército del Antiguo
+	NotDownedOldOnesArmyT3: Antes de derrotar al grado 3 del Ejército del Antiguo
+	PlayerCarriesItem: Cuando el jugador tiene {0} en su inventario
+	PlayerCarriesItem2: Cuando el jugador tiene {0} o {1} en su inventario
+	PlayerCarriesItem5: Cuando el jugador tiene {0}, {1}, {2}, {3} o {4} en su inventario
+	NpcIsPresent: Cuando {0} está presente
+	IsNpcShimmered: Cuando el vendedor es una variante de fulgor
+	NotIsNpcShimmered: Cuando el vendedor no es una variante de fulgor
+	IsNpcHomeless: Cuando el vendedor no tiene casa
+	NotIsNpcHomeless: Cuando el vendedor tiene casa
+	BiomeSpreadingItems: No en un mundo Remix, o en un mundo Celebration Mk 10 y no en un mundo For the Worthy
+	BiomeSpreadingItemsWithInfectedSeed: No en un mundo Remix, en un mundo Purify this, o en un mundo Celebration Mk 10 y no en un mundo For the Worthy
+	JungleORCelebrationMk10ANDNotTheBeesANDNotRemix: En un bioma de selva, o en un mundo Celebration Mk 10 y Not The Bees, y no en un mundo Remix
+	DownedKingSlimeOrEoC: Después de derrotar al Rey Slime o al Ojo de Cthulhu
+	NpcIsPresentOrDownedPlantera: Cuando {0} está presente o después de derrotar a Plantera
+	AtleastXHealth: Cuando el jugador tiene al menos {0} de vida máxima
+	AtleastXMana: Cuando el jugador tiene al menos {0} de maná máximo
+	PlatinumCoin: Cuando el jugador tiene al menos 1 moneda de platino en su inventario
+	GolfScoreOver: Cuando el jugador tiene una puntuación de golf de {0} o más
+	BestiaryPercentage: Cuando el Bestiario se ha completado al menos en un {0}%
+	BestiaryFull: Cuando el Bestiario se ha completado por completo
+	BestiaryWinx: Cuando el Bestiario contiene las entradas de las tres hadas
+	InMultiplayer: En multijugador
+	Periodically: Periódicamente
+	OnTeam: Cuando el jugador está en un equipo en multijugador
+	StyleMoon: Durante la noche y el día siguiente de las fases lunares gibosa menguante, cuarto menguante, luna menguante y luna creciente
+	DownedB2B3HM: Después de derrotar al Devoramundos, Cerebro de Cthulhu, Esqueletrón o Muro carnoso
+	DaytimeNotFullMoon: De día, durante cualquier fase lunar excepto luna llena
+	NightDayFullMoon: De noche, o todo el día durante una luna llena
+	NoAteLoaf: Cuando el jugador no ha consumido una hogaza artesanal antes
+	BloodOrSun: Durante una Luna de Sangre o un Eclipse solar
+	NotBloodOrSun: No durante una Luna de Sangre ni un Eclipse solar
+	HardmodeFTW: En el modo difícil cuando estás en un mundo For the Worthy, de lo contrario, en cualquier momento
+	NightOrEclipse: De noche o durante un Eclipse solar
+	BloodMoonOrHardmode: Durante una Luna de Sangre, o en cualquier momento en el modo difícil
+	WorldGenSilver: En un mundo con mineral de plata
+	WorldGenTungsten: En un mundo con mineral de tungsteno
+	NightAfterEvilOrHardmode: Durante la noche después de derrotar al Devoramundos o al Cerebro de Cthulhu, o en cualquier momento en el modo difícil
+	AnglerQuestsFinishedOver: Cuando el jugador ha completado {0} misiones del pescador o más
+	CurrentPriceAdjustmentUnder: Cuando el modificador de precio del vendedor es {0} o menos
+	CurrentPriceAdjustmentOver: Cuando el modificador de precio del vendedor es {0} o más
+	AnotherTownNPCNearby: Cuando el vendedor tiene a otro PNJ de ciudad cerca
+	ForestPylon: En la superficie y no en el bioma de otro pilón
+	UndergroundPylon: Bajo la superficie y no en el bioma de otro pilón
+	MoonPhasesHalf0OrPreHardmode: En cualquier momento antes del modo difícil, o durante la luna llena, gibosa menguante, cuarto menguante o luna menguante
+	FullMoon: Durante luna llena
+	WaningGibbousMoon: Durante luna gibosa menguante
+	ThirdQuarterMoon: Durante cuarto menguante
+	WaningCrescentMoon: Durante luna menguante
+	NewMoon: Durante luna nueva
+	WaxingCrescentMoon: Durante luna creciente
+	FirstQuarterMoon: Durante cuarto creciente
+	WaxingGibbousMoon: Durante luna gibosa creciente
+	MoonPhasesQuarter0: Durante luna llena o gibosa menguante
+	MoonPhasesQuarter1: Durante cuarto menguante o luna menguante
+	MoonPhasesQuarter2: Durante luna nueva o luna creciente
+	MoonPhasesQuarter3: Durante cuarto creciente o gibosa creciente
+	MoonPhasesHalf0: Durante luna llena, gibosa menguante, cuarto menguante o luna menguante
+	MoonPhasesHalf1: Durante luna nueva, luna creciente, cuarto creciente o gibosa creciente
+	MoonPhasesEven: Durante luna llena, cuarto menguante, luna nueva o cuarto creciente
+	MoonPhasesOdd: Durante cualquier fase gibosa, luna menguante o luna creciente
+	MoonPhasesNearFull: Durante luna gibosa creciente, gibosa menguante o luna llena
+	MoonPhasesNearNew: Durante cuarto menguante, luna menguante o luna nueva
+	MoonPhasesEvenQuarters: Durante luna llena, gibosa menguante, luna nueva o luna creciente
+	MoonPhasesOddQuarters: Durante cuarto menguante, luna menguante, cuarto creciente o gibosa creciente
+	MoonPhases04: Durante luna llena o luna nueva
+	MoonPhases15: Durante luna gibosa menguante o luna creciente
+	MoonPhases26: Durante cuarto menguante o cuarto creciente
+	MoonPhases37: Durante luna menguante o gibosa creciente
+	MoonPhases12: Durante luna gibosa menguante o cuarto menguante
+	MoonPhases35: Durante luna menguante o luna creciente
+	MoonPhases67: Durante cuarto creciente o gibosa creciente
+}

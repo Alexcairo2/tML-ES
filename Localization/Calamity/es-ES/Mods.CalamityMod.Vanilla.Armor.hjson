@@ -1,0 +1,127 @@
+SetBonus: {
+	Adamantite: {
+		$parentVal:
+			'''
+			Se añade a tu probabilidad de ataque crítico un {0}% de tu reducción de daño actual
+			Infligir daño continuamente te hace ganar cada vez más defensa de forma gradual, hasta un máximo de {1}
+			Al no infligir daño, esta bonificación decae gradualmente a lo largo de {2} segundos
+			Esta defensa añadida puede ser rota por el daño a la defensa
+			'''
+		Melee: Aumenta un 15% la velocidad cuerpo a cuerpo y en un 20% la velocidad de movimiento
+	}
+
+	Cobalt: {
+		$parentVal:
+			'''
+			Aumenta en un {0}% la velocidad máxima y aceleración
+			Obtienes un aumento de daño y probabilidad de ataque crítico en relación a tu velocidad de movimiento actual, hasta un {0}%
+			'''
+		Melee: Aumenta un 10% el daño cuerpo a cuerpo
+	}
+
+	Copper: Aumenta todo el daño en {0}
+	Crimson:
+		'''
+		Aumenta enormemente la regeneración de vida natural
+		La regeneración de vida aumenta aún más cuanto más tiempo evites recibir daño
+		Quedarse quieto también amplifica enormemente la regeneración de vida
+		'''
+	Eskimo:
+		'''
+		Aumenta un 50% el daño de los efectos negativos de Frío
+		Otorga inmunidad a los efectos negativos congelación, congelado y quemadura por frío
+		'''
+	Rain:
+		'''
+		Aumenta en un 24% la velocidad de salto y permite el salto automático
+		Al saltar se crea una salpicadura de charco que daña y empuja a los enemigos
+		Esta salpicadura es más fuerte si está lloviendo
+		'''
+	Forbidden:
+		'''
+		{$LegacyTooltip.48} {0} para invocar una tormenta antigua en la ubicación del cursor
+		Los súbditos ya no infligen menos daño mientras empuñas armas mágicas
+		'''
+	Frost:
+		'''
+		Los ataques cuerpo a cuerpo y a distancia infligen congelación por escarcha
+		Aumenta un {0}% el daño, el cual escala en función de la distancia a la que se encuentre el objetivo
+		A menor distancia otorga daño cuerpo a cuerpo, mientras que a mayor distancia otorga daño a distancia
+		'''
+	Gladiator:
+		'''
+		+60 de sigilo máximo
+		Aumenta un 5% el daño de pícaro y en un 10% la velocidad de los proyectiles
+		'''
+	Gold:
+		'''
+		Todos los enemigos tienen un {0}% de probabilidad de soltar 1 moneda de oro adicional
+		Todos los jefes sueltan {1} monedas de oro adicionales
+		Obtienes un {2}% de probabilidad de ataque crítico por cada moneda de oro en tu inventario, hasta un máximo de {3}%
+		'''
+	Iron: Multiplica todo el retroceso infligido por el jugador por {0}
+	Jungle: Reduce el coste de maná un 10%
+	Lead: Otorga inmunidad al retroceso
+	Meteor: Todas las pistolas mágicas cuestan un 33% de maná
+	Mining: Extraer minerales a veces tendrá un rendimiento adicional
+	Molten:
+		'''
+		Aumenta un 7% el daño cuerpo a cuerpo, no puedes prenderte fuego
+		Aumenta un 10% el daño cuerpo a cuerpo verdadero
+		Otorga inmunidad a los bloques de fuego e inmunidad temporal a la lava
+		'''
+	MonkTier2: "{$Common.RogueStealth}"
+	MonkTier3: "{$Common.RogueStealth}"
+	Mythril:
+		'''
+		Al golpear enemigos se liberan bengalas de mitrilo, que persiguen a los enemigos tras un breve retraso
+		Una vez que se crea una bengala, hay un retraso de {0} fotogramas antes de que pueda aparecer otra
+		'''
+	Nebula:
+		'''
+		Los potenciadores de daño rosas otorgan un 7.5% de daño por acumulación
+		Los potenciadores de vida naranjas otorgan +2 PV/s de regeneración de vida por acumulación
+		Los potenciadores de maná azules otorgan +5 PM/s de regeneración de maná por acumulación
+		'''
+	Necro:
+		'''
+		Permite sobrevivir temporalmente al daño letal
+		Otorga hasta {0} segundos de vida antes de la muerte inminente
+		'''
+	Obsidian:
+		'''
+		{$ArmorSetBonus.ObsidianOutlaw}
+		Otorga inmunidad a los bloques de fuego e inmunidad temporal a la lava
+		'''
+	Palladium:
+		'''
+		Otorga +2 PV/s de regeneración de vida tras golpear a un enemigo
+		Esta regeneración de vida ignora la regeneración de vida negativa
+		'''
+	Platinum: Aumenta la reducción de daño un {0}%
+	Silver:
+		'''
+		{0} segundos después de recibir un golpe de {1} de daño o más, te curas {2}
+		Recibir daño de nuevo reinicia el temporizador, retrasando la curación
+		'''
+	Tin: Aumenta un {0}% la probabilidad de ataque crítico
+	Tungsten: Los ganchos tiran y se retraen un {0}% más rápido
+	MagicHat: Aumenta el maná máximo en 40
+	Vortex:
+		'''
+		{$LegacyTooltip.48} {0} para alternar el sigilo,
+		aumentando tu capacidad a distancia y reduciendo la probabilidad de que los enemigos te ataquen, pero reduciendo la velocidad de movimiento
+		'''
+	Wizard: Aumenta un 4% la probabilidad de ataque crítico mágico
+	CrystalAssassin:
+		'''
+		Otorga la habilidad de dar un impulso
+		Aumenta un 10% el daño y la probabilidad de ataque crítico
+		+90 de sigilo máximo
+		'''
+	SpectreHealing:
+		'''
+		Reduce un 20% el daño mágico y lo convierte en fuerza curativa
+		El daño mágico infligido a los enemigos cura al jugador con menos vida
+		'''
+}

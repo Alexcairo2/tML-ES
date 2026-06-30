@@ -1,0 +1,82 @@
+// Damageable
+MarniteRepulsionHitbox.DisplayName: Matriz de Repulsión de Marnite
+// Draedon's Arsenal
+AerialTrackerLaser.DisplayName: Láser
+AerialTrackerProjectile.DisplayName: Rastreador Aéreo
+AnomalysNanogunHoldout.DisplayName: Nanoarma de la Anomalía
+AnomalysNanogunMPFBBoom.DisplayName: Explosión MPFB
+AnomalysNanogunMPFBDevastator.DisplayName: Devastador MPFB
+AnomalysNanogunPlasmaBeam.DisplayName: Rayo de Plasma
+AqueousHunterDroneSummon.DisplayName: Camarón de Plasma
+AugerHoldout.DisplayName: Barrena P-GSS
+AugerSlash.DisplayName: Tajo de Barrena
+AugerPull.DisplayName: Tirón de Barrena
+CountermeasurePalmBlast.DisplayName: Explosión de Palma
+GaussEnergy.DisplayName: Energía Gauss
+GaussFlux.DisplayName: Flujo Gauss
+ImmolationArrow.DisplayName: Flecha de Inmolación
+ImmolationBurst.DisplayName: Ráfaga de Inmolación
+ImmolationSpray.DisplayName: Rocío de Inmolación
+MassivePlasmaExplosion.DisplayName: Explosión de Plasma
+MountedScannerLaser.DisplayName: Rayo de la Muerte
+MountedScannerSummon.DisplayName: Escáner Montado
+NidhoggRailgunBigShot.DisplayName: Cañón de Riel Nidhogg
+NidhoggRailgunBlast.DisplayName: Rayo Nidhogg
+NidhoggExplosion.DisplayName: Implosión Magnética
+PhalanxSurgeLance.DisplayName: Lanza Láser
+PhalanxSurgeLaser.DisplayName: Láser Falange
+PhaseslayerBeam.DisplayName: Hoja de Luz
+PlasmaCasterShot.DisplayName: Proyectil de Plasma
+PlasmaGrenadeProjectile.DisplayName: Granada de Plasma
+PlasmaGrenadeSmallExplosion.DisplayName: Explosión de Plasma
+PoleWarperSummon.DisplayName: Deformador de Polos
+PulseDragonProjectile.DisplayName: Dragón de Pulso
+PulseGrenadeProjectile.DisplayName: Granada de Pulso
+PulseGrenadeOrb.DisplayName: Orbe de Pulso
+PulsePistolShot.DisplayName: Proyectil de Pulso
+PulseRifleShot.DisplayName: Proyectil de Pulso
+PulseTurret.DisplayName: Torreta de Pulso
+PulseTurretShot.DisplayName: Proyectil de Pulso
+ShortCircuitHook.DisplayName: Gancho de Cortocircuito
+ShrimpPlasmaMissile.DisplayName: Misil de Camarón de Plasma
+SnakeEyesSummon.DisplayName: Ojos de Serpiente
+SnakeEyesProjectile.DisplayName: Proyectil Ineludible
+SystemBaneLightning.DisplayName: Relámpago
+SystemBaneProjectile.DisplayName: Perdición del Sistema
+TeslaCannonShot.DisplayName: Rayo Tesla
+VoltageStream.DisplayName: Chorro de Voltaje
+VulcanProjectile.DisplayName: Disparo Vulcano
+VulcanSpear.DisplayName: Arpón Vulcano
+WavePounderBoom.DisplayName: Explosión
+WavePounderProjectile.DisplayName: Machacaolas
+// Environmental
+AcidDrop.DisplayName: Ácido
+BarrelCactusProjectile.DisplayName: Cactus Barril
+BrimstoneGeyser.DisplayName: Humo
+GeyserTelegraph.DisplayName: Géiser
+HotSteam.DisplayName: Vapor
+LavaChunk.DisplayName: Trozo de Lava
+Lilyglow.DisplayName: Lirio Resplandeciente
+MurkySteam.DisplayName: Vapor
+SmokeTelegraph.DisplayName: Humo
+ThermalSteam.DisplayName: Vapor
+WaterAlgae.DisplayName: Algas Acuáticas
+// Turrets
+DraedonLaser.DisplayName: Láser de Draedon
+DraedonLaserBuffer.DisplayName: Láser de Draedon
+FireShot.DisplayName: Disparo de Fuego
+FireShotBuffer.DisplayName: Disparo de Fuego
+IceExplosion.DisplayName: Gas de Hielo
+IceShot.DisplayName: Disparo de Hielo
+IceShotBuffer.DisplayName: Disparo de Hielo
+LaserShot.DisplayName: Disparo Láser
+LaserShotBuffer.DisplayName: Disparo Láser
+OnyxShot.DisplayName: Disparo de Ónice
+OnyxShotBuffer.DisplayName: Disparo de Ónice
+PlagueExplosionGas.DisplayName: Gas de la Plaga
+PlagueShot.DisplayName: Disparo de la Plaga
+PlagueShotBuffer.DisplayName: Disparo de la Plaga
+WaterShot.DisplayName: Disparo de Agua
+WaterShotBuffer.DisplayName: Disparo de Agua
+// Animation
+GreedTransmutation.DisplayName: Transmutación de Codicia

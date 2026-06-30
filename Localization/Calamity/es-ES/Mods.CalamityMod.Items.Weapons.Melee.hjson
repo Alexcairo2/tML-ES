@@ -1,0 +1,1583 @@
+AbsoluteZero: {
+	DisplayName: Cero Absoluto
+	Tooltip:
+		'''
+		Dispara cristales de hielo oscuro
+		La hoja crea explosiones de escarcha en golpes directos
+		Hoja ancestral imbuida con la magia del Archimago del Hielo
+		'''
+}
+
+AbyssBlade: {
+	DisplayName: Espada del Abismo
+	Tooltip:
+		'''
+		Lanza una espada abisal giratoria que atraviesa enemigos y libera energía acuática al golpear un bloque
+		La espada se lanzará hacia los enemigos tras un rebote, infligiendo 2x de daño
+		'''
+}
+
+AcidwoodSword: {
+	DisplayName: Espada de Madera Ácida
+	Tooltip: ""
+}
+
+AegisBlade: {
+	DisplayName: Hoja Égida
+	Tooltip:
+		'''
+		Golpear a un enemigo con la hoja provoca una erupción terrenal
+		Pulsa <right> para disparar un rayo égida
+		'''
+}
+
+AirSpinner: {
+	DisplayName: Volteador de Aire
+	Tooltip:
+		'''
+		{$Common.YoyoStats}
+		Dispara plumas cuando hay enemigos cerca
+		'''
+}
+
+AmidiasTrident: {
+	DisplayName: Tridente de Amidias
+	Tooltip: Dispara remolinos teledirigidos
+}
+
+AnarchyBlade: {
+	DisplayName: Hoja de la Anarquía
+	Tooltip:
+		'''
+		Cuanta menos vida tengas, más daño inflige esta hoja
+		Tus golpes generarán una gran explosión
+		Con menos del 50% de vida, tus golpes tienen probabilidad de matar instantáneamente a enemigos normales
+		'''
+}
+
+Aorta: {
+	DisplayName: Aorta
+	Tooltip:
+		'''
+		{$Common.YoyoStats}
+		Dispara sangre teledirigida cuando hay enemigos cerca
+		'''
+}
+
+ArkoftheCosmos: {
+	DisplayName: Arca del Cosmos
+	Tooltip:
+		'''
+		[COMBO]
+		[PARRY]
+		[BLAST]
+		La culminación física de tu viaje, capaz de desgarrar a los dioses
+		'''
+	ComboInfo:
+		'''
+		<left> para realizar un combo de 5 golpes que termina lanzando la hoja
+		La hoja lanzada seguirá tu cursor
+		Soltarla mientras la hoja está fuera causará un chasquido explosivo
+		'''
+	ParryInfo:
+		'''
+		<right> para desplegar las hojas de tijera frente a ti
+		Golpear a un enemigo con ellas realizará un parry, otorgándote invulnerabilidad breve
+		También puedes hacer parry a proyectiles para que inflijan 120 menos de daño durante un breve período
+		El parry potenciará los próximos 16 golpes de la espada
+		'''
+	BlastInfo: Pulsa <right> dos veces con cargas disponibles para provocar una Gran Ruptura en el espacio-tiempo y consumir todas las cargas
+}
+
+ArkoftheElements: {
+	DisplayName: Arca de los Elementos
+	Tooltip:
+		'''
+		[COMBO]
+		[PARRY]
+		Un par celestial de hojas imbuidas con la esencia de Terraria, suficientemente poderosas para cortar el tejido de la realidad
+		'''
+	ComboInfo:
+		'''
+		<left> para realizar un combo de 5 golpes que termina lanzando la hoja
+		Soltarla mientras la hoja está fuera infligirá daño adicional
+		'''
+	ParryInfo:
+		'''
+		<right> para desplegar las hojas de tijera frente a ti
+		Golpear a un enemigo con ellas realizará un parry, otorgándote invulnerabilidad breve
+		Puedes hacer parry a proyectiles para que inflijan 60 menos de daño durante un breve período
+		El parry potenciará los próximos 10 golpes de la espada, permitiéndote usar ambas hojas a la vez
+		'''
+}
+
+AstralPike: {
+	DisplayName: Lanza Astral
+	Tooltip: Invoca enjambres de estrellas astrales al golpear que extienden la [cbuff:CalamityMod/AstralInfectionDebuff]
+}
+
+AstralScythe: {
+	DisplayName: Guadaña Astral
+	Tooltip: Dispara un anillo de guadañas que se acelera con el tiempo y extiende la [cbuff:CalamityMod/AstralInfectionDebuff]
+}
+
+Ataraxia: {
+	DisplayName: Ataraxia
+	Tooltip: Ecuanimidad
+}
+
+Avalanche: {
+	DisplayName: Avalancha
+	Tooltip:
+		'''
+		Golpear enemigos genera bombas de hielo en órbita
+		Tras 2 segundos, las bombas de hielo explotan en fragmentos de hielo afectados por la gravedad
+		'''
+}
+
+BalefulHarvester: {
+	DisplayName: Segadora Funesta
+	Tooltip:
+		'''
+		Una guadaña en llamas que se balancea rápidamente tres veces seguidas
+		Los golpes a enemigos invocan calaveras en llamas que se dividen en orbes de fuego teledirigidos
+		'''
+}
+
+BallOFugu: {
+	DisplayName: Bola de Fugu
+	Tooltip:
+		'''
+		Lanza un pez globo abisal agitándose
+		Acumula púas venenosas mientras gira
+		Las púas salen despedidas del pez al retraerse
+		'''
+}
+
+BansheeHook: {
+	DisplayName: Garfio de Banshee
+	Tooltip: Balancea un garfio de banshee que dispara hojas y explota al golpear
+}
+
+Basher: {
+	DisplayName: Aporreador
+	Tooltip: Balancea un garrote podrido mientras te empuja hacia atrás en el proceso
+}
+
+BladecrestOathsword: {
+	DisplayName: Espada Jurada de la Cresta Filosa
+	Tooltip:
+		'''
+		Lanza una hoja afilada que empalma y ralentiza a los enemigos
+		Hasta tres hojas pueden empalmar a un enemigo a la vez
+		Los golpes consecutivos más allá de los primeros tres lanzarán las hojas previamente empaladas
+		'''
+	HoldShiftTooltip:
+		'''
+		[c/df0049:Una hoja ritual usada por Demonios para sacrificios.]
+		[c/df0049:Cuanta más sangre mancha el filo, más afilado se vuelve.]
+		'''
+}
+
+BlightedCleaver: {
+	DisplayName: Cuchilla Marchita
+	Tooltip: Dispara hojas ardientes teledirigidas
+}
+
+Bonebreaker: {
+	DisplayName: Rompehuesos
+	Tooltip:
+		'''
+		Dispara jabalinas que se clavan en los enemigos antes de estallar en metralla
+		Las jabalinas clavadas infligen varios efectos negativos
+		'''
+}
+
+BotanicPiercer: {
+	DisplayName: Perforadora Botánica
+	Tooltip: Dispara un rayo de energía botánica
+}
+
+Brimlance: {
+	DisplayName: Lanzazufre
+	Tooltip: Crea una explosión de [cbuff:CalamityMod/BrimstoneFlames] al golpear enemigos
+}
+
+Brimlash: {
+	DisplayName: Latigazo de Azufre
+	Tooltip: Dispara un rayo de azufre que explota en más rayos al golpear
+}
+
+BrimstoneSword: {
+	DisplayName: Espada de Azufre
+	Tooltip:
+		'''
+		Invoca géiseres de [cbuff:CalamityMod/BrimstoneFlames] al golpear
+		Pulsa <right> para lanzar la espada como una jabalina que explota al golpear
+		'''
+}
+
+BrinyBaron: {
+	DisplayName: Barón Salino
+	Tooltip:
+		'''
+		Golpear a un enemigo con la hoja provoca la aparición de un tifón salino
+		Pulsa <right> para disparar una hoja acuática de viento cortante
+		'''
+}
+
+BrokenBiomeBlade: {
+	DisplayName: Espada de los Biomas Rota
+	// See the attunement file for each attunement
+	Tooltip:
+		'''
+		[FUNC]
+		Mantén <right> mientras estás inmóvil sobre terreno plano para sintonizar el arma con los poderes del bioma circundante
+		Pulsar <right> en cualquier otro momento alterna entre la sintonía actual y una sintonía almacenada adicional
+		Sintonía Principal : [ATT1]
+		Sintonía Secundaria : [ATT2]
+		'''
+	DefaultFunction: No hace nada... todavía
+}
+
+BurningRevelation: {
+	DisplayName: Revelación Ardiente
+	Tooltip:
+		'''
+		{$Common.YoyoStatsInfinite}
+		Un yoyó siempre en llamas que acumula poder constantemente
+		Los golpes directos aumentan enormemente la carga y liberan energía profanada que escala con el nivel de carga
+		Con la carga máxima, el yoyó desata una ráfaga de estrellas teledirigidas que ganan daño cuanto más viajan
+		Las estrellas con daño máximo liberan una explosión adicional al golpear
+		'Quema, pero lo acercas a tu corazón. Claridad y propósito llenan tu alma'
+		'''
+}
+
+BurntSienna: {
+	DisplayName: Siena Quemado
+	Tooltip: Hace que los enemigos exploten en proyectiles curativos al morir
+}
+
+Carnage: {
+	DisplayName: Carnicería
+	Tooltip: Los enemigos explotan en sangre teledirigida al morir
+}
+
+CelestialClaymore: {
+	DisplayName: Mandoble Celestial
+	Tooltip: Genera estrellas de energía cósmica cerca del cursor
+}
+
+ClamCrusher: {
+	DisplayName: Trituradora de Almejas
+	Tooltip:
+		'''
+		Lanza una almeja enorme que inflige [cbuff:CalamityMod/Eutrophication], aturdiendo a los enemigos durante un breve período
+		Comienza a verse afectada por la gravedad y causa mucho más daño después de estar en el aire un momento
+		'''
+}
+
+CometQuasher: {
+	DisplayName: Destructor de Cometas
+	Tooltip: Invoca un enjambre de meteoros desde el cielo al golpear enemigos
+}
+
+CosmicDischarge: {
+	DisplayName: Descarga Cósmica
+	Tooltip:
+		'''
+		Golpear a un enemigo con el látigo provoca explosiones glaciales que otorgan al jugador la mejora [cbuffplr:CalamityMod/CosmicFreeze]
+		[cbuffplr:CalamityMod/CosmicFreeze] otorga al jugador +2 PV/s de regeneración de vida al estar quieto y congela a los enemigos cercanos
+		'''
+}
+
+CosmicShiv: {
+	DisplayName: Chuzón Cósmico
+	Tooltip:
+		'''
+		Dispara una estrella cósmica que se dirige hacia los enemigos
+		Al golpear a un enemigo, una ráfaga de hojas atacará persistentemente
+		Impactar con más estrellas hace que ataquen más hojas
+		'''
+}
+
+CrescentMoon: {
+	DisplayName: Luna Creciente
+	Tooltip:
+		'''
+		Lanza un mayal lunar que libera lunas teledirigidas en el punto más alto de su trayectoria
+		Mantener <left> hace girar el mayal a tu alrededor, generando Destellos Estelares
+		Con 20 Destellos Estelares, mantén <left> de nuevo tras lanzar el mayal para hacerlo explotar
+		En lugar de liberar lunas, esta explosión invoca a Escorpius para infligir un daño inmenso y aplicar [cbuff:CalamityMod/Voidfrost]
+		'Locura nacida del genio'
+		'''
+}
+
+DarklightGreatsword: {
+	DisplayName: Mandoble de Luz Oscura
+	Tooltip: Dispara hojas de luz oscura que atraviesan enemigos, creando tajos adicionales
+}
+
+DeathsAscension: {
+	DisplayName: Ascensión de la Muerte
+	Tooltip:
+		'''
+		Realiza poderosos balanceos imbuidos de almas que crean una grieta orbitada por guadañas al golpear enemigos
+		Pulsa <right> para lanzar una ráfaga de guadañas teledirigidas
+		La grieta también disparará guadañas
+		'Se siente perfecta en tu mano...
+		[c/660066:Pero las manos que la empuñan no son las tuyas']
+		'''
+}
+
+DefiledGreatsword: {
+	DisplayName: Mandoble Corrupto
+	Tooltip: Dispara hojas ardientes, hiper y de luz solar
+}
+
+DepthCrusher: {
+	DisplayName: Aplastador de las Profundidades
+	Tooltip:
+		'''
+		Lanza un pesado aplastador abisal que libera energía acuática al golpear un bloque
+		El aplastador rebotará en bloques y enemigos
+		'''
+}
+
+DevilsDevastation: {
+	DisplayName: Devastación del Diablo
+	Tooltip:
+		'''
+		Lanza una hoja demoníaca que empalma, incinera y ralentiza a los enemigos
+		Hasta cinco hojas pueden empalmar a un enemigo a la vez; los golpes adicionales lanzan las hojas previamente empaladas
+		Pulsa <right> para adoptar una postura desde la que puedes usar <left> para realizar un tajo colosal y devastador
+		En esa postura, recuperas vida y tiempo de vuelo, y tus impulsos tienen menor tiempo de recarga
+		El tajo devastador debe recargarse tras su uso
+		Golpear a un enemigo empalado con el tajo devastador lanza todas las hojas y prepara otro tajo
+		Al último enemigo golpeado con un tajo devastador se le aplica una marca de muerte
+		Al salir de la postura, la marca de muerte explota causando un daño masivo
+		'''
+	HoldShiftTooltip:
+		'''
+		[c/d13ca2:La hoja perfecta del Inframundo, que ejerce directamente el poder del Azufre.]
+		[c/d13ca2:Los humanos comprenden esta fuerza como Estragos, la inevitable destrucción de todo orden en el fuego.]
+		[c/d13ca2:Quizás por eso el Elemental de Azufre tenía una fuerza sin igual entre sus hermanas.]
+		'''
+}
+
+DevilsSunrise: {
+	DisplayName: Amanecer del Diablo
+	Tooltip:
+		'''
+		Desata una tanda de cortes diabólicos
+		La energía infernal se carga en las hojas con el tiempo, proceso que se acelera golpeando enemigos
+		Pulsa <right> mientras balanceas las hojas con energía completa para lanzar las hojas giratorias hacia tu cursor
+		Las hojas giratorias se clavan en el primer enemigo que encuentran y lo cortan repetidamente, robándole la vida
+		'¿Pelotas? Bolitas.'
+		'''
+}
+
+DraconicDestruction: {
+	DisplayName: Destrucción Dracónica
+	Tooltip:
+		'''
+		Dispara un destello de espada dracónico que explota en rayos adicionales
+		Los rayos adicionales vuelan arriba y abajo para destrozar enemigos
+		'''
+}
+
+DragonPow: {
+	DisplayName: Golpe del Dragón
+	Tooltip:
+		'''
+		Dispara una cabeza de dragón que libera chispas de [cbuff:CalamityMod/Dragonfire]
+		Invoca una ráfaga de pétalos y cascadas al golpear enemigos
+		'''
+}
+
+DragonRage: {
+	DisplayName: Rabia del Dragón
+	Tooltip:
+		'''
+		Gira un bastón que provoca explosiones de [cbuff:CalamityMod/Dragonfire] al golpear enemigos
+		Una vez cada dos segundos, los golpes invocan un anillo de bolas de fuego que apuntan al enemigo con más vida
+		'''
+}
+
+DriftwoodSword: {
+	DisplayName: Espada de Madera a la Deriva
+	Tooltip: Esta espada es más poderosa cuando estás mojado
+}
+
+Earth: {
+	DisplayName: Tierra
+	Tooltip:
+		'''
+		Una hermosa hoja prismática de incomparable habilidad en combate cercano
+		Te cura enormemente al golpear
+		Cada dos balanceos invoca tres meteoros Gaia para aniquilar a los enemigos cercanos
+		'Toda su descendencia conocerá la belleza y la ira de su creador'
+		'''
+}
+
+EarthenPike: {
+	DisplayName: Lanza Terrenal
+	Tooltip: Expulsa fragmentos fósiles al balancearse
+}
+
+EmpyreanKnives: {
+	DisplayName: Cuchillos Empíreos
+	Tooltip: Lanza una ráfaga de cuchillos teledirigidos que rebotan en los bloques y curan al usuario
+}
+
+EntropicClaymore: {
+	DisplayName: Mandoble Entrópico
+	Tooltip:
+		'''
+		Dispara una ráfaga de plasma vivo que nada por el aire
+		El plasma seguirá tu cursor o los enemigos cercanos, priorizando el más cercano
+		El plasma atraviesa, pero dejará de rastrear tras golpear al primer enemigo
+		'''
+}
+
+EssenceFlayer: {
+	DisplayName: Desuelladora de Esencias
+	Tooltip: Dispara una guadaña de esencia que genera espíritus curativos al matar enemigos
+}
+
+EvilSmasher: {
+	DisplayName: Aplastamalvados
+	Tooltip:
+		'''
+		Canaliza un poderoso golpe de martillo capaz de aplastar todo el mal
+		Golpear un bloque con el martillo provocará una explosión y te empujará hacia atrás
+		Golpear enemigos inflige [cbuff:CalamityMod/SmashedEvil] tanto al usuario como al objetivo
+		Cargar los golpes aumenta el daño, el radio de explosión y la duración de [cbuffplr:CalamityMod/SmashedEvil]
+		'¡MaL! ¡ApLaStaR MaL! ¡ApLaStA... DoR!'
+		'''
+	//All damage and kill dialogue has the capitalization randomized when said
+	DamageDialogue0: ¡aplastar!
+	DamageDialogue1: ¡malo!
+	DamageDialogue2: ¡machacar!
+	DamageDialogue3: ¡des.. truir!
+	KillDialogue0: ¡aplastar malo!
+	KillDialogue1: ¡aplasta.. dor!
+}
+
+ExaltedOathblade: {
+	DisplayName: Espada Jurada Exaltada
+	Tooltip:
+		'''
+		Lanza una hoja retorcida que empalma, incinera y ralentiza a los enemigos
+		Hasta cuatro hojas pueden empalmar a un enemigo a la vez; los golpes adicionales lanzan las hojas previamente empaladas
+		Pulsa <right> para adoptar una postura desde la que puedes usar <left> para realizar un tajo devastador
+		En esa postura, recuperas vida y tiempo de vuelo, y tus impulsos tienen menor tiempo de recarga
+		El tajo devastador debe recargarse tras su uso
+		Golpear a un enemigo empalado con el tajo devastador lanza todas las hojas y prepara otro tajo
+		'''
+	HoldShiftTooltip:
+		'''
+		[c/b63cd1:Una espada forjada con la leyenda del Último Señor Demonio.]
+		[c/b63cd1:Coronado por su poder abrumador, su espada se bañó en la sangre de los Demonios y en los fuegos del infierno.]
+		[c/b63cd1:Incluso mucho después de su muerte, nadie se ha atrevido a tomar el trono.]
+		[c/b63cd1:Desde entonces, los Demonios no han conocido la unidad.]
+		'''
+}
+
+Exoblade: {
+	DisplayName: Exoespada
+	Tooltip:
+		'''
+		Pulsa <left> para liberar múltiples rayos de energía que se dirigen hacia los enemigos y los cortan al golpear
+		Pulsa <right> para realizar un impulso en la dirección del cursor con la hoja
+		Los golpes a enemigos con la hoja durante el impulso causan un daño masivo y un rebote
+		Pulsa <left> inmediatamente después de un rebote para realizar un tajo poderoso
+		Los tajos poderosos son más grandes, te curan y crean una gran explosión
+		Los enemigos golpeados son destrozados por [cbuff:CalamityMod/MiracleBlight]
+		'''
+}
+
+FallenPaladinsHammer: {
+	DisplayName: Martillo del Paladín Caído
+	Tooltip:
+		'''
+		Lanza un pesado martillo afectado por la gravedad que explota y vuelve a ti tras golpear a un enemigo
+		Tras volver tres veces, se invoca un martillo espectral teledirigido con un impacto devastador
+		'''
+}
+
+FaultLine: {
+	DisplayName: Línea de Falla
+	Tooltip:
+		'''
+		{$Common.YoyoStatsInfinite}
+		Explota al golpear enemigos
+		'''
+}
+
+FeralthornClaymore: {
+	DisplayName: Mandoble de Zarza Salvaje
+	Tooltip: Hace brotar espinas de los enemigos al golpear
+}
+
+FlarefrostBlade: {
+	DisplayName: Hoja de Llamahielo
+	Tooltip: Dispara un orbe de llamahielo teledirigido
+}
+
+Floodtide: {
+	DisplayName: Marejada
+	Tooltip: ¡Lanza tiburones, porque los tiburones son increíbles!
+}
+
+ForbiddenOathblade: {
+	DisplayName: Espada Jurada Prohibida
+	Tooltip:
+		'''
+		Lanza una hoja afilada que empalma, quema y ralentiza a los enemigos
+		Hasta tres hojas pueden empalmar a un enemigo a la vez; los golpes adicionales lanzan las hojas previamente empaladas
+		Pulsa <right> para adoptar una postura desde la que puedes usar <left> para realizar un tajo poderoso
+		El tajo poderoso debe recargarse tras su uso
+		Golpear a un enemigo empalado con el tajo poderoso lanza todas las hojas y prepara otro tajo
+		'''
+	HoldShiftTooltip:
+		'''
+		[c/b63cd1:Una hoja forjada a semejanza de la otorgada al Señor Demonio.]
+		[c/b63cd1:El título era codiciado por todos los Demonios. Solo puede existir uno a la vez.]
+		[c/b63cd1:Todo aspirante que busca el trono tiene un objetivo simple: la cabeza del antiguo Señor.]
+		'''
+}
+
+ForsakenSaber: {
+	DisplayName: Sable Abandonado
+	Tooltip: Dispara dos hojas de arena que modifican su velocidad al viajar
+}
+
+FourSeasonsGalaxia: {
+	DisplayName: Galaxia
+	// See the attunement file for each attunement
+	Tooltip:
+		'''
+		[FUNC]
+		Liberada de las ataduras terrenales y repleta de poder cósmico
+		Tiene acceso a todas las sintonías en todo momento
+		Pulsa <right> para cambiar la sintonía de la espada según la posición del cursor
+		Sintonía Activa : [ATT]
+		'''
+}
+
+FracturedArk: {
+	DisplayName: Arca Fracturada
+	Tooltip:
+		'''
+		[PARRY]
+		Una hoja desgastada y oxidada que una vez se empuñó contra el mal de este mundo, lista para ser útil una vez más
+		'''
+	ParryInfo:
+		'''
+		<right> para extender el Arca frente a ti
+		Golpear a un enemigo con ella realizará un parry, otorgándote una breve ventana de invulnerabilidad
+		El parry potencia los próximos 10 golpes de la espada, aumentando el daño y permitiéndoles lanzar proyectiles
+		'''
+}
+
+GaelsGreatsword: {
+	DisplayName: Mandoble de Gael
+	Tooltip:
+		'''
+		El primer balanceo dispara calaveras teledirigidas
+		El segundo balanceo dispara una calavera gigante y poderosa
+		El tercer balanceo no tiene proyectiles
+		Genera rabia constantemente mientras se usa
+		Los balanceos dejan rastros de sangre explosivos con menos del 50% de vida
+		Ocasionalmente invoca una ráfaga de rayos con menos del 50% de vida
+		Sustituye el Modo Rabia por una enorme ráfaga de calaveras
+		Este ataque tiene un tiempo de recarga de 30 segundos
+		'Entrégalo. Esa cosa. Tu alma oscura'
+		'''
+}
+
+GalactusBlade: {
+	DisplayName: Hoja de Galactus
+	Tooltip:
+		'''
+		Lanza una ráfaga de cometas desde el cielo
+		Forjada con la furia del caos nuclear
+		'''
+}
+
+GalaxySmasher: {
+	DisplayName: Aplastador de Galaxias
+	Tooltip:
+		'''
+		Lanza un pesado martillo afectado por la gravedad que vuelve a ti tras golpear a un enemigo
+		Los golpes consecutivos invocan cada vez más fragmentos cósmicos
+		Tras golpear ocho veces, el martillo se supercarga con energías galácticas,
+		asestando un golpe apocalíptico que reverbera a través del espacio y el tiempo
+		'''
+}
+
+GalileoGladius: {
+	DisplayName: Gladio de Galileo
+	Tooltip:
+		'''
+		Apuñala rápidamente frente al jugador, generando Destellos Estelares al golpear
+		<right> para lanzar el gladio en una cadena de constelación, empalando a los enemigos e infligiendo [cbuff:CalamityMod/Voidfrost]
+		Cuando la hoja esté empalada, usa <left> o <right> para liberarla
+		<left> la libera y causa un gran daño, consumiendo 10 Destellos Estelares
+		<right> te acerca hacia la hoja, permitiéndote saltar desde el enemigo
+		Saltar desde un enemigo consume 20 Destellos Estelares y otorga invencibilidad
+		'Fígaro, magnífico'
+		'''
+}
+
+GeliticBlade: {
+	DisplayName: Hoja Gelítica
+	Tooltip: Dispara una onda de gel rápida que se acelera al golpear enemigos y los cubre con [cbuff:Slimed]
+}
+
+GildedProboscis: {
+	DisplayName: Probóscide Dorada
+	Tooltip:
+		'''
+		Roba vida proporcional al daño infligido a los enemigos
+		<left> para cargar un empuje preciso
+		El empuje comienza débil, pero se vuelve más poderoso cuanto más tiempo se mantiene
+		<right> para realizar un impulso hacia adelante con un poderoso golpe ascendente
+		La distancia del impulso depende de si te estás moviendo a favor o en contra del impulso
+		Siempre asesta golpes críticos, y la probabilidad de golpe crítico aumenta el daño de los críticos
+		'''
+}
+
+GoldplumeSpear: {
+	DisplayName: Lanza de Pluma Dorada
+	Tooltip: Dispara plumas que caen
+}
+
+GrandDad: {
+	DisplayName: Abuelo
+	Tooltip: "[GFB]"
+	TooltipNormal:
+		'''
+		Una hoja de peso incomprensible que destroza enemigos con su pura masa
+		Otorga curación con el tiempo a ti y a todos los aliados cercanos al golpear
+		Golpear a enemigos con poca vida los lanzará con una fuerza increíble
+		Los enemigos lanzados mueren al instante al impactar con paredes y suelos
+		[c/00B8DF:'¿Cómo estás blandiendo algo que tiene la mitad de la masa de una estrella?']
+		'''
+	TooltipGFB:
+		'''
+		Una hoja de alta calidad que destroza enemigos
+		Golpear a enemigos con poca vida los mandará volando con una fuerza increíble, gg >:]
+		Los enemigos mandados volando se convertirán en MERMELADA cuando se ESTAMPEN contra paredes y suelos
+		[c/00B8DF:'Lee la descripción del arma, por favor.']
+		'''
+}
+
+GrandGuardian: {
+	DisplayName: Gran Guardián
+	Tooltip:
+		'''
+		Una ornamentada hoja alada que corta enemigos con facilidad
+		Crea explosiones cósmicas y te cura ligeramente al golpear
+		'''
+}
+
+GreatswordofJudgement: {
+	DisplayName: Mandoble del Juicio
+	Tooltip:
+		'''
+		Dispara una onda de energía penetrante que libera estrellas teledirigidas al volar
+		Los golpes con la hoja invocan dos estrellas más poderosas desde detrás de ti
+		'''
+}
+
+Greentide: {
+	DisplayName: Marea Verde
+	Tooltip:
+		'''
+		Lanza una dispersión de cuatro dientes con un diente penetrante más poderoso en el centro
+		Golpear con la hoja crea dos mandíbulas de dientes que muerden al enemigo más cercano a tu cursor
+		'''
+}
+
+HellfireFlamberge: {
+	DisplayName: Flamberga del Fuego Infernal
+	Tooltip: Dispara una dispersión de bolas de fuego volcánicas
+}
+
+HellionFlowerSpear: {
+	DisplayName: Lanza Floral de Hellion
+	Tooltip:
+		'''
+		Dispara una punta de lanza floral
+		Invoca pétalos desde el cielo en golpes críticos
+		'''
+}
+
+Hellkite: {
+	DisplayName: Hellkite
+	Tooltip: "[GFB]"
+	TooltipNormal:
+		'''
+		Una hoja ancestral creada durante la Era Dracónica por el mejor maestro herrero de Azafure
+		Balancea una hoja lenta y pesada con un poderoso retroceso
+		Mantener <right> comenzará a cargar un balanceo reforzado
+		Soltar <right> con la carga completa desatará un tajo devastador que siempre golpea de forma crítica
+		[c/E1B65F:'Siente la fuerza de una hoja forjada con pasión']
+		'''
+	TooltipGFB:
+		'''
+		Una hoja ancestral creada durante la Era Dracónica por el mejor maestro herrero de Azafure
+		Balancea una hoja lenta y pesada con un poderoso retroceso
+		Mantener <right> comenzará a cargar un balanceo reforzado
+		Soltar <right> con la carga completa desatará un tajo devastador que siempre golpea de forma crítica
+		[c/0C507F:'Mi amada <3' -Xyk]
+		'''
+}
+
+HolyCollider: {
+	DisplayName: Colisionador Sagrado
+	Tooltip:
+		'''
+		Balancea un mandoble sagrado que puede cargarse para mayor daño
+		Los balanceos cargados crean cuatro bengalas persistentes que flotan alrededor del punto de impacto
+		Golpear una bengala con un golpe sin cargar la empujará y extenderá su duración
+		Los balanceos cargados pueden potenciar las bengalas, convirtiéndolas en enormes bolas de fuego al golpear y lanzándolas hacia tu cursor
+		'''
+}
+
+IllustriousKnives: {
+	DisplayName: Cuchillos Ilustres
+	Tooltip: Lanza una ráfaga de cuchillos teledirigidos de movimiento rápido que curan al usuario
+}
+
+InsidiousImpaler: {
+	DisplayName: Empalador Insidioso
+	Tooltip:
+		'''
+		Lanza arpones radiactivos autopropulsados que persiguen a los enemigos
+		Los arpones rebotan en corto alcance para golpes adicionales
+		'''
+}
+
+Lacerator: {
+	DisplayName: Laceradora
+	Tooltip:
+		'''
+		{$Common.YoyoStatsInfinite}
+		Golpear enemigos invoca una sierra sangrienta para destrozarlos
+		La sierra causa más daño cuanto más frecuentemente golpea el yoyó, y desaparece cuando no golpea enemigos
+		Los enemigos que tocan el filo de la sierra tienen orbes de sangre arrancados de ellos
+		Recoger estos orbes de sangre reduce la duración de [cbuffplr:PotionSickness]
+		La dirección del giro de la sierra depende de la dirección en que lanzaste originalmente el yoyó[GFB]
+		'''
+	GFBFlavor: "[c/ff0a0a:Puede ser un arma viable contra el DoG...]"
+}
+
+LifehuntScythe: {
+	DisplayName: Guadaña Cazavidas
+	Tooltip: Te cura al golpear y dispara una guadaña de energía
+}
+
+Lightspeed: {
+	DisplayName: Velocidad de la Luz
+	Tooltip:
+		'''
+		[c/c7f5ff:Desata una ráfaga de estocadas que acumula Maestría Elemental al golpear]
+		[c/c2fff2:La Maestría Elemental se pierde con el tiempo si no se ha ganado durante unos segundos]
+		[c/ffdfba:Pulsa <right> con la Maestría Elemental máxima para realizar un impulso hacia tu cursor]
+		[c/ffc7c7:Golpear a un enemigo durante el impulso devuelve algo de Maestría Elemental]
+		'''
+}
+
+LionHeart: {
+	DisplayName: Corazón de León
+	Tooltip:
+		'''
+		Invoca una explosión de energía al golpear
+		Pulsa <right> para invocar un escudo de energía durante unos segundos que reduce a la mitad todas las fuentes de daño
+		Tiene un tiempo de recarga de 45 segundos
+		'''
+}
+
+Lucrecia: {
+	DisplayName: Lucrecia
+	Tooltip:
+		'''
+		[c/9370db:Dispara un fragmento de luz oscura espiral al balancearse]
+		[c/837ce4:Los golpes con la propia hoja acumulan Energía de Luz Oscura]
+		[c/7489ee:La Energía de Luz Oscura se pierde con el tiempo si no se ha ganado durante unos segundos]
+		[c/6495f7:Pulsa <right> con la energía máxima para disparar un cometa de doble hélice]
+		'''
+}
+
+MajesticGuard: {
+	DisplayName: Guardia Majestuosa
+	Tooltip:
+		'''
+		Una hoja intrincada, suficientemente pesada como para aplastar lo que no pueda cortar
+		Empuja fuertemente a los enemigos hacia atrás y te cura ligeramente al golpear
+		'''
+}
+
+MantisClaws: {
+	DisplayName: Garras de Mantis
+	Tooltip:
+		'''
+		Balancea rápidamente una garra de mantis que acuchilla a los enemigos en corto alcance
+		Pulsa <right> para formar una burbuja a presión frente a ti
+		Una vez formada, la burbuja estalla al instante, disparando a los enemigos con un chorro de agua
+		'Así de simple'
+		'''
+}
+
+MawOfInfinity: {
+	DisplayName: Fauces del Infinito
+	Tooltip:
+		'''
+		Balancea una hoja forjada con las fauces del Devorador en un combo de 3 golpes
+		El primer golpe solo impacta en corto alcance
+		El segundo golpe también lanza [ceffect/dog:Incinerador de Fe]
+		El tercer golpe desata [ceffect/dog:Devorador de Divinidad] en tu cursor, explotando para causar un daño masivo
+		'''
+}
+
+MirrorBlade: {
+	DisplayName: Hoja Espejo
+	Tooltip:
+		'''
+		Golpear a un enemigo o un proyectil enemigo invoca hasta 10 fragmentos de espejo en órbita
+		Los fragmentos que superen los 10 rastrearán enemigos en su lugar
+		Mantener <right> fusiona los fragmentos de espejo en órbita en un escudo
+		'''
+	HoldShiftTooltip:
+		'''
+		[c/aab7f1:Cada fragmento reduce un 10% el daño de un proyectil que golpee el escudo]
+		[c/aab7f1:El escudo se rompe tras un proyectil, lanzando los fragmentos a los enemigos con daño aumentado]
+		[c/aab7f1:Con los 10 fragmentos, obtienes un breve período de invulnerabilidad al romper el escudo]
+		'''
+	FlavorTooltip: "[c/7b6d8d:'Una hoja tomada de tu propio reflejo dentro del Vacío Incesante']"
+}
+
+MonolithSword: {
+	DisplayName: Espada Monolito
+	Tooltip: "{$Common.ArmorPenetration}"
+}
+
+MonstrousKnives: {
+	DisplayName: Cuchillos Monstruosos
+	Tooltip: Lanza una dispersión de cuchillos de corto alcance que curan al usuario
+}
+
+Mourningstar: {
+	DisplayName: Estrella del Luto
+	Tooltip: Lanza dos espadas látigo solares que explotan al golpear
+}
+
+Murasama: {
+	DisplayName: Murasama
+	Tooltip:
+		'''
+		Una hoja de alta frecuencia que puede cortar limpiamente incluso al enemigo más poderoso
+		Cada tercer golpe inflige un daño inmenso
+		Demuestra tu valía derrotando al Devorador de Dioses para desenfundar esta espada
+		[c/F41A31:'¡Habrá sangre!']
+		'''
+}
+
+MycelialClaws: {
+	DisplayName: Garras Miceliales
+	Tooltip: Otorga la mejora [cbuffplr:CalamityMod/Mushy] durante 6 segundos al golpear enemigos
+}
+
+Nadir: {
+	DisplayName: Nadir
+	Tooltip:
+		'''
+		Dispara esencias del vacío que desuellan a los enemigos cercanos con tentáculos
+		'El abismo te ha devuelto la mirada durante demasiado tiempo. Ahora habla, y no habla suavemente'
+		'''
+}
+
+Nebulash: {
+	DisplayName: Nebulash
+	Tooltip: Dispara una espada látigo que emite explosiones de partículas al golpear y extiende la [cbuff:CalamityMod/AstralInfectionDebuff]
+}
+
+NeptunesBounty: {
+	DisplayName: Botín de Neptuno
+	Tooltip:
+		'''
+		Lanza una espada abisal giratoria que rocía constantemente energía acuática
+		Una vez que la hoja comienza a caer, se redirigirá hacia los enemigos con mayor velocidad y 2x de daño
+		'''
+}
+
+Oblivion: {
+	DisplayName: Oblivion
+	Tooltip:
+		'''
+		{$Common.YoyoStatsInfinite}
+		Dispara dardos de azufre cuando hay enemigos cerca
+		'''
+}
+
+OldLordClaymore: {
+	DisplayName: Mandoble del Señor Antiguo
+	Tooltip: Una hoja lenta pero poderosa que prende fuego a los enemigos y tiene un notable retroceso
+	HoldShiftTooltip:
+		'''
+		[c/df4420:Un regalo para los Demonios más destacados, una réplica de la espada usada por el más grande de todos los Señores Demonios.]
+		[c/df4420:La prosperidad que trajo a los de su especie no tiene parangón, incluso ahora que ellos solos gobiernan el Inframundo.]
+		'''
+}
+
+OmegaBiomeBlade: {
+	DisplayName: Espada de los Biomas Verdadera
+	// See the attunement file for each attunement
+	Tooltip:
+		'''
+		[FUNC]
+		[PASS]
+		Mantén <right> durante 2 segundos para sintonizar el arma con los poderes del bioma circundante
+		Pulsar <right> durante un período más corto intercambia tus sintonías activa y pasiva
+		Sintonía Activa : [ATT1]
+		Sintonía Pasiva : [ATT2]
+		'''
+	DefaultFunction:
+		'''
+		No hace nada... todavía
+		Parece que mejorar la hoja amplió el alcance de las sintonías anteriores
+		'''
+	DefaultPassive: Tu sintonía secundaria ahora puede proporcionar bonificaciones pasivas
+}
+
+Omniblade: {
+	DisplayName: Omniblade
+	Tooltip: Una hoja ancestral forjada por el legendario Omnir
+}
+
+Orderbringer: {
+	DisplayName: Portador del Orden
+	Tooltip:
+		'''
+		Dispara ondas de energía penetrantes e invoca cuatro estrellas teledirigidas cerca de tu cursor
+		Los golpes con la hoja invocan dos rayos desde el cielo
+		'Sin importar dónde estés, nunca estás solo'
+		'''
+}
+
+Ozzathoth: {
+	DisplayName: Ozzathoth
+	Tooltip:
+		'''
+		{$Common.YoyoStatsInfinite}
+		Dispara orbes cósmicos que bombardean a los enemigos cercanos con láseres
+		'Destruye el universo en un abrir y cerrar de ojos'
+		'''
+}
+
+Pandemic: {
+	DisplayName: Pandemia
+	Tooltip:
+		'''
+		{$Common.YoyoStats}
+		Cada enemigo único golpeado que esté infectado con [cbuff:CalamityMod/Plague] aumenta el tamaño, poder y tiempo en el aire del yoyó
+		Renueva la duración de [cbuff:CalamityMod/Plague] si el objetivo ya está infectado
+		Las contrapesas infligen [cbuff:CalamityMod/Plague] y se mueven el doble de rápido
+		'''
+}
+
+PerfectDark: {
+	DisplayName: Oscuridad Perfecta
+	Tooltip: Dispara una bola vil que se adhiere a los bloques y explota
+}
+
+PhosphorescentGauntlet: {
+	DisplayName: Guantelete Fosforescente
+	Tooltip:
+		'''
+		Lanza puñetazos sulfurosos rápidos
+		Al usarlo, te lanzas en la dirección del ratón
+		Al colisionar, eres empujado hacia atrás
+		'''
+}
+
+PhotonRipper: {
+	DisplayName: Desgarrador de Fotones
+	Tooltip:
+		'''
+		Proyecta un flujo dirigido de dientes de luz sólida a ultra alta velocidad
+		Esta arma y sus proyectiles funcionan como una motosierra
+		Pulsa <right> para usar sin talar árboles
+		'''
+}
+
+PrismaticBreaker: {
+	DisplayName: Rompedor Prismático
+	Tooltip:
+		'''
+		Dispara varias ráfagas de estrellas mágicas mientras el arma se carga
+		Tras cargarse, se desata un enorme láser arcoíris para devastar a tus enemigos
+		Esta arma es potenciada tanto por el daño cuerpo a cuerpo como a distancia
+		Parece pertenecer a cierta chica mágica. Irradia una intensa energía cósmica
+		'''
+}
+
+Pwnagehammer: {
+	DisplayName: Pwnagehammer
+	Tooltip:
+		'''
+		Lanza un pesado martillo afectado por la gravedad que crea una potente explosión de energía sagrada al golpear
+		Tras golpear cuatro veces, se invoca un martillo espectral para atacar al enemigo
+		'''
+}
+
+Quagmire: {
+	DisplayName: Lodazal
+	Tooltip:
+		'''
+		{$Common.YoyoStatsInfinite}
+		Dispara nubes de esporas
+		'''
+}
+
+RedSun: {
+	DisplayName: Sol Rojo
+	Tooltip:
+		'''
+		Lanza una ráfaga de llamaradas solares desde el cielo
+		'Sobre el paraíso'
+		'''
+}
+
+RemsRevenge: {
+	DisplayName: Venganza de Rem
+	Tooltip:
+		'''
+		Invoca explosiones de sangre e inflige [cbuff:CalamityMod/WitherDebuff] al golpear
+		'Una mortal estrella de la mañana digna de su dueño demoníaco'
+		'''
+}
+
+Respiteblock: {
+	DisplayName: Respiteblock
+	Tooltip:
+		'''
+		Una reluciente motosierra blanca que escupe sangre verde y morada por todas partes
+		Golpear enemigos con la hoja te curará e infligirá un daño inmenso
+		[c/0e8401:'Está Bien Ser Peligroso']
+		'''
+}
+
+Riptide: {
+	DisplayName: Resaca
+	Tooltip:
+		'''
+		{$Common.YoyoStats}
+		Rocía una espiral de chorros acuáticos
+		'''
+}
+
+Roxcalibur: {
+	DisplayName: Roxcalibur
+	// The WOF tag generates a new line above when placed at the start of a line
+	Tooltip:
+		'''
+		[WOF]Mantén <left> para cargar un golpe
+		Suéltalo con el cursor por encima de ti para golpear normalmente, liberando fragmentos de roca
+		Suéltalo con el cursor por debajo de ti para zambullirte hacia abajo y rebotar en los enemigos
+		Zambullirte en bloques crea una onda de choque
+		No pudiste sacarlo de la roca, así que simplemente trajiste la roca contigo
+		'''
+	LockedInfo: La Pared de Carne infernal guarda la clave del poder de esta arma
+}
+
+SaharaSlicers: {
+	DisplayName: Cortadoras del Sahara
+	Tooltip:
+		'''
+		Un par de dagas duales de corto alcance
+		Golpear enemigos con las dagas te dará dos rayos por cada golpe, hasta un máximo de 10
+		Pulsar <right> te permitirá lanzar los rayos acumulados a los enemigos
+		'''
+}
+
+SausageMaker: {
+	DisplayName: Embutidora
+	Tooltip: Rocía sangre teledirigida al golpear
+}
+
+ScourgeoftheCosmos: {
+	DisplayName: Azote del Cosmos
+	Tooltip: Lanza un azote cósmico rebotante que emite pequeños azotes cósmicos teledirigidos al golpear enemigos y bloques
+}
+
+SeashineSword: {
+	DisplayName: Espada Brillo del Mar
+	Tooltip: Dispara un destello de espada acuática
+}
+
+SeekingScorcher: {
+	DisplayName: Abrasadora Rastreadora
+	Tooltip:
+		'''
+		Lanza un enorme hacha cristalina que rebota hacia tres objetivos adicionales tras golpear
+		Se cristaliza en su lugar si no se han agotado todos los rebotes
+		Las hachas cristalizadas pueden ser destrozadas por otra hacha
+		Hacerlo potencia el hacha según la cantidad destrozada, pero evita que se cristalice
+		'Que tus enemigos ardan en el infierno por los pecados que han cometido'
+		'''
+}
+
+Shimmerspark: {
+	DisplayName: Chispa Centelleante
+	Tooltip:
+		'''
+		{$Common.YoyoStatsInfinite}
+		Dispara estrellas cuando hay enemigos cerca
+		'''
+}
+
+SkytideDragoon: {
+	DisplayName: Dragún de la Marea Celeste
+	Tooltip:
+		'''
+		Llama un rayo para golpear y cargar la punta de la lanza
+		Pulsa <left> para descargar la electricidad como una dispersión de rayos que se estrecha al gastar la energía
+		Mantén <right> cuando la lanza captura el rayo para redirigirlo hacia el cursor
+		'''
+}
+
+SmokingComet: {
+	DisplayName: Cometa Humeante
+	Tooltip:
+		'''
+		{$Common.YoyoStats}
+		Llueve estrellas desde el cielo
+		'''
+}
+
+SolsticeClaymore: {
+	DisplayName: Mandoble del Solsticio
+	Tooltip:
+		'''
+		Cambia el color del proyectil según la época del año
+		Inflige [cbuff:CalamityMod/Daybroken] durante el día y [cbuff:CalamityMod/Nightwither] durante la noche
+		'''
+}
+
+SoulHarvester: {
+	DisplayName: Segadora de Almas
+	Tooltip:
+		'''
+		Dispara una guadaña de almas
+		Los enemigos explotan cuando tienen poca vida, extendiendo la plaga
+		'''
+}
+
+SpineOfThanatos: {
+	DisplayName: Espina de Thanatos
+	Tooltip:
+		'''
+		Libera 3 látigos metálicos rápidos hacia afuera
+		Una vez que los tres colisionan, un prisma de luz es disparado hacia afuera
+		Si hay un enemigo en la línea de visión de los látigos al colisionar, la luz disparará hacia él
+		'''
+}
+
+StarnightLance: {
+	DisplayName: Lanza de la Noche Estrellada
+	Tooltip: Dispara un rayo gélido de noche estrellada
+}
+
+StellarContempt: {
+	DisplayName: Desprecio Estelar
+	Tooltip:
+		'''
+		Lanza un pesado martillo afectado por la gravedad que vuelve a ti tras golpear a un enemigo
+		Los golpes consecutivos llaman cada vez más bengalas lunares desde el cielo
+		Tras golpear cinco veces, el martillo se supercarga con energía lunar para pulverizar tu objetivo
+		'''
+}
+
+StellarStriker: {
+	DisplayName: Percutor Estelar
+	Tooltip: Invoca un enjambre de bengalas lunares desde el cielo al golpear enemigos
+}
+
+StormRuler: {
+	DisplayName: Dominador de Tormentas
+	Tooltip:
+		'''
+		Dispara rayos que generan tornados donde impactan
+		Los tornados aspiran a los enemigos
+		'Solo una tormenta puede derribar un gran árbol'
+		'''
+}
+
+StormSaber: {
+	DisplayName: Sable de Tormenta
+	Tooltip:
+		'''
+		Dispara dos rayos de tormenta teledirigidos
+		Uno desde la hoja y uno desde el cielo
+		'''
+}
+
+StreamGouge: {
+	DisplayName: Gubia de Corriente
+	Tooltip:
+		'''
+		Invoca un portal por el que la lanza atraviesa
+		Poco después de atravesar el portal, aparecen portales cerca del ratón que liberan copias del filo de la lanza
+		Los enemigos golpeados por las copias crean laceraciones en el espacio, revelando un fondo cósmico
+		'''
+}
+
+StygianShield: {
+	DisplayName: Escudo Estigio
+	Tooltip:
+		'''
+		Mantén <left> para cargar un impulso omnidireccional que aplasta a los enemigos
+		<right> para lanzar un broquel que rebota hacia un enemigo cercano al colisionar
+		Otorga inmunidad al retroceso y {0} de defensa mientras se sostiene
+		Sin embargo, los impulsos se desactivan hasta que dejes de sostener esta arma durante {1} segundos
+		'''
+}
+
+SubmarineShocker: {
+	DisplayName: Electrocutador Submarino
+	Tooltip: Los enemigos liberan chispas eléctricas al ser golpeados
+}
+
+SulphurousGrabber: {
+	DisplayName: Agarrador Sulfuroso
+	Tooltip:
+		'''
+		{$Common.YoyoStatsInfinite}
+		Ocasionalmente libera un anillo de burbujas de colores
+		El yoyó se potencia tras tocar una burbuja verde
+		'''
+}
+
+Swordsplosion: {
+	DisplayName: Espadexplosión
+	Tooltip:
+		'''
+		Dispara múltiples espadas de rayo arcoíris que llueven desde el cielo
+		Enjambre de espadas
+		'''
+}
+
+TaintedBlade: {
+	DisplayName: Hoja Contaminada
+	Tooltip: Inflige [cbuff:Poisoned] al golpear enemigos
+}
+
+TeardropCleaver: {
+	DisplayName: Cuchilla Lacrimal
+	Tooltip: Hace llorar a tus enemigos
+}
+
+TenebreusTides: {
+	DisplayName: Mareas Tenebrosas
+	Tooltip:
+		'''
+		Dispara una lanza de agua que atraviesa enemigos y terreno
+		Golpear enemigos invoca hojas y lanzas líquidas para asaltar al enemigo golpeado
+		'Inundatio ex Laminis'
+		'''
+}
+
+Terratomere: {
+	DisplayName: Terratomere
+	Tooltip:
+		'''
+		Cura al jugador en golpes de cuerpo a cuerpo verdadero
+		Dispara varios rayos de energía penetrantes que rastrean objetivos rápidamente
+		Al golpear, explota y acuchilla repetidamente al objetivo
+		'Vinculado a la esencia de Terraria'
+		'''
+}
+
+TerrorBlade: {
+	DisplayName: Hoja del Terror
+	Tooltip:
+		'''
+		Dispara un rayo de terror que rebota en los bloques
+		En cada rebote emite una explosión
+		'''
+}
+
+TheBurningSky: {
+	DisplayName: El Cielo Ardiente
+	Tooltip:
+		'''
+		Llueve un flujo de [cbuff:CalamityMod/Dragonfire] en el cursor
+		'Eleva la hoja hacia el cielo y sé testigo del Armagedón'
+		'''
+}
+
+TheDarkMaster: {
+	DisplayName: El Maestro Oscuro
+	Tooltip:
+		'''
+		Dispara proyectiles de tajo eco rojos cuando tienes más del 75% de vida
+		El daño del proyectil aumenta por cada PV por encima de 400
+		Pulsa <right> para crear tres clones de sombra en formación Delta
+		Los clones imitarán tus balanceos de espada y liberarán proyectiles
+		Los proyectiles se disparan independientemente de tu PV, pero causan menos daño
+		Los clones solo pueden existir mientras sostienes esta arma
+		'La hoja con la que las sombras condenan a sus enemigos a un destino terrible'
+		'''
+}
+
+TheGodsGambit: {
+	DisplayName: La Apuesta de los Dioses
+	Tooltip:
+		'''
+		{$Common.YoyoStatsInfinite}
+		Dispara un flujo de slime dañino cuando hay enemigos cerca
+		'''
+}
+
+TheLastMourning: {
+	DisplayName: El Último Luto
+	Tooltip:
+		'''
+		Invoca calabazas en llamas y calaveras enlutadas
+		Las calabazas y calaveras se dividen en orbes de fuego teledirigidos al golpear enemigos
+		'''
+}
+
+TheMicrowave: {
+	DisplayName: El Microondas
+	Tooltip:
+		'''
+		{$Common.YoyoStatsInfinite}
+		Fríe a los enemigos cercanos con radiación y extiende la [cbuff:CalamityMod/AstralInfectionDebuff]
+		'Cocinando al estilo de la Infección Astral'
+		'''
+}
+
+TheMutilator: {
+	DisplayName: El Mutilador
+	Tooltip:
+		'''
+		Golpear enemigos potencia al Mutilador, aumentando su daño
+		Con la carga completa, golpear enemigos causa una explosión de orbe de sangre
+		Recoger estos orbes de sangre reduce la duración de [cbuffplr:PotionSickness]
+		'''
+}
+
+TheObliterator: {
+	DisplayName: El Obliterador
+	Tooltip:
+		'''
+		{$Common.YoyoStatsInfinite}
+		[GFB]
+		'''
+	TooltipNormal:
+		'''
+		Ocasionalmente realiza un [ceffect/dog:Impulso Dimensional] en miniatura a los enemigos cercanos
+		Los golpes de la contrapesa inician instantáneamente otro [ceffect/dog:Impulso Dimensional]
+		'''
+	TooltipGFB: solo un poquito de spam de partículas en esta arma, me temo
+}
+
+TheOracle: {
+	DisplayName: El Oráculo
+	Tooltip:
+		'''
+		{$Common.YoyoStatsInfinite}
+		Emite un aura de rayos áuricos que se carga al golpear enemigos
+		Dispara orbes áuricos al estar supercargado
+		'Contempla el pasado, el presente, el futuro... y las circunstancias de tu inevitable fin'
+		'''
+}
+
+TitanArm: {
+	DisplayName: Brazo del Titán
+	Tooltip:
+		'''
+		Envía a los enemigos directamente a las estrellas a la velocidad de la luz
+		La Mano que Da Bofetadas pero mejor
+		'''
+}
+
+TriactisTruePaladinianMageHammerofMight: {
+	DisplayName: Martillo Mago Paladino Verdadero de Triactis
+	Tooltip:
+		'''
+		Lanza un pesado martillo afectado por la gravedad que vuelve a ti tras golpear a un enemigo
+		Los golpes a enemigos liberan bengalas de luz prismática que orbitan alrededor del enemigo golpeado
+		En lugar de volver, el cuarto golpe transforma las bengalas en martillos de luz sólida
+		Estos martillos convergen y forman una explosión que colapsa el universo y siempre golpea de forma crítica
+		'''
+}
+
+TrueArkoftheAncients: {
+	DisplayName: Arca de los Antiguos
+	Tooltip:
+		'''
+		[PARRY]
+		Una hoja celestial forjada para vencer todo el mal
+		'''
+	ParryInfo:
+		'''
+		<right> para extender el Arca frente a ti
+		Golpear a un enemigo con ella realizará un parry, otorgándote invulnerabilidad breve
+		También puedes hacer parry a proyectiles para que inflijan 30 menos de daño durante un breve período
+		El parry potenciará los próximos 10 golpes de la espada, permitiéndole lanzar proyectiles más poderosos
+		'''
+}
+
+TrueBiomeBlade: {
+	DisplayName: Espada de los Biomas
+	// See the attunement file for each attunement
+	Tooltip:
+		'''
+		[FUNC]
+		Mantén <right> mientras estás inmóvil sobre terreno plano para sintonizar el arma con los poderes del bioma circundante
+		Pulsar <right> en cualquier otro momento alterna entre la sintonía actual y una sintonía almacenada adicional
+		Sintonía Principal : [ATT1]
+		Sintonía Secundaria : [ATT2]
+		'''
+	DefaultFunction:
+		'''
+		No hace nada... todavía
+		Reparar la hoja parece haber mejorado sus capacidades de sintonía
+		'''
+}
+
+TrueCausticEdge: {
+	DisplayName: Filo Cáustico
+	Tooltip:
+		'''
+		Dispara un rayo cáustico rebotante
+		Inflige [cbuff:Venom] y se ralentiza al golpear enemigos
+		'''
+}
+
+Tumbleweed: {
+	DisplayName: Planta Rodadora
+	Tooltip:
+		'''
+		Lanza un mayal de planta rodadora
+		Las plantas rodadoras giratorias crean una tormenta de polvo localizada
+		Las plantas rodadoras lanzadas se separan de su cadena al golpear a un enemigo y ruedan hacia adelante
+		'''
+}
+
+TyphonsGreed: {
+	DisplayName: Codicia de Tifón
+	Tooltip:
+		'''
+		Invoca espíritus del agua mientras se usa
+		Estos espíritus del agua se dirigen hacia los enemigos después de viajar hacia el jugador
+		'''
+}
+
+UltimusCleaver: {
+	DisplayName: Cuchilla Última
+	Tooltip: Lanza chispas dañinas teledirigidas y explota al golpear enemigos
+}
+
+UrchinMace: {
+	DisplayName: Maza de Erizo
+	Tooltip:
+		'''
+		Lanza un remolino al soltarla
+		[c/5C95A1:'El pueblo del mar era de cazadores expertos, pero aborrecía la violencia innecesaria.]
+		[c/5C95A1:Desafortunadamente, las naciones vecinas eran brutales, así que adaptaron sus herramientas para la guerra.']
+		'''
+}
+
+VanishingPoint: {
+	DisplayName: Punto de Fuga
+	Tooltip: "[GFB]"
+	TooltipNormal:
+		'''
+		Dispara un rayo de lanza que se divide múltiples veces al viajar
+		'¡Desgarra el cosmos!'
+		'''
+	TooltipGFB:
+		'''
+		Dispara un rayo de lanza que se divide, tipo, MUCHO. Mucho más de lo que debería.
+		'¡Desgarra el límite de proyectiles!'
+		'''
+}
+
+VeinBurster: {
+	DisplayName: Reventavenas
+	Tooltip: Dispara una bola de sangre que se adhiere a los bloques y explota
+}
+
+Violence: {
+	DisplayName: Violencia
+	Tooltip:
+		'''
+		Un tridente demoníaco, maldito para causar un derramamiento de sangre interminable
+		<left> ordena al tridente seguir tu cursor y destrozar enemigos con una velocidad devastadora
+		<right> lanza el tridente, atravesando violentamente a los enemigos con un poder inmenso e infligiendo [cbuff:CalamityMod/VulnerabilityHex]
+		'''
+}
+
+Virulence: {
+	DisplayName: Virulencia
+	Tooltip: Dispara una nube de [cbuff:CalamityMod/Plague]
+}
+
+VoidEdge: {
+	DisplayName: Filo del Vacío
+	Tooltip:
+		'''
+		Dispara las espeluznantes almas de seres abisales fallecidos hace mucho tiempo
+		Golpear con la hoja invoca almas adicionales desde abajo
+		'''
+}
+
+VulcaniteLance: {
+	DisplayName: Lanza de Vulcanita
+	Tooltip: Explota al golpear enemigos e invoca bengalas teledirigidas en golpes críticos
+}
+
+WindBlade: {
+	DisplayName: Hoja de Viento
+	Tooltip: Dispara ciclones que aspiran a los enemigos
+}
+
+WulfrumScrewdriver: {
+	DisplayName: Destornillador de Wulfrum
+	Tooltip:
+		'''
+		Se puede usar para fastidiar rápida y espectacularmente a los enemigos
+		Golpear a un enemigo a veces te da un tornillo de Wulfrum que puedes lanzar con <right>
+		Golpea un tornillo lanzado con el destornillador para dispararlo hacia adelante a alta velocidad
+		[c/83B87E:'¿Quién hace cabezas planas tan grandes?? ¡¿Para qué se supone que debo usarlo?!]
+		[c/83B87E:¡Esta cosa podría sacarle el ojo a alguien!']
+		[c/83B87E:'...Ah.']
+		'''
+}
+
+YateveoBloom: {
+	DisplayName: Flor del Yateveo
+	Tooltip:
+		'''
+		Una síntesis de la flora de la jungla
+		Lanza un poderoso mayal de rosa
+		Pulsa <right> para apuñalar con una lanza floral
+		'''
+}
+
+YinYo: {
+	DisplayName: Yin-Yo
+	Tooltip:
+		'''
+		{$Common.YoyoStatsInfinite}
+		Dispara fragmentos de luz u oscuridad cuando hay enemigos cerca
+		Los fragmentos vuelan de un lado a otro
+		'''
+}

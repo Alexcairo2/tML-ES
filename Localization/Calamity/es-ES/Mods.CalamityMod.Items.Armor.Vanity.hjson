@@ -1,0 +1,274 @@
+AcesApronOfAffection: {
+	DisplayName: Delantal de Afecto de Ace
+	Tooltip: "'¡Ideal para abrazar a la gente!'"
+}
+
+AnahitaMask: {
+	DisplayName: Máscara de Anahita
+	Tooltip: ""
+}
+
+AncientGodSlayerChestplate: {
+	DisplayName: Pechera del Asesino de Dioses Antiguo
+	Tooltip: ""
+}
+
+AncientGodSlayerHelm: {
+	DisplayName: Yelmo del Asesino de Dioses Antiguo
+	Tooltip: ""
+}
+
+AncientGodSlayerLeggings: {
+	DisplayName: Grebas del Asesino de Dioses Antiguo
+	Tooltip: ""
+}
+
+ApolloMask: {
+	DisplayName: Máscara de Apollo
+	Tooltip: ""
+}
+
+AquaticScourgeMask: {
+	DisplayName: Máscara del Azote Acuático
+	Tooltip: ""
+}
+
+AresMask: {
+	DisplayName: Máscara de Ares
+	Tooltip: ""
+}
+
+ArtemisMask: {
+	DisplayName: Máscara de Artemis
+	Tooltip: ""
+}
+
+AshenHorns: {
+	DisplayName: Cuernos de Ceniza
+	Tooltip: ""
+}
+
+AstrumAureusMask: {
+	DisplayName: Máscara de Astrum Aureus
+	Tooltip: ""
+}
+
+AstrumDeusMask: {
+	DisplayName: Máscara de Astrum Deus
+	Tooltip: ""
+}
+
+BrimstoneElementalMask: {
+	DisplayName: Máscara del Elemental de Azufre
+	Tooltip: ""
+}
+
+BumblefuckMask: {
+	DisplayName: Máscara de Dragonfolly
+	Tooltip: ""
+}
+
+CalamitasCloneMask: {
+	DisplayName: Máscara del Clon de Calamitas
+	Tooltip: ""
+}
+
+CeaselessVoidMask: {
+	DisplayName: Máscara del Vacío Incesante
+	Tooltip: ""
+}
+
+CrabulonMask: {
+	DisplayName: Máscara de Crabulon
+	Tooltip: ""
+}
+
+CryogenMask: {
+	DisplayName: Máscara de Cryogen
+	Tooltip: ""
+}
+
+DesertScourgeMask: {
+	DisplayName: Máscara del Azote Desértico
+	Tooltip: ""
+}
+
+DevourerofGodsMask: {
+	DisplayName: Máscara del Devorador de Dioses
+	Tooltip: ""
+}
+
+DraedonMask: {
+	DisplayName: Máscara de Draedon
+	Tooltip: ""
+}
+
+GodSlayerHornedHelm: {
+	DisplayName: Yelmo con Cuernos del Asesino de Dioses
+	Tooltip: ""
+}
+
+GodSlayerVisage: {
+	DisplayName: Semblante del Asesino de Dioses
+	Tooltip: ""
+}
+
+HiveMindMask: {
+	DisplayName: Máscara de la Mente Colmena
+	Tooltip: ""
+}
+
+HoodOfCalamity: {
+	DisplayName: Capucha de la Calamidad
+	Tooltip: ""
+}
+
+LeviathanMask: {
+	DisplayName: Máscara del Leviatán
+	Tooltip: ""
+}
+
+LucisBoots: {
+	DisplayName: Botas de Luci
+	Tooltip: "'Un pequeño paso a la vez, tú puedes.'"
+}
+
+LucisHairstyle: {
+	DisplayName: Peinado de Luci
+	Tooltip: "'Heroína de la Luz, Luci Skyshot.'"
+}
+
+LucisMilitaryUniform: {
+	DisplayName: Uniforme Militar de Luci
+	Tooltip: "'Con el icónico emblema de libertad del Ejército de Liberación.'"
+}
+
+OldDukeMask: {
+	DisplayName: Máscara del Viejo Duque
+	Tooltip: ""
+}
+
+OldHunterHat: {
+	DisplayName: Sombrero del Cazador Antiguo
+	Tooltip: "'Indumentaria inspirada en la apariencia de cazadores de una tierra lejana'"
+}
+
+OldHunterPants: {
+	DisplayName: Pantalones del Cazador Antiguo
+	Tooltip: "'Indumentaria inspirada en la apariencia de cazadores de una tierra lejana'"
+}
+
+OldHunterShirt: {
+	DisplayName: Camisa del Cazador Antiguo
+	Tooltip: "'Indumentaria inspirada en la apariencia de cazadores de una tierra lejana'"
+}
+
+PerforatorMask: {
+	DisplayName: Máscara del Perforador
+	Tooltip: ""
+}
+
+PlaguebringerGoliathMask: {
+	DisplayName: Máscara del Goliat Portador de la Plaga
+	Tooltip: ""
+}
+
+PolterghastMask: {
+	DisplayName: Máscara de Polterghast
+	Tooltip: ""
+}
+
+ProfanedGuardianMask: {
+	DisplayName: Máscara del Guardián Profanado
+	Tooltip: ""
+}
+
+ProvidenceMask: {
+	DisplayName: Máscara de Providencia
+	Tooltip: ""
+}
+
+RavagerMask: {
+	DisplayName: Máscara del Devastador
+	Tooltip: ""
+}
+
+RobesOfCalamity: {
+	DisplayName: Ropajes de la Calamidad
+	Tooltip: ""
+}
+
+SCalBoots: {
+	DisplayName: Botas Calamitosas
+	Tooltip: ""
+}
+
+SCalMask: {
+	DisplayName: Capucha Calamitosa
+	Tooltip: ""
+}
+
+SCalRobes: {
+	DisplayName: Túnicas Calamitosas
+	Tooltip: ""
+}
+
+SignusMask: {
+	DisplayName: Máscara de Signus
+	Tooltip: ""
+}
+
+SilvaHelm: {
+	DisplayName: Yelmo de Silva
+	Tooltip: ""
+}
+
+SilvaHornedHelm: {
+	DisplayName: Yelmo con Cuernos de Silva
+	Tooltip: ""
+}
+
+SilvaMask: {
+	DisplayName: Máscara de Silva
+	Tooltip: ""
+}
+
+SlimeGodMask: {
+	DisplayName: Máscara del Dios Slime
+	Tooltip: ""
+}
+
+SlimeGodMask2: {
+	DisplayName: Máscara del Dios Slime
+	Tooltip: ""
+}
+
+StormWeaverMask: {
+	DisplayName: Máscara del Tejedor de Tormentas
+	Tooltip: ""
+}
+
+ThanatosMask: {
+	DisplayName: Máscara de Thanatos
+	Tooltip: ""
+}
+
+TheCommandersCap: {
+	DisplayName: La Gorra del Comandante
+	Tooltip: Parte de La Elegancia de Gran Vuelo
+}
+
+TheFormalFootwear: {
+	DisplayName: El Calzado Formal
+	Tooltip: Parte de La Elegancia de Gran Vuelo
+}
+
+TheGrandGarment: {
+	DisplayName: El Gran Atuendo
+	Tooltip: Parte de La Elegancia de Gran Vuelo
+}
+
+YharonMask: {
+	DisplayName: Máscara de Yharon
+	Tooltip: ""
+}

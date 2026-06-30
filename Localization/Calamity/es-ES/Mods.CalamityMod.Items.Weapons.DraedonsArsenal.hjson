@@ -1,0 +1,278 @@
+AerialTracker: {
+	DisplayName: P-LSR: Rastreador Aéreo
+	Tooltip:
+		'''
+		Libera un disco volador que dispara láseres a los enemigos cercanos
+		Los láseres no dañan directamente a los enemigos, sino que aplican un efecto de quemadura láser acumulable
+		Una vez golpeado por suficientes láseres o tras pasar suficiente tiempo, la quemadura láser infligirá daño directo
+		El disco gana aceleración a medida que regresa al jugador
+		Los golpes furtivos lanzan dos discos que pueden disparar a múltiples objetivos diferentes desde un mayor alcance
+		'''
+}
+
+AqueousHunterDrone: {
+	DisplayName: P-PMA: Dron Cazador Acuoso
+	Tooltip:
+		'''
+		Invoca un dron camarón que dispara ráfagas de misiles de plasma teledirigidos
+		<right> mientras sostienes cualquier arma de invocación para ordenar al camarón que lance un bombardeo vertical de misiles
+		Los misiles verticales apuntan hacia tu cursor y dejan una explosión persistente si golpean suelo sólido
+		Cada camarón ocupa 4 espacios de súbdito
+		{$Common.ArmorPenetration}
+		[c/1FFBFF:'Al perseguir a los seguidores de los dioses, Yharim creía que no debía dejar piedra sin remover.]
+		[c/1FFBFF:El armamento para contingencias submarinas fue un enfoque inusualmente fuerte, pero ningún modelo llegó a ser desplegado.']
+		'''
+}
+
+Auger: {
+	DisplayName: P-GSS: Barrena
+	Tooltip:
+		'''
+		Un dispositivo montado en la muñeca que emite una hoja de energía magnética
+		<right> para crear un breve tirón magnético en tu cursor y amplificar tu siguiente tajo
+		[c/1FFBFF:'Inicialmente fabricado para serrar y separar trozos de materia prima para su transporte.]
+		[c/1FFBFF:Mantener ambas manos libres sin comprometer la potencia lo hacía excepcionalmente ergonómico.']
+		'''
+}
+
+CountermeasureMitt: {
+	DisplayName: B-LSR: Guantelete de Contramedidas
+	Tooltip:
+		'''
+		Un guante de soldadura de precisión con emisores láser en cada yema de los dedos
+		<right> para concentrar todos los emisores en una explosión de palma de corto alcance que siempre asesta un golpe crítico
+		Las explosiones de palma recuperan una gran cantidad de maná al golpear y tienen un enfriamiento que es significativamente más corto si fallan
+		[c/1FFBFF:'La mayoría de los batallones prefieren esparcir los ataques ampliamente, o concentrarse en un solo objetivo.]
+		[c/1FFBFF:Este guante atiende a ambos, aunque nunca cerrará la brecha entre sus estrategias.']
+		'''
+}
+
+GalvanizingGlaive: {
+	DisplayName: Guja Galvanizadora
+	Tooltip:
+		'''
+		Blande una lanza que envuelve a los enemigos golpeados en un campo de energía
+		Al terminar, la lanza libera un pulso extra de energía
+		[c/1FFBFF:'Una herramienta que rápida y limpiamente parte un objeto en dos.]
+		[c/1FFBFF:Su eficiencia y fiabilidad como arma es inconfundible.']
+		'''
+}
+
+HolofibreImmolator: {
+	DisplayName: R-PMA: Inmolador de Holofibra
+	Tooltip:
+		'''
+		Dispara tres gotas de plasma afectadas por la gravedad que se disuelven a través de los enemigos
+		Mantener <left> carga rápidamente el arco, disparando una flecha de plasma a alta velocidad
+		Las flechas de plasma detonarán tras el impacto, creando explosiones más fuertes si se clavan en bloques
+		Mantener <right> disparará repetidamente tiros sin cargar
+		[c/1FFBFF:'La elegancia de la holofibra es inigualable.]
+		[c/1FFBFF:Sin embargo, la tensión mecánica podría haber producido resultados más consistentes.']
+		'''
+}
+
+HydraulicVoltCrasher: {
+	DisplayName: Rompevoltios Hidráulico
+	Tooltip:
+		'''
+		Un martillo neumático cargado eléctricamente que electrocuta a todos los enemigos cercanos al golpear
+		Presiona <right> para usarlo sin derribar paredes
+		[c/1FFBFF:'Un dispositivo hecho para estampar eléctricamente placas de metal, fusionándolas al instante.]
+		[c/1FFBFF:Naturalmente, también puede funcionar como un arma devastadora.']
+		'''
+}
+
+MountedScanner: {
+	DisplayName: Escáner Montado
+	Tooltip: Invoca un poderoso módulo escáner sobre tu cabeza que dispara láseres a los enemigos cercanos
+}
+
+Nidhogg: {
+	DisplayName: B-GSS: Nidhogg
+	Tooltip:
+		'''
+		Un cañón de riel de energía impulsado por imanes que dispara rápidamente, creando implosiones magnéticas persistentes que atraen a los enemigos débiles al impactar
+		Solo puede existir una implosión a la vez
+		Presiona <right> para comenzar a cargar un devastador rayo de energía que siempre asesta golpes críticos y se disparará una vez esté listo
+		Este ataque cargado no puede ser interrumpido una vez iniciado y tiene un enfriamiento largo
+		[c/1FFBFF:'Muchos soldados subestiman las capacidades destructivas del magnetismo.]
+		[c/1FFBFF:Este cañón de riel ha atraído de manera fiable a los escépticos de su eficiencia aplastante.']
+		'''
+}
+
+PhalanxSurge: {
+	DisplayName: W-LSR: Oleada de Falange
+	Tooltip:
+		'''
+		Dispara una dispersión de láseres
+		Mantener <right> carga el arma, permitiendo que embista hacia adelante y empale a los enemigos con una lanza de energía
+		Mantener <left> al disparar el ataque cargado te lanzará hacia adelante a altas velocidades e infligirá daño extra
+		Usar el ataque cargado tiene un enfriamiento corto
+		[c/1FFBFF:'Hubo mucha demanda por parte de las fuerzas de Yharim de armamentos de corto alcance.]
+		[c/1FFBFF:Una lanza láser con la cual cornear a sus enemigos fue recibida con aplausos atronadores.']
+		'''
+}
+
+Phaseslayer: {
+	DisplayName: Aniquilafases
+	Tooltip:
+		'''
+		Proyecta una colosal hoja láser que es controlada por el cursor
+		Mueve el cursor para blandir la hoja y destrozar y desgarrar a los enemigos
+		Los tajos más rápidos infligen más daño y liberan destellos de espada adicionales
+		'''
+}
+
+PlasmaCaster: {
+	DisplayName: Lanzador de Plasma
+	Tooltip:
+		'''
+		Presiona <left> para disparar un gran proyectil de plasma explosivo
+		Presiona <right> para disparar en modo turbo, aumentando la cadencia de fuego pero dificultando la precisión
+		'''
+}
+
+PlasmaGrenade: {
+	DisplayName: Granada de Plasma
+	Tooltip:
+		'''
+		Lanza una granada que explota en plasma al colisionar
+		Los golpes furtivos explotan violentamente al colisionar en una explosión vaporizadora
+		[c/1FFBFF:'Cada granada contiene una unidad de plasma fuertemente condensada y calentada. Úsese con extrema precaución.']
+		'''
+}
+
+PoleWarper: {
+	DisplayName: Deformador de Polos
+	Tooltip:
+		'''
+		Invoca un par de imanes flotantes que se repelen entre sí y acosan implacablemente a los enemigos
+		Dispositivos magnéticos que desgarran a los enemigos al impulsarse desde sus contrapartes opuestas
+		'''
+}
+
+PulseDragon: {
+	DisplayName: Dragón de Pulso
+	Tooltip:
+		'''
+		Lanza dos cabezas de dragón mecánicas que emiten campos eléctricos dañinos
+		[c/1FFBFF:'Yharim pidió específicamente que esta arma se modelara a partir de los Dragones de antaño.]
+		[c/1FFBFF:Qué trillado.']
+		'''
+}
+
+PulseGrenade: {
+	DisplayName: R-PLS: Granada de Pulso
+	Tooltip:
+		'''
+		Una granada regenerativa que rastreará enemigos y estallará en 8 orbes de pulso
+		Los orbes de pulso regresarán a ti y reformarán la granada, golpeando cualquier cosa en su camino
+		Los golpes furtivos lanzan la granada a altas velocidades y estallan en el doble de orbes
+		'''
+}
+
+PulsePistol: {
+	DisplayName: P-PLS: Pistola de Pulso
+	Tooltip:
+		'''
+		Dispara un orbe de pulso que rastrea objetivos cercanos
+		Tras golpear a un enemigo, el orbe de pulso se dividirá en dos
+		La perforación de los orbes de pulso aumentará al matar enemigos
+		'''
+}
+
+PulseRifle: {
+	DisplayName: A-PLS: Rifle de Pulso
+	Tooltip:
+		'''
+		Dispara un rayo de pulso mejorado que se disipa en 4 orbes de pulso de alta frecuencia al impactar
+		Los orbes de pulso rastrean agresivamente a los objetivos cercanos y lo hacen más rápido cuanto más golpeen
+		La perforación de los orbes de pulso no disminuirá al matar enemigos o infligir poco daño
+		[c/1FFBFF:'Mi propia arma personal, usada para erradicar creaciones fallidas.]
+		[c/1FFBFF:He respaldado los esquemas en caso de la destrucción de la original.']
+		'''
+}
+
+PulseTurretRemote: {
+	DisplayName: Control Remoto de Torreta de Pulso
+	Tooltip:
+		'''
+		{$CommonItemTooltip.Sentry}
+		Invoca una torreta para disparar ráfagas de pulso explosivas a tus enemigos
+		Solo puede existir una torreta de pulso a la vez
+		'''
+}
+
+ShortCircuit: {
+	DisplayName: P-TSL: Cortocircuito
+	Tooltip:
+		'''
+		Presiona <left> para disparar rápidamente proyectiles aturdidores con un alto retroceso
+		Presiona <right> para disparar un gancho que se adhiere a los enemigos y los electrocuta rápidamente
+		Tras electrocutar lo suficiente a un enemigo, el gancho creará una explosión de choque antes de regresar a ti
+		Los ataques de gancho exitosos tienen un enfriamiento corto que se aplica a menos que el gancho mate a un enemigo
+		{$Common.ArmorPenetration}
+		'''
+}
+
+SnakeEyes: {
+	DisplayName: Ojos de Serpiente
+	Tooltip:
+		'''
+		Invoca un dron levitante que dispara proyectiles de energía perforantes y altamente calibrados
+		Si un proyectil impacta, el dron se teletransportará en su trayectoria y lo reflejará
+		Los proyectiles reflejados persiguen a los enemigos y explotan al impactar
+		[c/1FFBFF:'Equipado con sensores de alta gama, poco puede evadirlos. Aún menos son capaces de escapar de sus ojos siempre vigilantes.]
+		[c/1FFBFF:Un excelente puente entre mis experimentos con las máquinas alimentadas por almas basadas en la visión y mi último proyecto.']
+		'''
+}
+
+SystemBane: {
+	DisplayName: Perdición del Sistema
+	Tooltip:
+		'''
+		Arroja un dispositivo inestable que se adhiere al suelo y electrocuta a los enemigos cercanos con relámpagos
+		Los golpes furtivos hacen que el dispositivo emita un gran campo electromagnético dañino
+		'''
+}
+
+TeslaCannon: {
+	DisplayName: Cañón Tesla
+	Tooltip:
+		'''
+		Un cañón de energía ligero que dispara un intenso rayo eléctrico que explota
+		El rayo puede formar arcos hacia objetivos cercanos
+		'''
+}
+
+TheAnomalysNanogun: {
+	DisplayName: Nanoarma de la Anomalía
+	Tooltip:
+		'''
+		Presiona <left> para cargar 5 rayos de plasma de fuego rápido
+		Presiona <right> para lanzar 3 bombas de fisión
+		'Bienvenido a la fiesta, amigo'
+		'''
+}
+
+Vulcan: {
+	DisplayName: R-GSS: Vulcano
+	Tooltip:
+		'''
+		Un cañón Gatling alimentado por maná que dispara en ráfagas
+		Presiona <right> para lanzar un arpón magnético que atrae tus disparos
+		Lanzar un arpón hace que el modo de fuego en ráfagas dure más
+		Cuando un arpón expira, todos los disparos magnetizados se lanzan a los enemigos cercanos con daño aumentado
+		[c/1FFBFF:'Originalmente un rayo de minería montado en el techo, la eliminación de su batería redujo su peso solo marginalmente.]
+		[c/1FFBFF:Vio poco uso y muchas quejas por parte del cuerpo de magos de batalla.']
+		'''
+}
+
+WavePounder: {
+	DisplayName: Machacaolas
+	Tooltip:
+		'''
+		Lanza una bomba que explota en una onda de choque angustiosamente fuerte
+		Los golpes furtivos emiten ondas de choque absurdamente poderosas
+		'''
+}

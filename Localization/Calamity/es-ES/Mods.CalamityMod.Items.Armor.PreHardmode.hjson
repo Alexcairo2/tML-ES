@@ -1,0 +1,342 @@
+AerospecBreastplate: {
+	DisplayName: Pechera Aerospec
+	Tooltip: "{$CommonItemTooltip.PercentIncreasedDamageCritChance}"
+	CommonSetBonus:
+		'''
+		Recibir más de {0} de daño en un solo golpe provocará una lluvia de plumas teledirigidas
+		Permite caer más rápido y elimina el daño por caída
+		'''
+}
+
+AerospecHeadMagic: {
+	DisplayName: Sombrero Aerospec
+	Tooltip:
+		'''
+		{$CommonItemTooltip.IncreasesMaxManaBy}
+		{$CommonItemTooltip.PercentIncreasedMagicDamage@1}
+		'''
+	SetBonus:
+		'''
+		{$CommonItemTooltip.PercentReducedManaCost}
+		{1}% de velocidad de movimiento y probabilidad de crítico mágico aumentadas
+		{$AerospecBreastplate.CommonSetBonus@2}
+		'''
+}
+
+AerospecHeadRogue: {
+	DisplayName: Casco Aerospec
+	Tooltip: "{$Common.RogueDamage} y {$CommonItemTooltip.PercentIncreasedMovementSpeed@1}"
+	SetBonus:
+		'''
+		{$Common.RogueStealth}
+		{1}% de velocidad de movimiento y probabilidad de crítico de pícaro aumentadas
+		{$AerospecBreastplate.CommonSetBonus@2}
+		'''
+}
+
+AerospecHeadMelee: {
+	DisplayName: Yelmo Aerospec
+	Tooltip: "{$CommonItemTooltip.PercentIncreasedMeleeDamage}"
+	SetBonus:
+		'''
+		{0}% de velocidad de movimiento y probabilidad de crítico cuerpo a cuerpo aumentadas
+		{$Common.AggroBoost}
+		{$AerospecBreastplate.CommonSetBonus@1}
+		'''
+}
+
+AerospecHeadSummon: {
+	DisplayName: Almete Aerospec
+	Tooltip: "{$CommonItemTooltip.PercentIncreasedSummonDamage} y {$CommonItemTooltip.PercentIncreasedMovementSpeed@1}"
+	SetBonus:
+		'''
+		{$CommonItemTooltip.IncreasesMaxMinionsBy}
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
+		Convoca una valkiria para protegerte
+		{$AerospecBreastplate.CommonSetBonus@2}
+		'''
+}
+
+AerospecHeadRanged: {
+	DisplayName: Capucha Aerospec
+	Tooltip: "{$CommonItemTooltip.PercentIncreasedRangedDamage}"
+	SetBonus:
+		'''
+		{0}% de velocidad de movimiento y probabilidad de crítico a distancia aumentadas
+		{$AerospecBreastplate.CommonSetBonus@1}
+		'''
+}
+
+AerospecLeggings: {
+	DisplayName: Grebas Aerospec
+	Tooltip: "{$CommonItemTooltip.PercentIncreasedMovementSpeed}"
+}
+
+DesertProwlerHat: {
+	DisplayName: Sombrero del Merodeador del Desierto
+	Tooltip: "{$Common.RogueCrit}"
+	SetBonus:
+		'''
+		{$Common.RogueStealth}
+		[c/{1}:Bomba de Humo de Arena - {2} para cubrirte en una pequeña nube de arena]
+		[c/CCB648:Mientras la nube de arena esté activa, ganarás más movilidad pero con la defensa muy reducida]
+		[c/CCB648:Usar un arma de pícaro disipa la capa de arena al instante, pero garantiza un supercrítico de {3}% de daño]
+		[c/CCB648:El supercrítico solo se aplica mientras el golpe resultante no supere {4} de daño]
+		[c/CCB648:Dar el golpe de gracia a un enemigo con este disparo reduce el tiempo de espera de la habilidad a {5} {^5:segundo;segundos}]
+		'''
+}
+
+DesertProwlerPants: {
+	DisplayName: Pantalones del Merodeador del Desierto
+	Tooltip:
+		'''
+		{$Common.RogueCrit}
+		Otorga inmunidad a [cbuffplr:WindPushed]
+		'''
+}
+
+DesertProwlerShirt: {
+	DisplayName: Camisa del Merodeador del Desierto
+	Tooltip: "{$Common.RogueDamage}"
+}
+
+MarniteArchitectHeadgear: {
+	DisplayName: Casco del Arquitecto de Marnite
+	Tooltip: Aumenta el alcance de colocación de bloques y herramientas en {0}
+	SetBonus:
+		'''
+		[c/{0}:Elevador de Marnite - Puedes convocar un elevador bajo tus pies para alcanzar zonas más altas]
+		[c/91C5EF:El elevador se convoca al pulsar la tecla de montura] [c/D4C870:sin ninguna montura equipada]
+		[c/91C5EF:Pulsa {$Key.UP} y {$Key.DOWN} para cambiar la altura del elevador, alcanzando hasta {1} bloques sobre el suelo]
+		'''
+}
+
+MarniteArchitectToga: {
+	DisplayName: Toga del Arquitecto de Marnite
+	Tooltip: Aumenta en un {0}% la velocidad de colocación de bloques y paredes
+}
+
+SnowRuffianChestplate: {
+	DisplayName: Pechera del Rufián de la Nieve
+	Tooltip: "{$CommonItemTooltip.PercentIncreasedRangedCritChance}"
+}
+
+SnowRuffianGreaves: {
+	DisplayName: Grebas del Rufián de la Nieve
+	Tooltip: "{$CommonItemTooltip.PercentIncreasedRangedDamage}"
+}
+
+SnowRuffianMask: {
+	DisplayName: Máscara del Rufián de la Nieve
+	Tooltip: "{$CommonItemTooltip.PercentIncreasedRangedDamage}"
+	SetBonus:
+		'''
+		Puedes planear para negar el daño por caída
+		Los críticos a distancia infligen [cbuff:Frostburn] durante {0} {^0:segundo;segundos}
+		'''
+}
+
+StatigelArmor: {
+	DisplayName: Armadura de Statigel
+	Tooltip: "{$CommonItemTooltip.PercentIncreasedCritChance}"
+	CommonSetBonus:
+		'''
+		Otorga un salto adicional y mayor altura de salto
+		{0}% de velocidad de salto aumentada
+		'''
+}
+
+StatigelGreaves: {
+	DisplayName: Grebas de Statigel
+	Tooltip: "{0}% de daño y velocidad de movimiento aumentados"
+}
+
+StatigelHeadMagic: {
+	DisplayName: Gorra de Statigel
+	Tooltip:
+		'''
+		{$CommonItemTooltip.IncreasesMaxManaBy} y {$CommonItemTooltip.PercentReducedManaCost@1}
+		{$CommonItemTooltip.PercentIncreasedMagicDamage@2} y {$CommonItemTooltip.PercentIncreasedMagicCritChance@3}
+		'''
+}
+
+StatigelHeadMelee: {
+	DisplayName: Yelmo de Statigel
+	Tooltip:
+		'''
+		{0}% de daño cuerpo a cuerpo y velocidad cuerpo a cuerpo aumentados
+		{$CommonItemTooltip.PercentIncreasedMeleeCritChance@1}
+		'''
+	SetBonus:
+		'''
+		{$Common.AggroBoost}
+		{$StatigelArmor.CommonSetBonus}
+		'''
+}
+
+StatigelHeadRanged: {
+	DisplayName: Casco de Statigel
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedRangedDamage}
+		{$CommonItemTooltip.PercentIncreasedRangedCritChance@1}
+		'''
+}
+
+StatigelHeadRogue: {
+	DisplayName: Máscara de Statigel
+	Tooltip:
+		'''
+		{$Common.RogueDamage}
+		{$Common.RogueCrit@1} y {$CommonItemTooltip.PercentIncreasedMovementSpeed@2}
+		'''
+	SetBonus:
+		'''
+		{$Common.RogueStealth}
+		{$StatigelArmor.CommonSetBonus@1}
+		'''
+}
+
+StatigelHeadSummon: {
+	DisplayName: Capucha de Statigel
+	Tooltip:
+		'''
+		{$CommonItemTooltip.IncreasesMaxMinionsBy}
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
+		'''
+	SetBonus:
+		'''
+		{$CommonItemTooltip.PercentIncreasedSummonDamage}
+		Convoca un minipaladín para que luche por ti; el tipo depende del mal de tu mundo
+		{$StatigelArmor.CommonSetBonus@1}
+		'''
+}
+
+SulphurousBreastplate: {
+	DisplayName: Pechera Sulfurosa
+	Tooltip: "{$Common.RogueDamage}"
+}
+
+SulphurousHelmet: {
+	DisplayName: Casco Sulfuroso
+	Tooltip:
+		'''
+		{$Common.RogueCrit}
+		Otorga respiración bajo el agua
+		'''
+	SetBonus:
+		'''
+		{$Common.RogueStealth}
+		Atacar y ser atacado por enemigos inflige [cbuff:Poisoned] durante {1} {^1:segundo;segundos}
+		Otorga un salto adicional que convoca una burbuja sulfurosa
+		Reduce la severidad de las aguas sulfúricas
+		'''
+}
+
+SulphurousLeggings: {
+	DisplayName: Grebas Sulfurosas
+	Tooltip: "{$Common.RogueDamage}"
+}
+
+VictideBreastplate: {
+	DisplayName: Pechera de Victide
+	Tooltip:
+		'''
+		Aumenta un 5% la reducción de daño y la probabilidad de ataque crítico
+		+5 de defensa y 10% de reducción de daño aumentada mientras estás sumergido en un líquido
+		'''
+	CommonSetBonus:
+		'''
+		Al usar cualquier arma tienes un 10% de posibilidades de lanzar un proyectil de concha que regresa
+		Esta concha inflige daño verdadero y no se beneficia de ninguna clase de daño
+		Proporciona mayor movilidad bajo el agua y reduce ligeramente la pérdida de oxígeno en el Abismo
+		'''
+}
+
+VictideGreaves: {
+	DisplayName: Grebas de Victide
+	Tooltip:
+		'''
+		Velocidad de movimiento aumentada un 8%
+		Velocidad de movimiento aumentada un 30% mientras estás sumergido en un líquido
+		'''
+}
+
+VictideHeadMagic: {
+	DisplayName: Casco Ermitaño de Victide
+	Tooltip: Aumenta un 5% el daño mágico
+	SetBonus: +1,5 PV/s de regeneración de vida y 10% de daño mágico aumentado mientras estás sumergido en un líquido
+}
+
+VictideHeadMelee: {
+	DisplayName: Conchacasco de Victide
+	Tooltip: Aumenta un 5% el daño cuerpo a cuerpo
+	SetBonus:
+		'''
+		Los enemigos te atacarán con mayor probabilidad
+		+1,5 PV/s de regeneración de vida y 10% de daño cuerpo a cuerpo aumentado mientras estás sumergido en un líquido
+		'''
+}
+
+VictideHeadRanged: {
+	DisplayName: Turbante de Coral de Victide
+	Tooltip: Aumenta un 5% el daño a distancia
+	SetBonus: +1,5 PV/s de regeneración de vida y 10% de daño a distancia aumentado mientras estás sumergido en un líquido
+}
+
+VictideHeadRogue: {
+	DisplayName: Cascocangrejo de Victide
+	Tooltip: Aumenta un 5% el daño de pícaro
+	SetBonus:
+		'''
+		+60 de sigilo máximo
+		+1,5 PV/s de regeneración de vida y 10% de daño de pícaro aumentado mientras estás sumergido en un líquido
+		'''
+}
+
+VictideHeadSummon: {
+	DisplayName: Máscara de Victide
+	Tooltip: Aumenta un 10% el daño de invocación
+	SetBonus:
+		'''
+		+1 súbdito máximo
+		Convoca un caracol de mar para protegerte
+		+1,5 PV/s de regeneración de vida y 10% de daño de invocación aumentado mientras estás sumergido en un líquido
+		'''
+}
+
+WulfrumFusionCannon: {
+	DisplayName: Matriz de Fusión de Wulfrum Experimental
+	Tooltip:
+		'''
+		Dispara ráfagas rápidas de perdigones de alcance medio
+		{$Common.ArmorPenetration}
+		[c/878787:'¿Quién necesita látigos cuando puedes simplemente convertirte en el súbdito tú mismo?']
+		'''
+}
+
+WulfrumHat: {
+	DisplayName: Sombrero y Gafas de Wulfrum
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedSummonDamage}
+		Viene equipado con extensiones de cabello
+		'''
+	SetBonus:
+		'''
+		[c/{0}:Bastión de Wulfrum - {1} para equipar una armadura de potencia, con un coste de] [i:CalamityMod/WulfrumMetalScrap] [c/{0}:{$Items.Materials.WulfrumMetalScrap.DisplayName}]
+		[c/6EC05D:Mientras está activa, solo puedes usar el cañón de fusión integrado, pero tus estadísticas defensivas aumentan]
+		[c/6EC05D:La armadura dura hasta {2} {^2:segundo;segundos}, pero cada golpe reduce la duración en {3} {^3:segundo;segundos}]
+		[c/BEBEBE:Mantén Shift para ver las estadísticas del cañón de fusión]
+		'''
+}
+
+WulfrumJacket: {
+	DisplayName: Chaqueta de Wulfrum
+	Tooltip: "{$CommonItemTooltip.IncreasesMaxMinionsBy}"
+}
+
+WulfrumOveralls: {
+	DisplayName: Overol de Wulfrum
+	Tooltip: "{$CommonItemTooltip.PercentIncreasedSummonDamage}"
+}

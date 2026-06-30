@@ -1,0 +1,20 @@
+MasochistModeUnlocked: "{$Mods.FargowiltasSouls.Items.Masochist.DisplayName} surges with new power...!"
+
+WorldUpdatingSystem: {
+	EternityOn: ¡Modo Eternidad activado!
+	EternityOff: Modo Eternidad desactivado.
+	EternityWrongDifficulty: Dificultad demasiado baja, Modo Eternidad desactivado...
+	EternityMasterWarning: ¡Advertencia! El Modo Eternidad no está diseñado para usarse con el Modo Maestro; se recomienda el Modo Experto!
+	MasochistOn: Maestro y Modo Eternidad combinados: ¡Modo Masoquista activado!
+	MasochistOnZenith: Maestro y semilla Zenith combinadas: ¡Modo Masoquista activado!
+	MasochistFTWWarning: ¡Modo Masoquista y FTW combinados! ¡Este modo es [c/FF0000:extremadamente] difícil! Proceda bajo su propio riesgo!
+	MasochistOff: Modo Masoquista desactivado.
+	BloodMoonCancel: La Luna de Sangre cambió de opinión y se fue...
+	ShiftingSands: La arena está cambiando debajo de ti...
+	MightyFoe: Un enemigo poderoso se acerca...
+}
+
+Revived: ¡Has sido revivido!
+Wiki: ¡Consulta la Wiki oficial de Fargo en [c/3989FF:https://fargosmods.wiki.gg]!
+PatreonNameEffect: Tus efectos especiales de Patreon están activos
+MoonsDeathPenalty: El progreso de la ola ha regresado!

@@ -1,0 +1,187 @@
+AstralSolution: {
+	DisplayName: Solución Astral
+	Tooltip:
+		'''
+		Usada por el Clentaminador
+		Propaga la Infección Astral
+		'''
+}
+
+BloodfireArrow: {
+	DisplayName: Flecha de Fuego Sangriento
+	Tooltip:
+		'''
+		Flechas de alta velocidad con la punta empapada de sangre
+		Disparar estas flechas drenan tu salud y aumentan el daño de la flecha un 30%
+		Acelera tu regeneración de vida natural y te cura al golpear
+		'''
+}
+
+BloodfireBullet: {
+	DisplayName: Bala de Fuego Sangriento
+	Tooltip:
+		'''
+		Atraviesa bloques y acelera tu regeneración de vida natural al golpear según la potencia del golpe
+		Inflige daño extra según tu regeneración de vida natural actual
+		Este daño tiene un límite de 1,1x
+		'''
+}
+
+BloodRune: {
+	DisplayName: Runa de Sangre
+	Tooltip:
+		'''
+		Usada por la Descarga de Hielo
+		'Encontrada en algún tipo de paisaje rúnico'
+		'''
+}
+
+BubonicRound: {
+	DisplayName: Proyectil Bubónico
+	Tooltip: Propaga [cbuff:CalamityMod/Plague] al golpear e ignora el 10% de la defensa del enemigo
+}
+
+CinderArrow: {
+	DisplayName: Flecha de Brasa
+	Tooltip: Flechas explosivas que estallan en débiles Fragmentos de Azufre ardientes
+}
+
+DryadsTear: {
+	DisplayName: Lágrima de la Dríade
+	Tooltip:
+		'''
+		Una bala mágica sumamente poderosa bendecida con la esencia de la naturaleza que se vuelve inestable cuando varias están cerca
+		Lleva consigo una gota que al impactar se desprende, cae sobre el enemigo golpeado y explota
+		Todos los golpes de la bala y la gota tienen 18 de penetración de armadura
+		[c/40E091:'Concentración. Respira. Solo un tiro más, y la violencia se desvanecerá...']
+		'''
+}
+
+ElysianArrow: {
+	DisplayName: Flecha Elísea
+	Tooltip: Al impactar, invoca luz purificadora desde arriba y desde abajo en el enemigo más cercano
+}
+
+FlashRound: {
+	DisplayName: Proyectil Destello
+	Tooltip:
+		'''
+		Una bala que rebota y causa más daño con cada rebote
+		El bonus de daño es 1,13x o +2 de daño plano por rebote, según cuál sea mayor
+		'''
+}
+
+GodSlayerSlug: {
+	DisplayName: Bala Asesina de Dioses
+	Tooltip:
+		'''
+		Munición pesada con penetración ilimitada que desgarra el espacio-tiempo
+		Las balas que golpeen un objetivo se teletransportarán de vuelta y se supercargarán, destrozándose al impactar
+		'''
+}
+
+HailstormBullet: {
+	DisplayName: Bala de Granizo
+	Tooltip:
+		'''
+		Una vez disparadas, las balas se desaceleran rápidamente
+		Los golpes críticos causan una congelación súbita, infligiendo daño adicional y congelando a los enemigos que no sean jefes
+		'''
+}
+
+HallowPointRound: {
+	DisplayName: Proyectil de Punta Sagrada
+	Tooltip:
+		'''
+		Libera luz consagrada al golpear que aumenta el daño base de la bala a [DAMAGE]
+		Este efecto no ocurre si las balas son convertidas por armas especiales
+		'''
+}
+
+HolyFireBullet: {
+	DisplayName: Bala de Fuego Sagrado
+	Tooltip:
+		'''
+		Balas profanadas que infligen 1,15x de daño y explotan al impactar
+		La explosión es mayor y la bala inflige más daño si el impacto ocurre inmediatamente tras disparar
+		El bonus de daño extra tiene un límite de 1,15x
+		'''
+}
+
+HyperiusBullet: {
+	DisplayName: Bala Hyperius
+	Tooltip:
+		'''
+		Deslumbrantes balas multicolor que se dividen en luces giratorias al impactar
+		El daño que infligirían las balas se almacena en el objetivo
+		Cuanto más daño se acumule, comenzará a desbordarse, liberándose lentamente y dañando al enemigo
+		Los ataques de fuentes distintas a las Balas Hyperius liberarán parte de la carga
+		Liberar carga de esta manera es un 20% más eficiente
+		'''
+}
+
+IcicleArrow: {
+	DisplayName: Flecha de Carámbano
+	Tooltip:
+		'''
+		Una vez disparadas, las flechas se congelan rápidamente convirtiéndose en carámbanos que caen
+		Golpear enemigos o bloques antes de que la flecha se congele completamente hace que rebote hacia arriba
+		'''
+}
+
+MarksmanRound: {
+	DisplayName: Proyectil del Tirador
+	Tooltip:
+		'''
+		Un proyectil fabricado con cuidado que puede rebotar en monedas
+		Esto permite que otras armas de fuego aprovechen las monedas lanzadas por el Colt del Tirador Experto y el Primo Midas
+		'''
+}
+
+MortarRound: {
+	DisplayName: Proyectil de Mortero
+	Tooltip:
+		'''
+		Proyectiles de alto explosivo especializados
+		Gran radio de explosión. Destruye bloques
+		Usado por armas de fuego normales
+		'''
+}
+
+RubberMortarRound: {
+	DisplayName: Proyectil de Mortero de Goma
+	Tooltip:
+		'''
+		Proyectiles de alto explosivo especializados
+		Gran radio de explosión. Destruye bloques en cada rebote
+		Usado por armas de fuego normales
+		'''
+}
+
+SproutingArrow: {
+	DisplayName: Flecha Brotante
+	Tooltip:
+		'''
+		Dispara una flecha de energía que se divide rápidamente en dos flechas
+		Estas flechas ignoran 8 puntos de defensa
+		'''
+}
+
+VanquisherArrow: {
+	DisplayName: Flecha Vencedora
+	Tooltip:
+		'''
+		Atraviesa bloques y persigue a los enemigos
+		Abre una grieta en el espacio al golpear enemigos
+		'''
+}
+
+VeriumBolt: {
+	DisplayName: Flecha de Verio
+	Tooltip:
+		'''
+		Marca a los enemigos al golpear, infligiendo daño extra tras un breve tiempo
+		Este daño se acumula según cuántos pernos golpeen al enemigo
+		'No hay escapatoria...'
+		'''
+}

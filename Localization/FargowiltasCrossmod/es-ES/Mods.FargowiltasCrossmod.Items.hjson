@@ -1,0 +1,524 @@
+AddedEffects: {
+	AngelTreads: Efectos de las Pisadas Angelicales
+	AeolusBoots: Efectos de las Botas de Eolo
+	CalamitySupersonic: Efectos del Fajín del Vacío de Statis
+	ThoriumSuperSonic: Efectos de Air Walkers, Survivalist Boots y Weighted Winglets
+	CalamityColossus: Efectos del Amalgama, la Égida Asgardiana y la Muralla de las Deidades
+	ThoriumColossus:
+		'''
+		Efectos de Sweet Vengeance, Obsidian Scale, Terrarium Defender,
+		Phylactery, Heart of Stone y Spiny Shell
+		'''
+	CalamityBerserker: Efectos de la Insignia de Valor y el Guantelete Elemental
+	ThoriumBerserker: Efectos de Rapier Badge
+	CalamityWizard: Efectos del Talismán Etéreo
+	ThoriumWizard: Efectos de Murky Catalyst
+	CalamitySniper: Efectos de la Bolsa del Rompeplanos y el Carcaj de la Nulidad
+	Vagabond: Efectos de Nanotecnología y el Espejo del Eclipse
+	ThoriumSniper: Efectos de Concussive Warhead
+	CalamityConjurist: Efectos de Nucleogénesis
+	ThoriumConjurist: Efectos del Yuma's Pendant y Crystal Scorpion
+	CalamityTrawler: Efectos del Traje de Buceo Abisal
+	CalamityWorldShaper: Efectos del Encantamiento de Arquitecto de Marnita
+	ThoriumUniverse:
+		'''
+		15% más de velocidad de lanzamiento
+		Efectos de Guide to Expert Throwing Volume III,
+		Mermaid Canteen y Deadman's Patch
+		'''
+}
+
+OutlawsEssence: {
+	DisplayName: Esencia del Forajido
+	Tooltip:
+		'''
+		18% más de daño de pícaro
+		5% más de velocidad de proyectil de pícaro
+		5% más de probabilidad de ataque crítico de pícaro
+		'''
+}
+
+VagabondsSoul: {
+	DisplayName: Alma del Vagabundo
+	Tooltip:
+		'''
+		22% más de daño de pícaro
+		20% más de velocidad de proyectil de pícaro
+		10% más de probabilidad de ataque crítico de pícaro
+		Efectos de Nanotecnología y el Espejo del Eclipse
+		'''
+}
+
+ABombInMyNation: {
+	DisplayName: Una Bomba en Mi Nación
+	Tooltip: Invoca al Goliat Portador de la Plaga
+}
+
+AstrumCor: {
+	DisplayName: Núcleo de Astrum
+	Tooltip: Invoca a Astrum Deus
+}
+
+BirbPheromones: {
+	DisplayName: Feromonas de Dragón
+	Tooltip: Invoca a Dragonfolly
+}
+
+BlightedEye: {
+	DisplayName: Ojo Marchito
+	Tooltip: Invoca al Clon de Calamitas
+}
+
+BloodyWorm: {
+	DisplayName: Gusano Sangriento
+	Tooltip: Invoca al Viejo Duque
+}
+
+ChunkyStardust: {
+	DisplayName: Polvo Estelar Grueso
+	Tooltip: Invoca a Astrum Aureus
+}
+
+CryingKey: {
+	DisplayName: Llave Llorosa
+	Tooltip: Invoca a Cryogen
+}
+
+DefiledCore: {
+	DisplayName: Núcleo Corrompido
+	Tooltip: Invoca a Providencia
+}
+
+DefiledShard: {
+	DisplayName: Fragmento Corrompido
+	Tooltip: Invoca a los Guardianes Profanados
+}
+
+DragonEgg: {
+	DisplayName: Huevo de Dragón Ardiente
+	Tooltip: Invoca a Yharon
+}
+
+PortableCodebreaker: {
+	DisplayName: Descifrador Portátil
+	Tooltip: Invoca a Draedon
+}
+
+EyeofExtinction: {
+	DisplayName: Ojo de la Extinción
+	Tooltip: Invoca a la Bruja Suprema, Calamitas
+}
+
+FriedDoll: {
+	DisplayName: Muñeco Frito
+	Tooltip: Invoca al Elemental de Azufre
+}
+
+HiveTumor: {
+	DisplayName: Tumor de Colmena
+	Tooltip: Invoca a la Mente Colmena
+}
+
+LetterofKos: {
+	DisplayName: Carta de Kos
+	Tooltip: Invoca a Signus
+}
+
+MedallionoftheDesert: {
+	DisplayName: Medallón del Desierto
+	Tooltip: Invoca al Azote Desértico
+}
+
+MurkySludge: {
+	DisplayName: Lodo Turbio
+	Tooltip: Invoca al Dios Slime
+}
+
+NoisyWhistle: {
+	DisplayName: Silbato Ruidoso
+	Tooltip: Invoca al Devastador
+}
+
+OphiocordycipitaceaeSprout: {
+	DisplayName: Brote de Ophiocordycipitaceae
+	Tooltip: Invoca a Crabulon
+}
+
+PolterplasmicBeacon: {
+	DisplayName: Baliza Polterplasmática
+	Tooltip: Invoca a Polterghast
+}
+
+RedStainedWormFood: {
+	DisplayName: Comida de Gusano Manchada de Rojo
+	Tooltip: Invoca a los Perforadores
+}
+
+RiftofKos: {
+	DisplayName: Grieta de Kos
+	Tooltip: Invoca al Vacío Incesante
+}
+
+SeeFood: {
+	DisplayName: Ve Comida
+	Tooltip: Invoca al Azote Acuático
+}
+
+SirensPearl: {
+	DisplayName: Perla de la Sirena
+	Tooltip: Invoca a Anahita
+}
+
+SomeKindofSpaceWorm: {
+	DisplayName: Algún Tipo de Gusano Espacial
+	Tooltip: Invoca al Devorador de Dioses
+}
+
+WormFoodofKos: {
+	DisplayName: Comida de Gusano de Kos
+	Tooltip: Invoca al Tejedor de Tormentas
+}
+
+ClamPearl: {
+	DisplayName: Perla de Almeja
+	Tooltip:
+		'''
+		Invoca a la Almeja Gigante
+		Solo se puede usar en el Mar Hundido
+		'''
+}
+
+ColossalTentacle: {
+	DisplayName: Tentáculo Colosal
+	Tooltip:
+		'''
+		Invoca al Calamar Colosal
+		Solo se puede usar en el Abismo
+		'''
+}
+
+DeepseaProteinShake: {
+	DisplayName: Batido de Proteínas de las Profundidades
+	Tooltip:
+		'''
+		Invoca al Tiburón Segador
+		Solo se puede usar en el Abismo
+		'''
+}
+
+MaulerSkull: {
+	DisplayName: Cráneo del Desgarrador
+	Tooltip:
+		'''
+		Invoca al Desgarrador
+		Solo se puede usar en el Mar Sulfuroso
+		'''
+}
+
+NuclearChunk: {
+	DisplayName: Fragmento Nuclear
+	Tooltip:
+		'''
+		Invoca al Terror Nuclear
+		Solo se puede usar en el Mar Sulfuroso
+		'''
+}
+
+PlaguedWalkieTalkie: {
+	DisplayName: Walkie Talkie Apestado
+	Tooltip:
+		'''
+		Invoca al Portador de la Plaga
+		Solo se puede usar en la Jungla
+		'''
+}
+
+QuakeIdol: {
+	DisplayName: Ídolo Sísmico
+	Tooltip:
+		'''
+		Invoca al Elemental de la Tierra
+		Solo se puede usar bajo tierra
+		'''
+}
+
+StormIdol: {
+	DisplayName: Ídolo de Tormenta
+	Tooltip: Invoca al Elemental de Nube
+}
+
+SulphurBearTrap: {
+	DisplayName: Trampa para Osos de Azufre
+	Tooltip:
+		'''
+		Invoca al Fango Faucegrieta
+		Solo se puede usar en el Mar Sulfuroso
+		'''
+}
+
+WyrmTablet: {
+	DisplayName: Tablilla del Gusano
+	Tooltip:
+		'''
+		Invoca al Gusano Primordial
+		Solo se puede usar en el Abismo
+		'''
+}
+
+BrandoftheBrimstoneWitch: {
+	DisplayName: Marca de la Bruja de Azufre
+	Tooltip:
+		'''
+		Efectos del Corazón de los Elementos, el Resplandor, la Esponja y el Cáliz del Dios de Sangre
+		Efectos del Núcleo Nebuloso, el Regalo de Yharim, el Corazón de Draedon y la Calamidad
+		'''
+}
+
+AerospecEnchant: {
+	DisplayName: Encantamiento de Aerospec
+	Tooltip:
+		'''
+		Gana +5% de probabilidad de ataque crítico y daño de invocación cada vez que uses un salto o doble salto
+		Este bono dura hasta que tus saltos se reinicien o uses una montura
+		'''
+	CritUp: +{0}% de crítico
+	CritReset: -{0}% de crítico
+}
+
+MarniteEnchant: {
+	DisplayName: Encantamiento de Arquitecto de Marnita
+	Tooltip:
+		'''
+		10% más de velocidad de colocación y +5 de alcance de colocación de bloques
+		Los láseres golpean enemigos cercanos cuando no atacas o mientras usas herramientas
+		[i:CalamityMod/MarniteRepulsionShield] Efectos del Escudo Repulsor de Marnita
+		'''
+}
+
+DesertProwlerEnchant: {
+	DisplayName: Encantamiento del Merodeador del Desierto
+	Tooltip:
+		'''
+		Mantén ARRIBA para cargar un potente salto de carga que también aumenta tu velocidad horizontal
+		El salto de carga solo se puede realizar mientras estás en el suelo
+		Presiona Saltar mientras mantienes ABAJO en el aire para hacer una zambullida rápida hacia abajo
+		Tanto el salto de carga como la zambullida repelen a los enemigos cercanos
+		Tocar el suelo poco después de una zambullida repele y daña a los enemigos
+		'''
+}
+
+WulfrumEnchant: {
+	DisplayName: Encantamiento de Wulfrum
+	Tooltip:
+		'''
+		Invoca un dron wulfrum que sigue tu cursor
+		El dron escanea a los enemigos con los que colisiona
+		Escanear enemigos te indica sus debilidades y resistencias a efectos negativos
+		Verde significa debilidad, rojo significa resistencia
+		Los enemigos escaneados también reciben daño plano adicional con el tiempo cuando sufren cualquier efecto negativo
+		'''
+}
+
+GaleForce: {
+	DisplayName: Fuerza del Vendaval
+	Tooltip:
+		'''
+		Otorga saltos ilimitados en el aire
+		Desactiva las alas si este efecto está activo
+		[i:FargowiltasCrossmod/DesertProwlerEnchant] Mantén W mientras saltas para impulsarte hacia arriba rápidamente
+		[i:FargowiltasCrossmod/DesertProwlerEnchant] Mantén S mientras saltas para zambullirte hacia abajo
+		[i:FargowiltasCrossmod/SnowRuffianEnchant] Mantén W para ralentizar la caída
+		[i:FargowiltasCrossmod/VictideEnchant] Mantener Saltar genera pinchos afilados unidos a ti
+		[i:FargowiltasCrossmod/VictideEnchant] Al generar 6 pinchos, el siguiente salto los lanza para que persigan objetivos
+		[i:FargowiltasCrossmod/SulphurEnchant] Los pinchos infligen Envenenamiento Sulfuroso
+		[i:FargowiltasCrossmod/StatigelEnchant] Aumenta el daño según la velocidad a la que te mueves, hasta +40%
+		'''
+}
+
+SnowRuffianEnchant: {
+	DisplayName: Encantamiento del Matón de Nieve
+	Tooltip:
+		'''
+		Otorga la capacidad de planear si no tienes alas
+		Mientras caes lentamente con alas, aceleras
+		Presiona ARRIBA mientras caes lentamente para dirigir tu impulso hacia arriba
+		Presiona ABAJO mientras caes lentamente para acelerar más rápido
+		'''
+}
+
+DaedalusEnchant: {
+	DisplayName: Encantamiento de Dédalo
+	Tooltip:
+		'''
+		Aumenta el tiempo de vuelo un 25%
+		Tras un segundo en el aire, los ataques se acompañan de poderosas flechas del cielo
+		Recibir un golpe o aterrizar elimina este bono y reduce tu tiempo de vuelo a la mitad
+		'''
+}
+
+PlagueReaperEnchant: {
+	DisplayName: Encantamiento del Segador de la Plaga
+	Tooltip: Todos los efectos negativos se propagan entre enemigos
+}
+
+PlaguebringerEnchant: {
+	DisplayName: Encantamiento del Portador de la Plaga
+	Tooltip:
+		'''
+		Todos los ataques infligen plaga durante un breve tiempo
+		Una nube de plaga te sigue, creciendo cerca de enemigos apestados.
+		Al alcanzar el tamaño máximo, la nube se expande rápidamente y deja de seguirte,
+		permaneciendo en su lugar durante un tiempo.
+		'''
+}
+
+ReaverEnchant: {
+	DisplayName: Encantamiento del Devastador
+	Tooltip: ""
+}
+
+HydrothermicEnchant: {
+	DisplayName: Encantamiento Hidrotérmico
+	Tooltip:
+		'''
+		Atacar acumula calor
+		Al máximo calor, deja de atacar para ventilarlo, aumentando la reducción de daño hasta un 30% y disparando destellos de caos hacia tu cursor durante hasta 3 segundos
+		Recibir un golpe también ventila el calor, independientemente del nivel de calor
+		'''
+}
+
+ElementsForce: {
+	DisplayName: Fuerza de los Elementos
+	Tooltip:
+		'''
+		[c/E03131:Modo Magma:]
+		[i:FargowiltasCrossmod/ReaverEnchant] Reducción de daño aumentada un 30% y defensa en 30
+		[i:FargowiltasCrossmod/HydrothermicEnchant] Atacar acumula calor, deja de atacar al máximo calor o recibe un golpe para ventilarlo
+		[i:FargowiltasCrossmod/HydrothermicEnchant] Ventilar calor otorga Furia del Devastador e invoca poderosos destellos de caos durante hasta 3 segundos
+		[c/45A8EF:Modo Ventisca:]
+		[i:FargowiltasCrossmod/ReaverEnchant] Mayor tiempo de vuelo y velocidad, regeneración de vida, velocidad de gancho y tiempo de reutilización de impulso reducido
+		[i:FargowiltasCrossmod/AerospecEnchant] Otorga hasta +50% de daño cuanto más tiempo lleves en el aire
+		[i:FargowiltasCrossmod/DaedalusEnchant] Tras un segundo en el aire sin recibir golpes, los ataques se acompañan de poderosas flechas del cielo
+		'''
+}
+
+UmbraphileEnchant: {
+	DisplayName: Encantamiento Umbráfilo
+	Tooltip: ""
+}
+
+TitanHeartEnchant: {
+	DisplayName: Encantamiento del Corazón de Titán
+	Tooltip:
+		'''
+		La adrenalina se carga un 20% más rápido, aumentado al 70% mientras estás en el suelo
+		Mientras la adrenalina está parcialmente cargada, recibes hasta un 15% de reducción de daño
+		Aumenta tu velocidad de movimiento máxima y aceleración un 5%
+		'''
+}
+
+StatigelEnchant: {
+	DisplayName: Encantamiento de Statigel
+	Tooltip:
+		'''
+		Aumenta tu velocidad máxima
+		Reduce drásticamente tu aceleración y deceleración
+		Gana hasta +35% de daño adicional según la velocidad a la que te mueves
+		'''
+}
+
+SulphurEnchant: {
+	DisplayName: Encantamiento Sulfuroso
+	Tooltip:
+		'''
+		Otorga un salto de azufre que genera una burbuja de azufre al usarlo
+		La burbuja libera gas dañino cuando la golpeas
+		'''
+}
+
+VictideEnchant: {
+	DisplayName: Encantamiento de Victide
+	Tooltip:
+		'''
+		Otorga pinchos de erizo que sobresalen de tu cuerpo
+		Ganas 4 de defensa mientras los pinchos están unidos a ti
+		Atacar carga los pinchos, que se lanzan hacia afuera cuando dejas de atacar
+		'''
+}
+
+Lore: {
+	LoreDraedon: {
+		DisplayName: Draedon
+		Tooltip: ""
+	}
+}
+
+FathomSwarmerEnchant: {
+	DisplayName: Encantamiento del Enjambrador Abisal
+	Tooltip:
+		'''
+		Invoca un familiar de Pez Pescador que sigue tu ratón
+		La luz del pez pescador ralentiza a los enemigos y sus proyectiles
+		'''
+}
+
+AstralEnchant: {
+	DisplayName: Encantamiento Astral
+	Tooltip: Una estela de estrellas astrales dañinas te sigue
+}
+
+BrimflameEnchant: {
+	DisplayName: Encantamiento de Llama de Azufre
+	Tooltip:
+		'''
+		Presiona la tecla Instalar Efecto Negativo para consumir toda tu defensa y liberar una ola de llamas de azufre en todas direcciones
+		Se vuelve más fuerte cuanta más defensa se consuma
+		Tu defensa se regenerará con el tiempo
+		Solo se puede usar cuando estás en defensa máxima
+		'''
+	DefenseDown: -{0} de defensa
+	DefenseUp: +{0} de defensa
+}
+
+MolluskEnchant: {
+	DisplayName: Encantamiento de Molusco
+	Tooltip:
+		'''
+		Presiona la tecla de Dash Especial para golpear rápidamente hacia abajo
+		Golpear a un enemigo con el impacto inflige daño masivo y otorga frames de inmunidad
+		Solo entra en tiempo de reutilización al golpear enemigos
+		'''
+}
+
+# This is used to detect and remove lines, not displayed. Must match Cal's localization.
+NotConsumable: No consumible
+
+EmpyreanEnchant: {
+	DisplayName: Encantamiento Empíreo
+	Tooltip:
+		'''
+		Moverse lentamente o quedarse quieto durante 2 segundos potencia tu próximo golpe
+		Los golpes potenciados infligen el doble de daño, curan 20 PV, llenan la rabia y crean estrellas empíreas teledirigidas al colisionar
+		Este efecto tiene un tiempo de reutilización de 12 a 4 segundos, reduciéndose cuanto más rabia tengas
+		'''
+}
+
+Archmage: {
+	DisplayName: Archimago
+	Tooltip: "'Tienes lo que se necesita para ser un mago dotado. Dime, ¿qué opinas de la magia de hielo?'"
+}
+
+SeaKing: {
+	DisplayName: Rey del Mar
+	Tooltip: "'Mi hogar puede haber sido destruido y mi gente, perdida... Pero te ayudaré para honrar su memoria.'"
+}
+
+Bandit: {
+	DisplayName: Bandida
+	Tooltip: "'Cualquier cosa es un arma si la lanzas con suficiente fuerza.'"
+}
+
+BrimstoneWitch: {
+	DisplayName: Bruja de Azufre
+	Tooltip: "'Si tienes alguna maldición que quieras disipar... bueno, yo no soy tu persona.'"
+}

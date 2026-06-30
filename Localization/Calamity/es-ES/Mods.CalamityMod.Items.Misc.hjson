@@ -1,0 +1,341 @@
+// Critters
+AlphaSeaMinnowItem: {
+	DisplayName: "{$NPCs.AlphaSeaMinnow.DisplayName}"
+	Tooltip: ""
+}
+
+AlphaSeaMinnowGoldItem: {
+	DisplayName: "{$NPCs.AlphaSeaMinnowGold.DisplayName}"
+	Tooltip: ""
+}
+
+AndroombaItem: {
+	DisplayName: "{$NPCs.Androomba.DisplayName}"
+	Tooltip:
+		'''
+		Pulsa <right> sobre el roomba con una solución para insertarla
+		Mientras haya una solución insertada, el roomba empezará a esparcir su contenido
+		'''
+}
+
+BabyCannonballJellyfishItem: {
+	DisplayName: "{$NPCs.BabyCannonballJellyfish.DisplayName}"
+	Tooltip: Puede dispararse con cañones
+}
+
+BabyFlakCrabItem: {
+	DisplayName: "{$NPCs.BabyFlakCrab.DisplayName}"
+	Tooltip: ""
+}
+
+BabyGhostBellItem: {
+	DisplayName: Campanilla Fantasma Bebé Azul
+	Tooltip: ""
+}
+
+BabyGhostBellGoldItem: {
+	DisplayName: "{$NPCs.GoldBabyGhostBell}"
+	Tooltip: ""
+}
+
+BabyGhostBellGreenItem: {
+	DisplayName: Campanilla Fantasma Bebé Verde
+	Tooltip: ""
+}
+
+BabyGhostBellRadiantItem: {
+	DisplayName: "{$NPCs.RadiantBabyGhostBell}"
+	Tooltip: ""
+}
+
+BabyGhostBellPinkItem: {
+	DisplayName: Campanilla Fantasma Bebé Rosa
+	Tooltip: ""
+}
+
+GildedAxolotlItem: {
+	DisplayName: Ajolote Dorado
+	Tooltip: ""
+}
+
+NanodroidDysfunctionalItem: {
+	DisplayName: Nanodroide Disfuncional
+	Tooltip: ""
+}
+
+NanodroidItem: {
+	DisplayName: "{$NPCs.Nanodroid.DisplayName}"
+	Tooltip: ""
+}
+
+NanodroidPlagueGreenItem: {
+	DisplayName: Nanodroide de Plaga Verde
+	Tooltip: ""
+}
+
+NanodroidPlagueRedItem: {
+	DisplayName: Nanodroide de Plaga Rojo
+	Tooltip: ""
+}
+
+PearlpodBlackItem: {
+	DisplayName: Vaina de Perla Negra
+	Tooltip: ""
+}
+
+PearlpodItem: {
+	DisplayName: Vaina de Perla Blanca
+	Tooltip: ""
+}
+
+PearlpodPinkItem: {
+	DisplayName: Vaina de Perla Rosa
+	Tooltip: ""
+}
+
+PolypPanaseaGoldItem: {
+	DisplayName: "{$NPCs.GoldPolypPanasea}"
+	Tooltip: ""
+}
+
+PolypPanaseaGreenItem: {
+	DisplayName: Panacea de Pólipo Verde
+	Tooltip: ""
+}
+
+PolypPanaseaItem: {
+	DisplayName: Panacea de Pólipo Roja
+	Tooltip: ""
+}
+
+PolypPanaseaPurpleItem: {
+	DisplayName: Panacea de Pólipo Morada
+	Tooltip: ""
+}
+
+PolypPanaseaRadiantItem: {
+	DisplayName: "{$NPCs.RadiantPolypPanasea}"
+	Tooltip: ""
+}
+
+PolypPanaseaTurquoiseItem: {
+	DisplayName: Panacea de Pólipo Turquesa
+	Tooltip: ""
+}
+
+PiggyItem: {
+	DisplayName: "{$NPCs.Piggy.DisplayName}"
+	Tooltip: ""
+}
+
+PiggyGoldItem: {
+	DisplayName: "{$NPCs.PiggyGold.DisplayName}"
+	Tooltip: ""
+}
+
+PrismaticGuppyBlueItem: {
+	DisplayName: Guppy Prismático Azul
+	Tooltip: ""
+}
+
+PrismaticGuppyGoldItem: {
+	DisplayName: "{$NPCs.GoldPrismaticGuppy}"
+	Tooltip: ""
+}
+
+PrismaticGuppyGreenItem: {
+	DisplayName: Guppy Prismático Verde
+	Tooltip: ""
+}
+
+PrismaticGuppyPinkItem: {
+	DisplayName: Guppy Prismático Rosa
+	Tooltip: ""
+}
+
+PrismaticGuppyRadiantItem: {
+	DisplayName: "{$NPCs.RadiantPrismaticGuppy}"
+	Tooltip: ""
+}
+
+ProbesnoutGoldItem: {
+	DisplayName: "{$NPCs.ProbesnoutGold.DisplayName}"
+	Tooltip: ""
+}
+
+ProbesnoutItem: {
+	DisplayName: "{$NPCs.Probesnout.DisplayName}"
+	Tooltip: ""
+}
+
+RepairUnitItem: {
+	DisplayName: "{$NPCs.RepairUnitCritter.DisplayName}"
+	Tooltip: ""
+}
+
+SeaFloatyItem: {
+	DisplayName: "{$NPCs.SeaFloaty.DisplayName}"
+	Tooltip: ""
+}
+
+SeaMinnowItem: {
+	DisplayName: "{$NPCs.SeaMinnow.DisplayName}"
+	Tooltip: ""
+}
+
+SeaMinnowGoldItem: {
+	DisplayName: "{$NPCs.SeaMinnowGold.DisplayName}"
+	Tooltip: ""
+}
+
+SearslugItem: {
+	DisplayName: "{$NPCs.Searslug.DisplayName}"
+	Tooltip: ""
+}
+
+ShoreskipperItem: {
+	DisplayName: "{$NPCs.Shoreskipper.DisplayName}"
+	Tooltip: ""
+}
+
+ShroombleItem: {
+	DisplayName: "{$NPCs.Shroomble.DisplayName}"
+	Tooltip: ""
+}
+
+SlugbunBurrowsItem: {
+	DisplayName: Slugbun Madriguero
+	Tooltip: ""
+}
+
+SlugbunItem: {
+	DisplayName: Slugbun de Arrecife
+	Tooltip: ""
+}
+
+SlugbunPolypItem: {
+	DisplayName: Slugbun de Pólipo
+	Tooltip: ""
+}
+
+SlugbunRadiantItem: {
+	DisplayName: "{$NPCs.RadiantSlugbun}"
+	Tooltip: ""
+}
+
+TwinklerItem: {
+	DisplayName: "{$NPCs.Twinkler.DisplayName}"
+	Tooltip: ""
+}
+
+// Permanent Boosters
+AdrenalineBoosterTooltip: Aumenta permanentemente el daño de {$Buffs.AdrenalineMode.DisplayName} un {0}% y la reducción de daño un {1}%
+RageBoosterTooltip: Aumenta permanentemente la duración de {$Buffs.RageMode.DisplayName} en {0} segundo
+
+CelestialOnion: {
+	DisplayName: Cebolla Celestial
+	Tooltip:
+		'''
+		Aumenta permanentemente el número de ranuras de accesorio
+		Habilita la ranura de accesorio del Corazón Demoníaco en Modo Maestro
+		Un poder extraterrestre pulsa en sus capas
+		'''
+}
+
+CometShard: {
+	DisplayName: Fragmento de Cometa
+	Tooltip:
+		'''
+		Aumenta permanentemente el maná máximo en {0}
+		Solo puede usarse una vez y requiere haber consumido el máximo de Cristales de Maná
+		'''
+}
+
+Ectoheart.DisplayName: Ectocorazón
+ElectrolyteGelPack.DisplayName: Paquete de Gel de Electrolitos
+
+EtherealCore: {
+	DisplayName: Núcleo Etéreo
+	Tooltip:
+		'''
+		Aumenta permanentemente el maná máximo en {0}
+		Solo puede usarse una vez y requiere haber consumido el máximo de Cristales de Maná
+		'''
+}
+
+InfernalBlood.DisplayName: Sangre Infernal
+
+MiracleFruit: {
+	DisplayName: Fruta Milagrosa
+	Tooltip:
+		'''
+		Aumenta permanentemente la vida máxima en {0}
+		Solo puede usarse una vez y requiere haber consumido el máximo de Frutos de Vida
+		Refrescante y fría, quizás incluso un poco mentolada
+		'''
+}
+
+MushroomPlasmaRoot.DisplayName: Raíz de Plasma de Seta
+
+PhantomHeart: {
+	DisplayName: Corazón Fantasmal
+	Tooltip:
+		'''
+		Aumenta permanentemente el maná máximo en {0}
+		Solo puede usarse una vez y requiere haber consumido el máximo de Cristales de Maná
+		'''
+}
+
+RedLightningContainer.DisplayName: Recipiente de Rayo Rojo
+
+SacredStrawberry: {
+	DisplayName: Fresa Sagrada
+	Tooltip:
+		'''
+		Aumenta permanentemente la vida máxima en {0}
+		Solo puede usarse una vez y requiere haber consumido el máximo de Frutos de Vida
+		Aunque algo insípida, el sabor que puede describirse no se parece a ningún otro
+		'''
+}
+
+SanguineTangerine: {
+	DisplayName: Mandarina Sanguínea
+	Tooltip:
+		'''
+		Aumenta permanentemente la vida máxima en {0}
+		Solo puede usarse una vez y requiere haber consumido el máximo de Frutos de Vida
+		Tiene un sabor distintivamente dulce y un aroma intenso
+		'''
+}
+
+StarlightFuelCell.DisplayName: Celda de Combustible de Luz Estelar
+
+TaintedCloudberry: {
+	DisplayName: Mora Ártica Contaminada
+	Tooltip:
+		'''
+		Aumenta permanentemente la vida máxima en {0}
+		Solo puede usarse una vez y requiere haber consumido el máximo de Frutos de Vida
+		Un sabor ácido y agrio con un toque levemente terroso
+		'''
+}
+
+// Spawn Blockers
+SpawnBlockersOn: Las apariciones están actualmente desactivadas
+SpawnBlockersOff: Las apariciones están actualmente activadas
+// Uncategorized
+ExhumeShortTooltip:
+	'''
+	[c/C61B40:'¿Ah, tienes curiosidad por lo que vi en este objeto?']
+	[c/BABABA:Mantén Shift para escuchar]
+	'''
+LegendaryShortTooltip:
+	'''
+	[c/FF6F00:Relatos de leyendas pasadas irradian a tu alrededor...]
+	[c/BABABA:Mantén Shift para escuchar más de cerca]
+	'''
+
+DisgustingSlop: {
+	DisplayName: Papilla Asquerosa
+	Tooltip: Puede procesarse en el Expriminator
+}

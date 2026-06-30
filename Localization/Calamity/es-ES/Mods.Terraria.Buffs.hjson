@@ -1,0 +1,56 @@
+Venom: {
+	ItemTooltipPlayer: Enfermedad - 15 DPS
+	ItemTooltipEnemy: Enfermedad - 30 DPS
+}
+
+BetsysCurse.ItemTooltip: Reduce la defensa en 40
+
+CursedInferno: {
+	ItemTooltipPlayer: Calor - 12 DPS
+	ItemTooltipEnemy: Calor - 24 DPS
+}
+
+Frostburn2: {
+	ItemTooltipPlayer: Frío - 8 DPS
+	ItemTooltipEnemy: Frío - 25 DPS
+}
+
+// Frostburn deals the same damage to players and enemies
+Frostburn: {
+	ItemTooltipPlayer: Frío - 8 DPS
+	ItemTooltipEnemy: Frío - 8 DPS
+}
+
+OnFire3.ItemTooltipEnemy: Calor - 15 DPS
+
+// On Fire deals the same damage to players and enemies
+OnFire: {
+	ItemTooltipPlayer: Calor - 6 DPS
+	ItemTooltipEnemy: Calor - 6 DPS
+}
+
+Ichor.ItemTooltipEnemy: Reduce la defensa en 10
+Oiled.ItemTooltipEnemy:
+	'''
+	Calor - 25 DPS. Recibe el doble de efecto de los multiplicadores de Calor
+	Solo inflige daño cuando se combina con otro efecto negativo de Calor
+	'''
+Poisoned.ItemTooltipEnemy: Enfermedad - 6 DPS
+PotionSickness.ItemTooltipPlayer: ""
+Slimed.ItemTooltipEnemy: Aumenta el daño de los efectos negativos de Calor
+Wet.ItemTooltipEnemy: Aumenta el daño de los efectos negativos de tipo Eléctrico
+Confused.ItemTooltipEnemy: Invierte el movimiento
+Webbed.ItemTooltipEnemy: Ralentiza a los enemigos
+Frozen.ItemTooltipEnemy: Congela a los enemigos
+
+Electrified: {
+	ItemTooltipPlayer: Electrificado - 4 DPS. Inflige 5 veces más daño a los jugadores en movimiento
+	ItemTooltipEnemy: Electrificado - 15 DPS. Inflige 4 veces más daño a los objetivos en movimiento
+}
+
+Honey.ItemTooltipPlayer:
+	'''
+	Aumenta la regeneración de vida en 1 PV/s
+	Aumenta la aceleración de la regeneración natural un 300%
+	Reduce el daño recibido por efectos negativos en el tiempo en 2 PV/s
+	'''

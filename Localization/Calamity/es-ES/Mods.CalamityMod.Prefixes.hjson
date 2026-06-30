@@ -1,0 +1,33 @@
+Accessory: {
+	Silent.DisplayName: (Silencioso)
+	Invigorating.DisplayName: (Invigorador)
+	Dauntless.DisplayName: (Intrépido)
+	Friendly.DisplayName: (Amistoso)
+	// New modifier effects (this is only positive)
+	StealthGenTooltip: +{0}% generación de sigilo
+	LifeRegenTooltip: +{0} PV/s de regeneración de vida
+	MaxLifeBoostTooltip: +{0} PV de vida máxima
+	FriendlyTooltip: +{0} Súbditos
+}
+
+Weapon: {
+	Horrible.DisplayName: (Horrible)
+	Atrocious.DisplayName: (Atroz)
+	Blunt.DisplayName: (Tonto)
+	Feathered.DisplayName: (Plumado)
+	Flawless.DisplayName: (Impecable)
+	Flimsy.DisplayName: (Frágil)
+	Glorious.DisplayName: (Glorioso)
+	Hefty.DisplayName: (Pesado)
+	Lethal.DisplayName: (Letal)
+	Mighty.DisplayName: (Poderoso)
+	Pointy.DisplayName: (Puntiagudo)
+	Radical.DisplayName: (Radical)
+	Serrated.DisplayName: (Serrado)
+	Sharp.DisplayName: (Afilado)
+	Sleek.DisplayName: (Elegante)
+	Unbalanced.DisplayName: (Desbalanceado)
+	Vicious.DisplayName: (Perverso)
+	// New modifier effects (plus sign added in-code)
+	StealthDamageTooltip: "{0}% daño de ataque furtivo"
+}

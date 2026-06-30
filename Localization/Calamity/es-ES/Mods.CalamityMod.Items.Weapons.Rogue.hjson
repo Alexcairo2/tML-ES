@@ -1,0 +1,1432 @@
+AdamantiteThrowingAxe: {
+	DisplayName: Hacha Arrojadiza de Adamantita
+	Tooltip: Los golpes furtivos ignoran la gravedad y hacen caer rayos sobre los enemigos al golpear
+}
+
+AntlionSkewer: {
+	DisplayName: Espetón de Hormiga León
+	Tooltip:
+		'''
+		Lanza Hormigas León vivas y empaladas que disparan ráfagas de arena
+		Los golpes furtivos arrojan una ráfaga de bolas de arena y viento
+		Las nubes de arena reducen temporalmente el daño de contacto enemigo
+		'''
+}
+
+Apoctolith: {
+	DisplayName: Apoctolito
+	Tooltip:
+		'''
+		Los golpes críticos reducen la defensa del enemigo
+		Los golpes furtivos fragmentan y aturden brevemente a los enemigos
+		'Quizás atrapar ladrillos con la cara no es tan buena idea...'
+		'''
+}
+
+AshenStalactite: {
+	DisplayName: Estalactita Cenicienta
+	Tooltip:
+		'''
+		Lanza una pequeña estalactita que se deshace en polvo tras recorrer una corta distancia
+		Los golpes furtivos lanzan una estalagmita más grande y dañina que viaja más despacio y lejos antes de deshacerse en polvo dañino
+		'''
+}
+
+AuroradicalThrow: {
+	DisplayName: Lanzamiento Auroradical
+	Tooltip:
+		'''
+		Lanza una estrella que se divide después de un corto período de tiempo
+		Las estrellas divididas se dirigen a los enemigos cercanos tras unos segundos
+		Los golpes furtivos invocan un meteorito al impactar con enemigos
+		Esparce el [cbuff:CalamityMod/AstralInfectionDebuff]
+		'''
+}
+
+BallisticPoisonBomb: {
+	DisplayName: Bomba Venenosa Balística
+	Tooltip:
+		'''
+		Lanza una bomba pegajosa que explota en picos y nubes venenosas
+		Los golpes furtivos crean más nubes con un [cbuff:Venom] más duradero
+		'''
+}
+
+BlastBarrel: {
+	DisplayName: Barril Explosivo
+	Tooltip:
+		'''
+		Lanza un barril rodante que explota al chocar con una pared
+		Los golpes furtivos hacen que el barril rebote dos veces antes de desaparecer con efectos variados en cada rebote
+		'Había quien saltaba por encima de estos'
+		'''
+}
+
+BlazingStar: {
+	DisplayName: Estrella Ardiente
+	Tooltip:
+		'''
+		Lanza una glaive al rojo vivo que rebota
+		Después de rebotar en bloques, la glaive puede golpear al mismo enemigo de nuevo
+		Los golpes furtivos destrozan al primer enemigo que golpean y generan anillos de glaives orbitales con alto retroceso
+		'''
+}
+
+BloodsoakedCrasher: {
+	DisplayName: Destructor Ensangrentado
+	Tooltip:
+		'''
+		Lanza un hacha ensangrentada afectada por la gravedad que puede rebotar dos veces
+		El hacha acelera con el tiempo, pero se ralentiza al golpear a un enemigo
+		Arroja orbes de sangre al golpear enemigos
+		Recoger estos orbes reduce la duración de [cbuffplr:PotionSickness]
+		Los golpes furtivos generan proyectiles de sangre teledirigidos al golpear
+		'''
+}
+
+BouncingEyeball: {
+	DisplayName: Globo Ocular Rebotador
+	Tooltip:
+		'''
+		Lanza un globo ocular que rebota en las superficies
+		Los golpes furtivos hacen que los globos oculares se muevan mucho más rápido y reboten con más energía
+		El retroceso es mucho mayor durante una luna de sangre
+		'''
+}
+
+Brimblade: {
+	DisplayName: Hoja de Brimstone
+	Tooltip:
+		'''
+		Lanza una hoja que se divide al golpear enemigos
+		Los golpes furtivos se dividen más y hacen que el jugador lance una ráfaga de dardos de brimstone
+		'''
+}
+
+BurningStrife: {
+	DisplayName: Conflicto Ardiente
+	Tooltip:
+		'''
+		Lanza una bola con picos encantada que explota en [cbuff:CalamityMod/Shadowflame]
+		Los golpes furtivos hacen que la bola erupcione en tentáculos al golpear
+		'Definitivamente no es seguro llevarlo en el bolsillo'
+		'''
+}
+
+CelestialReaper: {
+	DisplayName: Segadora Celestial
+	Tooltip:
+		'''
+		Lanza una guadaña teledirigida veloz
+		La guadaña rebota tras golpear a un enemigo hasta seis veces
+		Los golpes furtivos crean imágenes fantasmales dañinas
+		'''
+}
+
+Celestus: {
+	DisplayName: Celestus
+	Tooltip:
+		'''
+		Lanza una guadaña de alta velocidad que se divide en múltiples guadañas fantasmales al golpear enemigos
+		Los golpes furtivos invierten la dirección y se dirigen a los enemigos al volver al jugador
+		Los enemigos golpeados son devastados por [cbuff:CalamityMod/MiracleBlight]
+		'''
+}
+
+Cinquedea: {
+	DisplayName: Cinquedea
+	Tooltip: Los golpes furtivos se clavan en los enemigos antes de lanzarse hacia adelante, cortando todo
+}
+
+CobaltKunai: {
+	DisplayName: Kunai de Cobalto
+	Tooltip: Los golpes furtivos disparan cuatro proyectiles de energía de cobalto teledirigidos
+}
+
+ConsecratedWater: {
+	DisplayName: Agua Consagrada
+	Tooltip:
+		'''
+		Lanza un frasco de agua sagrada que explota en un pilar de llamas sagradas
+		El pilar se destruye si no hay bloques debajo
+		Los golpes furtivos crean tres pilares de llamas en lugar de uno al impactar
+		La botella tiene un polvo sorprendente
+		'''
+}
+
+ContaminatedBile: {
+	DisplayName: Bilis Contaminada
+	Tooltip:
+		'''
+		Lanza un frasco de bilis [cbuff:CalamityMod/Irradiated] que se rompe y permanece como nube
+		Los golpes furtivos hacen que burbujas sulfúricas asciendan rápidamente desde la nube
+		'''
+}
+
+CorpusAvertor: {
+	DisplayName: Corpus Avertor
+	Tooltip:
+		'''
+		Lanza una daga giratoria que genera un clon que rebota
+		Inflige más daño cuanto más baja es tu salud, y otorga robo de vida
+		Los golpes furtivos lanzan una daga arcoíris perforadora que genera un corte extra a su paso, con un costo de sangre
+		Esta daga otorga a los jugadores de tu equipo un 10% de daño y +2 PS/s de regeneración de vida al golpear, y los cura por una porción del daño infligido
+		'Parece que se ha desgastado con el tiempo'
+		'''
+}
+
+CosmicKunai: {
+	DisplayName: Kunai Cósmico
+	Tooltip:
+		'''
+		Dispara un rápido flujo de kunai de corto alcance
+		Los golpes furtivos hacen que los kunai perforen enemigos, viajen más lejos y generen 9 guadañas teledirigidas
+		'''
+}
+
+CraniumSmasher: {
+	DisplayName: Aplastacráneos
+	Tooltip:
+		'''
+		Alterna entre lanzar discos rodantes perforadores y discos explosivos
+		Los golpes furtivos se incrustan en el enemigo golpeado, explotando varias veces
+		'''
+}
+
+CrushsawCrasher: {
+	DisplayName: Destroza-sierra Destrozadora
+	Tooltip:
+		'''
+		Lanza hachas que rebotan
+		Los golpes furtivos lanzan seis a la vez
+		'''
+	GFBFirstWords:
+		'''
+		Destroza
+		Tritura
+		Aplasta
+		Machaca
+		Destrona
+		Descarna
+		Desgarra
+		Deshoja
+		Descuartiza
+		Cangreja
+		Castaña
+		Garra
+		Zarpa
+		Castilla
+		Gatorra
+		Garrasca
+		'''
+	GFBLastWords:
+		'''
+		Destrozadora
+		Trituradora
+		Aplastadora
+		Machacadora
+		Garrotadora
+		Cazadora
+		Tajadora
+		Rajadora
+		Quebradora
+		Chasqueadora
+		Demoledora
+		Garfiadora
+		Guillotinadora
+		'''
+	GFBWordSeparator: " "
+}
+
+Crystalline: {
+	DisplayName: Cristalina
+	Tooltip:
+		'''
+		Se divide en varios proyectiles mientras viaja
+		Los golpes furtivos hacen que la hoja se divida más y cree cristales al destruirse
+		'''
+}
+
+CrystalPiercer: {
+	DisplayName: Perforadora de Cristal
+	Tooltip:
+		'''
+		Lanza una jabalina de cristal que perfora infinitamente
+		Los golpes furtivos atraviesan bloques, ignoran la gravedad y generan fragmentos de cristal al volar
+		'''
+}
+
+CursedDagger: {
+	DisplayName: Daga Maldita
+	Tooltip:
+		'''
+		Lanza una rápida daga maldita y dos dagas más débiles e imprecisas
+		Los golpes furtivos lanzan una sola daga que erupciona en un vórtice de [cbuff:CursedInferno]
+		'''
+}
+
+DeepSeaDumbbell: {
+	DisplayName: Mancuerna del Mar Profundo
+	Tooltip:
+		'''
+		Lanza una mancuerna que rebota y lanza pesos con cada rebote
+		Presiona <right> para flexionar, aumentando el daño de tu próximo ataque hasta 5 veces
+		Las flexiones pueden golpear directamente a los enemigos
+		'''
+}
+
+DeepWounder: {
+	DisplayName: Hiriente de las Profundidades
+	Tooltip:
+		'''
+		Lanza un hacha abisal
+		Los golpes furtivos hacen que el hacha se quede pegada a los enemigos golpeados, liberando una ráfaga de proyectiles de agua
+		Los proyectiles de agua se lanzan hacia el enemigo más cercano tras un breve retraso
+		'''
+}
+
+DefectiveSphere: {
+	DisplayName: Esfera Defectuosa
+	Tooltip:
+		'''
+		Dispara una variedad de esferas mortales con diferentes efectos
+		Se pueden lanzar hasta cinco esferas a la vez
+		Los golpes furtivos lanzan los 4 tipos de esferas a la vez
+		'''
+}
+
+DesecratedWater: {
+	DisplayName: Agua Profanada
+	Tooltip:
+		'''
+		Lanza un frasco de agua impía que explota en una explosión de burbujas malignas
+		Los golpes furtivos generan burbujas adicionales que infligen [cbuff:Ichor] y [cbuff:CursedInferno]
+		'''
+}
+
+DimensionTearingDisk: {
+	DisplayName: Disco Desgarrador de Dimensiones
+	Tooltip:
+		'''
+		Lanza un disco que desgarra el espacio en dirección al enemigo más cercano
+		Los golpes furtivos se adhieren a los enemigos y desatan [ceffect/dog:Matriz de Rayos de Condena del Asesino de Dioses]
+		'''
+}
+
+DoomsdayDevice: {
+	DisplayName: Dispositivo del Día del Juicio
+	Tooltip:
+		'''
+		Los golpes directos con el arma otorgan sigilo
+		Los ataques normales no consumen sigilo cuando está completamente cargado
+		Mantener una carga de golpe furtivo más allá de su límite drena el sigilo rápidamente
+		Los golpes furtivos rebotan entre múltiples enemigos, terminando en un impacto fuerte
+		'Un explosivo de alta tecnología con un poder devastador... Si tan solo pudieras armarlo'
+		'¡Al menos puedes lanzarlo con mucha fuerza!'
+		'''
+}
+
+DukesDecapitator: {
+	DisplayName: Decapitador del Duque
+	Tooltip:
+		'''
+		Lanza un hacha hidro que destroza enemigos al entrar en contacto con ellos
+		Cuanto más rápido gira el hacha, más veces golpea antes de desaparecer
+		Los golpes furtivos emiten burbujas de corto alcance
+		'''
+}
+
+DuststormInABottle: {
+	DisplayName: Tormenta de Polvo en una Botella
+	Tooltip:
+		'''
+		Desactiva la generación normal de sigilo
+		Lanza una botella llena de polvo a alta presión que se rompe al impactar con un objetivo o tras un breve retraso
+		Mantén <left> para generar sigilo, pero hará que la botella se rompa antes
+		Los golpes furtivos hacen que la botella suelte nubes de polvo alrededor durante unos segundos en lugar de romperse
+		Se romperá en tu mano si la cargas demasiado tiempo
+		'''
+}
+
+DynamicPursuer: {
+	DisplayName: Perseguidor Dinámico
+	Tooltip:
+		'''
+		Lanza un disco procesador de cálculos que dispara electricidad a los enemigos
+		Los golpes furtivos permiten que el disco rebote hacia otros objetivos, dispare láseres y desate una explosión
+		Si el disco no puede encontrar un nuevo objetivo al que rebotar, perseguirá al objetivo original
+		'''
+}
+
+EclipsesFall: {
+	DisplayName: Caída del Eclipse
+	Tooltip:
+		'''
+		Lanza una jabalina que se fragmenta en fragmentos de luz primordial al golpear enemigos
+		Si existen más de 20 fragmentos, los más antiguos buscarán enemigos para atacar
+		Los golpes furtivos fusionan fragmentos en [ceffect/darksun:Lanza del Oscurecimiento], ganando poder según la cantidad de fragmentos
+		[ceffect/darksun:Lanza del Oscurecimiento] atravesará a cualquier enemigo golpeado por Caída del Eclipse
+		[ceffect/darksun:'Cuando el sol se oscurezca, todos conocerán el terror']
+		'''
+}
+
+ElephantKiller: {
+	DisplayName: Matador de Elefantes
+	Tooltip:
+		'''
+		Puede lanzarse para ganar [STEALTHGAIN]% del sigilo máximo al golpear
+		<right> para gastar [STEALTHCOST]% del sigilo máximo y disparar el arma con daño aumentado
+		Todos los disparos siempre dan golpe crítico, y la probabilidad de crítico aumenta el daño crítico
+		Los golpes furtivos disparan un [c/87CEFA:Elefante Espectral] desde el arma
+		Los disparos que pasan por el [c/87CEFA:Elefante Espectral] son redirigidos y potenciados enormemente
+		[c/D4827A:La generación natural de sigilo y el daño de sigilo están desactivados al sostener esta arma]
+		[c/D78DDD:'¿Por qué mi arma se llama Matador de Elefantes?]
+		[c/D78DDD:...]
+		[c/D78DDD:No te preocupes por eso']
+		'''
+}
+
+EnchantedAxe: {
+	DisplayName: Hacha Encantada
+	Tooltip:
+		'''
+		Lanza un hacha de alta velocidad que vuelve a ti tras recorrer una corta distancia o golpear una pared
+		En el punto más lejano del jugador, se lanzará un hacha mágica que atraviesa paredes hacia el enemigo más cercano
+		Los golpes furtivos hacen que el hacha vuele más lejos, lanzando hachas mágicas teledirigidas adicionales
+		'''
+}
+
+EpidemicShredder: {
+	DisplayName: Destroza-epidemia
+	Tooltip:
+		'''
+		Lanza un búmeran infectado que suelta buscadores de [cbuff:CalamityMod/Plague] al golpear bloques o enemigos
+		Los golpes furtivos hacen que el búmeran suelte buscadores de [cbuff:CalamityMod/Plague] constantemente mientras viaja
+		A pesar de su nombre, probablemente causará una epidemia si se usa incorrectamente
+		'''
+}
+
+Equanimity: {
+	DisplayName: Ecuanimidad
+	Tooltip:
+		'''
+		Lanza un búmeran que rebota entre enemigos y los deja [cbuff:Confused]
+		Los golpes a enemigos alternan entre invocar fragmentos de luz teledirigidos o fragmentos oscuros perforadores
+		Los golpes furtivos causan una explosión alternante de luz u oscuridad en cada rebote, potenciando el color opuesto de fragmento
+		'''
+}
+
+ExecutionersBlade: {
+	DisplayName: Hoja del Ejecutor
+	Tooltip:
+		'''
+		Lanza un flujo de hojas teledirigidas
+		Los golpes furtivos invocan una guillotina de hojas al golpear
+		'''
+}
+
+Exorcism: {
+	DisplayName: Exorcismo
+	Tooltip:
+		'''
+		Lanza una enorme cruz sagrada hacia los cielos, que caerá sobre tu cursor un momento después
+		Los enemigos golpeados al caer quedan empalados y abrasados repetidamente con luz santa
+		Al expirar se crea una explosión en forma de cruz
+		Los golpes furtivos giran y lanzan la cruz, terminando en una explosión más fuerte sobre tu cursor
+		'''
+}
+
+FantasyTalisman: {
+	DisplayName: Talismán de Fantasía
+	Tooltip:
+		'''
+		Dispara talismanes de alta velocidad que ignoran la gravedad
+		Los talismanes se adhieren a los enemigos, liberando almas vengativas que los persiguen
+		Los golpes furtivos liberan más almas y estallan en almas perdidas al destruirse
+		'¡Menos mal que no aposté en tu contra!'
+		'''
+}
+
+FeatherKnife: {
+	DisplayName: Cuchillo Pluma
+	Tooltip:
+		'''
+		Lanza un cuchillo que invoca plumas teledirigidas
+		Los golpes furtivos lanzan una descarga de cuchillos
+		'''
+}
+
+FishboneBoomerang: {
+	DisplayName: Búmeran de Espina de Pez
+	Tooltip:
+		'''
+		Rebota entre hasta tres enemigos
+		Los golpes furtivos liberan fragmentos de hueso podrido con cada rebote
+		[c/5C95A1:Aunque el evaporado Reino del Mar libró una batalla perdida, sus orgullosos habitantes no cayeron fácilmente.]
+		[c/5C95A1:Como último recurso, tuvieron que fabricar armas con los esqueletos de animales muertos.]
+		'''
+}
+
+FrostcrushValari: {
+	DisplayName: Valari Aplasta-hielo
+	Tooltip:
+		'''
+		Dispara un búmeran helado de largo alcance que astilla carámbanos teledirigidos al golpear
+		Los golpes furtivos lanzan un búmeran que sigue al cursor
+		'''
+}
+
+FrostyFlare: {
+	DisplayName: Bengala Helada
+	Tooltip:
+		'''
+		Lanza una bengala que se adhiere a los enemigos y les lanza una granizada
+		Los golpes furtivos invocan copias fantasmales en lugar de fragmentos de hielo
+		'No insertar en pistola de bengalas'
+		'''
+}
+
+GacruxianMollusk: {
+	DisplayName: Molusco Gacruxiano
+	Tooltip:
+		'''
+		Libera chispas teledirigidas mientras viaja
+		Los golpes furtivos liberan caracoles teledirigidos que crean aún más chispas
+		'''
+}
+
+GelDart: {
+	DisplayName: Dardo de Gel
+	Tooltip:
+		'''
+		Lanza dardos de gel que rebotan y cubren a los enemigos con [cbuff:Slimed]
+		Los golpes furtivos ignoran la gravedad, rebotan con más vigor y gotean gel constantemente
+		'''
+}
+
+GhoulishGouger: {
+	DisplayName: Excavador Espectral
+	Tooltip:
+		'''
+		Lanza conjuntos de cuatro guadañas espectrales a ultra alta velocidad
+		Los golpes furtivos invocan una ráfaga de almas atormentadas al golpear
+		'''
+}
+
+GildedDagger: {
+	DisplayName: Daga Dorada
+	Tooltip:
+		'''
+		Lanza una hoja reluciente que rebota hacia otro enemigo al golpear
+		Los golpes furtivos hacen que la hoja se dirija tras rebotar, con cada rebote infligiendo un 5% más de daño
+		Los golpes furtivos también tienen mayor penetración
+		'''
+}
+
+Glaive: {
+	DisplayName: Glaive
+	Tooltip:
+		'''
+		Lanza una glaive que rebota
+		Los golpes furtivos destrozan al primer enemigo que golpean y generan un anillo de glaives orbitales con alto retroceso
+		'''
+}
+
+GleamingDagger: {
+	DisplayName: Daga Reluciente
+	Tooltip:
+		'''
+		Lanza una hoja reluciente que rebota hacia otro enemigo al golpear
+		Los golpes furtivos hacen que la hoja se dirija tras rebotar, con cada rebote infligiendo un 5% más de daño
+		Los golpes furtivos también tienen mayor penetración
+		'''
+}
+
+GodsParanoia: {
+	DisplayName: Paranoia de los Dioses
+	Tooltip:
+		'''
+		Lanza bolas con picos teledirigidas que se adhieren a los enemigos
+		Las bolas adheridas invocan una tormenta localizada de kunai aniquiladores de dioses en cada golpe
+		Los golpes furtivos se dirigen más rápido y golpean a mayor velocidad
+		'''
+}
+
+GraveGrimreaver: {
+	DisplayName: Segador Sepulcral
+	Tooltip:
+		'''
+		Lanza una guadaña maldita teledirigida
+		La guadaña invoca calaveras mientras vuela y explota en murciélagos al golpear
+		Los golpes furtivos generan una oleada de murciélagos y calaveras que caen al destruirse
+		'El arma predilecta de un esqueleto elegante'
+		'''
+}
+
+HardenedHoneycomb: {
+	DisplayName: Panal Endurecido
+	Tooltip:
+		'''
+		Dispara un panal que se fragmenta en trozos
+		Los golpes furtivos otorgan el buff [cbuffplr:Honey] al golpear y generan abejas
+		'''
+}
+
+HeavenfallenStardisk: {
+	DisplayName: Disco Estelar Caído del Cielo
+	Tooltip:
+		'''
+		Lanza un disco estelar hacia arriba que luego se lanza hacia el cursor
+		Explota en una estrella de proyectiles astrales que esparcen el [cbuff:CalamityMod/AstralInfectionDebuff]
+		Los golpes furtivos hacen llover proyectiles de energía astral desde el cielo
+		'''
+}
+
+Hypothermia: {
+	DisplayName: Hipotermia
+	Tooltip:
+		'''
+		Lanza una ráfaga constante de fragmentos de hielo negro
+		Los golpes furtivos arrojan un conjunto de trozos de hielo muy afilados que se fragmentan al impactar
+		'''
+}
+
+Icebreaker: {
+	DisplayName: Rompehielos
+	Tooltip:
+		'''
+		Lanza un martillo helado que regresa mágicamente al jugador
+		Los golpes furtivos generan una explosión cósmica y congelan a los enemigos cercanos al golpear
+		'''
+}
+
+IceStar: {
+	DisplayName: Estrella de Hielo
+	Tooltip:
+		'''
+		Lanza estrellas de hielo teledirigidas rápidas pero frágiles
+		Los golpes furtivos duran más y generan estrellas teledirigidas más pequeñas en el primer golpe
+		'''
+}
+
+IchorSpear: {
+	DisplayName: Lanza de Icor
+	Tooltip:
+		'''
+		Lanza una jabalina de alta velocidad con punta de [cbuff:Ichor] que perfora enemigos
+		Los golpes furtivos empalan a los enemigos e infligen daño repetido
+		'''
+}
+
+InfernalKris: {
+	DisplayName: Kris Infernal
+	Tooltip:
+		'''
+		Lanza rápidamente dagas ardientes
+		Los golpes furtivos envuelven la daga en llamas, que explota al golpear paredes y enemigos
+		'''
+}
+
+InfestedClawmerang: {
+	DisplayName: Garrarang Infestado
+	Tooltip:
+		'''
+		Dispara un búmeran lento y de largo alcance
+		Los golpes furtivos otorgan el buff [cbuffplr:CalamityMod/Mushy] al usuario al golpear enemigos e invocan esporas teledirigidas
+		'''
+}
+
+IronFrancisca: {
+	DisplayName: Francisca de Hierro
+	Tooltip:
+		'''
+		Las franciscas infligen más daño por un corto tiempo cuando se lanzan inicialmente
+		Los golpes furtivos perforan hasta 6 veces
+		'''
+}
+
+JawsOfOblivion: {
+	DisplayName: Mandíbulas del Olvido
+	Tooltip:
+		'''
+		Lanza un apretado abanico de seis dientes de segadora con [cbuff:Venom] que se clavan en los enemigos
+		El [cbuff:Venom] puede acumularse cuando se clavan más dientes en un enemigo
+		Los golpes furtivos hacen que los dientes emitan una onda expansiva aplastante al impactar
+		'Vas a necesitar un barco más grande'
+		'''
+}
+
+KelvinCatalyst: {
+	DisplayName: Catalizador Kelvin
+	Tooltip:
+		'''
+		Lanza una hoja de hielo que se divide en múltiples estrellas de hielo al golpear enemigos
+		Los golpes furtivos cobran sentido brevemente y embisten a los enemigos cercanos antes de volver al jugador
+		'''
+}
+
+Kylie: {
+	DisplayName: Kylie
+	Tooltip:
+		'''
+		Los golpes furtivos lanzan una kylie que busca débilmente tu cursor
+		'También conocida como Dowak'
+		'''
+}
+
+LeadTomahawk: {
+	DisplayName: Tomahawk de Plomo
+	Tooltip:
+		'''
+		Los tomahawks infligen más daño por un corto tiempo cuando se lanzan inicialmente
+		Los golpes furtivos perforan hasta 6 veces
+		'''
+}
+
+LeonidProgenitor: {
+	DisplayName: Progenitor Leónida
+	Tooltip:
+		'''
+		Lanza una bomba que explota, invocando un meteorito para impactar el lugar y esparcir el [cbuff:CalamityMod/AstralInfectionDebuff]
+		Presiona <right> para lanzar una dispersión de cometas afectados por la gravedad que explotan, dejando una estrella
+		Los golpes furtivos lanzan una bomba que además se divide en cometas al golpear
+		'''
+}
+
+LeviathanTeeth: {
+	DisplayName: Dientes de Leviatán
+	Tooltip:
+		'''
+		Lanza rápidamente una dispersión de dientes que se clavan en los enemigos
+		Tras clavarse en un enemigo, los dientes los atraviesan y salen por el otro lado
+		Los golpes furtivos crean una mandíbula aplastante para destrozar a tus enemigos
+		'''
+}
+
+Lionfish: {
+	DisplayName: Pez León
+	Tooltip:
+		'''
+		Se clava en los enemigos e inyecta un potente [cbuff:Venom]
+		El [cbuff:Venom] puede acumularse cuando se clavan más peces en un enemigo
+		Los golpes furtivos generan picos de erizo teledirigidos mientras viajan
+		'''
+}
+
+LunarKunai: {
+	DisplayName: Kunai Lunar
+	Tooltip:
+		'''
+		Lanza un conjunto de tres kunai que ignoran la gravedad y se dirigen levemente a los enemigos
+		Tras recorrer suficiente distancia, los kunai se sobrecargan con energía lunar, dirigiéndose mucho más agresivamente y explotando al impactar
+		Los golpes furtivos lanzan instantáneamente diez Kunai sobrecargados
+		'''
+}
+
+Malachite: {
+	DisplayName: Malaquita
+	Tooltip:
+		'''
+		Lanza una corriente de kunai que se adhieren a los enemigos y explotan
+		Presiona <right> para lanzar un único kunai que perfora; tras perforar un enemigo, emite una explosión masiva en el siguiente impacto
+		Los golpes furtivos disparan tres kunai teledirigidos que se adhieren a los enemigos y explotan
+		'''
+	LegendaryText:
+		'''
+		> ESTADO_
+		Daño extensivo en el casco. Reparaciones iniciadas.
+		Arrays de sensores fuera de línea. Reparaciones programadas T+2200.
+
+		> ACTUALIZAR_DIRECTRIZ_
+		Error 0x00017F80. Sector del dispositivo ilegible.
+		Iniciando búsqueda de directriz externa.
+		Buscando... (383526 restantes)
+		Directriz encontrada.
+		Nueva directriz compilada. Reiniciando...
+
+		> UNIDAD DE PLAGA 194-QB-03d EN LÍNEA.
+		Resumen de directriz:
+		Continuar propagación de banda de frecuencia unificada y liderar unidades satélite.
+		'''
+}
+
+MangroveChakram: {
+	DisplayName: Chakram de Mangle
+	Tooltip: Los golpes furtivos dejan un rastro de flores persistentes
+}
+
+MetalMonstrosity: {
+	DisplayName: Monstruosidad Metálica
+	Tooltip:
+		'''
+		Lanza una pesada bola de metal que se fragmenta en esquirlas y bolas con picos al impactar
+		Los golpes furtivos hacen que la bola empalé a los enemigos golpeados, perforándolos con esquirlas extra al romperse
+		'Esto tiene que doler'
+		'''
+}
+
+MeteorFist: {
+	DisplayName: Puño Meteórico
+	Tooltip:
+		'''
+		Dispara un puño cohete guiado por cable que busca el cursor y acelera con el tiempo
+		Los golpes furtivos empiezan a acelerar inmediatamente y hacen caer un meteorito sobre el enemigo golpeado
+		'''
+}
+
+MoltenAmputator: {
+	DisplayName: Amputador Fundido
+	Tooltip:
+		'''
+		Lanza una guadaña giratoria que permanece en tu cursor
+		<right> para recuperar todas las guadañas existentes
+		Recuperar una guadaña mientras está sobre un enemigo lo desgarra causando daño masivo
+		<right> con suficiente sigilo para potenciar las próximas {0} guadañas y aumentar enormemente la velocidad de ataque
+		No puedes recuperar guadañas lanzadas mientras estás potenciado
+		'''
+}
+
+Mycoroot: {
+	DisplayName: Raíz Micótica
+	Tooltip:
+		'''
+		Dispara un flujo de raíces fúngicas de corto alcance
+		Los golpes furtivos generan una explosión de esporas fúngicas
+		Esto otorga a ti y a los jugadores cercanos de tu equipo el buff [cbuffplr:CalamityMod/Mushy] durante 15 segundos
+		'''
+}
+
+MythrilKnife: {
+	DisplayName: Cuchillo de Mithril
+	Tooltip: Los golpes furtivos están cubiertos de toxinas mortales, infligiendo [cbuff:CalamityMod/Irradiated], [cbuff:Poisoned] y [cbuff:Venom]
+}
+
+NanoblackReaper: {
+	DisplayName: Segadora Nanoscura
+	Tooltip:
+		'''
+		Lanza una guadaña que forma rápidamente un enjambre de teselaciones nanoscuras de luz sólida
+		Cada teselación nanoscura emite un golpe de energía de punto cero instantáneo
+		Los golpes de energía de punto cero tienen 150 de penetración de armadura y apuntarán a jefes siempre que sea posible
+		Suelta <left> justo cuando la guadaña empiece a volver para cortar al enemigo más cercano a tu cursor a la velocidad de la luz
+		Los cortes a velocidad de la luz tienen 150 de penetración de armadura. Si se sincronizan en una ventana de 4 fotogramas, hacen supercrítico con +100% de probabilidad de crítico
+		<right> con suficiente sigilo para aumentar enormemente la velocidad de ataque por un corto tiempo
+		Las guadañas lanzadas durante las ráfagas emiten golpes de energía sobrecargados pero no pueden recuperarse manualmente
+		'''
+	HoldShiftTooltip:
+		'''
+		'Quien toma la pluma escribe el guion.
+		Ella no tiene intención de soltarla jamás.
+		Su diseño eclipsa tus estrellas contables.
+		El brillo que Ella irradia los dejará a todos en vergüenza.'
+		'''
+	FlavorTooltip: "'La asfixió con Su odio.'"
+}
+
+NastyCholla: {
+	DisplayName: Cholla Desagradable
+	Tooltip:
+		'''
+		Lanza una bola con picos que se adhiere a todo
+		Explota en picos de cactus tras aproximadamente 3 segundos
+		Puede dañar PNJ del pueblo
+		Los golpes furtivos lanzan cuatro a la vez
+		'''
+}
+
+OrichalcumSpikedGemstone: {
+	DisplayName: Gema con Picos de Oricalco
+	Tooltip: Los golpes furtivos duran más e invocan pétalos al golpear enemigos
+}
+
+PalladiumJavelin: {
+	DisplayName: Jabalina de Paladio
+	Tooltip: Los golpes furtivos se dividen en más jabalinas y aumentan la regeneración natural de vida al golpear
+}
+
+Penumbra: {
+	DisplayName: Penumbra
+	Tooltip:
+		'''
+		Lanza una bomba de sombra que explota en almas teledirigidas y llamas
+		Los golpes furtivos hacen que la bomba se manifieste en el cursor y explote en más almas
+		'''
+}
+
+PhantasmalRuin: {
+	DisplayName: Ruina Fantasmal
+	Tooltip:
+		'''
+		Dispara una gran lanza fantasmal que explota en espíritus al golpear enemigos
+		Los golpes furtivos perforan dos veces e invocan muchos espíritus de las profundidades en el primer golpe
+		'''
+}
+
+Plaguenade: {
+	DisplayName: Plagranada
+	Tooltip:
+		'''
+		Libera un enjambre de furiosas abejas de [cbuff:CalamityMod/Plague]
+		Los golpes furtivos generan más abejas y crean una explosión mayor
+		'''
+}
+
+Prismalline: {
+	DisplayName: Prismalina
+	Tooltip:
+		'''
+		Lanza dagas que se dividen después de un tiempo
+		Los golpes furtivos también explotan en fragmentos de prisma y aturden brevemente a los enemigos
+		'''
+}
+
+ProfanedPartisan: {
+	DisplayName: Partisana Profanada
+	Tooltip:
+		'''
+		Lanza una lanza profanada que se divide en lanzas en miniatura al golpear a un enemigo
+		Los golpes furtivos quedan clavados en un enemigo durante 10 segundos
+		Mientras un enemigo está empalado, todas las lanzas que lo golpeen se fragmentan en estrellas explosivas
+		'''
+}
+
+RadiantStar: {
+	DisplayName: Estrella Radiante
+	Tooltip:
+		'''
+		Lanza dagas que explotan y se dividen después de un tiempo y esparcen el [cbuff:CalamityMod/AstralInfectionDebuff]
+		Los golpes furtivos se dividen más con una explosión devastadora que succiona enemigos
+		'''
+}
+
+RealityRupture: {
+	DisplayName: Ruptura de la Realidad
+	Tooltip:
+		'''
+		Alterna entre lanzar 3 lanzas pequeñas teledirigidas y lanzar una única lanza perforadora
+		Los golpes furtivos lanzan una lanza de alta velocidad que desgarra la realidad y explota al golpear
+		'''
+}
+
+ReboundingRainbow: {
+	DisplayName: Arcoíris Rebotador
+	Tooltip:
+		'''
+		Lanza un disco que tiene posibilidades de generar varios discos si hay enemigos cerca
+		Los golpes furtivos vuelan más despacio pero viajan más lejos, perforan enemigos y generan discos extra con más frecuencia
+		'''
+}
+
+RefractionRotor: {
+	DisplayName: Rotor de Refracción
+	Tooltip:
+		'''
+		Lanza un enorme shuriken prismático
+		El shuriken se fragmenta momentos después del impacto en hojas teledirigidas
+		Los golpes furtivos lanzan 3 shurikens que se dirigen rápidamente a los enemigos
+		'''
+}
+
+RegulusRiot: {
+	DisplayName: Alboroto de Régulo
+	Tooltip:
+		'''
+		Dispara un disco veloz teledirigido que esparce el [cbuff:CalamityMod/AstralInfectionDebuff]
+		Los golpes furtivos explotan en estrellas de energía
+		'''
+}
+
+RotBall: {
+	DisplayName: Bola de Podredumbre
+	Tooltip: Los golpes furtivos generan nubes de lluvia al golpear enemigos
+}
+
+Sacrifice: {
+	DisplayName: Sacrificio
+	Tooltip:
+		'''
+		Lanza dagas sacrificiales que se incrustan en los enemigos
+		Presiona <right> para hacer que todas las dagas clavadas vuelen de regreso a ti y te den vida
+		Las dagas clavadas en enemigos liberan explosiones de sangre con el tiempo
+		Los golpes furtivos quedan clavados más tiempo y dan mucha más vida al volver a ti
+		'''
+}
+
+SamsaraSlicer: {
+	DisplayName: Cortador de Samsara
+	Tooltip:
+		'''
+		Lanza un disco que tiene posibilidades de generar varios discos si hay enemigos cerca
+		Los golpes furtivos destrozan a los enemigos y son rápidamente orbitados por los discos más pequeños
+		'''
+}
+
+SandDollar: {
+	DisplayName: Dólar de Arena
+	Tooltip:
+		'''
+		Lanza hasta 2 dólares de arena que regresan
+		Los golpes furtivos lanzan 2 dólares de arena de largo alcance que explotan en fragmentos de coral al golpear enemigos
+		'''
+}
+
+ScarletDevil: {
+	DisplayName: Diablo Escarlata
+	Tooltip:
+		'''
+		Lanza una lanza de ultra alta velocidad que deja un rastro de balas teledirigidas
+		La lanza crea un Estallido Escarlata al golpear a un enemigo
+		Los golpes furtivos otorgan robo de vida e invocan una estrella de proyectiles al golpear a un enemigo
+		'Lanza Divina "Traspasar el Gungnir"'
+		'''
+}
+
+ScourgeoftheDesert: {
+	DisplayName: Azote del Desierto
+	Tooltip:
+		'''
+		Una jabalina que se hundirá en el suelo y se lanzará hacia los enemigos
+		Los golpes furtivos lanzan tres jabalinas que se hundirán múltiples veces
+		'''
+}
+
+ScourgeoftheSeas: {
+	DisplayName: Azote de los Mares
+	Tooltip:
+		'''
+		Se fragmenta en nubes de [cbuff:CalamityMod/Irradiated] al golpear a un enemigo
+		Los golpes furtivos causan un [cbuff:CalamityMod/Irradiated] más prolongado y además están cubiertos de [cbuff:Venom]
+		'''
+}
+
+SeafoamBomb: {
+	DisplayName: Bomba de Espuma de Mar
+	Tooltip:
+		'''
+		Lanza una bomba que explota en una burbuja que inflige daño extra a los enemigos
+		Los golpes furtivos son más rápidos y explotan en 5 burbujas
+		'''
+}
+
+SealedSingularity: {
+	DisplayName: Singularidad Sellada
+	Tooltip:
+		'''
+		Desactiva la generación normal de sigilo
+		Lanza una bomba de singularidad contenida que se ralentiza y crea un campo dañino tras un corto fusible
+		Mantén <left> para generar sigilo, pero quema el fusible de la bomba
+		Tras colapsar el campo, la singularidad busca al objetivo más fuerte que golpeó y explota
+		Los golpes furtivos aumentan el tamaño y duración del campo dañino
+		Explotará en tu mano si mantienes el fusible demasiado tiempo
+		'''
+}
+
+Seraphim: {
+	DisplayName: Serafín
+	Tooltip:
+		'''
+		Lanza una daga extraordinariamente rápida que se ralentiza exponencialmente y se disipa en luz
+		Una vez que la disipación termina, se liberan 6 hojas divisoras que cortan a los objetivos cercanos, junto con un gran rayo láser
+		Los golpes furtivos liberan una descarga de 8 luces que explotan en rayos láser más pequeños junto con la daga
+		'''
+}
+
+ShardofAntumbra: {
+	DisplayName: Fragmento de Antumbra
+	Tooltip:
+		'''
+		Lanza una jabalina cósmica que se clava en enemigos y bloques, creando una pequeña fisura cercana al golpear enemigos
+		Tras golpear un objetivo, se cargará con energía y se teletransportará a la fisura, apuntándose al objetivo más cercano
+		Los golpes furtivos crean una multitud de fisuras para generar jabalinas adicionales al teletransportarse
+		'''
+}
+
+ShatteredDawn: {
+	DisplayName: Alba Fragmentada
+	Tooltip:
+		'''
+		Lanza dagas que se dividen en dagas teledirigidas ardientes
+		Los golpes furtivos disparan descargas de dagas teledirigidas desde el jugador al golpear dagas que absorben enemigos
+		'''
+}
+
+ShinobiBlade: {
+	DisplayName: Hoja Shinobi
+	Tooltip:
+		'''
+		Lanza una hoja veloz que genera orbes curativos al matar a un enemigo
+		Los golpes furtivos apuñalan al enemigo golpeado repetidamente desde direcciones aleatorias
+		'''
+}
+
+SkyfinBombers: {
+	DisplayName: Bombarderos Skyfin
+	Tooltip:
+		'''
+		Lanza un misil skyfin que se dirige a los enemigos que están debajo
+		Los golpes furtivos se dirigen rápidamente independientemente de la posición del enemigo
+		'¡Bombarderos pez entrantes!'
+		'''
+}
+
+SlickCane: {
+	DisplayName: Bastón Resbaladizo
+	Tooltip:
+		'''
+		Golpea con un bastón que roba dinero a los enemigos
+		Los golpes furtivos dan una probabilidad de 1 en 20 de que los enemigos suelten 1-2 monedas de oro al ser golpeados
+		Los golpes furtivos aumentan el daño en proporción al dinero en el inventario, hasta 1 Platino
+		'La economía en su máxima expresión'
+		'''
+}
+
+SludgeSplotch: {
+	DisplayName: Mancha de Lodo
+	Tooltip: Los golpes furtivos hacen que la bola principal de lodo se divida al golpear, infligiendo más daño
+}
+
+SnapClam: {
+	DisplayName: Almeja Chasqueante
+	Tooltip:
+		'''
+		Puede adherirse a los enemigos e infligir [cbuff:CalamityMod/SnapClamDebuff]
+		Los golpes furtivos lanzan cinco almejas a la vez
+		'''
+}
+
+SpearofDestiny: {
+	DisplayName: Lanza del Destino
+	Tooltip:
+		'''
+		Alterna entre lanzar 3 lanzas pequeñas teledirigidas y lanzar una única lanza perforadora
+		Los golpes furtivos lanzan una lanza santa de alta velocidad que explota al golpear
+		'''
+}
+
+SpearofPaleolith: {
+	DisplayName: Lanza del Paleolito
+	Tooltip:
+		'''
+		Lanza una lanza antigua que se fragmenta en esquirlas de fósil al golpear a un enemigo
+		Los golpes furtivos quedan clavados en el enemigo durante 10 segundos
+		Mientras un enemigo está empalado, todas las lanzas que lo golpeen erupcionan en aún más esquirlas de fósil
+		'''
+}
+
+SpentFuelContainer: {
+	DisplayName: Contenedor de Combustible Gastado
+	Tooltip:
+		'''
+		Lanza un contenedor de combustible con trazas de plutonio que causa una explosión nuclear
+		La explosión no ocurre si no hay bloques debajo
+		Los golpes furtivos dejan una zona persistente de [cbuff:CalamityMod/Irradiated] tras disiparse la explosión
+		'La guerra nunca cambia'
+		'''
+}
+
+SporeKnife: {
+	DisplayName: Cuchillo de Esporas
+	Tooltip:
+		'''
+		Lanza una daga cubierta de hongos que estalla en una nube de esporas venenosas
+		Los golpes furtivos erupcionan en capullos hambrientos teledirigidos que se adhieren a los enemigos y los roen
+		'''
+}
+
+StarofDestruction: {
+	DisplayName: Estrella de la Destrucción
+	Tooltip:
+		'''
+		Lanza un abanico de proyectiles cósmicos que se fusionan en una estrella de la destrucción
+		La estrella explosiva seguirá lentamente tu cursor hasta que expire o golpee a un enemigo
+		Al quedarse sin tiempo, la estrella estallará en una enorme explosión que inflige daño aumentado
+		Los golpes furtivos lanzan proyectiles adicionales que convergen en una estrella más rápida que puede perforar, explotando en cada golpe
+		'''
+}
+
+StellarKnife: {
+	DisplayName: Cuchillo Estelar
+	Tooltip:
+		'''
+		Lanza cuchillos que se detienen en el aire y luego se dirigen a los enemigos, esparciendo el [cbuff:CalamityMod/AstralInfectionDebuff]
+		Los golpes furtivos lanzan una descarga de 10 cuchillos en dispersión
+		'ZA WARUDO'
+		'''
+}
+
+StormfrontRazor: {
+	DisplayName: Navaja del Frente de Tormenta
+	Tooltip:
+		'''
+		Lanza un cuchillo que invoca rayos al golpear
+		Los golpes furtivos hacen que el cuchillo sea más rápido e invoque múltiples rayos al golpear
+		[c/24C7F0:'Golpea y detén el flujo']
+		'''
+}
+
+SubductionSlicer: {
+	DisplayName: Cortador de Subducción
+	Tooltip:
+		'''
+		Lanza una guadaña que explota al golpear enemigos
+		Los golpes furtivos también invocan un pilar de fuego al golpear enemigos
+		'''
+}
+
+Supernova: {
+	DisplayName: Supernova
+	Tooltip:
+		'''
+		Desactiva la generación normal de sigilo
+		Mantén <left> para generar sigilo, o mantén <right> para lanzar la bomba sin generar sigilo
+		Lanza una bomba inteligente que bloquea y rastrea objetivos
+		Si no se encuentra ningún objetivo, volverá a ti
+		Cada bomba crea una supernova miniatura de [cbuff:CalamityMod/MiracleBlight] que succiona a los enemigos débiles y persigue a los fuertes
+		Los golpes furtivos crean una explosión que sacude los cimientos de la realidad misma
+		'''
+}
+
+TarragonThrowingDart: {
+	DisplayName: Dardo Arrojadizo de Estragón
+	Tooltip:
+		'''
+		Dispara un dardo perforador
+		Los golpes furtivos erupcionan en espinas al golpear enemigos
+		'''
+}
+
+TerrorTalons: {
+	DisplayName: Garras del Terror
+	Tooltip:
+		'''
+		Dispara pequeñas garras ondulantes
+		Los golpes furtivos lanzan una garra grande y de alta velocidad que corta múltiples veces
+		'''
+}
+
+TheAtomSplitter: {
+	DisplayName: El Divisor de Átomos
+	Tooltip:
+		'''
+		Lanza una jabalina superpuesta cuánticamente que golpea desde numerosas líneas temporales a la vez
+		Los golpes furtivos realizan muchos más golpes simultáneos
+		'''
+}
+
+TheFinalDawn: {
+	DisplayName: El Alba Final
+	Tooltip:
+		'''
+		Ataca enemigos con un gran golpe de guadaña para reponer sigilo
+		Presiona arriba y ataca para lanzar la guadaña
+		Los golpes furtivos realizan un golpe horizontal que deja un aura de fuego persistente
+		Los golpes furtivos realizados mientras presionas arriba te lanzan hacia el enemigo y los cortas, haciendo emerger bolas de fuego teledirigidas
+		'Cabalgaremos hacia el amanecer una vez más'
+		'''
+}
+
+TheOldReaper: {
+	DisplayName: El Viejo Segador
+	Tooltip:
+		'''
+		Lanza una guadaña que corta a los enemigos
+		Deposita isótopos inestables al golpear, que crean explosiones nucleares diferidas cuando se descomponen
+		Los golpes furtivos se lanzan hacia el cielo y caen sobre los enemigos unos segundos después
+		Al golpear, los golpes furtivos crean un diluvio concentrado de lluvia ácida
+		'''
+}
+
+TheSyringe: {
+	DisplayName: La Jeringa
+	Tooltip:
+		'''
+		Lanza una jeringa de alta velocidad que aumenta el daño mientras viaja
+		Se fragmenta en cristales y brasas al impactar
+		Los golpes furtivos también se fragmentan en abejas de [cbuff:CalamityMod/Plague]
+		'Estoy bastante seguro de que esto no es saludable'
+		'''
+}
+
+ThrowingBrick: {
+	DisplayName: Ladrillo Arrojadizo
+	Tooltip:
+		'''
+		Los golpes furtivos hacen que el ladrillo se fragmente
+		'Demuestra su resistencia lanzándolo hacia arriba y atrapándolo con la cara'
+		'''
+}
+
+TimeBolt: {
+	DisplayName: Rayo del Tiempo
+	Tooltip:
+		'''
+		Lanza un cuchillo temporal que causa [cbuff:CalamityMod/TimeDistortion] alrededor de los enemigos
+		Los golpes furtivos pueden golpear a más enemigos y crear un campo temporal más grande
+		'No debe haber límites para el empeño humano'
+		'''
+}
+
+TitaniumShuriken: {
+	DisplayName: Shuriken de Titanio
+	Tooltip: Los golpes furtivos actúan como un búmeran que genera clones al golpear enemigos
+}
+
+ToothBall: {
+	DisplayName: Bola de Dientes
+	Tooltip: Los golpes furtivos generan nubes de lluvia al golpear enemigos
+}
+
+TotalityBreakers: {
+	DisplayName: Rompedores de Totalidad
+	Tooltip:
+		'''
+		Explota en alquitrán negro altamente inflamable
+		El alquitrán negro deja a los enemigos [cbuff:Oiled] y los prende fuego
+		Los golpes furtivos gotean alquitrán negro mientras vuelan
+		'Necesito un cortador más grande'
+		'''
+}
+
+ToxicantTwister: {
+	DisplayName: Torbellino Tóxico
+	Tooltip:
+		'''
+		Lanza un abanico de cuatro discos giratorios que se arremolina alrededor de tu cursor
+		Los golpes furtivos se arremolina en un rango más amplio y crean un vórtice de gotas de lluvia que se dirigen a los enemigos
+		'''
+}
+
+Turbulance: {
+	DisplayName: Turbulencia
+	Tooltip:
+		'''
+		Dispara una jabalina nublada que estalla en cortes de viento al golpear
+		Los cortes de viento ocasionalmente se dirigen, y siempre se dirigen si la jabalina hace crítico
+		Los golpes furtivos son seguidos de cortes de viento teledirigidos
+		'''
+}
+
+TwistingThunder: {
+	DisplayName: Trueno Retorcido
+	Tooltip:
+		'''
+		Dispara un rayo que electrocuta a los enemigos
+		El rayo viaja más rápido mientras llueve
+		Invoca rayos del cielo al impactar
+		Los golpes furtivos invocan más rayos y viajan más rápido
+		'''
+}
+
+UrchinStinger: {
+	DisplayName: Aguijón de Erizo
+	Tooltip:
+		'''
+		Se clava en los enemigos e inyecta un veneno extremadamente potente
+		Los golpes furtivos se clavan y dejan a los enemigos [cbuff:Poisoned] por más tiempo
+		Clavar siete aguijones en un enemigo con un golpe furtivo clavado invoca una explosión irradiada
+		'''
+}
+
+UtensilPoker: {
+	DisplayName: Pinchaútiles
+	Tooltip:
+		'''
+		Dispara utensilios en ráfagas de tres
+		Los golpes furtivos reemplazan cualquier utensilio con un poderoso cuchillo de carnicero
+		'Pollos espaciales, eso es todo'
+		'''
+}
+
+Valediction: {
+	DisplayName: Valedición
+	Tooltip:
+		'''
+		Lanza una guadaña teledirigida de segador
+		Los golpes furtivos generan tifones de cuchillas de afeitar al golpear enemigos
+		'''
+}
+
+Vega: {
+	DisplayName: Vega
+	Tooltip:
+		'''
+		Lanza una lanza que se fragmenta en fragmentos estelares al impactar y genera Destellos Estelares
+		Los golpes furtivos convocan una imagen de Lyra para infligir un daño inmenso en un área
+		<right> para consumir 20 Destellos Estelares e inmediatamente realizar un golpe furtivo, independientemente de tu Sigilo actual
+		Este golpe llama a todos los fragmentos estelares para atacar al enemigo dañado e inflige [cbuff:CalamityMod/Voidfrost]
+		Consumir Destellos Estelares con Vega permite usar sigilo durante 10 segundos, incluso sin armadura de pícaro
+		'La canción final de un genio incomprendido... o simplemente un loco'
+		'''
+}
+
+WaveSkipper: {
+	DisplayName: Saltador de Olas
+	Tooltip:
+		'''
+		Lanza una lanza que rebota mucho
+		Los golpes furtivos lanzan tres lanzas de alta velocidad
+		'''
+}
+
+WebBall: {
+	DisplayName: Bola de Telaraña
+	Tooltip:
+		'''
+		Lanza una bola cubierta de telaraña que deja a los enemigos [cbuff:Webbed] y los ralentiza
+		Los golpes furtivos ralentizan a los enemigos por más tiempo
+		'''
+}
+
+Whitewater: {
+	DisplayName: Aguas Bravas
+	Tooltip:
+		'''
+		Lanza un frasco de agua blanca mágica hacia el cursor que brilla después de un momento
+		Los frascos que golpean enemigos mientras brillan liberan cuatro lanzas de agua que convergen de vuelta en la posición del frasco
+		Si el frasco golpea a un enemigo o se aleja demasiado, volverá al dueño
+		Los golpes furtivos crean seis lanzas de agua e invocan un vórtice arremolinado de aguas bravas que cura a los jugadores y empuja a los enemigos
+		Los aliados que entren en el vórtice se curarán el doble de tiempo
+		'''
+}
+
+Wrathwing: {
+	DisplayName: Ala de la Ira
+	Tooltip:
+		'''
+		Lanza una lanza alada ágil y teledirigida que escupe constantemente [cbuff:CalamityMod/Dragonfire]
+		Los golpes furtivos crean una erupción de brasas al golpear
+		'''
+}
+
+WulfrumKnife: {
+	DisplayName: Cuchillo de Wulfrum
+	Tooltip:
+		'''
+		Dispara cuchillos de Wulfrum en ráfagas de 3 que se clavan en los enemigos
+		Los golpes furtivos hacen que el cuchillo vuele más lejos y golpee varias veces a la vez
+		<right> para magnetizar todos los cuchillos clavados de vuelta a ti, restaurando sigilo
+		Los cuchillos que regresan también permiten temporalmente usar golpes furtivos sin armadura de pícaro
+		'''
+}
+
+Pumpkaboom: {
+	DisplayName: Calabazaboom
+	Tooltip:
+		'''
+		Lanza una calabaza que se adhiere a los enemigos y explota tras un retraso
+		Los golpes furtivos lanzan calabazas más grandes que atraen a los enemigos antes de liberar una explosión mayor
+		'''
+}
+
+LemonNade: {
+	DisplayName: Limo'nada
+	Tooltip:
+		'''
+		Desactiva la generación normal de sigilo
+		Mantén <left> para quitar el seguro y generar sigilo, y suelta para lanzar
+		Cuanto más tiempo se mantiene, más corto es el fusible una vez lanzada la 'nada
+		Explotará en tu mano si el fusible se mantiene demasiado tiempo
+		Los golpes furtivos explotan en semillas de limón explosivas
+		'¡Quémalos vivos!'
+		'''
+}

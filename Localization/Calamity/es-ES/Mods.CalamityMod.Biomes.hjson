@@ -1,0 +1,117 @@
+// For general uses
+Abyss: El Abismo
+AstralInfection: Infección Astral
+AstralSnow: Nieve Astral
+BrimstoneCrags: Grietas de Azufre
+SulphurousSea: Mar Sulfuroso
+SunkenSea: Mar Hundido
+
+AstralDesert: {
+	DisplayName: Superficie del Desierto Astral
+	TownNPCDialogueName: Desierto Astral
+}
+
+AstralBiome: {
+	DisplayName: Infección Astral
+	TownNPCDialogueName: Infección Astral
+}
+
+AstralInfectionBiome: {
+	DisplayName: Infección Astral
+	TownNPCDialogueName: Infección Astral
+}
+
+AstralIce: {
+	DisplayName: Hielo Astral
+	TownNPCDialogueName: Nieve Astral
+}
+
+AbyssLayer1Biome: {
+	DisplayName: Profundidades Sulfúricas
+	TownNPCDialogueName: Profundidades Sulfúricas
+}
+
+AbyssLayer2Biome: {
+	DisplayName: Aguas Turbias
+	TownNPCDialogueName: Aguas Turbias
+}
+
+AbyssLayer3Biome: {
+	DisplayName: Respiraderos Termales
+	TownNPCDialogueName: Respiraderos Termales
+}
+
+AbyssLayer4Biome: {
+	DisplayName: El Vacío
+	TownNPCDialogueName: el Vacío
+}
+
+AcidRainBiome: {
+	DisplayName: Lluvia Ácida
+	TownNPCDialogueName: Lluvia Ácida
+}
+
+ArsenalLabBiome: {
+	DisplayName: Laboratorio Arsenal
+	TownNPCDialogueName: Laboratorio Arsenal
+}
+
+BrimstoneCragsBiome: {
+	DisplayName: Grietas de Azufre
+	TownNPCDialogueName: Grietas de Azufre
+}
+
+SulphurousSeaBiome: {
+	DisplayName: Mar Sulfuroso
+	TownNPCDialogueName: Mar Sulfuroso
+}
+
+SunkenSeaBiome: {
+	DisplayName: Mar Hundido
+	TownNPCDialogueName: Mar Hundido
+}
+
+AstralUnderground: {
+	DisplayName: Astral Subterráneo
+	TownNPCDialogueName: Infección Astral Subterránea
+}
+
+AstralCaveDesert: {
+	DisplayName: Desierto de Cueva Astral
+	TownNPCDialogueName: el Desierto de Cueva Astral
+}
+
+FloralParadiseBiome: {
+	DisplayName: Paraíso Floral
+	TownNPCDialogueName: el Paraíso Floral
+}
+
+BasaltGullyBiome: {
+	DisplayName: Hondonada de Basalto
+	TownNPCDialogueName: la Hondonada de Basalto
+}
+
+GleamingBurrowsBiome: {
+	DisplayName: Madrigueras Relucientes
+	TownNPCDialogueName: las Madrigueras Relucientes
+}
+
+PolypForestBiome: {
+	DisplayName: Bosque de Pólipos
+	TownNPCDialogueName: el Bosque de Pólipos
+}
+
+RadiantReefsBiome: {
+	DisplayName: Arrecifes Radiantes
+	TownNPCDialogueName: los Arrecifes Radiantes
+}
+
+TimelessShoresBiome: {
+	DisplayName: Costas Atemporales
+	TownNPCDialogueName: las Costas Atemporales
+}
+
+ClamDenBiome: {
+	DisplayName: Guarida de Almejas
+	TownNPCDialogueName: la Guarida de Almejas
+}

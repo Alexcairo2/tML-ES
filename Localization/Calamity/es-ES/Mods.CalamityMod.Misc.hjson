@@ -1,0 +1,130 @@
+# Recipe Groups
+# {$LegacyMisc.37} is the vanilla localization used in recipe groups, that reads "Any" in English.
+RecipeGroup: {
+	HardmodeAnvil: "{$LegacyMisc.37} yunque del Modo Difícil"
+	HardmodeForge: "{$LegacyMisc.37} forja del Modo Difícil"
+	AnyFood: "{$LegacyMisc.37} objeto de comida"
+	AnyEvilBar: "{$LegacyMisc.37} lingote maligno"
+	Boss2Material: Escama de las sombras o muestra de tejido
+	CursedFlameIchor: Llama Maldita o Ícor
+	AnyEvilWater: "{$LegacyMisc.37} agua maligna"
+	AnyEvilBlock: "{$LegacyMisc.37} bloque maligno"
+	AnyGoodBlock: "{$LegacyMisc.37} bloque sagrado"
+	LunarPickaxe: "{$LegacyMisc.37} pico lunar"
+	LunarHamaxe: "{$LegacyMisc.37} martillo hacha lunar"
+	AnyQuiver: "{$LegacyMisc.37} carcaj"
+}
+
+// Status
+WikiStatus1: "[i:Book] [c/EE4939:Nota: La wiki de Fandom ya no es sostenida por Calamity.] [i:Book]"
+WikiStatus2: "[i:Book] [c/EE4939:¡Echa un vistazo a la wiki oficial de Calamity Mod en ][c/3989FF:calamitymod.wiki.gg][c/EE4939:!] [i:Book]"
+VCMMStatus: "[i:MusicBoxMartians] [c/67F567:¡Echa un vistazo al Vanilla Calamity Music en ][c/3898FF:calamitymod.com/downloadvanillamusic][c/67F567:!] [i:MusicBoxMartians]"
+// Recipe Conditions
+Tier1ArsenalRecipeCondition: Ver un esquema sin encriptar del laboratorio cerca del Mar Hundido
+Tier2ArsenalRecipeCondition: Descifrar un esquema del laboratorio en el gran planetoide en el cielo
+Tier3ArsenalRecipeCondition: Descifrar un esquema del laboratorio en las profundidades de la selva
+Tier4ArsenalRecipeCondition: Descifrar un esquema del laboratorio cerca de los bordes del inframundo
+Tier5ArsenalRecipeCondition: Descifrar un esquema del laboratorio en las profundidades de las cavernas heladas
+SunkenSeaSchematicRecipeCondition: Colocar un esquema del laboratorio cerca del Mar Hundido en tu inventario al menos una vez
+PlanetoidSchematicRecipeCondition: Colocar un esquema del laboratorio en el gran planetoide en tu inventario al menos una vez
+JungleSchematicRecipeCondition: Colocar un esquema del laboratorio en las profundidades de la selva en tu inventario al menos una vez
+UnderworldSchematicRecipeCondition: Colocar un esquema del laboratorio cerca de los bordes del inframundo en tu inventario al menos una vez
+IceSchematicRecipeCondition: Colocar un esquema del laboratorio en las cavernas heladas en tu inventario al menos una vez
+// Schematic Knowledge tooltips
+SchematicKnowledgeTooltip: Aún no tienes el conocimiento suficiente para crear esto
+SchematicKnowledgeTooltip2: Primero debes descifrar un esquema específico
+Tier1KnowledgeTooltip: El esquema del Mar Hundido debe ser descifrado primero
+Tier2KnowledgeTooltip: El esquema del Planetoide debe ser descifrado primero
+Tier3KnowledgeTooltip: El esquema de la Selva debe ser descifrado primero
+Tier4KnowledgeTooltip: El esquema del Inframundo debe ser descifrado primero
+Tier5KnowledgeTooltip: El esquema del bioma de Hielo debe ser descifrado primero
+// Other CombatText uses and Item Messages
+ShiftToExpand: Mantén presionado Shift para ver una descripción ampliada
+AltExpand: Mantén presionado {0} para ver la información de mejoras
+AltExpandUnset: Asigna un atajo de teclado para ver la información de los efectos negativos
+LearnedSchematic: ¡Aprendiste a crear cosas nuevas!
+CragmawVibeCheck: Vibe check.
+AutocannonHot: ¡AUCH! ¡QUEMA!
+NoComputer: No hay ninguna Computadora de Descifrado instalada
+ArkParry: ¡Parry!
+BurningSeaBurn: Quema...
+NotSafe: N O  E S T Á S  A  S A L V O
+HecBoop: ¡boop!
+ClockworkTick: Tic
+ClockworkTock: Tac
+SevensJackpot: ¡¡¡Premio gordo!!!
+SevensBust: ¡Quiebra!
+SevensDoubles: ¡Dobles!
+SevensTriples: ¡Triples!
+StylishHammerHit: ¡Con estilo!
+PiggyLicense: La licencia se teletransporta al servicio de entrega del cerdito...
+GenericConsumedText: "[c/8A8A8A:Ya has consumido este objeto]"
+CelestialOnionText: Ya has consumido una Cebolla Celestial. Consumir otra te distorsionaría.
+SanguineTangerineText: Ya has consumido una Mandarina Sanguínea. Comer más haría que tu sangre fuera demasiado espesa para fluir.
+MiracleFruitText: Ya has consumido una Fruta Milagrosa. Haría falta un milagro para recomponerte si comieras otra.
+TaintedCloudberryText: Ya has consumido una Mora de los Pantanos Corrupta. Tu cuerpo se convertiría en polvo si comieras más de una.
+SacredStrawberryText: Ya has consumido una Fresa Sagrada. Una gota más de poder dracónico te aniquilaría.
+CometShardText: Ya has usado un Fragmento de Cometa. Tus neuronas morirían si usaras otro.
+EtherealCoreText: Ya has usado un Núcleo Etéreo. Tu cerebro escaparía de tu cabeza si te atrevieras a usarlo por segunda vez.
+PhantomHeartText: Ya has usado un Corazón Fantasmal. Las voces te dicen que es una mala idea usarlo de nuevo.
+SulphurSwitchLeft: El Mar Sulfuroso se encuentra ahora en el lado izquierdo del mundo.
+SulphurSwitchRight: El Mar Sulfuroso se encuentra ahora en el lado derecho del mundo.
+Polaris0: Demasiado amor...
+Polaris1: Le frotas la barriga a Polaris
+Polaris2: Le das una pequeña golosina a Polaris
+Polaris3: Le dices a Polaris que es una buena chica
+Polaris4: Dejas que Polaris se acurruque en tu brazo
+Polaris5: Acaricias a Polaris
+Empress1: Un buen día para el consumo de maná.
+Empress2: Eso es suficiente maná...
+Empress3: ¡OH, GRANDES CIELOS!
+Empress4: A
+SwineSecret0: Oye
+SwineSecret1: Ya sabes, a los cerdos como nosotros nos gusta guardar nuestros secretos.
+SwineSecret2: Una vez me bebí un galón de arrabio fundido.
+SwineSecret3: Págame 10 Ozzamonedas y hackearé un poco de Materia Milagrosa para ti, ¡vamos, confía en mí!
+SwineSecret4: He oído historias de un palacio en alguna parte...
+SwineSecret5: Cerdos.
+SwineSecret6: Había una vez un duque que era viejo, se sentó en un trono hecho de oro, se comió una golosina, les dio a sus hijos carne en mal estado, y cantó historias de grandes cerdos nunca contadas.
+SwineSecret7: ESPERA ESPERA UN ANIMAL DORADO ACABA DE APAREC- aww te lo perdiste...
+SwineSecret8: ¿Fishrons? ¿Quién los llama así?
+SwineSecret9: ¡¿Por qué demonios todo está explotando siempre?! ¡Vas a provocar un incendio, y no soy fan de las llamas!
+SwineSecret10: AYÚDAME
+SwineSecret11: Decir que alguien 'come bebés' es el estereotipo de malvado, ¡pero yo soy uno de los buenos y como bebés! Quiero decir, seguramente no es TAN malo. La gente que no come bebés simplemente es cobarde.
+SwineSecret12: ¡Phalostion ale bonei wha treaites gon bardo galan ale gorve frus frum galibon!
+SwineSecret13: Mi alma está hecha de jade, ¡es inquebrantable! Igual que el palacio. Deberías ir allí alguna vez.
+SwineSecret14: ¡CAAAAAAARRRRLLLL! Debes terminar tu trabajo Carl.
+SwineSecret15: Antes de que los dioses se pelearan o las estrellas lloraran, fue el hambre de El Viejo Duque lo que abrió la primera herida en las profundidades.
+SwineSecret16: Cuando la Tercera Luna se ahogó, El Viejo Duque lloró sal en el cáliz de jade, y las puertas de coral sangraron por primera vez.
+SwineSecret17: El hambre de El Viejo Duque no era de carne, sino por el silencio entre mareas que llamaba la Hora de la Anguila.
+SwineSecret18: El palacio de jade no se hunde, se realinea bajo las aletas de la vergüenza real.
+SwineSecret19: El duque nunca murió. Simplemente cambió de mareas.
+SwineSecret20: El Viejo Duque golpeó el reloj de arrecife tres veces, y el tiempo se ahogó en cristal de salmuera. Desde entonces, ninguna hora ha sido verdadera.
+SwineSecret21: Una vez hubo siete Nacidos del Duque. luego hubo seis, luego cinco, luego cuatro, luego tres, luego dos, y luego quedó uno...
+SwineSecret22: Nadie construyó el palacio de jade, el mundo simplemente desenrolló su séptima espina.
+SwineSecret23: Cuando el verdadero fishron surja, el glorioso palacio de jade se alzará una vez más del mar y el océano se arrodillará.
+SwineSecret24: Lo que los mortales llaman El Viejo Duque es un mero eco del cerdo inmaculado, el soberano que gobernaba los mares sulfurosos.
+SwineSecret25: Los dioses hablan con resplandor. ¿Pero El Viejo Duque? Él masticaba sus sílabas y escupía tormentas.
+SwineSecret26: Aquellos que entren en el estómago de El Viejo Duque aprenderán lo que significa ser verdaderamente borrados del samsara.
+SwineSecret27: El gran cerdo de jade una vez susurró al oído de Polterghast, y es por eso que la luna olvidó su rostro.
+SwineSecret28: Dicen que El Viejo Duque no tenía pulmones. Eso es mentira, tenía cinco.
+SwineSecret29: El palacio aún se hunde. No ha dejado de hundirse desde el primer pecado.
+SwineSecret30: La gente del pueblo vio al fishron cambiar su rugido dracónico por silencio. Era más ruidoso así.
+SwineSecret31: @everyone Por favor, no anuncien al servidor cuándo van a pelear contra El Viejo Duque. Este ha sido un problema recurrente...
+SwineSecret32: No, nunca he jugado Undertale.
+SwineSecret33: Estos sprites parecen dibujados por un niño de cuatro años con el talento de Pablo Picasso en su mejor momento. Que es lo que habría dicho si me gustaran los sprites.      Cosa que sí.      No.
+SwineSecret34: ¿De qué estás vestido... de tu OC? Eso da cringe.
+SwineSecret35: Cuidado con la Polimorfina, esa cosa apesta. Confía en mí, lo sé.
+SwineSecret36: Muchos dicen que hay que mantener el mayor secreto porcino en la clandestinidad. Yo no estoy de acuerdo, no podemos simplemente hacer 'shh'.
+SwineSecret37: Avísame cuando sean las 7 PM, ¡tengo que ajustar algo antes de que algún pobre diablo se caiga de ahí!
+SwineSecret38: Gracias a Xeroc no tengo nada de esa basura de 'Pathfinding', sea lo que sea que signifique.
+SwineSecret39: Si crees que el Mar Sulfuroso huele mal, ¡es que no estás lo suficientemente cerca de mí!
+SwineSecret40: ¿Sabías que hay 40 de estas malditas cosas?
+// Charge
+Charge: Carga actual: {0}%
+//GFB Rogue Keys
+GFBRogueUppercase: Pícaro
+GFBRougeUppercase: Rouge
+GFBRogueLowercase: pícaro
+GFBRougeLowercase: rouge
+HotkeyNotBound: "[Sin asignar]"

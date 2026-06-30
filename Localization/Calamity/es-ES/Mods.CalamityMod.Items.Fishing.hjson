@@ -1,0 +1,471 @@
+// Quest fish tooltips
+CaughtInAstral: Pescado en la Infección Astral
+CaughtInBrimstoneCrag: Pescado en las Grietas de Azufre
+CaughtInSnow: Pescado en la Tundra
+CaughtInSpace: Pescado en los Lagos del Cielo
+CaughtInSunkenSea: Pescado en el Mar Hundido
+LocationTooltip: "'{0}'"
+
+// Astral Infection Catches
+AldebaranAlewife: {
+	DisplayName: Alosa de Aldebarán
+	Tooltip: Una entidad deslumbrada por las estrellas con forma de pez
+}
+
+ArcturusAstroidean: {
+	DisplayName: Astroideo de Arcturo
+	Tooltip: Aumenta el poder de pesca {0}x en la Infección Astral o el Mar Sulfuroso
+}
+
+AstralCrate: {
+	DisplayName: Cajón Astral
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+AstrophageItem: {
+	DisplayName: Astrofago
+	Tooltip: Invoca un astrofago para que te siga
+}
+
+MonolithCrate: {
+	DisplayName: Cajón del Monolito
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+ProcyonidPrawn: {
+	DisplayName: Gamba Prociónida
+	Tooltip: ""
+}
+
+TwinklingPollox: {
+	DisplayName: Pólux Centelleante
+	Tooltip: Sus escamas brillan como cristales
+}
+
+UrsaSergeant: {
+	DisplayName: Sargento Ursa
+	Tooltip:
+		'''
+		Ataca golpeando a los enemigos con zarpazos astrales que infligen [cbuff:CalamityMod/AstralInfectionDebuff]
+		Recibir daño reduce el tiempo de espera, pero te inflige [cbuffplr:CalamityMod/AstralInfectionDebuff]
+		Matar enemigos también reduce el tiempo de espera
+		Los zarpazos serán translúcidos y silenciosos si la visibilidad está desactivada
+		'''
+}
+
+// Brimstone Crag Catches
+Bloodfin: {
+	DisplayName: Aleta Ensangrentada
+	Tooltip:
+		'''
+		Otorga una mejora que restaura 1 PV cada {0} segundos
+		{$CommonItemTooltip.SecondDuration@1}
+		'Las maravillas de la angiogénesis'
+		'''
+}
+
+Brimlish: {
+	DisplayName: Brimlish
+	QuestDescription: ¿De verdad derrotaste a esa señora grande de fuego? ¡Pues me enteré de que sus hijos huyeron a la lava, y uno de ellos mutó en pez! Yo no me voy a quemar las manos, así que ¡atrápalo y tráemelo para mi pecera llena de lava!
+}
+
+BrimstoneCrate: {
+	DisplayName: Cajón de Azufre
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+CharredLasher: {
+	DisplayName: Fustigador Chamuscado
+	Tooltip: Este elusivo pez es una mercancía muy preciada
+}
+
+CoastalDemonfish: {
+	DisplayName: Pez Demonio Costero
+	Tooltip: Sus cuernos maldecen a quienes lo tocan
+}
+
+CragBullhead: {
+	DisplayName: Cabezarrón de las Grietas
+	Tooltip: Sus escamas están abrasadoramente calientes
+}
+
+DragoonDrizzlefish: {
+	DisplayName: Pez Llovizna del Dragón
+	Tooltip: "[GFB]"
+	TooltipNormal:
+		'''
+		Dispara una variedad de bolas de fuego del infierno y azufre
+		A veces dispara una bola de fuego más grande que se divide
+		El saco de azufre parece contener combustible
+		'La venganza es un plato que se sirve abrasadoramente caliente'
+		'''
+	TooltipGFB:
+		'''
+		Dispara una variedad de bolas de fuego del infierno y azufre
+		A veces dispara una bola de fuego más grande que se divide
+		<right> para darle al pequeño un poco de gel sabroso
+		'Es un chico hambriento'
+		'''
+}
+
+Havocfish: {
+	DisplayName: Pez del Caos
+	QuestDescription: ¡Cuando mataste ese asqueroso muro de carne, tanto caos y destrozo se infundió en esas ruinosas grietas que hasta la lava brotó peces hechos de pura esencia! ¡Ve a buscarlo, el caos puro es exactamente lo que necesita mi próximo plan!
+}
+
+Shadowfish: {
+	DisplayName: Pez Sombra
+	Tooltip: La oscuridad se expande
+}
+
+SlagCrate: {
+	DisplayName: Cajón de Escoria
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+Slurpfish: {
+	DisplayName: Pez Sorbedor
+	QuestDescription: ¡Ey {0}, ¿no sería absolutamente calamitoso si te mandara a esas ruinas en las profundidades del infierno? ¡Pues me enteré de un pez aterrador que puede sorber las almas de la gente! Yo quiero conservar mi alma, ¡así que muévete! ¡El pez no se va a pescar solo!
+}
+
+// Sunken Sea Catches
+CoralskinFoolfish: {
+	DisplayName: Pez Tonto de Piel de Coral
+	Tooltip: El camuflaje es una de las mejores defensas de la naturaleza
+}
+
+EutrophicCrate: {
+	DisplayName: Cajón Eutrófico
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+EutrophicSandfish: {
+	DisplayName: Pez Arena Eutrófico
+	QuestDescription: ¿Alguna vez te preguntaste qué pasaría si una lagartija que vive en el desierto se aventurara demasiado profundo en esas viejas zonas de Ilmeris? ¡Pues yo lo sé, y tiene una pinta increíble! Pero es demasiado escurridizo para que yo lo agarre, ¡así que ve tú a buscarlo para que pueda tenerlo de mascota!
+}
+
+GleamingCucumber: {
+	DisplayName: Pepino de Mar Reluciente
+	Tooltip: Una criatura resbaladiza y viscosa que se encuentra en el suelo del Bosque de Pólipos
+}
+
+GreenwaveLoach: {
+	DisplayName: Locha de Ola Verde
+	Tooltip: Un pez en peligro de extinción muy cotizado en el mercado
+}
+
+MoltenFishron: {
+	DisplayName: Fishron Fundido
+	Tooltip:
+		'''
+		En lugar de graznar emite claros sonidos de jadeo
+		O quizás es que realmente jadea por ser sacado de la lava
+		'''
+}
+
+PrismCrate: {
+	DisplayName: Cajón Prisma
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+PrismaticGuppy: {
+	DisplayName: Guppy Prismático
+	Tooltip: Echar uno de estos en un acuario sería una locura
+}
+
+RustedJingleBell: {
+	DisplayName: Cascabel Oxidado
+	Tooltip:
+		'''
+		Invoca un fantasmita campanilla para iluminarte el camino
+		Proporciona una cantidad moderada de luz bajo el agua
+		{$Common.AbyssLightLevel}
+		'''
+}
+
+SerpentsBite: {
+	DisplayName: Mordisco de Serpiente
+	Tooltip: "{$Common.GrappleStats}"
+}
+
+Serpentuna: {
+	DisplayName: Serpientún
+	QuestDescription: ¡Estoy harto de perder siempre mi mesada con esas serpientes del agua de Ilmeris! ¡Quiero pescar todas las serpentinas bebé, y necesito TU ayuda para hacerlo! ...¿Qué? No, no estoy intentando robarle dinero a nadie...
+}
+
+SparklingEmpress: {
+	DisplayName: Emperatriz Centelleante
+	Tooltip:
+		'''
+		Dispara un láser concentrado para aniquilar a tus enemigos
+		Los enemigos derrotados explotan en fragmentos de prisma
+		'''
+}
+
+SpecularSturgeon: {
+	DisplayName: Esturión Especular
+	Tooltip:
+		'''
+		Un pez de las profundidades que puede vivir durante muchas generaciones
+		¡Huelga decir que es viejo!
+		'''
+}
+
+Squidoom: {
+	DisplayName: Squidoom
+	Tooltip: Se dice que quienes lo miran demasiado tiempo entran en estado hipnótico
+}
+
+SunkenSailfish: {
+	DisplayName: Pez Vela Hundido
+	Tooltip: A toda velocidad a 60 millas por hora
+}
+
+SurfClam: {
+	DisplayName: Almeja Surfista
+	QuestDescription: ¡Cuentan que un enorme enjambre de almejas ha tomado el control de ese mar bajo el desierto! ¡Las almejas son una exquisitez, con solo escuchar eso me da hambre! ¿Me ayudarás a saciar mi apetito? ¡Claro que sí! ¡Solo asegúrate de que mi almeja y tú regresen sanos y salvos!
+}
+
+// Other Catches
+EnchantedStarfish: {
+	DisplayName: Estrella de Mar Encantada
+	Tooltip:
+		'''
+		{$ItemTooltip.ManaCrystal}
+		Funciona como alternativa al [i:ManaCrystal] {$ItemName.ManaCrystal}
+		'''
+}
+
+FishofEleum: {
+	DisplayName: Pez de Eleum
+	QuestDescription: ¡Es muy injusto que todos los peces chulos solo aparezcan cuando matas a demonios enormes! Y uso «chulos» en dos sentidos, por cierto. ¡He visto peces en la tundra materializarse de la esencia de puro frío! Ya es hora de que consiga hielo para mis peces, ¡así que tráeme ese pez, o vas a pasarla fría!
+}
+
+FishofFlight: {
+	DisplayName: Pez del Vuelo
+	Tooltip: Pulsa <right> para extraer [i:SoulofFlight] almas
+}
+
+GlimmeringGemfish: {
+	DisplayName: Pez Gema Centelleante
+	Tooltip: Pulsa <right> para extraer [ITEMS] gemas
+}
+
+Gorecodile: {
+	DisplayName: Gorecodilo
+	Tooltip: Pulsa <right> para extraer [i:CalamityMod/BloodOrb] orbes de sangre
+}
+
+HydrothermalCrate: {
+	DisplayName: Cajón Hidrotermal
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+Spadefish: {
+	DisplayName: Pez Pala
+	Tooltip:
+		'''
+		Lanza un pez pala a los enemigos
+		Los golpes furtivos te hacen girar la pala antes de lanzarla, dañando a los enemigos cercanos
+		[c/aaaaaa:Shift-<right> sobre este objeto en tu inventario para [TOGGLE] romper bloques]
+		'¿Cómo puede usarse un pez para cavar el suelo?
+		Algunas preguntas es mejor no responderlas...'
+		'''
+	TextWhileEnabled: desactivar
+	TextWhileDisabled: activar
+}
+
+StuffedFish: {
+	DisplayName: Pez Relleno
+	Tooltip: Pulsa <right> para extraer [HERBS] hierbas y [SEEDS] semillas
+}
+
+SulphurousCrate: {
+	DisplayName: Cajón Sulfuroso
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+SunbeamFish: {
+	DisplayName: Pez Rayo de Sol
+	QuestDescription: ¿Has visto alguna vez esos patinadores solares que flotan muy por encima de las nubes? ¡Pues te voy a contar mi pequeño secreto: comenzaron su vida como pececillos! ¿A qué esperas? ¡Ve a alcanzar las estrellas y bájame uno!
+}
+
+// Fishing Rods
+EarlyBloomRod: {
+	DisplayName: Caña de Flor Temprana
+	Tooltip:
+		'''
+		Lanza seis líneas a la vez. El hilo nunca se rompe
+		'El que madruga, pez atrapa'
+		'''
+}
+
+FeralDoubleRod: {
+	DisplayName: Caña Doble Salvaje
+	Tooltip:
+		'''
+		Lanza dos líneas a la vez
+		Así como has domado al monstruo de la jungla, ahora puedes domar a los peces del mar
+		'''
+}
+
+HeronRod: {
+	DisplayName: Caña Garza
+	Tooltip:
+		'''
+		Aumenta el poder de pesca {0}x en el espacio
+		'Una cabeza y un pico silenciosos lanzaron hacia abajo y lo arrancaron por la cabeza,
+		y el pico se tragó al pececito mientras su cola agitaba frenéticamente.'
+		'''
+}
+
+NavyFishingRod: {
+	DisplayName: Caña de la Armada
+	Tooltip:
+		'''
+		Lanza flotadores que infligen [cbuff:CalamityMod/StaticDischarge] a los enemigos cercanos
+		'El mar es una ciudad. Justo debajo hay autopistas, bulevares,
+		calles y rotondas repletas de tráfico submarino.'
+		'''
+}
+
+RiftReeler: {
+	DisplayName: Carrete de Grieta
+	Tooltip:
+		'''
+		Lanza cuatro líneas a la vez. Los flotadores causan daño al contacto con enemigos
+		Permite pescar en la lava
+		'El campo de batalla es un escenario de caos constante.
+		El ganador será quien controle ese caos, tanto la caña como el pez.'
+		'''
+}
+
+SlurperPole: {
+	DisplayName: Caña Sorbedora
+	Tooltip:
+		'''
+		Permite pescar en la lava
+		'Es la lava ardiente del alma la que tiene un horno en su interior: un verdadero volcán de pena y dolor.'
+		'''
+}
+
+TheDevourerofCods: {
+	DisplayName: El Devorador de Bacalaos
+	Tooltip:
+		'''
+		Lanza diez líneas a la vez. El hilo nunca se rompe y permite pescar en la lava
+		Los objetos enganchados permanecen enganchados para siempre
+		Los peces comunes se consumen automáticamente mientras pescas
+		Consumir peces permite que un flotador enganche un nuevo objeto y alimenta al usuario
+		'El devorador fue una vez tan solo un comedor de bancos de peces'
+		'''
+}
+
+TrustyOldRod: {
+	DisplayName: Caña Vieja de Confianza
+	Tooltip: Permite capturas especialmente... «exóticas»
+	SalesPitch:
+		'''
+		'¡Hoggart y yo hemos trabajado junto a los mejores pescadores del mundo para traerte la caña más efectiva del mercado!'
+		'¡Con tecnología de última generación, puedes pescar cualquier cosa! ¡No dejes que ninguna criatura se escape de tu anzuelo!'
+		'''
+}
+
+VerstaltiteFishingRod: {
+	DisplayName: Caña de Pesca de Verstaltita
+	Tooltip:
+		'''
+		Aumenta el poder de pesca {0}x en la tundra
+		Las cualidades prismáticas de la antigua aleación son perfectas para atraer peces
+		'''
+}
+
+WulfrumRod: {
+	DisplayName: Caña de Pesca de Wulfrum
+	Tooltip:
+		'''
+		Puede pescar Chatarra de Metal de Wulfrum y Núcleos de Energía de Wulfrum
+		'Esto apenas funciona, pero es mejor que nada...'
+		'''
+}
+
+// Bait
+RageBait: {
+	DisplayName: Cebo de Rabia
+	Tooltip:
+		'''
+		Detecta peces enganchados
+		Profundamente poco fiable
+		'''
+	SalesPitch:
+		'''
+		'¿Quieres saber un secreto? ¡La pesca lleva tanto tiempo porque los peces son tontos! ¡Siempre pasan nadando junto a tu anzuelo!'
+		'¿Pero con este cebo? ¡Ya no! Hará que tu anzuelo sea lo único en lo que puedan pensar. ¡Estarás nadando entre peces en un abrir y cerrar de ojos!'
+		'''
+}
+
+GrandMarquisBait: {
+	DisplayName: Cebo del Gran Marqués
+	Tooltip: ""
+}
+
+// Bobbers
+AcrobaticBobber: {
+	DisplayName: Flotador Acrobático
+	Tooltip:
+		'''
+		{$ItemTooltip.FishingBobber}
+		Proporciona un minijuego de pesca
+		Moverte mientras pescas mueve tus flotadores en su lugar
+		Con el tiempo aparecen aros sobre la superficie del agua
+		Tocar un aro engancha un objeto al flotador
+		Los flotadores recogerán automáticamente los objetos enganchados al volver al agua
+		'''
+}
+
+FeralBobber: {
+	DisplayName: Flotador Salvaje
+	Tooltip:
+		'''
+		{$ItemTooltip.FishingBobber}
+		Gana poder de pesca cuanta más vida hayas perdido
+		Proporciona un minijuego de pesca
+		Mantén <right> al atrapar peces para drenar vida y acelerar las capturas
+		Los flotadores pueden engancharse a enemigos, causando daño al drenar vida
+		'''
+}
+
+SunkenSinker: {
+	DisplayName: Plomada Hundida
+	Tooltip:
+		'''
+		{$ItemTooltip.FishingBobber}
+		Proporciona un minijuego de pesca
+		El flotador flotará a tu altura bajo el agua, permitiendo pescar bajo el agua
+		Muévete en la dirección indicada mientras pescas para atrapar objetos
+		'''
+}
+
+VolcanicSinker: {
+	DisplayName: Plomada Volcánica
+	Tooltip:
+		'''
+		{$ItemTooltip.FishingBobber}
+		Permite pescar en la lava
+		Proporciona un minijuego de pesca
+		Moverte mientras pescas mueve tus flotadores en su lugar
+		Con el tiempo aparecen grietas en los líquidos que contienen un objeto
+		Cuando los flotadores tocan una grieta, recogen automáticamente el objeto que contiene
+		'''
+}
+
+WulfrumBobber: {
+	DisplayName: Flotador de Wulfrum
+	Tooltip:
+		'''
+		Proporciona un minijuego de pesca
+		Mantén las teclas de movimiento en las direcciones indicadas mientras pescas para atrapar objetos
+		La caña se potencia cuanto más tiempo pases sin cometer errores, acelerándola
+		'Se supone que lleva instalado un localizador de peces, pero solo pita cuando te lo apuntas a ti mismo...'
+		'''
+}

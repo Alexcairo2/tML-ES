@@ -1,0 +1,22 @@
+CrossBalanceGeneric: "Balance de Crossmod: "
+DamageUpGeneric: Daño aumentado un {0}%
+DamageDownGeneric: Daño reducido un {0}%
+PickPowerDownGeneric: Poder de pico reducido un {0}%
+MagicDagger: Daño reducido un 50% en Pre-Modo Difícil
+ProfanedCrystal: Daño masivamente reducido con cualquier súbdito activo
+MythrilEnch: Menos efectivo en armas de pícaro
+OrichalcumEnch: Aumento de daño por efectos negativos reducido a 1,5x
+Daawnlight: Efecto desactivado mientras el efecto del Encantamiento de Estaño está activo
+SlimyShield: No inflige Aceitado
+FlightMastery: Estadísticas de vuelo reducidas al combatir jefes que no sean del Mod Souls
+EarthForce: Aumento de daño por efectos negativos reducido a 2x
+LifeForce: Estadísticas de vuelo y tiempo de alas reducidos al combatir jefes que no sean del Mod Souls
+OnionPackUpgrade: Ahora es una mejora de [i:FargowiltasSouls/MutantsPact]Pacto de Mutant, que permite cualquier accesorio en el espacio extra
+PactOnionUpgrade: Ranura combinada con [i:CalamityMod/CelestialOnion]Cebolla Celestial, otorgando una ranura completa
+Laudanum: Reducida a la mitad la potencia de la mayoría de los efectos beneficiosos de los efectos negativos
+TheSponge: Incremento del tiempo de recarga y retraso en un 25%
+ExoBox: Velocidad reducida un 40%
+HardmodeSwords: Mejoras de estadísticas reducidas
+OceanCrest: Otorga inmunidad a los efectos negativos del Modo Eternidad causados al entrar al agua
+// truth be told I have absolutely no idea what this enchantment is so the key name is just that
+CalEnch: Daño acumulado limitado a 500.000

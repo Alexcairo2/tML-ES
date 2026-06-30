@@ -1,0 +1,63 @@
+Nerf: "[c/ff0000:Modo Eternidad: ]"
+Buff: "[c/00ff00:Modo Eternidad: ]"
+Neutral: "[c/ffff00:Modo Eternidad: ]"
+Damage: Daño reducido un {0}%
+DamagePositive: Daño aumentado un {0}%
+Speed: Velocidad reducida un {0}%
+SpeedPositive: Velocidad aumentada un {0}%
+Scale: Tamaño reducido un {0}%
+ScalePositive: Tamaño aumentado un {0}%
+RodofDiscord: El Estado de Caos reduce tu daño, defensa y reducción de daño en un 40%
+ChaosState: Daño, defensa y reducción de daño reducidos en un 40%
+RodofHarmony: Solo se puede obtener tras derrotar a Mutant
+Split: Frecuencia de división reducida
+ChlorophyteBullet: Velocidad y duración reducidas
+WaterBolt: No se puede usar hasta derrotar a Esqueletrón
+SpaceGun: No se puede usar hasta derrotar a un jefe maligno
+DemonScythe: Daño y velocidad reducidos un 40% hasta derrotar a un jefe maligno
+HolyDodge: Activar la Esquiva Sagrada reducirá temporalmente tu velocidad de ataque
+FrozenTurtleShell: La barrera congelada reduce ligeramente el daño que infliges
+BrainOfConfusion: Probabilidad de esquiva reducida a la mitad
+ZenithNone: Sin penalizaciones activas
+ZenithHitRate: "Frecuencia de golpe enormemente reducida; mejora al derrotar a: "
+VampireKnives: Tasa de robo de vida reducida cuando tienes más del 50% de vida
+Zapinator: No puede acumular multiplicadores de daño
+CoinGun: Daño de las Monedas de Platino y Oro muy reducido, daño de las Monedas de Plata ligeramente reducido, y daño de las Monedas de Cobre aumentado
+OOASet: La bonificación de conjunto aumenta el daño de invocación mínimo cuando atacas usando otras clases
+MiningHelmet: Aumenta la tasa de aparición del Minero No Muerto
+MoonsDrops: Los jefes y minijefes no sueltan objetos hasta la oleada {0}
+MoonsWaves: Morir reduce el progreso de la oleada
+WhipSpeed: No se beneficia de las bonificaciones de velocidad cuerpo a cuerpo
+WhipStack: El daño de marca tiene un efecto reducido al acumularse
+DefensePrefix: Estadísticas de prefijo ajustadas: defensa reducida antes del Modo Difícil, +5 de vida máxima
+DefensePrefix_HM: Estadísticas de prefijo ajustadas: +5 de vida máxima
+ViolentPrefix: Estadísticas de prefijo ajustadas: otorga velocidad de ataque, no velocidad cuerpo a cuerpo
+ManaPots: No se puede usar durante el Mareo por Maná, pero la restauración aumenta un 50%
+MinionStack: El daño de los súbditos disminuye al invocar más de 3 copias (el efecto se limita a 12)
+SummonMulticlass: El daño de invocación disminuye cuando atacas usando otras clases (excepto en OOA)
+ShadowDodge: Modo Eternidad: Esquivar reducirá tu velocidad de ataque
+IceBarrier: Modo Eternidad: 10% menos de daño
+SwordRework: Animación de giro de la espada ancha rediseñada
+SpearRework: Animación de giro de la lanza rediseñada
+PalladiumPikeRework: Aumenta enormemente la regeneración de vida y cura 1 PV (1/2 segundo de tiempo de reutilización)
+CobaltNaginataRework: Causa una pequeña explosión al golpear enemigos
+MythrilHalberdRework: Tras no atacar durante 2 segundos, tu siguiente ataque inflige 8x de daño, escalando con la velocidad de ataque
+OrichalcumHalberdRework: Inflige hasta el doble de daño a los enemigos que reciben daño con el tiempo, escalando con la cantidad
+SuperStarCannon: Perforación máxima reducida a 7
+WarmthPotionNerf: Efecto de reducción de daño reducido a la mitad y ahora se aplica tras la mitigación
+CrossNecklaceNerf: La invencibilidad prolongada no se activa con golpes sucesivos rápidos
+IceBladeFrostburn: El proyectil inflige Quemadura de Escarcha al golpear
+JungleRose: Aumenta la tasa de caída del Fruto de Plantera de los enemigos tipo Atrapador
+StarCloak: 33% de daño de estrella antes del Modo Difícil
+WeatherPain: Frecuencia de golpe y perforación aumentadas
+HoundiusShootius: Velocidad de bola de fuego aumentada
+SniperRifle: Inflige hasta el doble de daño a los enemigos cuanto más lejos estén
+ChlorophyteSaber: Proyectiles más rápidos que se ralentizan al golpear
+JackOLanternLauncher: Velocidad del proyectil aumentada un 50%
+GolemFist: Inflige hasta el triple de daño a los enemigos cuanto más extendido esté el puño
+Gladius: Frecuencia de golpe aumentada para igualar la velocidad de giro
+FlowerPow: Cadencia de pétalos triplicada
+PiranhaGun: El daño del proyectil se actualiza dinámicamente
+ProximityMineLauncher: El daño del proyectil se actualiza dinámicamente
+PygmyStaff: Las lanzas ahora pueden perforar una vez
+MedusaHead: Inflige hasta 2.25x de daño cuantos menos enemigos sean golpeados

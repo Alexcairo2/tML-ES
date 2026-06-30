@@ -1,0 +1,323 @@
+AerialiteBar: {
+	DisplayName: Barra de Aerialita
+	Tooltip: ""
+}
+
+AncientBoneDust: {
+	DisplayName: Polvo de Huesos Antiguos
+	Tooltip: ""
+}
+
+ArmoredShell: {
+	DisplayName: Caparazón Blindado
+	Tooltip: ""
+}
+
+AscendantSpiritEssence: {
+	DisplayName: Esencia de Espíritu Ascendente
+	Tooltip: Un catalizador del más alto calibre formado al fusionar almas poderosas
+}
+
+AshesofAnnihilation: {
+	DisplayName: Cenizas de la Aniquilación
+	Tooltip: La ardiente esencia de la furia de la Bruja
+}
+
+AshesofCalamity: {
+	DisplayName: Cenizas de la Calamidad
+	Tooltip: ""
+}
+
+AstralBar: {
+	DisplayName: Barra Astral
+	Tooltip: ""
+}
+
+AuricBar: {
+	DisplayName: Barra Áurica
+	Tooltip: Un poder sin límites emana del metal
+}
+
+BeetleJuice: {
+	DisplayName: Jugo de Escarabajo
+	Tooltip: ""
+}
+
+BlightedGel: {
+	DisplayName: Gel Marchito
+	Tooltip: ""
+}
+
+BloodOrb: {
+	DisplayName: Orbe de Sangre
+	Tooltip: ""
+}
+
+Bloodstone: {
+	DisplayName: Piedra de Sangre
+	Tooltip: ""
+}
+
+BloodstoneCore: {
+	DisplayName: Núcleo de Piedra de Sangre
+	Tooltip: ""
+}
+
+CoreofCalamity: {
+	DisplayName: Núcleo de la Calamidad
+	Tooltip: ""
+}
+
+CorrodedFossil: {
+	DisplayName: Fósil Corroído
+	Tooltip: Es muy resistente
+}
+
+CosmiliteBar: {
+	DisplayName: Barra de Cosmilita
+	Tooltip: Un trozo de acero cósmico duradero y altamente resistente
+}
+
+CryonicBar: {
+	DisplayName: Barra Criónica
+	Tooltip: ""
+}
+
+DarkPlasma: {
+	DisplayName: Plasma Oscuro
+	Tooltip: ""
+}
+
+DarksunFragment: {
+	DisplayName: Fragmento del Sol Oscuro
+	Tooltip: Un cristal comprimido impregnado de energías celestiales opuestas
+}
+
+DepthCells: {
+	DisplayName: Células de las Profundidades
+	Tooltip: Las células de criaturas abisales
+}
+
+DivineGeode: {
+	DisplayName: Geoda Divina
+	Tooltip: Un trozo de energía sagrada cristalizada
+}
+
+DubiousPlating: {
+	DisplayName: Blindaje Dudoso
+	Tooltip: ""
+}
+
+EffulgentFeather: {
+	DisplayName: Pluma Efulgente
+	Tooltip: Vibra con esponjosa energía dorada
+}
+
+EndothermicEnergy: {
+	DisplayName: Energía Endotérmica
+	Tooltip: Su frío mortal succiona la vida de su entorno
+}
+
+EnergyCore: {
+	DisplayName: Núcleo de Energía
+	Tooltip: Pulsa con energía
+}
+
+EssenceofEleum: {
+	DisplayName: Esencia de Eleum
+	Tooltip: La esencia de criaturas del frío
+}
+
+EssenceofHavoc: {
+	DisplayName: Esencia del Caos
+	Tooltip: La esencia de criaturas desoladas
+}
+
+EssenceofSunlight: {
+	DisplayName: Esencia de la Luz Solar
+	Tooltip: La esencia de criaturas del cielo, la luz y las tormentas
+}
+
+ExoPrism: {
+	DisplayName: Exoprisma
+	Tooltip: Energías fractales centellean en su superficie
+}
+
+GrandScale: {
+	DisplayName: Escama Colosal
+	Tooltip: Gran escama de un depredador ápice
+}
+
+InfectedArmorPlating: {
+	DisplayName: Blindaje de Armadura Infectado
+	Tooltip: ""
+}
+
+LifeAlloy: {
+	DisplayName: Aleación de Vida
+	Tooltip: ""
+}
+
+LivingShard: {
+	DisplayName: Fragmento Viviente
+	Tooltip: ""
+}
+
+Lumenyl: {
+	DisplayName: Lumenila
+	Tooltip: Un fragmento de energía luminosa
+}
+
+MeldBlob: {
+	DisplayName: Masa de Meld
+	Tooltip: "'Chillidos de recuerdos distorsionados resuenan en esta masa'"
+}
+
+MiracleMatter: {
+	DisplayName: Materia Milagrosa
+	Tooltip:
+		'''
+		Su forma amorfa contiene un potencial inimaginable
+		Se requiere uno para cada Arma Exo
+		'''
+}
+
+MolluskHusk: {
+	DisplayName: Cáscara de Molusco
+	Tooltip: Los restos de un molusco
+}
+
+MysteriousCircuitry: {
+	DisplayName: Circuito Misterioso
+	Tooltip: ""
+}
+
+Necroplasm: {
+	DisplayName: Necroplasma
+	Tooltip: Bulle y fermenta con una malevolencia espantosa
+}
+
+NightmareFuel: {
+	DisplayName: Combustible de Pesadilla
+	Tooltip: Puede drenar tu cordura
+}
+
+PearlShard: {
+	DisplayName: Fragmento de Perla
+	Tooltip: ""
+}
+
+PerennialBar: {
+	DisplayName: Barra Perenne
+	Tooltip: ""
+}
+
+PlagueCellCanister: {
+	DisplayName: Recipiente de Células de la Plaga
+	Tooltip: ""
+}
+
+PlasmaDriveCore: {
+	DisplayName: Núcleo Prototipo de Motor de Plasma
+	Tooltip: A pesar del tiempo que pasó almacenado, su horno aún arde con fuerza
+}
+
+PurifiedGel: {
+	DisplayName: Gel Purificado
+	Tooltip: ""
+}
+
+ReaperTooth: {
+	DisplayName: Diente del Segador
+	Tooltip: Lo suficientemente afilado para cortar diamantes
+}
+
+RuinousSoul: {
+	DisplayName: Alma Ruinosa
+	Tooltip: Un fragmento del lejano pasado
+}
+
+ScoriaBar: {
+	DisplayName: Barra de Escoria
+	Tooltip: El humo se siente cálido
+}
+
+SeaRemains: {
+	DisplayName: Restos del Mar
+	Tooltip: ""
+}
+
+ShadowspecBar: {
+	DisplayName: Barra Shadowspec
+	Tooltip: Un vil metal negro, tan horroroso y poderoso que desafía toda explicación
+}
+
+SolarVeil: {
+	DisplayName: Velo Solar
+	Tooltip: La luz del sol no puede penetrar el tejido de esta tela
+}
+
+StarblightSoot: {
+	DisplayName: Hollín de la Plaga Estelar
+	Tooltip: ""
+}
+
+StormlionMandible: {
+	DisplayName: Mandíbula del León de la Tormenta
+	Tooltip: ""
+}
+
+SulphuricScale: {
+	DisplayName: Escama Sulfúrica
+	Tooltip: ""
+}
+
+SuspiciousScrap: {
+	DisplayName: Chatarra Sospechosa
+	Tooltip: Parece que podría ser parte de un todo mayor...
+}
+
+TitanHeart: {
+	DisplayName: Corazón de Titán
+	Tooltip: Puede ofrendarse en la Baliza Astral
+}
+
+TwistingNether: {
+	DisplayName: Éter Tortuoso
+	Tooltip: ""
+}
+
+UelibloomBar: {
+	DisplayName: Barra de Uelibloom
+	Tooltip: ""
+}
+
+UnholyCore: {
+	DisplayName: Núcleo Impío
+	Tooltip: ""
+}
+
+UnholyEssence: {
+	DisplayName: Esencia Impía
+	Tooltip: La esencia de criaturas profanadas
+}
+
+WulfrumMetalScrap: {
+	DisplayName: Chatarra de Metal de Wulfrum
+	Tooltip: ""
+}
+
+YharonSoulFragment: {
+	DisplayName: Fragmento de Alma de Yharon
+	Tooltip: Un fragmento de un Alma Áurica dracónica
+}
+
+AnodizedWulfrumMetal: {
+	DisplayName: Metal de Wulfrum Anodizado
+	Tooltip: ""
+}
+
+WillOWisp: {
+	DisplayName: Fuego Fatuo
+	Tooltip: ""
+}

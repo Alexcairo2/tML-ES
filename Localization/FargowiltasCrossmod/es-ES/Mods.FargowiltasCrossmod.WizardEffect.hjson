@@ -1,0 +1,24 @@
+Aerospec: Bonificación de golpes críticos y daño duplicada
+Marnite: Daño y alcance de los láseres aumentados, bonificaciones de colocación duplicadas
+DesertProwler: Saltos más potentes, mayor retroceso y daño
+Wulfrum: Los enemigos escaneados reciben aún más daño adicional por efectos negativos
+Hydrothermic: El Sobrecalentamiento dura más, la reducción de daño aumenta al 45%, el daño del destello aumenta
+Daedalus: Mayor daño, cantidad y velocidad de las flechas
+SnowRuffian: Mayor potencia de las alas
+Reaver: Defensa y reducción de daño aumentadas a 30 y 30%, mayor regeneración de vida y velocidad de movimiento, mayor daño de espinas y duración del efecto
+Plaguebringer: La nube de plaga inflige más daño y carga desde mayor distancia
+PlagueReaper:
+	'''
+	Los efectos negativos se propagan desde mayor distancia
+	Los enemigos propagan efectos negativos durante más tiempo
+	'''
+Umbraphile: Los murciélagos infligen más daño y curan más
+Sulphur: Los saltos crean 3 burbujas
+Victide: Los pinchos ya no son afectados por la gravedad e infligen veneno
+Statigel: Mayor velocidad máxima, bonificación de daño duplicada
+TitanHeart: Reducción de daño duplicada, tasa de carga en tierra aumentada al 100% total
+FathomSwarmer: Luz más grande, pez más rápido
+Astral: Estela más larga, más daño
+Brimflame: Consume solo la mitad de tu defensa, pero conserva el efecto de toda tu defensa
+Mollusk: Más daño, más fotogramas de inmunidad
+Empyrean: Aumenta el daño, la curación y la generación de Furia

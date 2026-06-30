@@ -1,0 +1,73 @@
+# A '^' character corresponds to a long pause.
+Bunny: {
+	Name: Constelación del Conejo
+	SolynDialogue:
+		'''
+		¡Conejos! Criaturas adorables.
+		¡Me pregunto quién decidió que debían existir entre las estrellas!
+		'''
+}
+
+EmptyPatchOfSpaceTfAreYouEvenDoing: {
+	Name: El espacio
+	SolynDialogue1: El espacio realmente es algo fascinante, ¿no?
+	SolynDialogue2: ¡La inmensidad de todo esto, en serio! ¡Y las estrellas son tan impresionantes!
+	SolynDialogue3: Invita a preguntarse sobre todos los misterios sin resolver, y sobre lo pequeños que somos.
+	SolynDialogue4: Pero bueno, ¡quizás SÍ exista alguna respuesta ahí afuera! ^Alguna fuerza que explique toda esta belleza natural...
+	SolynDialogue5: Ah, pero de todas formas... ^¿de verdad te gusta tanto ese pedazo específico de espacio? ¡Ja ja!
+	SolynDialogue6: ¿Lo estás disfrutando?
+	SolynDialogue7: Oye,^ eh,^ ¿quizás deberíamos ver qué más hay? Ese pedazo está bien y todo, pero en realidad es solo un pedazo...
+	SolynDialogue8: ...
+	SolynDialogue9: Bueno... ^supongo que no tengo prisa.
+	SolynDialogue10: ...
+	SolynDialogue11: ...
+	SolynDialogue12: Yo... ^^de verdad creo que deberíamos mirar otra cosa...
+	SolynDialogue13: ...
+}
+
+GalacticCenter: {
+	Name: El centro galáctico
+	SolynDialogue:
+		'''
+		¿El centro galáctico?
+		^Bueno... en realidad no estoy del todo segura de qué ocurre ahí.^ Pero he oído que es bastante violento en su interior.
+		^^¡Estoy segura de que sería una vista increíble de cerca!
+		'''
+}
+
+MeteorShower: {
+	Name: Lluvia de meteoros
+	SolynDialogue:
+		'''
+		¡Oh, guau!! ¡Una lluvia de meteoros!
+		¡Rápido, pide un deseo!
+		'''
+}
+
+Moon: {
+	Name: La Luna
+	SolynDialogue: ¿La luna? ¡Tontín, si ya sabes perfectamente lo que es!
+	SolynDialogueBloodMoon:
+		'''
+		Dicen que la luz de la luna de sangre es suficiente para volver loca a la gente...^
+		No sé, ¿tú te sientes loco ahora mismo? ¡Yo desde luego que no!
+		'''
+}
+
+Rift: {
+	Name: ???
+	SolynDialogue:
+		'''
+		¡Oh! ¡Este es uno de mis favoritos! ¡Es el abismo celestial de la perdición! Es realmente muy intere-^
+		Espera...^^ ¿qué??
+		'''
+}
+
+ScreamingNebula: {
+	Name: La Nebulosa Aullante
+	SolynDialogue:
+		'''
+		¡Esa es la nebulosa aullante! Se ve tan hermosa de cerca así...^^
+		Sabes... no estoy segura de por qué la llamaron así. ¡En el espacio no existe algo como gritar, ni el sonido en general!
+		'''
+}

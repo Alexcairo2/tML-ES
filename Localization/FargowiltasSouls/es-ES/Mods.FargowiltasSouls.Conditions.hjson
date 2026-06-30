@@ -1,0 +1,16 @@
+// Conditions (used in recipes, NPC shop, etc)
+RoombaPetSold: Cuando la configuración de la Roomba está activada
+// ItemDropRuleConditions (used in NPC loot, etc)
+DownedEvilBoss: Después de derrotar a cualquier Jefe Maligno
+EMode: "[i:FargowiltasSouls/Masochist] Tasa de caída del Modo Eternidad"
+EModeEarlyBirdHM: "[i:FargowiltasSouls/Masochist] Tasa de caída del Modo Eternidad en Modo Difícil"
+EModeEarlyBirdPHM: "[i:FargowiltasSouls/Masochist] Tasa de caída del Modo Eternidad pre-Modo Difícil"
+EModeNotMaster: Esta es una tasa de caída del Modo Maestro/Eternidad
+NotEMode: "[i:FargowiltasSouls/Masochist] Tasa de caída fuera del Modo Eternidad"
+TimsConcoction: "[i:FargowiltasSouls/TimsConcoction] Tasa de caída del Brebaje de Tim"
+Patreon: "[i:FargowiltasSouls/RoombaPet] Botín de Patreon"
+PatreonEMode: "[i:FargowiltasSouls/RoombaPet] Botín de Patreon en Modo Eternidad"
+PatreonPlant: "[i:FargowiltasSouls/RoombaPet] Botín de Patreon en la Selva durante una Luna de Sangre"
+FirstKill: Cae en el Modo Eternidad en la primera muerte
+DownedCursedCoffin: Después de derrotar al Ataúd Maldito
+PostEvilEternity: Modo Eternidad: Después de derrotar a cualquier Jefe del Bioma Maligno

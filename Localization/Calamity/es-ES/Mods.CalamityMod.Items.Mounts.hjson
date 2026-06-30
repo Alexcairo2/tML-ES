@@ -1,0 +1,63 @@
+Brimrose: {
+	DisplayName: Brimrose
+	Tooltip: Invoca una montura Brimrose montable
+}
+
+ExoArmamentsKit: {
+	DisplayName: Kit de Armamento Exo
+	Tooltip:
+		'''
+		Invoca una máquina de guerra montable
+		'Una superarma perfecta para tu estatura'
+		'''
+}
+
+ExoThrone: {
+	DisplayName: Caja Exo
+	Tooltip:
+		'''
+		Materializa una Montura Trono Exo voladora bastante cómoda y extremadamente ágil
+		Mantén [KEY] mientras estás sentado en el trono para moverte más despacio con mayor precisión
+		'Un jugador cómodo es un jugador peligroso'
+		'''
+}
+
+FollyFeed: {
+	DisplayName: Pienso del Folly
+	Tooltip: Invoca una monstruosidad montable
+}
+
+GazeOfCrysthamyr: {
+	DisplayName: Mirada de Crysthamyr
+	Tooltip:
+		'''
+		Invoca una montura de dragón sombrío montable
+		Mantén {$Key.UP} para ascender más rápido
+		'''
+}
+
+TheCartofGods: {
+	DisplayName: El Carrito de los Dioses
+	Tooltip: ""
+}
+
+OnyxExcavatorKey: {
+	DisplayName: Llave de la Excavadora de Ónice
+	Tooltip:
+		'''
+		Invoca una montura de Taladro de Ónice montable
+		Mantén <left> para perforar bloques al moverte horizontal o hacia abajo
+		La potencia de pico y la velocidad de minado del taladro copian el mejor pico de tu inventario
+		'¿Demoler irresponsablemente toda la generación de mundo tan cuidada causando devastación ecológica descontrolada? Espléndido'
+		'''
+}
+
+SuspiciousLookingJellyBean: {
+	DisplayName: Judía Gelatinosa de Aspecto Sospechoso
+	Tooltip: JUDÍA GELATINOSA
+}
+
+TundraLeash: {
+	DisplayName: Correa de Tundra
+	Tooltip: Invoca una montura Rimehound montable
+}

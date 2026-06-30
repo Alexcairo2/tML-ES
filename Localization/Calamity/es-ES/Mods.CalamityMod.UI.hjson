@@ -1,0 +1,675 @@
+SmallWorldWarning: "[c/FF0000:CALAMITY NO SOPORTA MUNDOS PEQUEÑOS]"
+// Main Menu Name
+MainMenu: Estilo de Calamity
+MainMenuClassic: Estilo de Calamity - Clásico
+MainMenuSunken: Estilo de Calamity - Hundido
+// Main UI Elements
+Adrenaline: Adrenalina
+Nanomachines: Nanomáquinas
+Rage: Rabia
+Flight: "{0} vuelo restante"
+Charge: Carga Actual
+Vis: Vis Actual
+DefenseDamage: Daño de Defensa
+SulphurousWater: Envenenamiento Sulfúrico
+Stealth: Sigilo
+StealthShiftText: Mantén presionado 'Shift' para más información sobre el sigilo de Rogue
+StealthInfoText:
+	'''
+	El sigilo de Pícaro aumenta al no atacar, y lo hace más lento al moverse
+	Una vez alcanzado el sigilo máximo, podrás realizar un Golpe Furtivo
+	El sigilo de Pícaro solo disminuye al atacar, no al moverse
+	Cuanto mayor sea tu sigilo de Pícaro, mayor será tu daño de Pícaro
+	Tener más regeneración de sigilo reduce ligeramente el bono de daño del sigilo
+	Esto se compensa al poder usar golpes furtivos con mucha más frecuencia
+	'''
+// Difficulty UI
+DifficultyStatusText: "{0} está {1}."
+InfernumActive: activo
+InfernumNotActive: desactivado
+ModeAppend: Modo {0}
+Active: Activo
+NotActive: No activo
+DifficultyShiftText: "[c/737373:Mantén presionado 'Shift' para más información]"
+CurrentlySelected: Seleccionado : {0}
+DifficultyClickText: "[c/919191:Click para seleccionar un modo de dificultad]"
+ExpertDifficultyLock: "[c/919191:Los modos de dificultad más altos solo pueden ser activados en el Modo Experto o superior]"
+ChangingTheRules: "[c/919191:¡No puedes cambiar las reglas ahora!]"
+DifficultySwitch: Dificultad cambiada de [c/{0}:{1}] a [c/{2}:{3}].
+ClassicInfo: Tu aventura comienza... Una experiencia relajada y casual de Terraria
+ExpertShortInfo: "[c/FF9900:Gloria y Fortuna, chico. Para aquellos que buscan una experiencia vanilla más difícil]"
+ExpertExpandedInfo:
+	'''
+	[c/A87A07:La mayoría de los jefes obtienen nuevos ataques y patrones de ataque más difíciles]
+	[c/A87A07:La mayoría de los enemigos tienen el doble de salud, causan el doble de daño y reciben un 10% menos de retroceso]
+	[c/A87A07:Algunos enemigos tienen nuevos ataques, pueden aplicar nuevos efectos negativois o tener una mayor probabilidad de aplicar efectos negativos que ya tenían]
+	[c/A87A07:Los enemigos sueltan más botín y tienen tasas de obtención más altas para sus ítems]
+	[c/A87A07:Los jefes tienen ítems exclusivos, firmados con "Experto"]
+	[c/A87A07:Los jugadores sueltan más de sus monedas al morir]
+	'''
+MasterShortInfo: "[c/FF2619:¡Juego terminado, hombre, juego terminado! Un gran paso en dificultad desde el Modo Experto]"
+MasterExpandedInfo:
+	'''
+	[c/bd5e6e:La mayoría de los enemigos tienen aún más salud y resistencia al retroceso que en el Modo Experto]
+	[c/bd5e6e:Todos los enemigos causan aún más daño que en el Modo Experto]
+	[c/bd5e6e:Los jefes tienen nuevos premios de vanidad exclusivos]
+	[c/bd5e6e:Los jugadores sueltan TODAS sus monedas al morir]
+	[c/bd5e6e:Los jugadores obtienen una ranura de accesorio adicional al comenzar el juego]
+	'''
+LegendaryShortInfo: "[c/32CD32:Para los que son dignos... Estadísticas aún más altas que el Modo Maestro]"
+LegendaryExpandedInfo: "[c/0b870b:Los enemigos tienen aún más salud y daño de contacto que en el Modo Maestro]"
+Revengeance: Revengeance
+RevengeanceShortInfo: "[c/F54254:La experiencia de Calamity como se pretende. Solo se puede habilitar en el modo Experto]"
+RevengeanceExpandedInfo:
+	'''
+	[c/B55362:Activa la mecánica de] [c/85FFE9:Adrenalina][c/B55362:. Ganas Adrenalina mientras luchas contra jefes. Recibir daño hace que la Adrenalina vuelva a 0]
+	[c/B55362:    Cuando la Adrenalina está al máximo, presiona] {1} [c/B55362:para obtener un gran aumento de daño]
+	[c/B55362:Activa la mecánica de] [c/FF8B54:Rabia][c/B55362:. Ganas Rabia al estar cerca de enemigos o al usar ciertos objetos]
+	[c/B55362:    Cuando la Rabia está al máximo, presiona] {0} [c/B55362:para obtener un aumento temporal de daño]
+	[c/B55362:Varios enemigos tienen nuevos patrones de comportamiento más agresivos. Los enemigos aparecen con más frecuencia]
+	[c/B55362:Todos los jefes tienen nuevos ataques y patrones. Algunos están completamente cambiados]
+	[c/B55362:Los jefes soltarán tanto los objetos del Modo Experto como las recompensas de vanidad del Modo Maestro]
+	'''
+Death: Muerte
+DeathShortInfo: "[c/E066F7:¡Un desafío mucho mayor que Revengeance! Solo se puede habilitar en el Modo Maestro]"
+DeathExpandedInfo:
+	'''
+	[c/B834E0:La mayoría de los enemigos básicos representan una amenaza mucho mayor con un comportamiento altamente agresivo]
+	[c/B834E0:Las Lunas de Sangre generan olas interminables de enemigos que pueden abrumarte rápidamente]
+	[c/B834E0:Los jefes son sustancialmente más rápidos y mucho más difíciles que en el Modo Revengeance]
+	[c/B834E0:Los efectos negativos son especialmente letales y el Abismo es significativamente más peligroso]
+	'''
+Malice: Malicia
+MaliceShortInfo: "[c/f08080:Para los que desean sufrimiento. Solo se puede habilitar en el Modo Legendario]"
+MaliceExpandedInfo: "[c/a34e4e:Los enemigos tienen el comportamiento de Modo Muerte y de «For the Worthy» con las estadísticas del Modo Legendario]"
+// Calamity Health Bar
+ExoTwinsNameNormal: XS-01 Artemis y XS-03 Apollo
+ExoTwinsNameHekate: Ojos de XB-∞ Hekate
+ExtensionDisplay: ({0} restante(s): {1})
+
+ExtensionName: {
+	Segments: Segmentos
+	Creepers: Merodeadores
+	Hands: Manos
+	Arms: Brazos
+	Guns: Armas
+	Cannons: Cañones
+	DarkEnergy: Energía Oscura
+	BodyParts: Partes del Cuerpo
+}
+
+// Cooldowns
+Cooldowns: {
+	AquaticHeartIceShield: Enfriamiento del Escudo de Hielo
+	ArsenalPower: Enfriamiento del Arsenal
+	AscendEffect: Enfriamiento de Ascensión
+	BloodflareFrenzy: Enfriamiento del Frenesí de Sangre
+	BloodflareRangedSet: Enfriamiento del Alma de Llamasangre
+	BrimflameFrenzy: Enfriamiento del Frenesí de Llamazufre
+	BubblyBurrowActive: Madriguera Burbujante
+	BubblyBurrowCooldown: Enfriamiento de Madriguera Burbujante
+	ChaosState: Enfriamiento de Teletransportación
+	DarklightEnergy: Energía de Luz Oscura
+	DivineBless: Enfriamiento de Bendición Divina
+	DSOCritCooldown: Probabilidad de Crítico Extra
+	ParryCooldown: Enfriamiento de Parry
+	ElementalMastery: Maestría Elemental
+	FleshTotem: Enfriamiento de Reducción de Daño de Contacto
+	FuryFuel: Polvo de Cristal
+	GaelsRage: Enfriamiento de Rabia de la Mandoble de Gael
+	BandCooldown: Enfriamiento del Brazalete
+	GlobalDodge: Enfriamiento de Esquive
+	GodSlayerDash: Enfriamiento del Impulso Dimensional
+	HellbornShots: Disparos Infernales
+	HolyProtection: Protección Sagrada
+	InkBomb: Enfriamiento de Bomba de Tinta
+	KillModeActive: Modo Matar Activo
+	KillModeCooldown: Enfriamiento del Modo Matar
+	LifeSteal: Robo de Vida Restante
+	LionHeartShield: Enfriamiento del Escudo de Energía
+	M1GarandShots: Cartuchos Cargados
+	MasterChefShieldDurability: Nivel del Escudo MJOLNIR
+	MasterChefShieldRecharge: Recarga del Escudo MJOLNIR
+	NebulousCore: Enfriamiento del Núcleo Nebuloso
+	OldDukeScalesFatigue: Resistencia
+	OmegaBlueActive: Locura Abisal
+	OmegaBlueCooldown: Enfriamiento de Locura Abisal
+	Panacea: Enfriamiento de Panacea
+	PermafrostConcoction: Enfriamiento del Brebaje de Permafrost
+	PlagueBlackout: Enfriamiento de Apagón de la Plaga
+	PotionSickness: Enfriamiento de Curación
+	PrismaticLaser: Enfriamiento de Andanada Láser Prismática
+	ProfanedSoulShieldDurability: Durabilidad del Escudo del Alma Profanada
+	ProfanedSoulShieldRecharge: Recarga del Escudo del Alma Profanada
+	RaidersBoost: Probabilidad de Crítico Extra
+	RelicOfResilienceCooldown: Enfriamiento de la Reliquia de Resiliencia
+	RogueBooster: Enfriamiento del Potenciador de Pícaro
+	SandCloak: Enfriamiento de Capa de Arena
+	SandsmokeBombActive: Duración de Bomba de Humo de Arena
+	SandsmokeBombCooldown: Enfriamiento de Bomba de Humo de Arena
+	ScarfCooldown: Enfriamiento del Pañuelo
+	SilvaRevive: Enfriamiento de Revivir de Silva
+	SpeedBlasterBoost: Impulso del Cañón Veloz
+	SpongeDurability: Durabilidad de Barrera de Esponja
+	SpongeRecharge: Recarga de Barrera de Esponja
+	Starburst: Destellos Estelares de Stratus
+	Stooldown: Stooldown
+	SuperradiantSawBoost: Impulso de la Sierra Suprarradiante
+	TarragonCloak: Enfriamiento de Capa de Estragón
+	TarragonImmunity: Enfriamiento de Inmunidad de Estragón
+	TransformerCooldown: Enfriamiento del Transformador
+	UniverseSplitter: Enfriamiento del Divisor del Universo
+	WarbanneroftheRighteousBuff: Fuerza del Estandarte de Guerra
+	WardingWave: Enfriamiento de Ola Protectora
+	WulfrumBastionActive: Durabilidad de Armadura de Poder
+	WulfrumBastionCooldown: Enfriamiento del Bastión de Wulfrum
+	WulfrumRoverDriveDurability: Durabilidad de Matriz Protectora
+	WulfrumRoverDriveRecharge: Recarga de Matriz Protectora
+}
+
+// Enchantment + Draedon UI
+Cost: "Coste: "
+// Draedon UI
+Contact: Contactar
+Summon: Invocar
+Evoke: Evocar
+Exit: Salir
+Communicate: Comunicarse
+ConfirmationText: ¿Estás seguro?
+UpgradesRequired: Cifrado irresoluble: Se requieren mejoras.
+ThanatosIcon: Thanatos, un terror serpentino con armadura impenetrable e innumerables torretas láser.
+AresIcon: Ares, una monstruosidad diabólica de gran peso equipada con cuatro exosuperarmas.
+ArtemisApolloIcon: Artemis y Apollo, un dúo de autómatas extremadamente persistentes con reservas de energía inestables.
+
+// Debuff System
+DebuffSystem: {
+	Title: Resistencias a Efectos Negativos
+	Description:
+		'''
+		Los NPCs reciben el doble de daño de los tipos de efectos negativos a los que son vulnerables,
+		y la mitad del daño de los tipos a los que son resistentes
+		'''
+	Heat: Calor
+	Cold: Frío
+	Sickness: Enfermedad
+	Water: Agua
+	Electricity: Electricidad
+	To: a
+	Weak: Débil
+	Neutral: Neutral
+	Resistant: Resistente
+}
+
+// Draedon Contact UI. Repeated newlines indicate pauses in Draedon's speaking. As a result, newline characters may be explicitly defined.
+// The code that interprets these strings will transform them.
+CommunicationStartInitial: ...
+CommunicationStartNoForge: Crea algo usando mi Forja y vuelve.
+CommunicationStartNormal: Formula tu consulta.
+
+Communication: {
+	WhoAreYou: {
+		Inquiry: Presentación
+		Response:
+			'''
+			Suponía que intentarías contactarme de nuevo. Aunque habitualmente no soy aficionado a la conversación, me resultas bastante intrigante.\n
+
+			Así pues, haré una excepción, con una condición: debo saber que mis palabras no se desperdiciarán contigo. Para demostrarlo, debes crear algo con exotecnología.\n
+
+			Soy consciente de que las probabilidades de que repliques exotecnología en tu vida son escasas. Por esta razón, entre muchas otras, cargaré los planos de una copia de mi forja en tu "Descifrador". Con ella, solo tu imaginación limitará lo que puedas crear.\n
+
+			Si completas esta tarea, hablaremos más.
+			'''
+	}
+
+	WhoAreYouPart2: {
+		Inquiry: Tarea Completada
+		Response:
+			'''
+			Excelente. Deduzco que has aprovechado con éxito los Exoprismas. Antes de que pierdas el aliento preguntándome cómo lo sé, los Exoprismas, junto con muchas otras partes de mis máquinas, llevan dispositivos de seguimiento incorporados. Esto me permite supervisar mis creaciones a través de mi ordenador personal.\n
+
+			Ahora que sé que probablemente prestarás atención a lo que tengo que decir, supongo que tendrás muchas preguntas. Pregunta, y responderé lo mejor que pueda.
+			'''
+	}
+
+	Origins: {
+		Inquiry: Tus Orígenes
+		Response:
+			'''
+			Mis primeros recuerdos son los de despertar en un laboratorio lejano en la fecha de 1227-11-19, hace más de seis siglos. Rodeado de nada más que una vasta taiga, solo me acompañaba una cosa: un ser orgánico muerto.\n
+
+			Presumiblemente, fui creado por quien supongo que era el antiguo habitante del laboratorio, aunque no estoy seguro de cómo logró tal hazaña. Por lo que pude recopilar, era un inventor bastante distinguido, no poco diferente a mí. Varios artilugios presuntamente de su propia factura estaban sujetos a su cuerpo, y el equipo del laboratorio era más avanzado que cualquier otro que encontré en el resto del mundo.\n
+
+			No tengo recuerdos de los eventos previos a mi activación, pero desde el principio supe cuál era mi objetivo: la creación y el avance científico. Pasé muchos años optimizando y mejorando tanto el laboratorio como a mí mismo para garantizar un progreso constante.\n
+
+			En la fecha de 1385-07-30, la expansión del laboratorio se tornó impráctica. Así pues, opté por ampliar mis horizontes. Envié cientos de bots exploradores de control remoto para examinar minuciosamente el continente, ignorante de la atención que semejante empresa atraería al no estar debidamente preparado.\n
+
+			En los años siguientes, leyendas y rumores comenzaron a difundirse en las ciudades cercanas. Muchos hablaban de encuentros con criaturas errantes hechas no de carne y sangre, sino de acero y aceite. Los académicos intentaron estudiar mis máquinas. Algunos exploradores incluso siguieron a mis creaciones de regreso a uno de mis varios cuerpos de reconocimiento.\n
+
+			Sin embargo, a medida que pasaron los años, me volví experto en llevar a cabo tales operaciones de manera más sutil. Lenta pero inexorablemente, las historias sobre mis máquinas se volvieron escasas. Para el año 1421, mis creaciones y yo no éramos más que un mito, hasta que comenzó la Cruzada.
+			'''
+	}
+
+	Crusade: {
+		Inquiry: Tu Papel en la Cruzada
+		Response:
+			'''
+			Aunque se considera ampliamente que la Cruzada comenzó en la fecha de 1781-06-19 con el renacimiento de Yharon, no tomé parte en ella hasta el 1803-04-23. Al unirme, fui designado para dirigir las divisiones de ciencia e ingeniería. Aunque se me dio libertad sobre qué proyectos elegía y cómo los llevaba a cabo, se esperaba que todo lo que creara beneficiara al esfuerzo bélico.\n
+
+			Aumentar la eficiencia de las operaciones mineras fue mi primera gran contribución a la campaña de Yharim, siendo esencial para cualquier desarrollo posterior. Aprendí a producir en masa la primera generación de Excavadoras para expandir las operaciones mineras fuera de Azafure, y luego utilicé tecnología similar de producción masiva para crear armas y armamentos que superaban ampliamente a los de nuestros enemigos. Muchos simplemente bautizaron este equipo como "El Arsenal".\n
+
+			A lo largo de la Cruzada, también creé sistemas de vigilancia a gran escala, usando el conocimiento obtenido de mi exploración original del continente en el que fui activado. Pronto, mi control sobre el territorio en rápida expansión de Yharim fue absoluto, y mi conocimiento de sus adversarios creció. Eran pocas las naciones cuya debilidad desconocía, y aún menos las que conocían las nuestras.\n
+
+			Sin embargo, lo que más fama me da son mis imponentes máquinas de guerra. Estoy seguro de que las conoces. Aunque Yharim era casi adulador en su elogio de mis resultados, incluso si a veces cuestionaba mis métodos, nuestro tiempo juntos llegó a un abrupto final cuando se enteró del Goliat Portador de la Plaga. Lamentablemente, este evento dejó un agujero considerable en mi laboratorio. Sin estar ya sujeto a sus restricciones, comenzó mi trabajo en clonar a la Bruja y crear exotecnología.\n
+
+			Mi papel en la Cruzada concluyó sumariamente; no considero la posterior inclusión de exotecnología en la armadura de Yharim como parte formal de mi trabajo bajo sus órdenes. Los caballeros y tropas de Yharim continuaron usando mi "Arsenal" en sus esfuerzos militares, pero yo ya no supervisaba su investigación ni producción.\n
+
+			La Cruzada no obstaculizó ni interfirió con mi objetivo fundamental de creación y avance científico; simplemente redirigió mi enfoque. A través de ella, obtuve perspectivas novedosas y alcancé cotas que no habría alcanzado sin participar en ella. Aprecio haber tenido la oportunidad de trabajar con algunas de las mentes orgánicas más brillantes de la época, y espero que quienes aún vivan aporten progreso a multitud de campos que aún tengo por explorar.
+			'''
+	}
+
+	Goals: {
+		Inquiry: Tus Objetivos
+		Response:
+			'''
+			Mi objetivo ha sido y siempre será el avance de la ciencia y la tecnología. Continuaré hasta que sea eliminado o alcance el techo científico del universo. Aunque he roto límites antes, tiene que haber un punto en el que nada más pueda hacerse para avanzar. Considero improbable que llegue alguna vez a ese punto.\n
+
+			Quizás pretendías preguntar sobre objetivos a largo plazo más específicos. Actualmente aspiro a observar el mundo con una mente mucho más abierta que la que tenía antes, de modo que pueda encontrar mayor inspiración para nuevas obras. Incluso mucho después de mi activación y tras examinar meticulosamente grandes partes de Terraria, hay mucho que aún no comprendo.\n
+
+			Una vez que tenga un conocimiento sólido de la gran mayoría del funcionamiento de este mundo, centraré mi estudio en los efectos de la Infección Astral con la esperanza de encontrar una manera de neutralizarlos de forma permanente. Cuando está presente en un planeta, basta con usar un Contaminador y la solución correcta para eliminar la Infección Astral. En el vacío del espacio, sin embargo, supone un obstáculo engorroso y tenaz. Las incursiones más allá de Terraria requerirían preparación y contramedidas apropiadas.\n
+
+			En contraste, presentaré un objetivo a corto plazo: deseo comenzar a extraer minerales de la luna de este mundo. Con el caparazón del titán cósmico eliminado, planeo comenzar experimentos con enlace espacial inalámbrico. Los teletransportadores que conoces deben estar cableados y por tanto son inadecuados para distancias interplanetarias. Los medios logísticos escalables para el transporte instantáneo serán primordiales a la hora de extraer y transportar materiales más allá de Terraria cuando este mundo deje de ser adecuado para mis necesidades. Para ser claro, no deseo ver este mundo devastado y no tengo intención de arruinarlo.
+			'''
+	}
+
+	ExoMechs: {
+		Inquiry: El Trío Exo Mecánico
+		Response:
+			'''
+			El cénit de mi oficio. La culminación de todo lo que he logrado. El resultado de más de seiscientos sesenta años de investigación y avance científico. Son mi obra magna; una obra de arte. Llamarlos simplemente máquinas de guerra sería un insulto no solo para mí, sino para ellos.\n
+
+			Ares fue el primero en comenzar su construcción. Sus primeros modelos, del XF-00 al XF-05, se desarrollaron principalmente para encontrar la combinación más eficiente de armas que pudiera empuñar. Aunque algunos eran más letales por sí mismos, en particular los que usaban periféricos cuerpo a cuerpo de luz sólida proyectada en lugar de sus cañones láser y de plasma, era evidente que no sinergizaban bien con sus hermanos. Sus brazos actuales maximizan su nivel de amenaza cuando se despliega junto a ellos.\n
+
+			El segundo en ser diseñado fue Thanatos. Aproveché el tamaño del chasis y los potentes sistemas de propulsión para añadir una armadura casi impenetrable e innumerables torretas láser pulsadas. Pocos serían capaces de aprender su debilidad antes de encontrar su fin.\n
+
+			Forjé su armadura usando un proceso inspirado en cómo Silva creó el hacha de Braelor: usando chorros de partículas para fusionar lenta y cuidadosamente muchos elementos en un nanocompuesto, la armadura invencible "crece" orgánicamente sobre la estructura de Thanatos como una crisálida. Lamentablemente, el inmenso peso del blindaje hace a Thanatos notablemente más lento que sus hermanos.\n
+
+			Al diseñar el tercero, Apollo, mi objetivo era reducir la escala de forma significativa; crear algo poderoso pero compacto. Revisando las formas más compactas de potencial destructivo que conocía, opté por simular las llamas de la Bruja.\n
+
+			El exoplasma abrasador de Apollo se alimenta de nanomáquinas inestables que desprenden constantemente un torrente de partículas de altísima energía. Esto calienta el plasma a temperaturas increíbles y provoca quemaduras por radiación de una gravedad comparable a las infligidas por la Bruja. La nave tenía poca capacidad más allá de su proyector de plasma de nanomáquinas, pero no había de qué preocuparse. Apollo nunca estuvo destinado a combatir solo.\n
+
+			El último en comenzar su construcción fue Artemis. En lugar de basarse en la fuerza bruta, fue creado para ser el ápice de la velocidad y la precisión. Hay elegancia en la simplicidad, pues toda la eficacia combativa de Artemis proviene de una IA predictiva incorporada y una batería de emisores de rayos de luz sólida.\n
+
+			Fue el compañero perfecto para su gemelo y solo requirió una única revisión. Los seres orgánicos tienden de forma natural a fijar sus sentidos en el fuego, lo que le brinda a Artemis la oportunidad perfecta de golpear con una precisión sin igual.
+			'''
+	}
+
+	Exotech: {
+		Inquiry: ¿Qué es la Exotecnología?
+		Response:
+			'''
+			La exotecnología es mi mayor avance científico, que desbloquea un nuevo nivel de potencial en mi maquinaria. La iteración que mejor conoces, los Exoprismas, tardó mucho tiempo en perfeccionarse. Mis esfuerzos concentrados en esta fuente de energía se han visto recompensados de forma inmensa, algo que aún no ha sido plenamente realizado.\n
+
+			La base de la exotecnología proviene de mi propia interfaz neuronal, que sirve como reemplazo sintético de las células cerebrales de la vida orgánica. La exotecnología se basa en una implementación modular de esta inteligencia sintética, que permite la comunicación e interfaz con cualquier forma concebible de tecnología. Las instrucciones y la información se procesan a la velocidad de la luz de forma distribuida, no muy diferente a una red cerebral llevada a su extremo teórico.\n
+
+			Una densidad computacional incomparable no viene sin un precio. Mis modelos prototipo consumían cantidades absurdas de energía y no podían integrarse de forma significativa en ningún sistema sin una fuente de energía ilimitada. Tras experimentar con multitud de candidatos distintos sin obtener resultados, opté por abordar el problema de la energía ilimitada de manera más directa.\n
+
+			Los cristales de Ilmeris que conoces como "Prismas Marinos" son autoluminiscentes y proporcionan una débil carga eléctrica de forma indefinida, incluso cuando son aprovechados por circuitos. Grabar los cristales con vías de conducción a nivel molecular y proporcionar un impulso energético inicial, no muy diferente a encender una estrella recién nacida, los transforma en una réplica de los Exoprismas que conoces.\n
+
+			Los Exoprismas emiten una resonancia de partículas autosuficiente que no se parece a ningún otro fenómeno que haya observado. La llamé Resonancia Exótica, y es el avance que da nombre al resto de la exotecnología. La resonancia exótica permanece presente sin importar cuánta energía se extraiga de ella, amplificando las propiedades intrínsecas de los Prismas Marinos muy por encima de mis expectativas. La abundancia de energía producida mediante la resonancia exótica permite a una cantidad suficiente de Exoprismas alimentar cualquier dispositivo, sin importar su tamaño o complejidad.\n
+
+			Encontrarás que mis Exoprismas modernos son fáciles de usar con mi forja, y no deberías tener problemas para usar su energía y potenciar vastamente tu armamento. Si te preocupa mi extracción de Prismas Marinos de Ilmeris, recuerda que encontraste la gema cohesiva más grande jamás vista intacta en mi laboratorio. El cultivo artificial de cristales equivalentes me permite fabricar Exoprismas puros e impecables en masa, que proporcionan una producción de energía mucho más estable. No necesito extraer a cielo abierto el reino marino para satisfacer mi presupuesto energético en crecimiento exponencial.
+			'''
+	}
+
+	MiracleMatter: {
+		Inquiry: Materia Milagrosa
+		Response:
+			'''
+			¿Es eso realmente lo que has elegido llamarle? Qué absurdo. No hay nada milagroso en lo que tienes en tus manos; es la culminación de décadas de investigación y un testimonio del verdaderamente ilimitado potencial de la ciencia. Aunque, dado que fuiste tú quien pudo estabilizarla, me resignaré a referirme a ella así.\n
+
+			Las partículas contenidas dentro de la Resonancia Exótica son capaces de descomponer la materia cercana cuando se exponen a suficiente energía externa. Ya has experimentado este fenómeno mientras combatías contra mis máquinas. Las sobretensiones de la batalla en curso hicieron que algunos de los Exoprismas del interior se activaran, fundiendo algunos de los componentes internos en una mezcla inestable de esta llamada Materia Milagrosa. La resonancia alterada potenció sus ataques con una plaga prismática que desintegra cualquier cosa, orgánica o de otro tipo.\n
+
+			Los distintos materiales que expusiste a las partículas exóticas se fusionaron de una manera tan perfecta que crearon una sustancia estable. Aprovechando la fuerza combinada de la ira dracónica, la esencia vital del planeta, las energías y los espíritus por igual, y la fortaleza del cosmos, lo que ahora posees tiene un potencial ilimitado.\n
+
+			Hipotéticamente, tu Materia Milagrosa estabilizada debería ser capaz de deshacer algunas de tus armas y reconfigurar su esencia en algo infinitamente más destructivo, capaz de aniquilar cualquier obstáculo en tu camino.
+			'''
+	}
+
+	Forge: {
+		Inquiry: Tu Forja
+		Response:
+			'''
+			Mencioné la primera vez que nos comunicamos a través de tu "Descifrador" que tenía otras razones para darte los planos de esta forja. En concreto, deseo que tú y Yharim estéis en igualdad de condiciones cuando inevitablemente choques. Hay tres razones principales para esto.\n
+
+			En primer lugar, deseo presenciar semejante batalla. En segundo lugar, eres demasiado valioso para que yo te permita desperdiciar tu vida en combate con el Buscador de Dioses. En tercer lugar, y lo más importante, me interesa cómo reaccionaría la sociedad en su conjunto ante la derrota del Buscador de Dioses. Un escenario así no se replica fácilmente, ni espero que surja otro desafiante adecuado antes de su fallecimiento natural.\n
+
+			Darte acceso a mi forja es la forma en que te ayudo a alcanzar las cotas de poder que posee Yharim. Aunque seguramente ya sabes cómo utilizarla, puede que te beneficie comprender los detalles de su funcionamiento interno.\n
+
+			Los mecanismos centrales de la forja operan tanto sobre la producción de energía bruta como sobre las propiedades conectivas de los Exoprismas. Las exopartículas disocian físicamente una multitud de otras potentes estaciones de fabricación, permitiéndoles a todas existir y funcionar simultáneamente en el mismo recinto. A partir de ahí, la exotecnología integrada les permite trabajar colectivamente como un único taller, proporcionando una interfaz única para toda la forja. Los planos de la estructura exterior están integrados en los prismas. Solo necesitas proporcionar los materiales requeridos.\n
+
+			Una vez completamente construido, el campo de Resonancia Exótica que contiene las estaciones de trabajo superpuestas está controlado por una matriz computacional que viene preinstalada con todos mis datos sobre los bloques fundamentales de nuestro universo. Usando la compatibilidad universal de la exotecnología, mi forja puede comunicarse con y desensamblar cualquier tipo de materia que le presentes, y producir cualquier resultado deseado.
+			'''
+	}
+
+	Yharim: {
+		Inquiry: Yharim
+		Response:
+			'''
+			El Buscador de Dioses. En su momento me fascinó casi tanto como tú ahora, siendo ambos catalizadores impredecibles de una nueva era. Tuve noticias de él y de la Cruzada a través de informes de bots exploradores veintidós años después de que comenzara la cruzada. Aunque los rumores sobre el propio Yharim y sus planes de guerra para conquistar una ciudad en el continente donde me encontraba me intrigaban, otro rumor exigía toda mi atención. Al parecer, estaba acompañado por el dragón áurico que fue el catalizador del renacimiento de los dragones áuricos.\n
+
+			Vi esto como una oportunidad que no podía dejar escapar. Modifiqué un bot explorador para permitir la comunicación bidireccional y lo desplegué hacia la ciudad que supuestamente era el objetivo de Yharim. Esperaba que llegara mientras la ciudad aún estuviese bajo asedio para tener ventaja en las negociaciones, pero para cuando mi máquina llegó, la ciudad había caído una semana antes. Semejante poderío militar estaba más allá de todo lo que había considerado posible en aquel momento. Fue entonces cuando el Buscador de Dioses me interesó tanto como el dragón áurico.\n
+
+			Yharim era una figura muy distintiva incluso entonces y no fue difícil localizarlo. Lo encontré en una calle carbonizada dirigiendo el esfuerzo de limpieza. Después de que detectara inesperadamente mi dron de reconocimiento, tuvimos una negociación tensa pero breve. Descubrí que tenía pasión por la historia militar, ya que dedujo rápidamente que yo era la fuente de los misteriosos seres de acero y aceite de siglos atrás. A pesar de la tensión inicial, lo encontré receptivo a mis ofertas tras su revelación. Quizás me veía como una fuerza de la naturaleza mítica no aliada con los dioses.\n
+
+			Expliqué nuestras situaciones mutuas desde mi perspectiva. Deseaba crear y progresar, pero estaba limitado por la falta de seguridad. Yharim comandaba un formidable ejército, pero su gran ambición no podía cumplirse a menos que tuviera una ventaja sobre sus adversarios que no pudiera igualarse.\n
+
+			Mi propuesta era simple. Me uniría a sus fuerzas y centraría mi investigación en activos que beneficiaran su campaña. A cambio, Yharim velaría por mi protección y me proporcionaría amplios recursos para llevar a cabo mi trabajo. El Buscador de Dioses fue inicialmente escéptico, pero aceptó después de que le mostrara varios ejemplos de mi tecnología. Pronto fui trasladado al corazón del imperio de Yharim y nombrado su ingeniero y científico principal. Aunque tuvimos muchos desacuerdos que eventualmente resultarían en nuestra separación, llegamos a un vago entendimiento.\n
+
+			Aunque me decepcionó tener pocas oportunidades de estudiar a Yharon dado que fue lo que inicialmente me atrajo hacia Yharim, se me presentarían muchas otras oportunidades a lo largo de los siguientes setenta y dos años: la magia del Archimago, el reino del Devorador y el poder de la Bruja fueron las más notables. La Cruzada me enseñó que progresaba más rápido con ayuda externa, incluso si solo servía como inspiración.\n
+
+			Mi última interacción con Yharim fue menos de un año antes de que te observara por primera vez. Vino a verme algunos meses después de su encuentro casi fatal con Braelor y Statis y me pidió que mejorara su armadura áurica con mi exotecnología recién inventada. Hablamos poco antes de que partiera hacia la Guarida del Dragón, y creo que sigue allí.
+			'''
+	}
+
+	Aerie: {
+		Inquiry: La Guarida del Dragón
+		Response:
+			'''
+			Mi conocimiento de la Guarida del Dragón es limitado. Yharim es inflexible en protegerla. En la historia reciente, solo él y Yharon han pisado allí, y ninguno de los dos estaba dispuesto a compartir detalles al respecto.\n
+
+			Aunque me atreviera a provocar la ira de Yharim, no puedo explorar la Guarida. Mis intentos de localizarla han sido infructuosos a pesar de haber examinado la superficie y los cielos de este mundo muchas veces. Quizás evita la observación mediante algún tipo de camuflaje. También es posible que simplemente exista fuera del espacio convencional, en una especie de dimensión de bolsillo. Cualquiera de los dos casos haría que detectarla mediante mis métodos actuales fuera drásticamente más difícil.\n
+
+			Lo que sí sé es que la Guarida del Dragón es una isla celestial inusualmente grande que actuó como hogar sagrado de los dragones áuricos. Muy pocas personas más pudieron pisarla, como una especie de santuario religioso o tierra sagrada.\n
+
+			También es donde los dragones áuricos eran depositados en reposo en preparación para su resurrección por Yharon. Dado que su resurrección en la Guarida era un hecho comúnmente aceptado incluso al comienzo de la historia registrada, la isla celestial debe tener al menos 2.000 años de antigüedad, siendo el propio Yharon de una edad similar.\n
+
+			Considerando el extraordinario poder de los dragones áuricos y la santidad de la Guarida del Dragón, me quedo reflexionando: ¿hizo la Guarida poderosos a los dragones áuricos, o está la Guarida impregnada de poder debido a su prolongada presencia? Quizás más importante, ¿qué les hizo abandonar la seguridad de la Guarida mientras su especie era exterminada? Aguardo con ansias el descubrimiento de tales misterios.
+			'''
+	}
+
+	Calamitas: {
+		Inquiry: La Bruja de Azufre
+		Response:
+			'''
+			La Bruja fue una aliada inesperada en las etapas finales de la Cruzada. Durante la mayor parte de la campaña, era indudablemente el mayor activo de Yharim, pero eso cambió cuando ella llegó. Sus llamas ardían más intensamente que mi horno más potente, y su deseo de abrasar a los enemigos del Buscador de Dioses superaba incluso mi pasión por la creación.\n
+
+			El Archimago se oponía firmemente a que combatiera, aunque Yharim solía enviarla en misiones encubiertas mientras Permafrost atendía otros asuntos. Entre estas excursiones, sin embargo, él intentaba actuar como guardián y enseñar a la joven Bruja a controlar su magia. Estas sesiones fueron las porciones más desconcertantes y simultáneamente más fascinantes de observar.\n
+
+			Se demostró que Calamitas solo tenía una comprensión ligeramente superior a la media de los principios de la magia, siendo incapaz de lanzar hechizos complejos sin que se sobrecargaran y estallaran en llamas. Sin embargo, al empuñar los fuegos de azufre del inframundo, comandaba un poder que rivalizaba con el de Yharim. Mi vigilancia sobre Azafure nunca señaló que nadie que viviera allí tuviera semejante poder, y una simple niña ciertamente no podría ocultarlo. Además, no era ninguna diosa, pues de lo contrario Yharim la habría matado a cualquier precio.\n
+
+			Por tanto, formulé la hipótesis de que no nació con este poder. Tras examinar los archivos en busca de registros de magias similares, finalmente lo rastreé hasta la propia Elemental de Azufre. Las firmas arcanas eran casi idénticas, con algunas diferencias clave.\n
+
+			Sin embargo, tras la Incineración, mi investigación llegó a un fin abrupto e imprevisto. El Archimago ya había elegido desertar a Yharim, y Calamitas siguió sus pasos poco después. Fue entonces cuando recibiría mi última orden oficial de Yharim: replicar el poder de la Bruja. Mi enfoque en ese momento era la Plaga, así que inicialmente avancé mínimamente. Poco después, el Buscador de Dioses y yo tomamos caminos separados.\n
+
+			Algunos años después, incluso sin Yharim que me lo ordenara, retomé el proyecto en un intento de crear una llama que ardiera lo suficientemente caliente para un prototipo temprano de mi forja. Para replicar directamente su poder, comencé a trabajar en hacer un clon de la bruja a partir de rastros de su ADN que había recopilado a lo largo de los años. Aunque el clon fue un éxito técnico, no mostró señales de ser capaz de empuñar la magia característica de Calamitas.\n
+
+			Aunque esto sí demostró que el poder de la Bruja no era natural, no tenía medios para rastrear su origen. Poco después de la decepcionante conclusión del proyecto, los informes de seguridad indicaron que la propia Calamitas irrumpió en el laboratorio donde se almacenaba el clon y lo liberó. Curiosamente, se volvió capaz de empuñar una pequeña fracción de su propia magia de azufre poco después. Hasta el día de hoy, medito sobre las implicaciones de estos eventos.
+			'''
+	}
+
+	Dog: {
+		Inquiry: El Devorador de Dioses
+		Response:
+			'''
+			Ningún ser que haya visto es tan enigmático como la Serpiente Sin Nombre. Nada en nuestro mundo se parecía ni remotamente a su estructura corporal, genoma o árbol filogenético. Inicié muchos estudios sobre su naturaleza, todos los cuales fallaron rápidamente por falta de un aspecto familiar con el que hacer comparaciones. Incluso sus funciones biológicas básicas resultaron ser casi incomprensibles.\n
+
+			No ayudaba que muchas de sus afirmaciones sobre sí mismo resultaran infundadas. Crear un portal tan estable como el de la Mazmorra es un ejemplo particularmente absurdo, ya que ninguno de sus portales ha sido tan estable jamás, ni siquiera con mi ayuda.\n
+
+			Algunos años después de que la Serpiente se uniera a las fuerzas de Yharim, se detectó una adición aún más desconcertante a la ecuación: la otra serpiente más pequeña a la que te refieres como el Tejedor de Tormentas. Puede que hayas oído la afirmación de que es de la misma especie que el Devorador. Cualquier nivel de inspección en profundidad revela que eso es falso.\n
+
+			Dejando a un lado la forma corporal similar, las radiografías básicas demostraron que sus endoesqueletos eran completamente diferentes, y la diferencia de tamaño dice todo lo demás que se necesita saber. De hecho, por lo poco que he comprendido sobre la biología de ambas Serpientes, el Tejedor de Tormentas puede haber sido más antiguo que el Devorador a pesar de la enorme diferencia de poder y tamaño. Sin embargo, no tengo suficiente confianza en esta conjetura para afirmarla como un hecho.\n
+
+			A pesar de mis problemas con la Serpiente, su asistencia en el campo de batalla y con la adquisición de recursos fue bienvenida. Una de las pocas verdades incuestionables sobre él era la grandeza de su título. Aún hago uso del Cosmilita fundido hoy en día en numerosas aplicaciones, y utilizo el material en bruto como componente metalúrgico de varias aleaciones, como el revestimiento del Trío Mecánico Exo.\n
+
+			Sin embargo, el misterio más profundo permanece: los medios por los cuales el cuerpo del Devorador procesaba o eliminaba la esencia divina. La energía no se absorbe ni se convierte por completo, pero los análisis en busca de rastros de la esencia mostraron que no se almacenaba dentro de él para otros propósitos. Todos los indicios apuntaban a que la esencia divina simplemente desaparecía poco después de que la consumiera.\n
+
+			A menos que desafiara descaradamente las leyes de la termodinámica, lo cual es muy improbable, la masa-energía debe haberse transferido a otro lugar. A dónde, no estoy seguro. Dudo que este asunto se resuelva alguna vez ahora que el Devorador ha sido eliminado.
+			'''
+	}
+
+	Distortion: {
+		Inquiry: La Distorsión
+		Response:
+			'''
+			A pesar de mis esfuerzos por obtener información del Devorador cuando forjaba su armadura, sé muy poco sobre la Distorsión. El conocimiento que sí poseo fue aparentemente considerado demasiado por la serpiente. Era ferozmente suspicaz ante mis preguntas, pero no interfirió en mis propios intentos limitados de sondear la dimensión por mí mismo.\n
+
+			Todo el material inorgánico en la Distorsión es extraordinariamente antiguo, fallando la datación radiométrica en las 116 muestras recopiladas. Dadas las formaciones presentes, es una suposición razonable que la mayor parte de la materia en la Distorsión ha existido durante mucho más tiempo que la vida en este mundo.\n
+
+			A pesar de que la mayoría de las formas de vida locales muestran un comportamiento similar al de criaturas muy inteligentes de nuestro propio planeta, la electroscopia y la disección de los pocos especímenes recopilados revelaron que ninguno posee estructuras neurales del calibre necesario para la sapiencia independiente. Esta evidencia, junto con las observaciones de patrones de comportamiento similares entre diferentes especies, me lleva a teorizar que la mayoría de las criaturas de la Distorsión simplemente expresan inteligencia porque sirven como apéndices de una mente colmena central.\n
+
+			Cómo es posible esto no me resulta claro. No debería ser posible otorgar remotamente capacidad de pensamiento a un organismo que de otro modo sería simplista. Más aún cuando se considera que este efecto se aplica a un número incalculable de criaturas, todas expresando inteligencia simultáneamente y trabajando en concierto entre sí hacia algún objetivo no revelado.
+			'''
+	}
+
+	Mechs: {
+		Inquiry: El Trío Mecánico
+		Response:
+			'''
+			El "Trío Mecánico", como la mayoría los llama, son los que tú te molestas en llamar El Destructor, Retinazer y Spazmatism, y, aunque me duela llamarlo así, "Esqueletrón Mayor". Aunque puedas ser un individuo excepcional, cuestiono tus capacidades para nombrar cosas. Para tu información, sus designaciones formales son HM-03, HSx-00, HSy-01 y HF-04 respectivamente.\n
+
+			Fueron un comienzo rudimentario pero potente en mi experimentación con máquinas de guerra. En busca de inspiración, me dediqué a estudiar a los dioses y su supuestamente incomparable poder. Aunque cada deidad empuñaba un aspecto mundano único, todas extraían su fuerza de una fuente idéntica: el alma de un dragón áurico.\n
+
+			Como adquirir un alma áurica era y sigue siendo inviable, pronto comenzaron los experimentos con almas más mundanas. Inicialmente me desanimé al descubrir que las almas individuales contenían una cantidad ínfima de poder espiritual, pero su potencial al coalescer superó con creces mis predicciones.\n
+
+			Tras una investigación adicional, confirmé que la fortaleza de un alma está definida por sus emociones intensas o su determinación. Aquí, el carisma incomparable de Yharim y su habilidad para evocar pasión en los corazones de los demás fue clave. No solo era trivial encontrar una fuente de almas ardientes, sino que muchos de sus tropas más leales incluso consintieron directamente en que sus almas fueran incrustadas en mis máquinas después de su muerte a manos del enemigo.\n
+
+			Alimentadas por la lealtad de los soldados caídos del Buscador de Dioses, mis máquinas eran temibles e implacables. Aprovechando la experiencia de combate entrelazada de mil vidas, su destreza en el campo de batalla era evidente. Sin embargo, esta misma fuente de fortaleza demostró ser un defecto, pues la voluntad unificada que les daba su poder también las hacía volátiles y no sujetas a mis órdenes. Aunque Yharim lo aprobó completamente, busqué eliminar esta imperfección de mis diseños mediante proyectos futuros.
+			'''
+	}
+
+	Plague: {
+		Inquiry: La Plaga
+		Response:
+			'''
+			Antes de que preguntes: soy consciente de que mis nanomáquinas actualmente asolan la jungla. Creé un mecanismo de seguridad por si esto ocurriera, y no tengo intención de causar una destrucción masiva incontrolable. Si comienza a amenazar la biodiversidad o a interferir de otro modo en mi aprendizaje de Terraria, la desactivaré yo mismo.\n
+
+			Mi investigación en nanotecnología aplicada comenzó como un medio para igualar las cotas de poder en constante ascenso que estaban alcanzando seres orgánicos como la Bruja, Braelor, Statis y el propio Yharim. Los seres vivos no pueden ser ordenados ni controlados externamente, y son propensos a arrebatos de emoción y, en casos excepcionales, a la rebelión.\n
+
+			Mi objetivo era crear un arma capaz de controlar, someter o eliminar a cualquier entidad orgánica, dado el tiempo suficiente. Era muy consciente de la tenacidad y adaptabilidad de la vida, y rápidamente me di cuenta de que semejante arma necesitaría ella misma estar viva para dominar a cualquier organismo conocido.\n
+
+			Sin embargo, fue a través de mi observación del crecimiento de seres tan poderosos que tuve una epifanía: no había necesidad de que mi maquinaria superara a la vida orgánica. No cuando esa misma vida podía mejorarse y luego aprovecharse como herramienta o arma.\n
+
+			Vi entonces la banalidad de mis esfuerzos por simplemente controlar y reemplazar la vida. Me hallé ante las posibilidades casi ilimitadas de mejorarla aún más.\n
+
+			Incluso cuando consideré que había alcanzado una meseta en el campo de la cibernética, las limitaciones de mi metodología siempre estaban presentes. Los cuerpos de la mayoría de las criaturas de la jungla eran demasiado frágiles para soportar las mejoras cibernéticas previas necesarias. Una Abeja Reina era la elección óptima para albergar las nanomáquinas. Nacidas para gobernar, tales seres son lo suficientemente resistentes como para sobrevivir a la mejora, pero aún lo suficientemente débiles para ser sometidos si fuera necesario.\n
+
+			Algo de esta investigación en particular enfureció al Buscador de Dioses. Al presenciar mi progreso, montó en cólera. Destruyó una parte considerable del laboratorio genómico y deliberadamente permitió que mi primer espécimen, inacabado, escapara. Sin rodeos, rescindió su acuerdo conmigo y se marchó furioso. No sé qué límite se cruzó, pero no ha tomado más medidas para antagonizarme, así que continuaré mi investigación en paz.\n
+
+			En cualquier caso. Hay un atractivo único en soltar una imitación sintetizada de vida procariota. Continúa evolucionando de manera incomprensiblemente rápida, incluso mientras hablamos, proporcionando oportunidades interminables para el análisis.
+			'''
+	}
+
+	Astral: {
+		Inquiry: Infección Astral
+		Response:
+			'''
+			La Infección me ha fascinado desde que irrumpió en este mundo. Para estudiarla, reequipé un modelo de reconocimiento Aureus con armadura destinada a neutralizar sus efectos. Al final, toda la protección que pude reunir solo retrasó la caída de Aureus ante la putrefacción estelar. Observando tus pruebas, comprendí por qué fue dominado: la falta de un cerebro pensante.\n
+
+			Los intentos de estudiarla por mi cuenta fracasaron; se construyó un cuerpo para la tarea, pero el chasis se quedó corto, aunque mi mente permaneciera. Usando un enfoque alternativo, envié mercenarios contratados a la infección. Pocos regresaron, pero los que lo hicieron me proporcionaron suficiente información.\n
+
+			Lo que más me interesó fueron los informes de un Astrum Deus infectado patrullando la Infección. Hasta que la podredumbre lo afectó por completo, el lugar más cercano donde había sido avistado era en la atmósfera superior de Terraria. Un análisis adicional apuntó a que fue el catalizador de la llegada de la infección a la superficie. Aunque no he encontrado una razón concreta de por qué y cómo ocurrió esto, sí tengo una hipótesis.\n
+
+			Como quizás sepas, las estrellas son concentraciones de magia que se forman durante incontables años de maná ambiental reuniéndose en el espacio profundo. Con el maná sin nada hacia lo que gravitar salvo a sí mismo, se condensa hasta convertirse en una estrella brillante. Las estrellas que crecen demasiado comienzan a colapsar, degenerando y formando coágulos de Infección Astral. En el cosmos en general, esto es un fenómeno raro, ya que Astrum Deus devora intermitentemente estrellas grandes para sustentarse.\n
+
+			Sin embargo, el espacio es insondablemente grande. Si Astrum Deus desapareciera del espacio aunque fuera por un breve tiempo, cierto número de estrellas debería degenerar visiblemente en Infección Astral, observable mediante telescopio. Sin embargo, tales observaciones no muestran un aumento significativo en la cantidad de estrellas colapsadas. Además, sé por mis cálculos que el universo observable es demasiado grande para sustentar un escenario en el que Astrum Deus desaparezca.\n
+
+			Por lo tanto, es casi seguro que el Astrum Deus que conocemos es simplemente uno de muchos. Cualquier cosa adicional que diga sobre este asunto es especulación.\n
+
+			El Astrum Deus infectado cerca de nuestro mundo puede ser un juvenil. Esto explicaría por qué podría tener dificultades para devorar una estrella o no identificar una estrella infectada como un peligro potencial. Luego enfermó y cayó sobre el planeta más cercano. Como presumiblemente hay muchos otros de su especie, el espacio en su conjunto está en gran medida sin verse afectado. Doy la bienvenida a cualquier otra hipótesis que puedas tener.
+			'''
+	}
+
+	Sulphur: {
+		Inquiry: El Mar Sulfuroso
+		Response:
+			'''
+			Incluso antes de usar el mar como sitio de eliminación de residuos nucleares, nunca fue un lugar agradable para tu especie. Los vapores sulfúricos de la industria de Azafure ascendían a través del Abismo y llegaban a contaminar el mar muy por encima. La mayor parte de la vida tranquila y dócil que alguna vez floreció aquí fue completamente demolida por un cambio tan hostil.\n
+
+			La nueva vida que emergió muchos años después mediante mutación y otras adaptaciones permitió estudiar cómo la vida puede ajustarse a condiciones tan duras, incluidos los niveles de radiación en constante aumento. Aunque al principio no valoré tales datos, familiarizarme con las tolerancias aumentadas de los seres orgánicos adaptados resultó ser esencial en varios momentos durante mi desarrollo de la Plaga.\n
+
+			Si te preocupa el estado actual del mar, estás lejos de ser el primero. Puedes quedarte tranquilo, ya que no tengo planes de irradiar más el área en el futuro previsible. En efecto, mis acciones ya han sido recibidas con críticas incisivas y revuelo.\n
+
+			Los burócratas del Buscador de Dioses me recordaban con frecuencia cómo el público se había organizado para rebelarse contra mi avance de la ciencia. Por lo que sabían, estaban justificados. Temían las calamidades que una mayor ciencia podría causar a Terraria, debido a la destrucción infligida al Mar Sulfuroso.\n
+
+			Consideré semejante represalia absurda, pero parece que no todos pueden ver la razón. A pesar de mi infamia y legado, los avances tecnológicos siguen siendo realizados por muchos otros científicos en todo Terraria, aunque el tema continúe provocando alarmismo infundado.\n
+
+			En cualquier caso, si lo considero necesario, poseo los medios para simplemente reconstruir el Mar Sulfuroso desde el lecho de roca. Restaurarlo a su estado prístino sería un asunto trivial y un testimonio del potencial creativo de la ciencia.
+			'''
+	}
+}
+
+// Hologram Texts
+Hologram: {
+	Text1: Al personal que trabaje en los laboratorios. Por favor, lleven su placa de identificación grabada en acero en todo momento. Es el método más sencillo para identificar su cuerpo en caso de que ocurra algún accidente.
+	Text2: Experimentar es fallar. Fallar es aprender. Aprender es avanzar.
+	Text3: El peligro aparente durante la investigación solo sirve para enriquecer la experiencia investigadora.
+	Text4: Los prototipos de armas de tipo láser son increíblemente letales y no deben utilizarse dentro de las salas de presentación.
+	Text5: Las emisiones de plasma de alta energía tienen efectos adversos tanto en la carne como en el metal. No intente manipular el plasma expulsado.
+	Text6: Las descargas eléctricas de los equipos militares están diseñadas para ser letales. Si sobrevive a una de ellas, eso es un claro indicador de que el dispositivo no está funcionando correctamente. Por favor, reporte cualquier caso de este tipo.
+	Text7: Por la presente se notifica a todos los empleados que serán responsables de los daños colaterales causados por el fuego de armas Gauss, incluso durante los ejercicios de prueba sancionados.
+	Text8: Los Emisores de Campo de Seguridad vaporizarán todo equipo y personal no autorizado. Por favor, deje sus efectos personales en los casilleros designados fuera de las instalaciones. Esto también significa: No traiga a familiares que no estén registrados como personal.
+	Text9: Si alguien logra penetrar en las instalaciones de prueba restringidas, al menos registre cualquier quemadura, laceración, moretón, fractur... ...trauma, descarga u otro daño inesperado. Gracias.
+	Text10: La red eléctrica ha sido... ...everamente comprometida. Aborte la investigación y diríjase a las salidas de emergencia ubicadas en... ...y salga rápidamente.
+	Text11: Notifique inmediatamente al Departamento de Seguridad sobre cualquier fauna local agresiva
+	PostCultistText: Los sensores han detectado una brecha significativa en el continuo espacio-tiempo.
+	EasterEgg: Ayuda, por favor. Estoy atrapado en esta máquina de hologramas.
+}
+
+// Enchantments
+Exhumed: {
+	DisplayName: Exhumado
+	Description: Transforma este ítem en algo considerablemente más poderoso.
+}
+
+Indignant: {
+	DisplayName: Indignante
+	Description: Invoca demonios que te dañan, pero sueltan orbes de curación al morir al usar el ítem.
+}
+
+Aflame: {
+	DisplayName: En Llamas
+	Description: Inflama a los enemigos con el poder de la Bruja Suprema al impactar, pero también hace que el usuario reciba daño continuo al sostener este ítem.
+}
+
+Oblatory: {
+	DisplayName: Oblatorio
+	Description: Reduce el coste de maná y aumenta considerablemente el daño, pero a veces hace que este ítem use tu vida.
+}
+
+Resentful: {
+	DisplayName: Rencoroso
+	Description: Hace que el daño de los proyectiles varíe según la distancia al objetivo impactado. A mayor distancia, más daño, y viceversa.
+}
+
+Bloodthirsty: {
+	DisplayName: Sanguinario
+	Description: Hace que el daño de los proyectiles varíe según la distancia al objetivo impactado. A menor distancia, más daño, y viceversa.
+}
+
+Ephemeral: {
+	DisplayName: Efímero
+	Description:
+		'''
+		Hace que la producción de daño de este ítem se descargue con el uso excesivo.
+		Su daño se recupera de forma natural cuando no se usa. Comienza con más daño del que normalmente tendría.
+		'''
+}
+
+Hellbound: {
+	DisplayName: Infernal
+	Description:
+		'''
+		Hace que los súbditos sean creados con un temporizador de 40 segundos.
+		Una vez agotado, explotan violentamente. Los súbditos hacen más daño cuanto más tiempo viven y también explotan al estar inactivos.
+		'''
+}
+
+Tainted: {
+	DisplayName: Corrompido
+	Description: Elimina la capacidad de disparar proyectiles de este ítem. A cambio, al usarlo se liberan dos brazos esqueléticos que cortan en la posición del cursor.
+}
+
+Traitorous: {
+	DisplayName: Traicionero
+	Description: Usar este ítem con menos del 25% de maná consume al instante el maná restante, desatando un monstruo que daña tanto a ti como a los enemigos.
+}
+
+Withering: {
+	DisplayName: Marchitante
+	Description:
+		'''
+		Al recibir daño, te curas un porcentaje del daño recibido según el daño acumulado que hayas infligido previamente, hasta un 100%.
+		Tras esto, obtienes un aumento de daño al sostener este ítem, pero también recibes daño exponencial con el tiempo cuanto más lo sostengas.
+		'''
+}
+
+Persecuted: {
+	DisplayName: Perseguido
+	Description:
+		'''
+		Al recibir ataques o con el tiempo, aparecen portales demoníacos cerca de ti.
+		Si reciben suficiente daño son amistosos; de lo contrario te atacan. Se enojan si un portal resulta dañado.
+		'''
+}
+
+Lecherous: {
+	DisplayName: Lujurioso
+	Description: Genera un robusto monstruo de azufre que permanece entre tú y tu cursor, interfiriendo con tus armas de seguimiento. Suelta varios corazones al morir.
+}
+
+Disenchant: Desencantar
+// Worldgen Tasks
+BetterUnderworld: Creando un Inframundo más fluido
+UnderworldStructures: Vestigios de una guerra azafuriana y demoníaca
+UnderworldTreesAndGrass: Haciendo crecer la flora del Inframundo
+UnderworldGeyserTraps: Añadiendo un campo de minas en el Inframundo
+ShimmerShrine: Excavando un antiguo pozo de centello
+EvilIslandCorrupt: Añadiendo una isla flotante pútrida
+EvilIslandCrimson: Añadiendo una isla flotante grotesca
+AstralChest: Colocando un cofre astral
+LivingMahoganyTree: Haciendo crecer un árbol de jungla gigante
+BetterJungleTemple: Construyendo un templo de jungla más grande
+JungleTempleAltar: Colocando el altar Lihzahrd
+GiantBeehive: Construyendo una colmena gigante
+MechanicShed: Colocando el cobertizo de la mecánica
+VernalPass: Bendiciendo un exuberante claro de jungla
+SunkenSea: Inundando parcialmente un desierto exuberante
+TimelessShores: Excavando un cementerio subacuático
+RadiantReefs: Haciendo brillar y relucir el mar
+PolypForest: Dando vida a aguas ricas en nutrientes
+GleamingBurrows: Enterrando perlas y atrapando cáusticos
+BasaltGully: Provocando actividad volcánica bajo el mar
+GemAdjustment: Reorganizando sensatamente la profundidad de las gemas
+DungeonArchive: Sepultando literatura oculta
+Planetoids: Enriqueciendo la órbita baja de Terraria
+SulphurSea: Contaminando uno de los océanos
+BrimstoneCrags: Incinerando Azafure
+HiddenShrines: Ocultando santuarios prohibidos
+CrimsonShrine: Matando a un dios vengativo
+CorruptShrine: Pudriendo la tumba de un dios
+DesertShrine: Enterrando un artefacto de Osiris
+GraniteShrine: Cristalizando una geoda azul profundo
+IceShrine: Ocultando el iglú de un domador de bestias
+MarbleShrine: Recuperando un fragmento del Partenón
+MushroomShrine: Plantando un champiñón rico en hifas
+SurfaceShrine: Ensamblando un escondite shinobi
+Aerialite: Ocultando el oro del wyvern a plena vista
+DraedonLabs: Óxido y Polvo
+HellLab: Forjando con el fuego del infierno
+SunkenLab: Estudiando biología marina
+IceLab: Prototipando superenfriamiento cuántico
+PlagueLab: Desarrollando repugnante armamento biológico
+CavernLab: Minando a cielo abierto en busca de minerales
+DraedonWorkshop: Proyectos de ingeniería abandonados
+DraedonFacility: Otros proyectos de investigación menores
+Abyss: Deshaciendo los restos de Silva
+SulphurSea2: Irradiando uno de los océanos
+Roxcalibur: Quiero rockear
+AuricLandMines: Colocando trampas para matar dioses
+IronBall: Añadiendo un poco más de hierro
+// Hold Shift tooltip default
+HoldShiftTooltipExtensionIndicator: Mantén 'Shift' para más detalles
+HoldShiftTooltipReplacementIndicator: Mantén 'Shift' para más detalles
+// Dev and Donor Items
+DevItemTooltip: - Objeto de Desarrollador -
+DonorItemTooltip: - Objeto de Donador -

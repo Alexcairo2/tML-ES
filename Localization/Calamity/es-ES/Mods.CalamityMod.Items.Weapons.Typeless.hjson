@@ -1,0 +1,91 @@
+Aestheticus: {
+	DisplayName: Aestheticus
+	Tooltip:
+		'''
+		Dispara cristales que explotan e infligen [cbuff:CalamityMod/Vaporfied]
+		{$Common.AverageDamageInfo}
+		'''
+}
+
+ClaretCannon: {
+	DisplayName: Cañón Claret
+	Tooltip:
+		'''
+		Dispara una bala claret hipercondensada
+		La bala explota al golpear a un enemigo y libera orbes de sangre
+		La explosión tritura a los enemigos, reduciendo drásticamente su defensa
+		Recoger los orbes de sangre reducirá [cbuffplr:PotionSickness] cuando sea posible
+		Si no tienes [cbuffplr:PotionSickness], tu regeneración natural se verá mejorada
+		Solo puede disparar una vez cada 10 segundos
+		{$Common.AverageDamageInfo}
+		'''
+}
+
+ColdheartIcicle: {
+	DisplayName: Carámbano de Corazón Frío
+	Tooltip: "'¡Buen trabajo (h)elado!'"
+}
+
+EyeofMagnus: {
+	DisplayName: Ojo de Magnus
+	Tooltip:
+		'''
+		Dispara masas cósmicas teledirigidas que restauran vida y maná al impactar
+		Explota en una nube de nebulosa que hace que los enemigos queden [cbuff:CalamityMod/MarkedforDeath]
+		{$Common.AverageDamageInfo}
+		'''
+}
+
+LunicEye: {
+	DisplayName: Ojo Lúnico
+	Tooltip:
+		'''
+		Dispara rayos de energía teledirigidos que hacen que los enemigos queden con [cbuff:CalamityMod/MarkedforDeath]
+		{$Common.AverageDamageInfo}
+		'''
+}
+
+RelicOfDeliverance: {
+	DisplayName: Reliquia de la Redención
+	Tooltip:
+		'''
+		Usar <left> te monta en la lanza; mantener <left> la acelera, desacelerándote
+		Suéltala para lanzarte a gran velocidad, reducida a la mitad mientras haya un jefe vivo
+		Perder demasiada velocidad al cargar interrumpirá la carga, reiniciando tu velocidad
+		El impulso te permite embestir enemigos y atravesar bloques
+		Estar dentro de bloques demasiado tiempo te transportará de vuelta al punto de entrada
+		Pulsa <right> para desmontar
+		Sostener la lanza reduce enormemente el daño de todas las invocaciones
+		{$Common.AverageDamageInfo}
+		[c/FF8C00:La venganza me impulsaba; no tenía otro pensamiento que la exacción.]
+		[c/FF8C00:El dragón me lo arrebató todo, dejando mis pedazos rotos esparcidos por el suelo.]
+		[c/FF8C00:Pero cuando dancé a Su lado, supe que aún había algo por lo que valía la pena luchar.]
+		'''
+}
+
+Skynamite: {
+	DisplayName: Aerodinamita
+	Tooltip:
+		'''
+		Lanza un explosivo flotante que desafía la gravedad
+		'No necesitas un título en aerodinámica para usar esto...'
+		'''
+}
+
+StarStruckWater: {
+	DisplayName: Agua Estelar
+	Tooltip: Extiende la Infección Astral a algunos bloques
+}
+
+StratusSphere: {
+	DisplayName: Esfera Stratus
+	Tooltip:
+		'''
+		Lanza una singularidad que ejerce influencia sobre todas las entidades en un gran área a su alrededor
+		Los jugadores influenciados acumulan Destellos Estelares con el tiempo y los consumen para volar cuando se acaba el tiempo de vuelo
+		<right> para que los Destellos Estelares formen una barrera, haciendo que pierdas Destellos Estelares en lugar de vida
+		Lanzar la singularidad desactiva la barrera, y crear una barrera desactiva la singularidad
+		{$Common.AverageDamageInfo}
+		'Canalizar almas en estrellas, un concepto insensato'
+		'''
+}

@@ -1,0 +1,105 @@
+EternityRevDifficulty: {
+	Name: Eternidad-Revengeance
+	ShortDescription: "[c/00FFFF:Un modo desafiante de Fargo's Mods que incluye el] [c/880808:Modo Revengeance] [c/00FFFF:y sus cambios.]"
+	ExpandedDescription:
+		'''
+		Activa el [c/00FFFF:Modo Eternidad] y el [c/880808:Modo Revengeance,] y activa las recompensas del Modo Maestro.
+
+		Renueva el comportamiento del [c/00FFFF:Modo Eternidad] para varios jefes de Calamity. Renovaciones actuales:
+		-Todos los jefes hasta el Clon de Calamitas
+		-Viejo Duque
+		-Exo Mecánicos
+		¡Los jefes restantes aún están en desarrollo!
+
+		Por defecto, el comportamiento del [c/00FFFF:Modo Eternidad] tiene prioridad. Esto puede cambiarse en la configuración.
+		{$Mods.FargowiltasSouls.UI.ExpandedFeatures}
+		[i:1612][c/00ff00:Se recomienda usar el Mostrador de Efectos Negativos del Fargo's Mutant Mod (en configuración)]
+
+		'''
+	Activation: ¡El Modo Eternidad-Revengeance se ha activado!
+	Deactivation: El Modo Eternidad-Revengeance se ha desactivado.
+}
+
+MasoDeathDifficulty: {
+	Name: Masoquista-Muerte
+	ShortDescription: "[c/00FFFF:La experiencia Calamity-Souls para jugadores que buscan un mayor desafío. Solo puede activarse en Modo Maestro]"
+	ExpandedDescription:
+		'''
+		Activa el [c/00FFFF:Modo Masoquista] y el [c/800080:Modo Muerte.]
+		Renueva el comportamiento del [c/00FFFF:Modo Eternidad] para varios jefes de Calamity. Renovaciones actuales:
+		-Todos los jefes hasta el Clon de Calamitas
+		-Viejo Duque
+		-Exo Mecánicos
+		¡Los jefes restantes aún están en desarrollo!
+		Por defecto, el comportamiento del [c/00FFFF:Modo Masoquista] tiene prioridad. Esto puede cambiarse en la configuración.
+		{$Mods.FargowiltasSouls.UI.ExpandedFeatures}
+		[i:1612][c/00ff00:Se recomienda usar el Mostrador de Efectos Negativos del Fargo's Mutant Mod (en configuración)]
+		'''
+	Activation: ¡El Modo Masoquista-Muerte se ha activado!
+	Deactivation: El Modo Masoquista-Muerte se ha desactivado.
+	FTWName: Modo Masoquista-Malicia
+}
+
+UI: {
+	ToggledWithCal: Cambiado con el selector de dificultad de Calamity
+	HadesIconMessage: Hades, un terror serpentino con armadura impenetrable e incontables torretas láser.
+	AresIconMessage: Ares, una monstruosidad pesada y diabólica con cuatro superarmas Exo desmontables.
+	ArtemisAndApolloIconMessage: Artemis y Apollo, un par de autómatas extraordinariamente ágiles con reservas de energía inestables.
+	EternityPriority: Priorizar la IA de jefes de Eternidad sobre la de Calamity
+	CalamityPriority: Priorizar la IA de jefes de Calamity sobre la de Eternidad
+	EternityPriorityToggle: Prioridad de jefes establecida en Eternidad
+	CalamityPriorityToggle: Prioridad de jefes establecida en Calamity
+	WarningFTW:
+		'''
+		ADVERTENCIA: ¡El DLC de Fargo's Souls NO es compatible con la semilla Para los dignos!
+		¡Desactiva la semilla o prepárate para varios errores, problemas de balance e interacciones rotas!
+		'''
+	WarningInfernum:
+		'''
+		ADVERTENCIA: ¡El DLC de Fargo's Souls NO es compatible con el Modo Infernum!
+		¡Desactiva el Modo Infernum o prepárate para varios errores, problemas de balance e interacciones rotas!
+		'''
+	WarningOverhaul:
+		'''
+		ADVERTENCIA: ¡El DLC de Fargo's Souls NO es compatible con Calamity Overhaul!
+		¡Desactiva Calamity Overhaul o prepárate para varios errores, problemas de balance e interacciones rotas!
+		'''
+}
+
+Buffs: {
+	CalamitousPresenceBuff: {
+		Description: Defensa, reducción de daño y regeneración de vida reducidas; efecto Sanguijuela Lunar; radio de contacto reducido
+		DisplayName: Presencia Calamitosa
+	}
+}
+
+ExpandedTooltips: {
+	FountainAstral: Fuerza el bioma circundante al estado de Infección Astral (solo en Modo Difícil) al activarse
+	FountainCrags: Fuerza el bioma circundante al estado de Grietas de Azufre al activarse
+	FountainSulphur: Fuerza el bioma circundante al estado de Mar Sulfuroso al activarse
+	FountainSunken: Fuerza el bioma circundante al estado de Mar Hundido al activarse
+	MasoModeDisabled: "[c/FF0000:Soporte de Crossmod de Calamity:] ¡Activa el Modo Eternidad con el selector de dificultad de Calamity!"
+	UsablePostMutant: "[c/FF0000:Soporte de Crossmod de Calamity:] Solo se puede usar tras derrotar a Mutant"
+	DisabledByDefault: "[c/FF0000:Soporte de Crossmod de Calamity:] Interruptor desactivado por defecto"
+}
+
+RecipeGroups: {
+	GildedDagger: Daga Dorada
+	EvilBar: Lingote Maligno
+	AcidFruit: Fruta del Mar Sulfuroso
+	AstralFruit: Fruta de la Infección Astral
+	VictideHelmet: Casco de Victide
+	AerospecHelmet: Casco de Aerospec
+	StatigelHelmet: Casco de Statigel
+	ReaverHelmet: Casco del Devastador
+	DaedalusHelmet: Casco de Dédalo
+	HydrothermicHelmet: Casco Hidrotérmico
+}
+
+BossRushDialogue: {
+	Start: Comencemos.
+	EndP1_1: Esto me aburre.
+	EndP1_2: Vayamos al grano.
+}
+
+EmodeBannedByInfernum: "[c/00ffee:Modo Eternidad] desactivado por [c/9c0000:Modo Infernum]."

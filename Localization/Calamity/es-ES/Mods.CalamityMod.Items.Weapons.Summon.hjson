@@ -1,0 +1,912 @@
+AbandonedSlimeStaff: {
+	DisplayName: Bastón de Slime Abandonado
+	Tooltip:
+		'''
+		Invoca un slime astral que esparce [cbuff:CalamityMod/AstralInfectionDebuff]
+		Consume todos los espacios de súbdito restantes al usarse
+		Debe usarse desde la barra rápida
+		Mayor poder y tamaño según la cantidad de espacios de súbdito utilizados
+		Sostener esta arma otorga un 10% más de velocidad de salto
+		Arrojada de los cielos con desdén, esta reliquia entona una canción de tranquila tragedia...
+		'''
+}
+
+AmphibiansGuitar: {
+	DisplayName: Guitarra del Anfibio
+	Tooltip:
+		'''
+		Invoca hasta 8 guitarras que giran a tu alrededor y disparan notas al objetivo, disparando ocasionalmente ráfagas
+		Si las 8 guitarras están presentes, algunas notas se potencian, causando daño adicional
+		'¡Te mostraré el sufrimiento!'
+		'''
+}
+
+AncientIceChunk: {
+	DisplayName: Fragmento de Hielo Antiguo
+	Tooltip:
+		'''
+		Invoca un agarrador de hielo para que luche por ti
+		El agarrador dispara fragmentos de hielo a los enemigos lejanos
+		Mientras estás cerca de los enemigos, los golpea agresivamente con furia helada
+		'''
+}
+
+AquasScepter: {
+	DisplayName: Cetro de Aqua
+	Tooltip:
+		'''
+		{$CommonItemTooltip.Sentry}
+		Invoca una nube de tormenta gigante que llueve sobre tus enemigos y golpea a los cercanos con energía tesla sobrecargada
+		'¡Capitán! Creo que... ¡tenemos riesgo de lluvia!'
+		'''
+}
+
+AresExoskeleton: {
+	DisplayName: Exoesqueleto de Ares
+	Tooltip:
+		'''
+		Crea un panel con cuatro ranuras y cuatro opciones encima: Plasma, Tesla, Láser y Gauss
+		Hacer clic en una opción y luego en una ranura invoca un cañón de ese tipo
+		Hacer clic en una ranura ya ocupada destruye el cañón asociado y libera la ranura
+		'''
+}
+
+AtlasMunitionsBeacon: {
+	DisplayName: Baliza de Municiones Atlas
+	Tooltip:
+		'''
+		[c/F2B629:{$CommonItemTooltip.Sentry}]
+		[c/F2B629:Invoca un cañón estacionario con energía exo]
+		[c/F2B629:El cañón disparará a los enemigos dentro de su alcance]
+		[c/F27049:Si un enemigo está cerca, entrará en Sobremarcha]
+		[c/F27049:En Sobremarcha, el cañón usa todo su poder para derribar cualquier enemigo]
+		[c/F27049:En Sobremarcha, el cañón acumula calor hasta sobrecalentarse]
+		[c/69F0DC:Presiona <right> mientras sostienes este objeto para recoger el cañón y usarlo tú mismo]
+		[c/69F0DC:Al sostenerlo, el cañón siempre estará en Sobremarcha]
+		[c/69F0DC:Si el cañón se sobrecalienta mientras lo sostienes, te verás obligado a soltarlo]
+		[c/9AA4AE:Presionar <right> te permite soltarlo manualmente]
+		[c/9AA4AE:Si se suelta cerca de la base, se reacoplará automáticamente]
+		'Es sorprendentemente fácil de recoger'
+		'''
+}
+
+BelladonnaSpiritStaff: {
+	DisplayName: Bastón del Espíritu de Belladona
+	Tooltip: Invoca un adorable espíritu del bosque que lanza pétalos mágicos
+}
+
+BlackHawkRemote: {
+	DisplayName: Control del Halcón Negro
+	Tooltip:
+		'''
+		Invoca un jet Halcón Negro para que luche por ti
+		Los jets dispararán balas de tu inventario
+		50% de probabilidad de ahorrar munición
+		'''
+}
+
+BorealisBomber: {
+	DisplayName: Bombardero Borealis
+	Tooltip:
+		'''
+		Invoca bombarderos áureos para perseguir a tus enemigos
+		Los bombarderos áureos explotan violentamente al impactar enemigos, esparciendo [cbuff:CalamityMod/AstralInfectionDebuff]
+		No consume espacios de súbdito
+		'''
+}
+
+BrittleStarStaff: {
+	DisplayName: Bastón de la Estrella Frágil
+	Tooltip:
+		'''
+		Invoca una pequeña estrella de mar frágil que atraviesa enemigos hasta romperse
+		La estrella de mar se regenerará rápidamente tras romperse
+		Mantener <right> alternará las estrellas entre embestir y orbitar alrededor de ti
+		Cuando las estrellas orbitan, cada una te otorga {0} de defensa
+		'''
+}
+
+CadaverousCarrion: {
+	DisplayName: Carroña Cadavérica
+	Tooltip:
+		'''
+		{$CommonItemTooltip.Sentry}
+		Invoca en el suelo la asquerosa cabeza del Viejo Duque que vomita tiburones
+		'''
+}
+
+CalamarisLament: {
+	DisplayName: Lamento de los Calamares
+	Tooltip: "[GFB]"
+	TooltipNormal:
+		'''
+		Invoca un calamar en miniatura que ataca viciosamente a los enemigos con tinta
+		A larga distancia, el calamar disparará agresivamente andanadas de tinta teledirigidas
+		A corta distancia, el calamar se aferrará a los enemigos causando mayor daño
+		'En el Abismo, todo tipo de recursos son escasos.
+		Cada especie es solitaria. Simplemente no hay suficiente para compartir.'
+		'''
+	TooltipGFB: "'Woomy!'"
+}
+
+CausticCroakerStaff: {
+	DisplayName: Bastón del Croador Cáustico
+	Tooltip:
+		'''
+		{$CommonItemTooltip.Sentry}
+		Invoca un sapo que explota si hay enemigos cercanos
+		'''
+}
+
+CausticStaff: {
+	DisplayName: Bastón Cáustico
+	Tooltip:
+		'''
+		Invoca un minidragon para que luche por ti
+		El dragón ataca más rápido e inflige más efectos negativos cuantos más sean invocados
+		'''
+	HoldShiftTooltip:
+		'''
+		Siempre inflige [cbuff:OnFire3]
+		Inflige [cbuff:CursedInferno] con 2 dragones invocados
+		Inflige [cbuff:Venom] con 3 dragones invocados
+		Inflige [cbuff:Ichor] y [cbuff:CalamityMod/MarkedforDeath] con 4 dragones invocados
+		'''
+}
+
+CinderBlossomStaff: {
+	DisplayName: Bastón de la Flor de Ceniza
+	Tooltip:
+		'''
+		Invoca una flor abrasadora sobre tu cabeza
+		Solo puede haber una flor
+		'''
+}
+
+CindersOfLament: {
+	DisplayName: Ascuas del Lamento
+	Tooltip:
+		'''
+		Invoca a Cataclismo o Catástrofe en la posición del ratón
+		Te mirarán un momento antes de cargar hacia ti
+		Pueden causar daño tanto a ti como a los enemigos
+		'''
+	Calamitas:
+		'''
+		'Mis hermanos perecieron en Azafure. Encontré sus cuerpos cerca del centro de la ciudad, tras partir en una expedición.
+		Antes de que mi poder fuera lo que es ahora, siempre estuvieron a mi lado y no permitían que nadie me hiciera daño.
+		A veces pudo ser un problema, pero eran sorprendentemente obedientes.
+		Y aun después de todo lo sucedido, e incluso en la muerte, siguen velando por mí. ¿No es adorable de su parte?'
+		'''
+}
+
+Cnidarian: {
+	DisplayName: Cnidario
+	Tooltip:
+		'''
+		Pesca una medusa eléctrica
+		Periódicamente lanza chispas para electrocutar a los enemigos cercanos
+		[c/5C95A1:'Observando a sus congéneres menos sapientes, los habitantes del Antiguo Reino adaptaron herramientas y armas diseñadas para la eficiencia bajo el agua.]
+		[c/5C95A1:Las propiedades eléctricas de las campanas fantasma siguen siendo útiles incluso después de la muerte, y han sido usadas comúnmente como conductores.']
+		'''
+}
+
+CorroslimeStaff: {
+	DisplayName: Bastón del Corroslime
+	Tooltip: Invoca un corro-slime para que luche por ti
+}
+
+CorvidHarbringerStaff: {
+	DisplayName: Bastón del Heraldo Córvido
+	Tooltip:
+		'''
+		Invoca un poderoso cuervo que se teletransporta e impulsa
+		'Nunca más'
+		'''
+}
+
+CosmicImmaterializer: {
+	DisplayName: Inmaterializador Cósmico
+	Tooltip:
+		'''
+		Invoca una espiral de energía cósmica para que luche por ti
+		La espiral disparará enjambres de pernos de energía teledirigidos cuando detecte enemigos
+		Los enemigos golpeados son afectados por [cbuff:CalamityMod/MiracleBlight]
+		Solo puede haber una espiral de energía
+		'''
+}
+
+CosmicViperEngine: {
+	DisplayName: Motor Víbora Cósmico
+	Tooltip:
+		'''
+		Invoca una nave de combate cósmica para derribar a tus enemigos
+		Las naves dispararán balas de tu inventario
+		Alterna entre disparar cohetes y balas
+		50% de probabilidad de ahorrar munición
+		Los cohetes no consumen munición
+		'''
+}
+
+Cosmilamp: {
+	DisplayName: Cosmilamp
+	Tooltip: Invoca una linterna cósmica sobre tu cabeza para que luche por ti
+}
+
+CrimslimeStaff: {
+	DisplayName: Bastón del Crimslime
+	Tooltip: Invoca un crim-slime para que luche por ti
+}
+
+CryogenicStaff: {
+	DisplayName: Bastón Criogénico
+	Tooltip:
+		'''
+		{$CommonItemTooltip.Sentry}
+		Invoca una construcción de hielo para desatar el frío sobre tus enemigos
+		La cadencia y el alcance aumentan cuanto más tiempo apunte a un enemigo
+		'''
+}
+
+DaedalusGolemStaff: {
+	DisplayName: Bastón del Gólem de Dédalo
+	Tooltip:
+		'''
+		Invoca un soldado Gólem de Dédalo que dispara perdigones y electricidad
+		'Dios brillante de la codicia'
+		'''
+}
+
+DankStaff: {
+	DisplayName: Bastón Tenebroso
+	Tooltip: Invoca un merodeador tenebroso para que luche por ti
+}
+
+DazzlingStabberStaff: {
+	DisplayName: Bastón del Apuñalador Deslumbrante
+	Tooltip:
+		'''
+		Invoca tres dagas sagradas hechas de materiales profanados para que luchen por ti
+		Las dagas de llama sagrada convierten gallardamente en cenizas a quienes se oponen
+		Las dagas cristalinas trocean grácilmente a los enemigos en pedazos
+		Las dagas profanas se astillan burdamente y se reforman eternamente
+		'Siempre adelante, hacia Su futuro'
+		'''
+}
+
+DeathstareRod: {
+	DisplayName: Vara de la Mirada de la Muerte
+	Tooltip:
+		'''
+		Invoca un ojo sobre tu cabeza que te observa y dispara a los enemigos
+		Solo puede haber un ojo a la vez
+		'''
+}
+
+DeepseaStaff: {
+	DisplayName: Bastón de las Profundidades
+	Tooltip: Invoca una estrella acuática para que luche por ti
+}
+
+DormantBrimseeker: {
+	DisplayName: Brimseeker Dormido
+	Tooltip:
+		'''
+		Invoca un brimseeker para hacerte compañía
+		Invocar otro brimseeker cuando todos los espacios de súbdito estén llenos invoca un aura de azufre
+		El aura potencia tus invocaciones de brimseeker y produce bolas de fuego dañinas de [cbuff:CalamityMod/BrimstoneFlames]
+		Solo puede persistir un aura a la vez
+		Habrías jurado que se volvieron aún más aterradores cuando viste su reflejo en un espejo
+		'''
+}
+
+DragonbloodDisgorger: {
+	DisplayName: Regurgitador de Sangre de Dragón
+	Tooltip:
+		'''
+		Invoca un dragón esquelético y sus dos crías
+		Los escupitajos de las crías estallan en orbes de sangre al golpear un enemigo
+		Recoger estos orbes de sangre reduce la duración de [cbuffplr:PotionSickness]
+		Solo puede haber una familia a la vez
+		'''
+}
+
+DreadmineStaff: {
+	DisplayName: Bastón de Minas Temibles
+	Tooltip:
+		'''
+		{$CommonItemTooltip.Sentry}
+		Invoca una torreta que satura a tus enemigos con minas marinas
+		'''
+}
+
+EnchantedConch: {
+	DisplayName: Caracola Encantada
+	Tooltip: Invoca un cangrejo ermitaño para que luche por ti
+}
+
+EnchantedKnifeStaff: {
+	DisplayName: Bastón del Cuchillo Encantado
+	Tooltip: Invoca un Cuchillo Encantado para que luche por ti
+}
+
+Endogenesis: {
+	DisplayName: Endogénesis
+	Tooltip:
+		'''
+		Invoca una construcción de hielo ascendida para protegerte
+		Cambia los modos de ataque reinvocando o reutilizando el bastón
+		El primer modo hace que dispare láseres rasantes apuntados al enemigo
+		El segundo modo sacrifica sus extremidades para disparar proyectiles teledirigidos
+		El tercer modo le permite embestir agresivamente a sus enemigos
+		El cuarto modo hace que las extremidades funcionen como lanzallamas endotérmicos
+		Solo puede haber una construcción a la vez
+		[c/B0FBFF:'Chistes de hielo no incluidos']
+		'''
+}
+
+EndoHydraStaff: {
+	DisplayName: Bastón de la Endohidra
+	Tooltip:
+		'''
+		Invoca una entidad endotérmica gélida con una cabeza
+		Si la entidad ya existe, usar este objeto de nuevo hará que gane más cabezas
+		'''
+}
+
+EntropysVigil: {
+	DisplayName: Vigilia de la Entropía
+	Tooltip: Invoca un mini Clon de Calamitas y sus hermanos para protegerte
+}
+
+EtherealSubjugator: {
+	DisplayName: Subyugador Etéreo
+	Tooltip: Invoca un fantasma para protegerte
+}
+
+EyeOfNight: {
+	DisplayName: Ojo de la Noche
+	Tooltip: Invoca un globo ocular enfermo que dispara células que se adhieren a los enemigos
+}
+
+FlamsteedRing: {
+	DisplayName: Anillo de Flamsteed
+	NoSpaceTextTop: No Se Puede Desplegar
+	NoSpaceTextBottom: ¡Espacio insuficiente!
+	Tooltip:
+		'''
+		Invoca un mech colosal controlable
+		<right> para mostrar el panel de control del mech
+		El panel tiene 3 configuraciones, seleccionadas usando los corchetes en los bordes de la UI
+		Cada corchete potencia 2 de las 3 funciones posibles, representadas por los iconos circulares
+		El icono inferior izquierdo miniaturiza el mech al tamaño de un jugador, pero debilita sus armas
+		El icono inferior derecho es un potente propulsor a chorro que mejora enormemente el movimiento
+		El icono superior es el armamento del mech. Debe estar activo para poder atacar
+		Haz clic en el icono superior para alternar entre Regicidio, una enorme hoja de energía, y un poderoso rifle Gauss
+		Salir del montaje mientras un jefe está vivo entorpecerá temporalmente tu movimiento
+		[c/87CEEB:'Ahora, hazlos pagar']
+		'''
+}
+
+FleshOfInfidelity: {
+	DisplayName: Carne de la Infidelidad
+	Tooltip: Invoca una bola de carne con tentáculos que salpica sangre a los enemigos
+}
+
+FlowersOfMortality: {
+	DisplayName: Flores de la Mortalidad
+	Tooltip: Invoca cinco flores de arcoíris sobre tu cabeza
+}
+
+ForgottenApexWand: {
+	DisplayName: Varita del Ápice Olvidado
+	Tooltip:
+		'''
+		Invoca tiburones minerales antiguos para enfrentarse a tus enemigos.
+		'Parece haber perdido su mandíbula en algún momento del pasado'
+		'''
+}
+
+FrostBlossomStaff: {
+	DisplayName: Bastón de la Flor de Escarcha
+	Tooltip:
+		'''
+		Invoca una flor congelada sobre tu cabeza
+		Solo puede haber una flor a la vez
+		'''
+}
+
+FuelCellBundle: {
+	DisplayName: Paquete de Celdas de Combustible
+	Tooltip: Libera una pequeña variante especial de los portadores de la plaga
+}
+
+GammaHeart: {
+	DisplayName: Corazón Gamma
+	Tooltip: Invoca cabezas radiactivas vinculadas a tu cuerpo
+}
+
+GastricBelcherStaff: {
+	DisplayName: Bastón del Eructador Gástrico
+	Tooltip:
+		'''
+		Invoca aberraciones acuáticas para protegerte
+		Las aberraciones disparan vómito a los enemigos cercanos, y cada tercer ataque dispara burbujas
+		'''
+}
+
+GlacialEmbrace: {
+	DisplayName: Abrazo Glacial
+	Tooltip:
+		'''
+		Invoca el poder del antiguo castillo de hielo
+		Por cada espacio de súbdito utilizado, ganarás una púa de escudo orbital adicional
+		Estas púas se aceleran rápidamente hacia un enemigo cercano para infligir gran daño
+		Sin embargo, tardan un tiempo en regenerarse tras lanzarse al objetivo
+		Con <right>, invoca un anillo duplicado alrededor del enemigo objetivo que converge lentamente antes de explotar
+		'''
+}
+
+GuidelightofOblivion: {
+	DisplayName: Luz Guía del Olvido
+	Tooltip:
+		'''
+		{$CommonItemTooltip.Sentry}
+		Invoca una linterna que satura a tus enemigos con llamas
+		'Las sombras sueñan con fuego eterno, las llamas devoran y las brasas se abalanzan'
+		'''
+}
+
+HarvestStaff: {
+	DisplayName: Bastón de la Cosecha
+	Tooltip:
+		'''
+		{$CommonItemTooltip.Sentry}
+		Hace crecer un campo de calabazas que brotan cerca
+		Las calabazas saltarán cuando se acerquen criaturas o jugadores
+		Una vez fuera, embestirán agresivamente a los enemigos, explotando al golpear
+		'Nada piensa detrás de esos ojos'
+		'''
+}
+
+HauntedScroll: {
+	DisplayName: Pergamino Embrujado
+	Tooltip: Invoca una pila de platos embrujados para que luchen por ti
+}
+
+HerringStaff: {
+	DisplayName: Bastón del Arenque
+	Tooltip: Invoca un banco de arenques para que luchen por ti
+}
+
+HivePod: {
+	DisplayName: Módulo de la Colmena
+	Tooltip:
+		'''
+		{$CommonItemTooltip.Sentry}
+		Invoca un astraglomerado para lanzar glomerines a tus enemigos
+		Los glomerines esparcen [cbuff:CalamityMod/AstralInfectionDebuff] al impactar
+		'''
+}
+
+IgneousExaltation: {
+	DisplayName: Exaltación Ígnea
+	Tooltip:
+		'''
+		Invoca una hoja ígnea que orbita a tu alrededor
+		Cuando tus espacios de súbdito estén llenos, <left> de nuevo para lanzar todas las hojas hacia el cursor
+		Esta habilidad tiene un tiempo de recarga de dos segundos mientras sostienes este objeto
+		Shift-<right> en este objeto en tu inventario para cambiar la dirección de rotación
+		'''
+}
+
+InfectedRemote: {
+	DisplayName: Control Infectado
+	Tooltip:
+		'''
+		Invoca un Portador de la Plaga humanoide-híbrido, cuyo nombre en clave es 'Virili', para ayudarte en batalla
+		Virili solo puede ser invocada una vez
+		Virili usa una variedad de ataques que alterna según un temporizador
+		Todos los ataques esparcen [cbuff:CalamityMod/Plague], tal como era su intención de diseño original
+		'Hay una sola etiqueta en la parte trasera:
+		[c/1FFBFF:ADVERTENCIA: El sujeto es extremadamente corrosivo y contagioso. Evite el contacto directo.']
+		'''
+}
+
+KingofConstellationsTenryu: {
+	DisplayName: Rey de las Constelaciones, Tenryū
+	Tooltip:
+		'''
+		Invoca un par de dragones celestiales para que luchen por ti
+		Solo puede haber un par de dragones a la vez
+		'Los que devorarán la Estrella Inmóvil'
+		'''
+}
+
+LegionofCelestia: {
+	DisplayName: Legión de Celestia
+	Tooltip: Invoca un hacha celestial poseída para que luche por ti
+}
+
+LiliesOfFinality: {
+	DisplayName: Lirios de la Finalidad
+	Tooltip:
+		'''
+		Solo puede invocarse una vez
+		'Despierta'
+		'''
+}
+
+Metastasis: {
+	DisplayName: Metástasis
+	Tooltip:
+		'''
+		Invoca un Sepulcro para que luche por ti
+		Mientras el Sepulcro está activo, corazones de azufre comenzarán a aparecer y orbitar alrededor de ti
+		Cuando hay demasiados corazones, interrumpirá su ataque para atacarlos en su lugar
+		Esto ocurre con mayor frecuencia según cuántos corazones haya
+		Solo puede invocarse una vez
+		'''
+	Calamitas:
+		'''
+		'Cuando me uní a las filas de Yharim, el Devorador fue uno de los primeros en recibirme. Al principio parecía amable, pero esa máscara no duró mucho.
+		Era arrogante, irrespetuoso y turbio. Si no lo hubieras matado tú, lo habría matado yo.
+		Hice mi Sepulcro como burla a su arrogancia, pero parece que el insulto no tuvo efecto. Puedes añadir "cerebro de slime" a su lista de títulos inventados.'
+		'''
+}
+
+MidnightSunBeacon: {
+	DisplayName: Baliza del Sol de Medianoche
+	Tooltip: Invoca un OVNI para vaporizar enemigos
+}
+
+MirrorofKalandra: {
+	DisplayName: Espejo de Kalandra
+	Tooltip:
+		'''
+		Invoca cinco armas antiguas para aniquilar a tus enemigos
+		Solo puede haber una de cada arma individual
+		[c/BD7F59:Atziri's Disfavor parte brutalmente a los enemigos]
+		[c/E7A7FF:Starforge destroza a los enemigos e induce ocasionalmente explosiones cósmicas]
+		[c/868B8F:Paradoxica se teletransporta a los enemigos y los arremete a alta velocidad]
+		[c/EBC3A5:Wind Ripper lanza una única flecha poderosa de alta velocidad a los enemigos]
+		[c/9B6856:Hope Shredder dispara flechas que se dividen en tres y perforan enemigos dos veces]
+		'Supremo, Inconmensurable, Indescriptible'
+		'''
+}
+
+MutatedTruffle: {
+	DisplayName: Trufa Mutada
+	Tooltip:
+		'''
+		Invoca un Fishron más joven para irradiar a tus enemigos
+		El Fishron alternará entre embestidas, proyectiles y un tifón
+		Solo puede haber un súbdito
+		'''
+}
+
+OrthoceraShell: {
+	DisplayName: Concha de Orthocera
+	Tooltip:
+		'''
+		{$CommonItemTooltip.Sentry}
+		Invoca una orthocera voladora para escupir flujos de [cbuff:CalamityMod/Irradiated] y [cbuff:Venom] a tus enemigos
+		'''
+}
+
+Perdition: {
+	DisplayName: Perdición
+	Tooltip:
+		'''
+		{$CommonItemTooltip.Sentry}
+		Invoca una baliza en la posición del ratón
+		Cuando se selecciona un objetivo manualmente con <right>, libera torrentes de almas desde abajo sobre el objetivo
+		Solo puede existir una baliza a la vez
+		'''
+}
+
+PlantationStaff: {
+	DisplayName: Bastón de la Plantación
+	Tooltip:
+		'''
+		Invoca una Plantera en miniatura para devastar enemigos con furia floral
+		Solo puede haber una Mini Plantera a la vez
+		'''
+}
+
+PolypLauncher: {
+	DisplayName: Lanzador de Pólipos
+	Tooltip:
+		'''
+		{$CommonItemTooltip.Sentry}
+		Invoca un grupo de pólipos que lanza fragmentos de coral a los enemigos cercanos
+		'''
+}
+
+PuffShroom: {
+	DisplayName: Champiñón Globoso
+	Tooltip: Invoca un adorable guerrero champiñón para que luche por ti
+}
+
+ResurrectionButterfly: {
+	DisplayName: Mariposa de la Resurrección
+	Tooltip:
+		'''
+		Invoca un par de mariposas para que luchen por ti
+		'Recordando la melancolía de la existencia humana
+		Incluso los fantasmas se desvían del camino de la rectitud'
+		'''
+}
+
+RustyBeaconPrototype: {
+	DisplayName: Prototipo de Baliza Oxidada
+	Tooltip:
+		'''
+		{$CommonItemTooltip.Sentry}
+		Invoca un dron largo tiempo abandonado que emite pasivamente ondas de [cbuff:CalamityMod/Irradiated]
+		'''
+}
+
+SanctifiedSpark: {
+	DisplayName: Chispa Santificada
+	Tooltip:
+		'''
+		{$CommonItemTooltip.Sentry}
+		Invoca un inmolador amistoso que flotará hacia ti
+		Los inmoladores disparan rápidamente bengalas teledirigidas de [cbuff:CalamityMod/HolyFlames] a los enemigos cercanos, antes de continuar flotando cerca de ti
+		Tras disparar, los Inmoladores te dispararán un perno curativo por cada 4 espacios de invocación que tengas
+		'Pueden ser un poco pegajosos, pero al menos dan calor'
+		'''
+}
+
+SandSharknadoStaff: {
+	DisplayName: Bastón del Tiburornado de Arena
+	Tooltip: Invoca un tiburornado de arena para que luche por ti
+}
+
+SarosPossession: {
+	DisplayName: Posesión de Saros
+	Tooltip:
+		'''
+		Invoca un aura radiante que aprovecha el poder de la Luz Primordial
+		Las invocaciones repetidas aumentan el poder del aura
+		<left> con los espacios de invocación llenos para canalizar [ceffect/darksun:Rayo de Totalidad]
+		[ceffect/darksun:Rayo de Totalidad] se consume mientras se usa y se recarga cuando no se usa
+		[ceffect/darksun:'Un ballet de luz y sombra, arrancado del cielo']
+		'''
+}
+
+ScabRipper: {
+	DisplayName: Arrancacostras
+	Tooltip: Invoca un bebé arañasangre para protegerte
+}
+
+ShellfishStaff: {
+	DisplayName: Bastón del Marisco
+	Tooltip: Invoca un marisco que se aferra a los enemigos e inflige [cbuff:CalamityMod/ShellfishClaps]
+}
+
+Sirius: {
+	DisplayName: Sirius
+	Tooltip:
+		'''
+		Invoca la estrella más brillante del cielo, Sirius, para protegerte
+		Continúa invocando para completar el Can Mayor
+		Las invocaciones repetidas aumentan su poder enormemente, incluso tras completar la constelación
+		Sirius genera pasivamente Destellos Estelares cuando apunta a enemigos
+		Cuando los Destellos Estelares se llenan, Sirius los consume para lanzar un poderoso quásar perforador que inflige [cbuff:CalamityMod/Voidfrost]
+		'Una guía hacia un sueño nunca realizado'
+		'''
+}
+
+SlimePuppetStaff: {
+	DisplayName: Bastón del Títere de Slime
+	Tooltip:
+		'''
+		Invoca una bola de slime que te sigue
+		La bola vuela hacia los enemigos cercanos y explota en slime al golpearlos
+		No consume espacios de súbdito
+		'''
+}
+
+SpikecragStaff: {
+	DisplayName: Bastón de la Roca Puntiaguda
+	Tooltip: "[GFB]"
+	TooltipNormal:
+		'''
+		{$CommonItemTooltip.Sentry}
+		Invoca un lecho de estalagmitas para rociar púas a tus enemigos
+		'''
+	TooltipGFB:
+		'''
+		{$CommonItemTooltip.Sentry}
+		Invoca un lecho de estalagmitas para rociar púas a tus enemigos
+		Derrotar a la Diosa Profanada desbloquea su poder verdadero
+		'''
+}
+
+SquirrelSquireStaff: {
+	DisplayName: Bastón del Escudero Ardilla
+	Tooltip:
+		'''
+		{$CommonItemTooltip.Sentry}
+		Invoca una ardilla para lanzar bellotas a tus enemigos
+		'''
+}
+
+StaffOfNecrosteocytes: {
+	DisplayName: Bastón de los Necroosteocitos
+	Tooltip:
+		'''
+		Invoca pequeños esqueletos para que luchen por ti
+		Los esqueletos dejan células óseas a su paso
+		'''
+}
+
+StarspawnHelixStaff: {
+	DisplayName: Bastón Helicoidal de la Progenie Estelar
+	Tooltip: Invoca sondas astrales que esparcen [cbuff:CalamityMod/AstralInfectionDebuff]
+}
+
+StellarTorusStaff: {
+	DisplayName: Bastón del Toro Estelar
+	Tooltip: Invoca un Toro Orbital que destruye enemigos con un rayo de luz telescópico
+}
+
+StormjawStaff: {
+	DisplayName: Bastón de la Mandíbula de Tormenta
+	Tooltip: Invoca un bebé leóntormenta para que luche por ti
+}
+
+SunSpiritStaff: {
+	DisplayName: Bastón del Espíritu Solar
+	Tooltip:
+		'''
+		Invoca un espíritu solar para protegerte
+		Las invocaciones repetidas aumentan su poder
+		'''
+}
+
+TacticalPlagueEngine: {
+	DisplayName: Motor de Plaga Táctico
+	Tooltip:
+		'''
+		Invoca un jet de [cbuff:CalamityMod/Plague] para someter a tus enemigos a golpes
+		Los jets dispararán balas de tu inventario
+		A veces dispara un misil en lugar de una bala
+		50% de probabilidad de ahorrar munición
+		Los misiles no consumen munición
+		'''
+}
+
+TemporalUmbrella: {
+	DisplayName: Paraguas Temporal
+	Tooltip:
+		'''
+		Invoca una variedad de herramientas para ayudarte en batalla:
+			- Una flecha bermeja para perforar a tus adversarios
+			- Un martillo mermelada para golpear a los enemigos con estilo
+			- Un hacha jade para partir monstruos y ocasionalmente talar un árbol
+			- Un paraguas cian para vencer a tus enemigos con gracia
+			- Un rifle lavanda para francotirar a quienes se interpongan
+		Y lo mejor de todo: llevas un sombrero de copa
+		Solo puede haber un conjunto de herramientas a la vez
+		'Sorprendentemente resistente, creo que esto podría derrotar a la Mafia de un solo golpe'
+		'''
+}
+
+TundraFlameBlossomsStaff: {
+	DisplayName: Bastón de las Flores de Tundra Ardiente
+	Tooltip:
+		'''
+		Invoca tres orquídeas de llamahielo sobre tu cabeza
+		Cada flor consume un espacio de súbdito
+		'''
+}
+
+UniverseSplitter: {
+	DisplayName: Divisor del Universo
+	Tooltip:
+		'''
+		Invoca un campo de energía en el cursor del ratón
+		Una vez desplegado el campo, comienza a invocar múltiples rayos pequeños
+		Tras varios segundos, aparece un enorme rayo láser en la posición del campo
+		Este efecto tiene un tiempo de recarga de 30 segundos
+		Intentar usar este objeto durante el tiempo de recarga causará un cortocircuito que te dañará
+		[c/BB57FF:'Un artefacto antiguo de una era pasada, aguarda tu orden.]
+		[c/BB57FF:Es una idea terrible, pero de todos modos no es tuya... ¿verdad?']
+		'''
+}
+
+VengefulSunStaff: {
+	DisplayName: Bastón del Sol Vengativo
+	Tooltip:
+		'''
+		Invoca un espíritu solar para protegerte
+		Las invocaciones repetidas eclipsan el espíritu y aumentan su poder
+		'''
+}
+
+Vigilance: {
+	DisplayName: Vigilancia
+	Tooltip: Invoca un buscaalmas para que luche por ti
+}
+
+VileFeeder: {
+	DisplayName: Devorador Vil
+	Tooltip: Invoca un bebé devorador de almas para protegerte
+}
+
+ViralSprout: {
+	DisplayName: Brote Viral
+	Tooltip:
+		'''
+		Invoca un espíritu sabio para que luche por ti
+		Inflige [cbuff:CalamityMod/SagePoison], un efecto negativo que se vuelve más fuerte cuantos más espíritus tengas
+		'''
+}
+
+ViridVanguard: {
+	DisplayName: Vanguardia Víride
+	Tooltip:
+		'''
+		Alterna entre invocar hachas y espadas, ambas impregnadas de un poderoso veneno
+		Las hachas orbitan al jugador, causando gran daño a corta distancia
+		Las espadas persiguen a los enemigos con extrema precisión, destrozándolos
+		Todas las armas infligen [cbuff:CalamityMod/SagePoison], que se vuelve más poderoso cuantas más armas sean invocadas
+		Cuando todos los espacios de súbdito estén llenos, <left> de nuevo para lanzar una ráfaga de tajos dirigidos a tu cursor
+		Esta habilidad tiene un tiempo de recarga de cinco segundos mientras sostienes este objeto
+		Shift-<right> en este objeto en tu inventario para cambiar la dirección de rotación
+		'''
+}
+
+VoidConcentrationStaff: {
+	DisplayName: Bastón de Concentración del Vacío
+	Tooltip:
+		'''
+		Te rodea de energía oscura, lo que hace que todos los ataques causen 15% menos de daño
+		<right> para condensar la energía en un objetivo, enfocando a tus súbditos en él y creando rayos teledirigidos
+		Cuando el enemigo enfocado recibe daño de cualquier fuente, será golpeado por energías oscuras adicionales
+		Estas energías oscuras son el doble de fuertes cuando el golpe proviene de un súbdito o centinela
+		Tras 10 segundos, la energía oscura reanudará su órbita alrededor de ti
+		'''
+}
+
+VoidEaterMarionette: {
+	DisplayName: Marioneta del Devorador del Vacío
+	Tooltip:
+		'''
+		Contiene el poder para controlar un Devorador en miniatura
+		Las invocaciones repetidas aumentan la longitud y el poder del Devorador
+		El Devorador ataca con [ceffect/dog:Devorador de Divinidad], [ceffect/dog:Incinerador de Fe] y [ceffect/dog:Vorágine Ultracósmica]
+		Puede jugar a buscar objetos caídos
+		Shift-<right> en este objeto en tu inventario cuando el Devorador haya aparecido para priorizar la búsqueda
+		'''
+}
+
+WarloksMoonFist: {
+	DisplayName: Puño Lunar de los Warloks
+	Tooltip: Invoca un puño celestial para golpear a los enemigos por ti
+}
+
+WitherBlossomsStaff: {
+	DisplayName: Bastón de las Flores Marchitas
+	Tooltip: Invoca cuatro flores en descomposición de [cbuff:CalamityMod/Plague] sobre tu cabeza
+}
+
+WulfrumController: {
+	DisplayName: Controlador de Wulfrum
+	Tooltip:
+		'''
+		Invoca un droide de Wulfrum para que luche por ti
+		Mantén <right> mientras sostienes el control para alternar todos tus drones entre modo normal y modo supercarga
+		Los droides supercargados dejarán de atacar y concentrarán energía de Wulfrum en ti
+		Los droides supercargados otorgan +{0} PV/s de regeneración de vida y {1} de defensa por droide
+		También puede usarse para curar a otros jugadores manteniendo el cursor del ratón lo suficientemente cerca de ellos
+		'''
+}
+
+YharonsKindleStaff: {
+	DisplayName: Bastón de la Llama de Yharon
+	Tooltip: Invoca un dracónido ardiente para que luche por ti
+}

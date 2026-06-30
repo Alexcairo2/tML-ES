@@ -1,0 +1,107 @@
+// Put their internal name here
+NPCName: {
+	Guide: En otro tiempo encargado de guiar al Muro de Carne, el Guía es una figura casi divina en el folclore demoníaco. Sin embargo, el antiguo aprendiz de brujo ahora disfruta de una vida humilde, ofreciendo consejos útiles y recetas de fabricación.
+	Dryad: La Dríada practica el arte de la Magia de la Vida, pionera de Silva. Está conectada con la naturaleza y puede analizar su pureza en todo el mundo. ¡También vende semillas!
+	Mechanic: La Mecánica fue encarcelada por meter las narices donde no debía. Vende cables y herramientas para montar cualquier cosa imaginable.
+	EmpressButterfly: Estos familiares invocados por la Emperatriz extraen poder de su entorno y luego se lo llevan a su ama. Le recuerdan a un ser querido perdido, y si alguno perece en el caos de la noche, ella desatará toda su furia sobre el atacante.
+	DemonEye: "{$CommonEntries.DemonEye}"
+	CataractEye: "{$CommonEntries.DemonEye}"
+	DialatedEye: "{$CommonEntries.DemonEye}"
+	SleepyEye: "{$CommonEntries.DemonEye}"
+	GreenEye: "{$CommonEntries.DemonEye}"
+	PurpleEye: "{$CommonEntries.DemonEye}"
+	Wraith: Las almas pertenecientes a devotos de los dioses fueron selladas en otro tiempo dentro del Muro de Carne. Ahora rondan la noche en busca de venganza.
+	BloodNautilus: El intenso resplandor rojo de la Luna de Sangre se vuelve aún mayor al entrar en contacto con el agua, haciendo que las criaturas acuáticas se vean afectadas con mayor intensidad que sus contrapartes terrestres. Este enorme demonio acuático de caparazón se alimenta directamente de esa energía, respondiendo de manera brutal a quien lo moleste.
+	DiggerHead: La exposición a los efectos de las magias divinas que fluyen por las grietas del mundo provoca crecimientos rápidos e inusuales en los gusanos gigantes.
+	UndeadMiner: Tras el fin de la Cruzada, muchos espeleólogos intentaron aprovechar la situación. Los resultados fueron menos que óptimos.
+	GraniteGolem: Estas robustas construcciones mágicas eran utilizadas en las minas para transportar pesados minerales y maquinaria. Siguen habitando las minas en lo más profundo, incluso después de haber sido abandonadas.
+	GraniteFlyer: La Elemental de la Tierra se manifiesta en múltiples formas adoptando las propiedades de distintos materiales, como esta resistente granita.
+	GreekSkeleton: Las cuevas de mármol se usaban como arenas durante la Era Deífica. Combatientes en busca de gloria acudían en masa a ellas, pero ahora solo sus cuerpos pueblan el lugar.
+	UndeadViking: Tras la Cruzada que dejó el continente en ruinas, muchas facciones intentaron conquistarlo. Estos vikingos fueron uno de esos grupos, pero los gélidos vientos de la tundra los despacharon con rapidez.
+	IcyMerman: Los tritones rara vez se alejan del océano, prefiriendo las vastas aguas donde ahora vive su venerada Elemental. Los que lo hacen pueden perderse, adentrarse en cavernas heladas y convertirse en muertos vivientes pez-hombre congelados.
+	IceElemental: Tras dividirse, los fragmentos de una Elemental pueden quedar varados e inaccesibles. Los elementales de hielo fueron en otro tiempo parte de Anahita, dejados atrás durante su viaje al Océano. Sus gélidos fragmentos lo congelan todo.
+	DesertBeast: Vástagos dracónicos menores que prosperan en climas áridos, los cuerpos endurecidos de los Basiliscos los convierten en amenazas formidables.
+	DuneSplicerHead: El gusano más grande nativo del Desierto. Aunque reforzado por magias divinas, no llega a la altura del Azote, y campa a sus anchas en un frenesí inducido por el hambre.
+	SandElemental: La manifestación más poderosa de la Elemental de la Tierra fragmentada, tomando múltiples formas a través de las propiedades de distintos materiales. Con esta forma femenina, sus tornados lo destrozan todo.
+	SandShark: "{$CommonEntries.SandShark}"
+	SandsharkCorrupt: "{$CommonEntries.SandShark}"
+	SandsharkCrimson: "{$CommonEntries.SandShark}"
+	SandsharkHallow: "{$CommonEntries.SandShark}"
+	MeteorHead: Cuando los meteoritos impactan la superficie, sus fragmentos quedan dispersos para ser recogidos. Algunos pedazos tienen una mayor densidad de maná, cobran vida y atacan a todo lo que se encuentra cerca.
+	AngryBones: "{$CommonEntries.AngryBones}"
+	AngryBonesBig: "{$CommonEntries.AngryBones}"
+	AngryBonesBigMuscle: "{$CommonEntries.AngryBones}"
+	AngryBonesBigHelmet: "{$CommonEntries.AngryBones}"
+	BlueArmoredBones: "{$CommonEntries.BlueArmoredBones}"
+	BlueArmoredBonesMace: "{$CommonEntries.BlueArmoredBones}"
+	BlueArmoredBonesNoPants: "{$CommonEntries.BlueArmoredBones}"
+	BlueArmoredBonesSword: "{$CommonEntries.BlueArmoredBones}"
+	HellArmoredBones: "{$CommonEntries.HellArmoredBones}"
+	HellArmoredBonesSpikeShield: "{$CommonEntries.HellArmoredBones}"
+	HellArmoredBonesMace: "{$CommonEntries.HellArmoredBones}"
+	HellArmoredBonesSword: "{$CommonEntries.HellArmoredBones}"
+	RustyArmoredBonesAxe: "{$CommonEntries.RustyArmoredBones}"
+	RustyArmoredBonesFlail: "{$CommonEntries.RustyArmoredBones}"
+	RustyArmoredBonesSword: "{$CommonEntries.RustyArmoredBones}"
+	RustyArmoredBonesSwordNoArmor: "{$CommonEntries.RustyArmoredBones}"
+	SkeletonSniper: Parte de las fuerzas militares de Yharim en sus vidas pasadas, estos francotiradores de vista aguda no dejaban escapar nada de su mira, incluso cuando su lugar de operación eran estos pasillos angostos.
+	TacticalSkeleton: Parte de las fuerzas militares de Yharim en sus vidas pasadas, con gruesa armadura y potentes trabucazos, eran la primera línea contra el invasor que masacró a los guardias de estos pasillos.
+	SkeletonCommando: Parte de las fuerzas militares de Yharim en sus vidas pasadas, su furia propulsada por cohetes podría haber arrasado con multitudes enteras de fugitivos si alguna vez se hubieran atrevido a salir de sus celdas.
+	BoneLee: Este Camarada de Ónice fue aprehendido por las tropas de Yharim y, tras incontables intentos de fuga fallidos, fue usado como escarmiento para otros prisioneros.
+	Paladin: Varios Caballeros del Buscador de Dioses fueron asignados a custodiar la Mazmorra, aunque ni siquiera ellos pudieron combatir, ni mucho menos ver, a su asesino. La noticia de la masacre ocurrida en estos pasillos nunca salió a la luz; los lamentos de los muertos silenciados para siempre.
+	DiabolistRed: "{$CommonEntries.Diabolist}"
+	DiabolistWhite: "{$CommonEntries.Diabolist}"
+	Necromancer: "{$CommonEntries.Necromancer}"
+	NecromancerArmored: "{$CommonEntries.Necromancer}"
+	RaggedCaster: "{$CommonEntries.RaggedCaster}"
+	RaggedCasterOpenCoat: "{$CommonEntries.RaggedCaster}"
+	DungeonGuardian: El Anciano está maldito para no poder abandonar ni entrar en la Mazmorra, y mucho menos morir. ¡Quien se cruce con él y se atreva a descender a esos pasillos no podrá pasar!
+	BoneSerpentHead: Poderosas bestias serpentinas gobernaron el infierno desde antes de la historia, pero tras la caída de su señor, la ira divina hizo arder sus escamas de obsidiana. Ahora solo quedan sus esqueletos, obligados por hechizos robados a proteger el territorio demoníaco.
+	Demon: A pesar de ser una civilización primitiva, los demonios pueblan la mayor parte del inframundo. A diferencia de sus hermanos menores, invocan magia de las sombras en lugar de magia del infierno.
+	VoodooDemon: Los demonios tienen varias prácticas religiosas, especialmente sacrificios. Veneran al Muro de Carne desde que comenzó a rondar el inframundo, usando ofrendas para atraerlo.
+	RedDevil: Invocando potentes lanzas de magia oscura, estos demonios de élite dan caza al aventurero que destruyó a su supuesta deidad.
+	WyvernHead: Profundamente sintonizadas con la magia del mundo, estas serpientes aladas guardan las ruinas celestiales de Chrysadia en nombre del Dragón de la Tormenta. Ahora su deber llama con más fuerza a medida que la esencia divina surge por toda la tierra.
+	Harpy: Criaturas semihúmanas aladas provenientes de distantes montañas del sur que vinieron a habitar el archipiélago del cielo tras la ruina de su antigua civilización. Defienden ferozmente su nuevo territorio de los invasores con sus plumas afiladas como navajas.
+	MartianProbe: Percibiendo el creciente poder del planeta, seres de otro mundo envían tecnología de vanguardia para explorar en busca de recursos valiosos.
+	SeekerHead: Las magias divinas han desatado las influencias oscuras que dieron origen al Devorador de Mundos, produciendo gusanos más pequeños pero igual de letales.
+	DesertDjinn: En estas cuevas yacen enterrados crípticos artefactos más antiguos que Ilmeris, cuyos orígenes fueron barridos por las arenas del tiempo. Corrompidos por magias divinas, los genios en otro tiempo amigables que moraban en ellos reemergen ahora, llenos de hostilidad.
+	ChaosElemental: Manifestaciones de la inestable Esencia del Sagrado, persiguen de manera errática con una descarga incontrolable de poder luminoso.
+	GoblinThief: Ladrones conscriptos a la fuerza en el Ejército Trasgo a cambio de su libertad, estos fastidiosos adversarios se especializan en movimientos ágiles y combate cuerpo a cuerpo.
+	GoblinSummoner: Los trasgos que alcanzan semejante maestría en las artes arcanas son tratados como realeza, joyas preciadas de su sociedad. Los brujos en particular invocan inconcebibles espectros de llama sombría mediante un poderoso maleficio.
+	GoblinSorcerer: Los trasgos tienen dificultades para manipular la magia, apenas capaces de invocar los hechizos más simples. Aquellos que pueden tienen el potencial de manipular energía de sombra mágica mediante una forma de hechicería.
+	PirateCaptain: ¡El amor de un capitán pirata por las riquezas solo es superado por su deseo de explorar! La noticia de que la Cruzada aparentemente había terminado se difundió rápidamente por el mundo, y la abundancia de botín en este continente atrajo a este marinero y su variopinta tripulación.
+	MartianSaucerCore: Tras la destrucción de su planeta por criaturas de otro mundo, el ejército marciano evolucionó a un ritmo sin precedentes. Estaban preparados para repeler cualquier amenaza futura, y también para saquear cualquier otro mundo que pudieran encontrar.
+	TorchGod: Una entidad desconocida responsable del eterno parpadeo de una antorcha, aunque fácilmente irritada por el descuidado e ingrato abuso en la colocación de estas.
+	EyeofCthulhu: Un monstruo descomunal de orígenes desconocidos, responsable de plagiar la noche con Ojos Demoníacos. Las bestias de tal calibre suelen recibir el título de "Cthulhu", palabra que significaba "gran bestia" en el idioma de los dragones.
+	BrainofCthulhu: La muerte de un dios solía dar origen a grandes monstruos debido a la naturaleza volátil de la esencia divina. La caza de semejantes abominaciones era antes motivo de canciones y festividades, pero ahora solo engendran decepciones.
+	SkeletronHead: Una construcción demoníaca que irrumpe del Anciano cuando es necesario y la parte más peligrosa de la maldición impuesta por el Culto del Dragón. Esperaban detener a todos los intrusos con ella, pero uno resultó ser demasiado astuto incluso para ellos.
+	WallofFlesh: Creado originalmente por los magos de Azafure como estratagema para sellar la esencia divina, el titánico muro se liberó tras la destrucción de la ciudad. Su existencia era problemática, pero su caída ha traído aún mayor inestabilidad al mundo.
+	QueenSlimeBoss: Tras huir de la batalla inicial, el Dios Slime intentó reconstruir a sus Paladines con la energía emergente del Sagrado. Sin embargo, quedó atrapado por su propia creación, incapaz de controlar su vasto e inestable poder.
+	Retinazer: Un par de ojos mecánicos construidos por Draedon para reconocimiento y asesinato, Retinazer concentra su energía en disparar poderosos láseres.
+	Spazmatism: Un par de ojos mecánicos construidos por Draedon para reconocimiento y asesinato, Spazmatism persigue a gran velocidad, exhalando llamas malditas.
+	TheDestroyer: A pesar de haber sido construido con equipamiento minero reutilizado, El Destructor fue diseñado para combatir a otras deidades en duelo singular, decorado con sondas armadas con láseres que se desprenden de su cuerpo al recibir daño.
+	SkeletronPrime: Construido con el expreso propósito de infundir terror en el corazón de cualquier adorador de dioses, esta máquina tiene más brazos que nunca y una variedad de feroces armas.
+	Plantera: Un guardián floral dormido pero poderoso, cultivado por los ancianos del Paso Primaveral usando volátiles almas de animales como sustento. Desencadenado en un arrebato de carnicería vegetal, su alcance ahora abarca toda la Jungla.
+	HallowBoss: A pesar de su linaje, los hijos de los dioses no heredan ni una pizca de su poder. La Emperatriz eligió reclamar poder por sí misma, extrayéndolo de otros lugares y seres. Encontró una candidata perfecta en el Sagrado debido a su naturaleza inestable, y ahora se ha transformado en un poderoso hada.
+	Golem: Un notable alarde de ingenio construido por la raza Lihzahrd. En busca de luz tras ocultarse en su templo avergonzados por haber alejado a su diosa, construyeron esta máquina. Alimentada por células de energía solar, está lista para custodiar el Templo.
+	DukeFishron: Una especie de evolución acuática que vive en aislamiento en las profundidades del océano. A pesar de sus limitaciones, aún comparte sangre con los dragones de antaño, reclamando un dominio casi total sobre los océanos. Las leyendas dicen que solo sale a la superficie en busca de un tipo raro y sabroso de gusano.
+	CultistBoss: El fanático líder del Culto del Dragón, obsesionado con resucitar a un dragón. Cumple con su sagrado deber de mantener sellado al behemot cósmico lejos, en la luna, un juramento que hizo hace mucho cuando se puso a su servicio.
+	CultistDevote: Absolutamente entregados, los Devotos Lunáticos son tan paranoicos ante la posibilidad de que su ritual fracase que permanecen impasibles incluso cuando se les amenaza con la muerte. El miedo solo los hace trabajar con más ahínco.
+	LunarTowerNebula: El segundo pilar, creado para engendrar seres del más allá que llenaban de desasosiego la Mente de todos. Estas tropas se especializaban en inutilizar la inteligencia del enemigo, asegurando que no pudiera planearse ninguna contramedida contra el dominador.
+	LunarTowerSolar: El cuarto y último pilar, creado cuando la Luz Solar desangraba y marcaba la perdición. Un minúsculo fragmento de su poder fue usado para crearlo, y sin embargo sus engendros acompañaron directamente al dominador en su conquista contra los dragones.
+	LunarTowerVortex: El primer pilar, creado cuando negras nubes de Tormenta se cernían en el horizonte. Mientras el dominador combatía a los más poderosos dragones, los engendros de este pilar se centraron en exterminar toda vida mundana que pudieran encontrar, apareciendo en oleadas aparentemente infinitas.
+	LunarTowerStardust: El tercer Pilar, creado cuando la Vida se alzó para luchar, pero no encontró espacio. Sus engendros hallaron especial utilidad en buscar y eliminar a los seres más poderosos que pudieran suponer una amenaza para las criaturas del Vórtice.
+	MoonLordCore: El behemot cósmico que puso de rodillas a Terraria hace 800 años, liberado de su prisión lunar en un estado debilitado. Tenía el poder de succionar y dominar almas, incluidas las poseídas por dragones, hiriéndolos de manera permanente. Procede de una incomprensible fisura de espaciotiempo roto que succiona energía de nuestra dimensión para sustentarse.
+}
+
+CommonEntries: {
+	DemonEye: La sospechosa sensación de ser observado puede hacerse muy real en la oscuridad de la noche, cuando los súbditos del Ojo de Cthulhu rondan los cielos.
+	SandShark: Los tiburones de arena vivían en las aguas poco profundas de Ilmeris, escondiéndose bajo la arena. Por suerte, estaban bien equipados para sobrevivir a las consecuencias de la Incineración.
+	AngryBones: Malditos con la no-muerte, los antiguos prisioneros de la Mazmorra vagan sin cesar por sus pasillos en busca de una víctima para su interminable furia.
+	BlueArmoredBones: Mercenarios contratados por Yharim para custodiar la Mazmorra, los Azules Marchantes eran disciplinados e implacables, destrozando a cualquier fugitivo que decidiera rebelarse contra sus carceleros.
+	HellArmoredBones: Mercenarios contratados por Yharim para custodiar la Mazmorra, provenientes de Azafure, el ardiente resplandor de la Legión Fundida es inconfundible. Cuando los pasillos de la Mazmorra se iluminaban, todos los prisioneros sabían que el infierno se desataría.
+	RustyArmoredBones: Mercenarios contratados por Yharim para custodiar la Mazmorra provenientes de facciones subterráneas, las armas de la Compañía Oxidada son dentadas y toscas por el uso y el abandono. La brutalidad que empleaban en el campo fue suficiente para hacer que muchos prisioneros renunciaran a la libertad.
+	Diabolist: Magos de Azafure que portan el Sigilo Diabólico, certificado de su destreza, que empuñan llamas tan intensas como cualquiera de las del inframundo. Eran eficaces bloqueando pasillos y haciendo hablar a los prisioneros.
+	Necromancer: Estos hechiceros fueron entrenados en Azafure y portaban el Signo Necromántico, certificado de su destreza. Así como aterrorizaban a los prisioneros con los cuerpos de sus amigos, ahora aterrorizan la Mazmorra de la misma manera.
+	RaggedCaster: Lanzadores directamente del Culto del Dragón, cuya magia maldita deja a sus víctimas perdidas sin remedio en una oscuridad absoluta. Perecieron intentando contener la embestida que ocurrió bajo sus pasillos.
+}

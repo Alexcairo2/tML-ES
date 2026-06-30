@@ -1,0 +1,24 @@
+ReaverEffect: {
+	DisplayName: Adaptabilidad del Saqueador
+	Tooltip:
+		'''
+		Cambia entre el Modo Blindado y el Modo Rápido
+		Modo Blindado: Aumenta la defensa en 10, recibir daño otorga Rabia del Saqueador
+		Modo Rápido: Otorga +4 PV/s de regeneración de vida, aumenta el tiempo y la velocidad de las alas en un 10%, reduce el tiempo de recarga de la embestida y aumenta la velocidad del gancho
+		'''
+}
+
+UmbraphileEffect: {
+	DisplayName: Transformación en Enjambre de Murciélagos
+	Tooltip:
+		'''
+		Conviértete temporalmente en un enjambre de murciélagos
+		En esta forma, eres inmune al daño, tienes +30% de velocidad de movimiento y vuelo infinito
+		El enjambre de murciélagos inflige daño y roba vida al golpear
+		'''
+}
+
+ElementsForceEffect: {
+	DisplayName: Cambio Elemental
+	Tooltip: Alterna entre el Modo Magma y el Modo Ventisca
+}

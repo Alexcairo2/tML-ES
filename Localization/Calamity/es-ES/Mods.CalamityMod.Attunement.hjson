@@ -1,0 +1,173 @@
+// Broken Biome Blade
+DefaultAttunement: {
+	Name: Claridad Pura
+	Function: Dispara un débil destello de espada
+}
+
+HotAttunement: {
+	Name: Grandeza Árida
+	Function:
+		'''
+		Invoca hojas ardientes frente a ti que crecen con cada golpe al enemigo
+		Las hojas te impulsarán hacia arriba al chocar contra bloques en el aire
+		'''
+}
+
+ColdAttunement: {
+	Name: Abrazo Mordaz
+	Function: Realiza un combo de 3 golpes con una hoja glacial; el golpe final congela a los enemigos por un instante
+}
+
+EvilAttunement: {
+	Name: Réplica de la Decadencia
+	Function: Embiste hacia adelante con la proyección de un estoque fantasmal, rebotando tras golpear y absorbiendo la vida de los enemigos
+}
+
+// Mended Biome Blade
+TrueDefaultAttunement: {
+	Name: Claridad Pura
+	Function:
+		'''
+		Dispara un débil destello de espada
+		Asestar tres golpes cuerpo a cuerpo carga una poderosa embestida que se libera al dejar de atacar
+		Los enemigos golpeados por la embestida quedan marcados con un sigilo que atrae los destellos de espada
+		'''
+}
+
+TrueHotAttunement: {
+	Name: Grandeza Árida
+	Function:
+		'''
+		Invoca hojas ardientes frente a ti que crecen con cada golpe al enemigo
+		Las hojas te impulsarán hacia arriba al chocar contra bloques en el aire
+		Soltar el ataque con las hojas completamente cargadas las lanza hacia adelante para destrozar a tus enemigos
+		'''
+}
+
+TrueColdAttunement: {
+	Name: Abrazo Mordaz
+	Function:
+		'''
+		Realiza un combo de 3 golpes con una hoja glacial; el golpe final congela a los enemigos por un instante
+		Cada golpe libera una neblina glacial dañina y persistente
+		'''
+}
+
+TrueTropicalAttunement: {
+	Name: Toque del Jardinero
+	Function:
+		'''
+		Lanza la hoja mediante un látigo de enredadera
+		Golpear a los enemigos con la punta del látigo al chasquear garantiza un ataque crítico
+		Las enredaderas se extienden desde los ataques críticos y pueden golpear hasta tres objetivos
+		'''
+}
+
+TrueEvilAttunement: {
+	Name: Réplica de la Decadencia
+	Function:
+		'''
+		Embiste hacia adelante con la proyección de un estoque fantasmal, rebotando tras golpear y absorbiendo la vida de los enemigos
+		Asestar tres golpes sin tocar el suelo convierte tu próximo ataque en una embestida potenciada
+		'''
+}
+
+HolyAttunement: {
+	Name: Poder de los Cielos
+	Function:
+		'''
+		Gira la espada a tu alrededor, acelerando y aumentando el daño con el tiempo
+		Al girarla el tiempo suficiente, soltar el ataque lanza la espada hacia el cursor por un breve instante
+		Golpear a un enemigo con la espada lanzada a máxima potencia hace que un monolito astral erupcione desde él
+		'''
+}
+
+// True Biome Blade
+WhirlwindAttunement: {
+	Name: Orgullo del Espadero
+	Function:
+		'''
+		Mantén <left> para girar la espada a tu alrededor, acelerando y aumentando el daño con el tiempo
+		Energías astrales errantes se disparan en todas direcciones mientras giras
+		Al girarla el tiempo suficiente, soltar el ataque lanza la espada hacia el cursor
+		La espada lanzada erupciona en monolitos astrales al golpear enemigos
+		'''
+	PassiveDesc: Golpear enemigos invoca ocasionalmente bombarderos astrales teledirigidos que propagan la Infección Astral
+}
+
+FlailBladeAttunement: {
+	Name: Lamentos del Encadenado
+	Function:
+		'''
+		Azota con una ráfaga de hojas encadenadas
+		Golpear a los enemigos con la punta de las hojas garantiza un ataque crítico
+		Los ataques críticos lanzan cadenas fantasmales adicionales que se enganchan en varios objetivos
+		'''
+	PassiveDesc: Un gancho de cadena encantado flota cerca de ti, girando y congelando a los enemigos mientras inflige daño
+}
+
+SuperPogoAttunement: {
+	Name: Furia Sanguínea
+	Function:
+		'''
+		Invoca hojas de lava frente a ti que crecen con cada golpe al enemigo
+		Las hojas te impulsarán hacia arriba al chocar contra bloques en el aire
+		Soltar el ataque lanza las hojas cargadas hacia adelante como una rueda giratoria
+		Atacar inmediatamente tras lanzar la hoja te propulsa hacia ella, cortando a los enemigos y curándote
+		'''
+	PassiveDesc: Golpear enemigos te curará en raras ocasiones
+}
+
+ShockwaveAttunement: {
+	Name: Mareas Terrenales
+	Function:
+		'''
+		Carga una embestida demoledora; suelta el ataque para asestar un golpe devastador
+		La espada emite destellos teledirigidos mientras se carga
+		Golpear a un enemigo con la embestida crea una onda de choque y lo marca con un sigilo que atrae los destellos
+		Golpear el suelo con la embestida provoca varias explosiones de polvo a tu alrededor
+		'''
+	PassiveDesc: Emite periódicamente grandes ondas de choque al atacar
+}
+
+// Galaxia
+PhoenixAttunement: {
+	Name: Orgullo del Fénix
+	Function:
+		'''
+		Gira la espada a tu alrededor, acelerando con el tiempo
+		La nebulosa girante emite constantemente destellos cósmicos teledirigidos
+		Suelta el ataque para lanzar la espada hacia el cursor junto a 6 proyectiles cósmicos gigantes
+		La espada lanzada erupciona en un tornado llameante al golpear enemigos
+		'''
+}
+
+AriesAttunement: {
+	Name: Ira de Aries
+	Function:
+		'''
+		Une la espada a tu cursor mediante una cadena de constelaciones
+		Golpear a los enemigos provoca explosiones nebulosas que generan destellos cósmicos teledirigidos
+		'''
+}
+
+PolarisAttunement: {
+	Name: Mirada de Polaris
+	Function:
+		'''
+		Canaliza el poder de Galaxia en un vórtice de energías celestiales
+		El vórtice se potencia con el tiempo y al golpear enemigos
+		Suelta el ataque para disparar una poderosa estrella directamente sobre tu cursor que bombardea a los enemigos cercanos con destellos
+		Atacar inmediatamente tras disparar la estrella te propulsa hacia ella, dañando a los enemigos
+		'''
+}
+
+AndromedaAttunement: {
+	Name: Zancada de Andrómeda
+	Function:
+		'''
+		Carga una embestida espacial; suelta el ataque para asestar un golpe galáctico
+		La espada emite destellos teledirigidos periódicamente mientras se carga
+		Embestir a los enemigos hace que grandes estrellas teledirigidas caigan desde los cielos
+		'''
+}

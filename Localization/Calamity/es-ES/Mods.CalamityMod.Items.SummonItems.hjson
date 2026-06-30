@@ -1,0 +1,311 @@
+Abombination: {
+	DisplayName: Abombination
+	Tooltip:
+		'''
+		Invoca al Goliat Portador de la Plaga si se usa en la Jungla
+		Se encoleriza fuera de la Jungla
+		{$Common.NotConsumable}
+		'Radio capaz de emitir una frecuencia reconocida por el nanovirus de la Plaga.'
+		'''
+}
+
+AstralChunk: {
+	DisplayName: Trozo Astral
+	Tooltip:
+		'''
+		Invoca a Astrum Aureus si se usa en la Infección Astral
+		{$Common.NotConsumable}
+		'La fortaleza de la Infección ha encontrado otro objetivo.'
+		'''
+}
+
+BloodwormItem: {
+	DisplayName: "{$NPCs.BloodwormNormal.DisplayName}"
+	Tooltip:
+		'''
+		Invoca al Viejo Duque si se usa como cebo en el Mar Sulfuroso
+		Se encoleriza fuera del Mar Sulfuroso
+		'''
+}
+
+BloodyWormFood: {
+	DisplayName: Comida de Gusano Sangrienta
+	Tooltip:
+		'''
+		Invoca a la Colmena Perforadora si se usa en el Carmesí
+		Desaparece fuera del Carmesí
+		{$Common.NotConsumable}
+		'No juegues con tu comida, ellos no jugarán con la suya.'
+		'''
+}
+
+CausticTear: {
+	DisplayName: Lágrima Cáustica
+	Tooltip: Provoca un aguacero ácido en el Mar Sulfuroso
+}
+
+CeremonialUrn: {
+	DisplayName: Urna Ceremonial
+	Tooltip:
+		'''
+		Úsala en el Altar de los Malditos para invocar a la Bruja Suprema, Calamitas
+		{$Common.NotConsumable}
+		'La Bruja no permitirá que ocurra una vez más.'
+		'''
+}
+
+CharredIdol: {
+	DisplayName: Ídolo Carbonizado
+	Tooltip:
+		'''
+		Invoca al Elemental de Azufre si se usa en las Grietas de Azufre
+		Se encoleriza fuera de las Grietas de Azufre
+		{$Common.NotConsumable}
+		'Todo lo que quede bajo su mirada será quemado hasta ser irreconocible.'
+		'''
+}
+
+CosmicWorm: {
+	DisplayName: Gusano Cósmico
+	Tooltip:
+		'''
+		Invoca al Devorador de Dioses
+		{$Common.NotConsumable}
+		[ceffect/dog:'La Serpiente Sin Nombre ha salido a buscarte.']
+		'''
+}
+
+CryoKey: {
+	DisplayName: Llave Criónica
+	GFBName: Llave Pirónica
+	Tooltip:
+		'''
+		[SPAWN]
+		{$Common.NotConsumable}
+		'Una llave para una prisión glacial.'
+		'''
+	SpawnNormal: Invoca a Cryogen si se usa en la tundra
+	SpawnGFB: Invoca a Cryogen...? si se usa en la tundra
+}
+
+DeathWhistle: {
+	DisplayName: Silbato de la Muerte
+	Tooltip:
+		'''
+		Invoca al Devastador
+		{$Common.NotConsumable}
+		'Uno de los pocos sonidos que el gólem de carne todavía reconoce.'
+		'''
+}
+
+DecapoditaSprout: {
+	DisplayName: Brote Decapodita
+	Tooltip:
+		'''
+		Invoca a Crabulon si se usa en el bioma de Hongos Subterráneo
+		{$Common.NotConsumable}
+		'Erizado de las esporas de una cepa única y parasitaria.'
+		'''
+}
+
+DesertMedallion: {
+	DisplayName: Medallón del Desierto
+	Tooltip:
+		'''
+		Invoca al Azote Desértico si se usa en el Desierto
+		Se encoleriza fuera del Desierto
+		{$Common.NotConsumable}
+		'El Azote busca otra comida.'
+		'''
+}
+
+EidolonTablet: {
+	DisplayName: Tablilla Eidolon
+	Tooltip:
+		'''
+		Invoca al Cultista Lunático
+		{$Common.NotConsumable}
+		'Un artefacto añejo venerado por el Culto del Dragón.'
+		'''
+}
+
+ExoticPheromones: {
+	DisplayName: Feromonas Exóticas
+	Tooltip:
+		'''
+		Invoca a Dragonfolly si se usa en la Jungla
+		Se encoleriza fuera de la Jungla
+		{$Common.NotConsumable}
+		'Feromonas utilizadas para cazar Vástagos Dracónicos.'
+		'''
+}
+
+EyeofDesolation: {
+	DisplayName: Ojo de la Desolación
+	Tooltip:
+		'''
+		Invoca al Clon de Calamitas
+		Crea una arena cuadrada en el Modo Revengeance, contigo en la parte inferior
+		{$Common.NotConsumable}
+		'Ella está aquí.'
+		'''
+}
+
+NaiadsWarhorn: {
+	DisplayName: Cuerno de Guerra de la Náyade
+	Tooltip:
+		'''
+		Invoca a Anahita si se usa en el Océano
+		Se encoleriza fuera del Océano
+		{$Common.NotConsumable}
+		'Un instrumento que usan los tritones para invocar a Anahita. Su melodía es extrañamente seductora.'
+		'''
+}
+
+MarkofProvidence: {
+	DisplayName: Marca de la Providencia
+	Tooltip:
+		'''
+		Un sello ornamentado de la Llama Profanada
+		El odio aún arde en su frente
+		[SPAWN]
+		{$Common.NotConsumable}
+		'''
+	SpawnInfo: Semejante poder atrae a seres de otro mundo
+	SpawnVoid:
+		'''
+		Invoca al Vacío Incesante
+		Desaparece en la superficie
+		'''
+	SpawnSignus: Invoca a Signus
+	SpawnWeaver: Invoca al Tejedor de Tormentas
+}
+
+MartianDistressRemote: {
+	DisplayName: Mando de Socorro Marciano
+	Tooltip: Invoca la Locura Marciana
+}
+
+NecroplasmicBeacon: {
+	DisplayName: Baliza Necroplasmática
+	Tooltip:
+		'''
+		Invoca a Polterghast si se usa en la Mazmorra
+		Desaparece en la superficie
+		{$Common.NotConsumable}
+		'Los lamentos de los espíritus perturbaron algo mucho más aterrador.'
+		'''
+}
+
+NO: {
+	DisplayName: NO
+	Tooltip: U
+}
+
+OverloadedSludge: {
+	DisplayName: Lodo Sobrecargado
+	Tooltip:
+		'''
+		Invoca al Dios Slime
+		{$Common.NotConsumable}
+		'Se retuerce e hincha con el pus de dioses muertos hace mucho.'
+		'''
+}
+
+Portabulb: {
+	DisplayName: Portabulbo
+	Tooltip:
+		'''
+		Invoca a Plantera si se usa en la Jungla
+		Se encoleriza fuera de la Jungla Subterránea
+		{$Common.NotConsumable}
+		'''
+}
+
+ProfanedCore: {
+	DisplayName: Núcleo Profanado
+	Tooltip:
+		'''
+		Invoca a Providencia si se usa en el Sagrado o el Inframundo
+		Úsalo de nuevo mientras Providencia tenga mucha vida para desatar Su furia perfecta
+		{$Common.NotConsumable}
+		'El corazón de Sus Guardianes; Su maliciosa ira arderá sobre quien ahora lo empuñe.'
+		'''
+}
+
+ProfanedShard: {
+	DisplayName: Fragmento Profanado
+	Tooltip:
+		'''
+		Invoca a los Guardianes Profanados si se usa en el Sagrado o el Inframundo
+		{$Common.NotConsumable}
+		'Sus Guardianes buscan al portador de un poder tan vasto y robado.'
+		'''
+}
+
+SandstormsCore: {
+	DisplayName: Núcleo de la Tormenta de Arena
+	Tooltip:
+		'''
+		Invoca al Gran Tiburón de Arena si se usa en [BIOME]
+		{$Common.NotConsumable}
+		'''
+}
+
+Seafood: {
+	DisplayName: Marisco
+	Tooltip:
+		'''
+		Invoca al Azote Acuático si se usa en el Mar Sulfuroso
+		Se encoleriza fuera del Mar Sulfuroso
+		{$Common.NotConsumable}
+		'Cebo grande para una captura grande. Ten cuidado con los monstruos de los mares.'
+		'''
+}
+
+Starcore: {
+	DisplayName: Núcleo Estelar
+	Tooltip:
+		'''
+		Invoca a Astrum Deus en la Baliza Astral, pero no se consume
+		'Que las estrellas guíen tu camino'
+		'''
+}
+
+Teratoma: {
+	DisplayName: Teratoma
+	Tooltip:
+		'''
+		Invoca a la Mente Colmena si se usa en la Corrupción
+		Desaparece fuera de la Corrupción
+		{$Common.NotConsumable}
+		'Un tumor exquisitamente repugnante para los enfermos de la cabeza.'
+		'''
+}
+
+Terminus: {
+	DisplayName: Terminus
+	GFBName: Ogscule
+	Tooltip: Mantén <left> para iniciar o terminar el Boss Rush
+}
+
+TheHousingContract: {
+	DisplayName: El Contrato de Vivienda
+	Tooltip: Úsalo para adoptar un cerdito en tu pueblo
+	SalesPitch:
+		'''
+		'¿Alguna vez quisiste cuidar a un cerdito? ¡Como parte de nuestra campaña para detener el abuso de cerditos, puedes conseguir uno aquí y ahora!'
+		'¡Solo firma aquí y te entregaremos uno de inmediato!'
+		'''
+}
+
+YharonEgg: {
+	DisplayName: Huevo de Fénix Bendecido
+	Tooltip:
+		'''
+		Invoca a Yharon, Dragón del Renacimiento
+		Se encoleriza fuera de los muros de fuego
+		{$Common.NotConsumable}
+		'Un símbolo del Dragón vigilando y esperándote.'
+		'''
+}

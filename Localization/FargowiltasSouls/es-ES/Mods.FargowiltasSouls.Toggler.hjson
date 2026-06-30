@@ -1,0 +1,278 @@
+DisableAllAttackEffects: Desactivar todos los efectos de ataque adicionales
+DisableAllMinionEffects: Desactivar todos los efectos de súbditos
+TimberHeader: "{$Mods.FargowiltasSouls.Items.TimberForce.DisplayName}"
+WoodCompletionEffect: Aceleración por conjunto de maderas
+BorealEffect: Bolas de nieve boreales
+MahoganyEffect: Velocidad de gancho de caoba
+EbonwoodEffect: Marchitamiento de madera de ébano
+ShadewoodEffect: Sangrado de madera de umbría
+PalmwoodEffect: Centinela de madera de palmera
+PearlwoodStarEffect: Estrellas de madera nacarada
+PearlwoodManaEffect: Recogida de maná de madera nacarada
+PearlwoodRainbowEffect: Estela arcoíris de madera nacarada
+TimberEffect: Fuerza de la Madera concisa
+EarthHeader: "{$Mods.FargowiltasSouls.Items.EarthForce.DisplayName}"
+AdamantiteEffect: Velocidad y dispersión de adamantita
+CobaltEffect: Saltos potenciados de cobalto
+AncientCobaltEffect: Salto explosivo de cobalto antiguo
+AncientCobaltFallEffect: Velocidad de caída de cobalto antiguo
+MythrilEffect: Velocidad de arma de mitrilo
+OrichalcumEffect: Pétalos de oricalco
+PalladiumHealing: Curación de paladio
+PalladiumEffect: Orbes de paladio
+TitaniumEffect: Fragmentos de titanio
+EarthForceEffect: Fuerza de la Tierra concisa
+TerraHeader: "{$Mods.FargowiltasSouls.Items.TerraForce.DisplayName}"
+CopperEffect: Rayo de cobre
+IronPassiveEffect: Reforjas de hierro
+IronEffect: Imán de hierro
+LeadPoisonEffect: Envenenamiento de plomo
+SilverEffect: Parry de plata
+TinEffect: Críticos de estaño
+TungstenEffect: Tamaño de wolframio
+TungstenShockwaveEffect: Onda expansiva de wolframio
+ObsidianProcEffect: Explosiones de obsidiana
+AshWoodFireballs: Bolas de fuego de ceniza
+TerraLightningEffect: Fuerza de Terra concisa
+WillHeader: "{$Mods.FargowiltasSouls.Items.WillForce.DisplayName}"
+GladiatorSpears: Lanzas de gladiador
+GladiatorBanner: Zona de gladiador
+GoldEffect: Moneda de la suerte de oro
+GoldToPiggy: Oro a la hucha
+HuntressEffect: Habilidad de cazadora
+RedRidingEffect: Lluvia de flechas de Caperucita
+ValhallaDash: Embestida de montura de Valhalla
+SquireMountJump: Salto de montura de escudero
+SquireMountSpeed: Velocidad de montura de escudero
+WillEffect: Fuerza de la Voluntad concisa
+LifeHeader: "{$Mods.FargowiltasSouls.Items.LifeForce.DisplayName}"
+BeeEffect: Flores de abeja
+BeetleEffect: Escarabajos
+CactusEffect: Espinas de cactus
+PumpkinEffect: Cultivar calabazas
+SpiderEffect: Críticos de araña
+TurtleEffect: Mejora de caparazón de tortuga
+LifeForceEffect: Fuerza de la Vida concisa
+NatureHeader: "{$Mods.FargowiltasSouls.Items.NatureForce.DisplayName}"
+ChloroMinion: Cristal de hoja de clorofita
+CrimsonEffect: Curación carmesí
+RainUmbrellaEffect: Escudo de paraguas
+RainInnerTubeEffect: Flotador
+RainFeatherfallEffect: Caída lenta de paraguas
+SnowEffect: Bolas de nieve congelantes
+JungleJump: Salto y esporas de la selva
+JungleDashEffect: Embestida de la selva
+MoltenEffect: Infierno fundido
+ShroomiteHealEffect: Mejora de consumo de piñonita
+ShroomiteMushroomPriority: Los champiñones tienen prioridad sobre las pociones
+ShroomiteShroomEffect: Nube de champiñones de piñonita
+NatureEffect: Fuerza de la Naturaleza concisa
+ShadowHeader: "{$Mods.FargowiltasSouls.Items.ShadowForce.DisplayName}"
+DarkArtistMinion: Súbdito de ráfaga de llamas
+ApprenticeSupport: Efecto de aprendiz
+NecroEffect: Tumbas de los muertos
+ShadowBalls: Orbes sombríos
+AncientShadowDarkness: Oscuridad de las sombras antiguas
+MonkDashEffect: Embestida de monje
+ShinobiDashEffect: Mejora de embestida de monje shinobi
+ShinobiThroughWalls: Shinobi a través de paredes
+SpookyEffect: Guadañas tétricas
+NinjaEffect: Velocidad de ninja
+CrystalAssassinDash: Embestida de asesino de cristal
+CrystalDiagonalDash: Embestida diagonal
+ShadowForceDashEffect: Embestida de las sombras
+ShadowForceEffect: Fuerza de la Muerte concisa
+SpiritHeader: "{$Mods.FargowiltasSouls.Items.SpiritForce.DisplayName}"
+FossilBones: Huesos fósiles al golpear
+HallowEffect: Pociones de curación sagradas
+AncientHallowMinion: Hoja sagrada antigua
+SpectreOnHitEffect: Espíritus al golpear
+ForbiddenEffect: Tormenta prohibida
+TikiEffect: Súbditos tiki
+SpiritTornadoEffect: Fuerza del Espíritu concisa
+CosmoHeader: "{$Mods.FargowiltasSouls.Items.CosmoForce.DisplayName}"
+MeteorMomentumEffect: Velocidad de meteorito
+MeteorEffect: Impacto de meteorito
+MeteorTrailEffect: Estela de chispas de meteorito
+NebulaEffect: Llamaradas de nebulosa
+SolarEffect: Escudo y embestida solar
+SolarFlareEffect: Llamarada solar
+StardustMinionEffect: Guardián de polvo estelar
+VortexEffect: Láser de vórtice
+CosmosMoonEffect: Lunas cósmicas
+CosmoForceEffect: Fuerza del Cosmos concisa
+DeviEnergyHeader: Accesorios del Modo Eternidad
+DeerSinewEffect: Embestida de tendón de ciervo
+ZephyrJump: Salto pedorro
+MasoAeolusFlower: Botas de flores
+MasoAeolusFrog: Salto de rana
+SinisterIconEffect: Tasas de aparición del icono siniestro
+SinisterIconDropsEffect: Botín del icono siniestro
+MasoGraze: Roce
+MasoGrazeRing: Visual del radio de roce
+DevianttHearts: Corazones teledirigidos al golpear
+AbomWandCrit: Apoyo de Abominationn espectral
+SupremeFairyHeader: "{$Mods.FargowiltasSouls.Items.SupremeDeathbringerFairy.DisplayName}"
+SlimyShieldEffect: Bolas viscosas
+PlatformFallthroughEffect: Atravesar plataformas
+SlimeFallEffect: Velocidad de caída aumentada
+AgitatingLensEffect: Guadañas al embestir
+AgitatingLensInstall: Instalación Berserker
+SkeleMinionEffect: Súbdito de brazos de Esqueletrón
+NecroBrewSpin: Embestida giratoria de Esqueletrón
+BionomicHeader: "{$Mods.FargowiltasSouls.Items.BionomicCluster.DisplayName}"
+TimsConcoctionEffect: Brebaje de Tim
+MasoCarrotEffect: Zoom de zanahoria
+RainbowSlimeMinion: Súbdito de slime arcoíris
+RainbowHealEffect: Uso automático de pociones de curación
+NymphPerfumeEffect: Los ataques generan corazones
+SqueakEffect: Juguete chirriante al golpear
+WretchedPouchEffect: Fuego de las sombras miserable
+WyvernBalls: Orbes de luz voladores
+TribalCharmClickBonus: Bonificación de clic del amuleto tribal
+StabilizedGravity: Gravedad estabilizada
+DubiousHeader: "{$Mods.FargowiltasSouls.Items.DubiousCircuitry.DisplayName}"
+FusedLensInstall: Instalación de Los Gemelos
+GroundStickDR: Sobrecarga al recibir daño
+ProbeMinionEffect: Súbdito de sondas
+PureHeartHeader: "{$Mods.FargowiltasSouls.Items.PureHeart.DisplayName}"
+DarkenedHeartEaters: Devoradores diminutos
+GuttedHeartMinions: Escudo de reptadores
+GelicWingSpikes: Púas gélicas
+GelicWingJump: Salto gélico
+LumpofFleshHeader: "{$Mods.FargowiltasSouls.Items.LumpOfFlesh.DisplayName}"
+PungentEyeballCursor: Cursor de ojo acre
+PungentMinion: Súbdito de trozo de carne
+DeerclawpsDive: Zambullida de Deerclawps
+DeerclawpsEffect: Estela de embestida con púas de Deerclawps
+DreadShellEffect: Parry de caparazón pavoroso
+ChaliceHeader: "{$Mods.FargowiltasSouls.Items.ChaliceoftheMoon.DisplayName}"
+PlantMinionEffect: Súbdito de Plantera
+LihzahrdGroundPound: Caída en picada lihzahrd
+LihzahrdBoulders: Rociada de golpe al suelo
+CelestialRuneAttacks: Apoyo de runa celestial
+// CelestialRuneOnhit: Ancient Visions On Hit
+MinionsDeactivatedEffect: Efectos de súbditos desactivados por daño
+HeartHeader: "{$Mods.FargowiltasSouls.Items.HeartoftheMasochist.DisplayName}"
+PrecisionSealHurtbox: Área vulnerable reducida
+PumpkingsCapeEffect: Parry de la capa del Rey calabaza
+IceQueenGraze: Roce
+UfoMinionEffect: Súbdito de platillo
+ChalicePotionEffect: Mejoras de poción gratuitas
+MasoTrueEyeMinion: Súbditos de Verdaderos Ojos
+MutantArmorHeader: Armadura Eterna
+MasoAbom: Súbdito de Abominationn
+MasoRing: Súbdito de anillo fantasmal
+UniverseHeader: "{$Mods.FargowiltasSouls.Items.UniverseSoul.DisplayName}"
+MeleeSpeedEffect: Velocidad cuerpo a cuerpo
+SniperScopeEffect: Mira de francotirador
+UniverseSpeedEffect: Velocidad de ataque del Universo
+WorldShaperHeader: "{$Mods.FargowiltasSouls.Items.WorldShaperSoul.DisplayName}"
+MiningHunt: Mejora de cazador al minar
+MiningDanger: Mejora de sensación de peligro al minar
+MiningSpelunk: Mejora de espeleólogo al minar
+MiningShine: Mejora de brillo al minar
+BuilderEffect: Modo constructor
+ColossusHeader: "{$Mods.FargowiltasSouls.Items.ColossusSoul.DisplayName}"
+DefenseStarEffect: Estrellas al golpear
+DefenseBrainEffect: Cerebro de Confusión
+DefenseBeeEffect: Abejas al golpear
+FleshKnuckleEffect: Provocación de los nudillos de carne
+PaladinShieldEffect: Escudo del paladín
+FrozenTurtleEffect: Caparazón de tortuga congelado
+ShimmerImmunityEffect: Inmunidad al fulgor
+FlightMasteryHeader: "{$Mods.FargowiltasSouls.Items.FlightMasterySoul.DisplayName}"
+FlightMasteryInsignia: Aceleración de la insignia de vuelo
+FlightMasteryGravity: Gravedad amplificada
+JumpsDisabled: Desactivar todos los saltos
+SupersonicHeader: "{$Mods.FargowiltasSouls.Items.SupersonicSoul.DisplayName}"
+RunSpeed: Mayor velocidad de carrera base
+NoMomentum: Sin inercia
+SupersonicTabi: Embestida tabi
+SupersonicClimbing: Equipo de escalada del tigre
+SupersonicJumps: Saltos supersónicos
+SupersonicRocketBoots: Botas cohete supersónicas
+SupersonicCarpet: Alfombra supersónica
+CthulhuShield: Escudo de Cthulhu
+BlackBelt: Cinturón negro
+SupersonicPanic: Pánico al recibir daño
+TrawlerHeader: "{$Mods.FargowiltasSouls.Items.TrawlerSoul.DisplayName}"
+TrawlerSporeSac: Saco de esporas
+TrawlerJump: Salto de Trawler
+TrawlerGel: Gelatina volátil
+EternityHeader: "{$Mods.FargowiltasSouls.Items.EternitySoul.DisplayName}"
+EternityTin: Acumulación de efectos críticos de Eternidad
+PetHeader: Mascotas
+// the pets are no longer existing in game
+PetDinoConfig: Mascota dinosaurio
+PetEaterConfig: Mascota devorador
+PetFaceMonsterConfig: Mascota caramonstruo
+PetGrinchConfig: Mascota Grinch
+PetHornetConfig: Mascota de Avispón
+PetImpConfig: Mascota de Diablillo
+PetPenguinConfig: Mascota de Pingüino
+PetPandaConfig: Mascota de Panda Rojo
+PetDGConfig: Mascota de guardián de la mazmorra
+PetSnowmanConfig: Mascota muñeco de nieve
+PetShroomConfig: Mascota de Trufa
+PetWerewolfConfig: Mascota de hombre lobo
+PetBernieConfig: Mascota de Bernie
+PetBlackCatConfig: Mascota de gato negro
+PetChesterConfig: Mascota de Chester
+PetCompanionCubeConfig: Mascota de cubo de compañía
+PetCursedSaplingConfig: Mascota de retoño maldito
+PetKittenConfig: Mascota de gatito
+PetEsteeConfig: Mascota de Estee
+PetEyeSpringConfig: Mascota de brote ocular
+PetFoxConfig: Mascota de zorro fénec
+PetButterflyConfig: Mascota de mariposa
+PetGlommerConfig: Mascota de Glommer
+PetDragonConfig: Mascota de dragón
+PetHarpyConfig: Mascota de arpía
+PetLizardConfig: Mascota de lagarto
+PetMinitaurConfig: Mascota de mini minotauro
+PetParrotConfig: Mascota de loro
+PetPigmanConfig: Mascota de cerdo-hombre
+PetPlanteroConfig: Mascota de Plantero
+PetGatoConfig: Mascota de Gato
+PetPupConfig: Mascota de cachorro
+PetSeedConfig: Mascota de semillera
+PetSpiderConfig: Mascota de araña
+PetMimicConfig: Mascota de Mímico
+PetSharkConfig: Mascota de tiburón
+PetSquashConfig: Mascota de calabacita
+PetGliderConfig: Mascota de petauro del azúcar
+PetTikiConfig: Mascota de tiki
+PetTurtleConfig: Mascota de tortuga
+PetVoltConfig: Mascota de conejo voltio
+PetZephyrConfig: Mascota de pez céfiro
+PetHeartConfig: Mascota de corazón carmesí
+PetNaviConfig: Mascota de hada
+PetFlickerConfig: Mascota de Flickerwick
+PetLanternConfig: Mascota de linterna mágica
+PetOrbConfig: Mascota de Orbe Sombrío
+PetSuspEyeConfig: Mascota de Ojo de Aspecto Sospechoso
+PetWispConfig: Mascota de voluta
+PetKSConfig: Mascota de Rey Slime
+PetEoCConfig: Mascota de Ojo de Cthulhu
+PetEoWConfig: Mascota de Devoramundos
+PetBoCConfig: Mascota de Cerebro de Cthulhu
+PetDeerConfig: Mascota de Ciervíclope
+PetQBConfig: Mascota de Abeja Reina
+PetSkeleConfig: Mascota de Esqueletrón
+PetQSConfig: Mascota de Reina Slime
+PetDestroyerConfig: Mascota de Destructor
+PetTwinsConfig: Mascota de Los Gemelos
+PetSkelePrimeConfig: Mascota de Esqueletrón Mayor
+PetOgreConfig: Mascota de ogro
+PetPlanteraConfig: Mascota de Plantera
+PetPumpkingConfig: Mascota de Rey calabaza
+PetEverscreamConfig: Mascota de Gritoeterno
+PetIceQueenConfig: Mascota de Reina de Hielo
+PetDukeConfig: Mascota de Duque Fishron
+PetGolemConfig: Mascota de Gólem
+PetEoLConfig: Mascota de Emperatriz de la Luz
+PetBetsyConfig: Mascota de Betsy
+PetMartianConfig: Mascota de marciano
+PetLCConfig: Mascota de dragón fantasmal
+PetMLConfig: Mascota de Lunita

@@ -1,0 +1,99 @@
+// Plain stat boosts
+RogueDamage: "{0}% más de daño de pícaro"
+RogueCrit: "{0}% más de probabilidad de ataque crítico de pícaro"
+RogueDamageCrit: "{0}% más de daño y probabilidad de ataque crítico de pícaro"
+RogueVelocity: "{0}% más de velocidad de proyectil de pícaro"
+RogueStealth: +{0} de sigilo máximo
+CritDamageTootip: "{0}% de daño de ataque crítico"
+// Armor Set Bonus key states
+BothArmorSetBonusKeys: Pulsa {0} o doble toque {1}
+NoArmorSetBonusKey: Pulsa la tecla de Bono de Conjunto de Armadura
+ArmorSetBonusKey: Pulsa {0}
+DoubleTapDown: Doble toque {0}
+// Miscellaneous stats/info
+MinionSlotCost: Usa {0} espacios de súbdito
+MinionSlotCostSingle: Usa {0} espacio de súbdito
+AggroBoost: Los enemigos tienen más probabilidades de atacarte
+AggroReduction: Los enemigos tienen menos probabilidades de atacarte
+KnockbackImmunity: Otorga inmunidad al retroceso
+AbyssLightLevel: Reduce la intensidad de la oscuridad del Abismo
+AbyssFlashlight: Aumenta el ancho del foco de luz en el Abismo
+AbyssGlow: Aumenta el rango de visibilidad en el Abismo
+AbyssBreathLevel1: Reduce ligeramente la pérdida de oxígeno en el Abismo
+AbyssBreathLevel2: Reduce moderadamente la pérdida de oxígeno en el Abismo
+AbyssBreathLevel3: Reduce considerablemente la pérdida de oxígeno en el Abismo
+AlcoholWarning: Beber más de 3 tipos de alcohol distintos puede no terminar bien para tu hígado
+ArmorPenetration: Ignora {0} puntos de Defensa del enemigo
+SalesmanShrinePitch:
+	'''
+	'¿Sabes ese bonito tesoro que encontraste cuando definitivamente no te estaba siguiendo?'
+	'¡Resulta que había todo un montón de esas baratijas guardado convenientemente cerca del cofre! El que lo encuentra se lo queda, ¿o quizás prefieres cerrar un trato?'
+	'''
+AverageDamageInfo: Esta arma escala con el promedio de todas tus estadísticas de daño
+CanMineUelibloom: Puede minar Mineral de Uelibloom
+NotConsumable: No consumible
+SummonTagDamageFlat: "{0} de daño de invocación"
+SummonTagDamageMult: "{0}x de daño de invocación"
+SummonTagCrit: "{0}% de probabilidad de ataque crítico de invocación"
+DodgeProvided: Otorga o mejora la capacidad de esquivar ataques
+DodgeInformation:
+	'''
+	[i/Terraria:BlackBelt] Los ataques que infligen menos del 5% de tu vida máxima no serán esquivados
+	[i/Terraria:BlackBelt] Esta esquiva tiene un tiempo de reutilización máximo de 90 segundos, reducido según el daño del ataque esquivado
+	[i/Terraria:BlackBelt] Equipar varios accesorios que otorguen esta esquiva reducirá el tiempo de reutilización en un 15% cada uno
+	'''
+ReflectInformation:
+	'''
+	Los proyectiles que infligen menos del 5% de tu vida máxima no serán reflejados
+	El reflejo tiene un tiempo de reutilización de entre 20 y 90 segundos según el daño del proyectil reflejado
+	Este tiempo de reutilización se comparte con todas las demás esquivas y reflejos
+	'''
+GrappleStats:
+	'''
+	Alcance: {0} bloques
+	Velocidad de lanzamiento: {1}
+	Velocidad de retracción: {2}
+	Velocidad de arrastre: {3}
+	'''
+StatsAwful: Pésimo
+StatsPoor: Malo
+StatsAverage: Regular
+StatsGood: Bueno
+StatsGreat: Excelente
+StatsExcellent: Excepcional
+WingStats:
+	'''
+	Tiempo de vuelo: {0} segundos
+	Velocidad horizontal máxima: {1}
+	Velocidad vertical máxima: {2}
+	Aceleración horizontal: {3}
+	Aceleración vertical: {4}
+	'''
+WingStatsFull:
+	'''
+	Tiempo de vuelo: {0} segundos
+	Velocidad horizontal máxima: {1} ({2} km/h)
+	Velocidad vertical máxima: {3} ({4} km/h)
+	Aceleración horizontal: {5} ({6} km/h/s)
+	Aceleración vertical: {7}
+	- {8} km/h/s
+	- {9} km/h/s si asciende más lento que {10} km/h
+	- {11} km/h/s si asciende mientras cae
+	'''
+WingStatsHover:
+	'''
+	Velocidad de planeo máxima: {0} km/h
+	Aceleración de planeo: {1} km/h/s
+	'''
+YoyoStats:
+	'''
+	Alcance: {0} bloques
+	Velocidad: {1}
+	Duración: {2} segundos
+	'''
+YoyoStatsInfinite:
+	'''
+	Alcance: {0} bloques
+	Velocidad: {1}
+	Duración de lanzamiento infinita
+	'''

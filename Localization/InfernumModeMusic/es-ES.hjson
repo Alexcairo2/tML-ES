@@ -1,0 +1,324 @@
+Mods: {
+	InfernumModeMusic: {
+		Projectiles.SoulDrivenHeadphonesProj.DisplayName: Auriculares Impulsados por Almas
+
+		Items: {
+			SoulDrivenHeadphones: {
+				DisplayName: Auriculares Impulsados por Almas
+				Tooltip:
+					'''
+					Te permiten elegir y reproducir música personalizada de Infernum de los jefes derrotados, y alternar un tema especial de batalla contra jefes
+					Al sostenerlos, percibes vagamente una presencia mística
+					También puedes oír el sonido de instrumentos tocando con pasión
+					'''
+			}
+		}
+
+		HeadphonesText: {
+			1: ¡Ahora suena {0}!
+			2: ¡{0} sonará durante las peleas contra jefes!
+		}
+
+		BossName: {
+			// DO NOT change the - to any other symbol or the code that displays "Now playing X" won't work
+			TitleScreen: Sky After Rain - Infernum
+			KingSlime: Gelatinous Dynasty - Rey Slime
+			EyeOfCthulhu: Seer of the Night - El Ojo de Cthulhu
+			EaterOfWorlds: Maw of the Corruption - El Devoramundos
+			BrainOfCthulhu: Intellect of the Crimson - El Cerebro de Cthulhu
+			QueenBee: Royal Retaliation - La Abeja Reina
+			Skeletron: Warden of the Damned - Esqueletrón
+			WallOfFlesh: One's Ending, Another's Beginning - El Muro Carnoso
+			Minibosses: Misanthropic Encounters - Minijefes
+			QueenSlime: Crowned before One's End - Reina Slime
+			MechBosses: Inferior Fabrications - El Trío Mecánico
+			Plantera: Floral Animosity - Plantera
+			Golem: Icon of the Sun - Gólem
+			DukeFishron: Razorblade Typhoon - Duque Fishron
+			EmpressOfLight: Shining Kaleidoscope - La Emperatriz de la Luz
+			LunaticCultist: Eidolic Ancestry - El Cultista Lunático
+			BereftVassal: Duel for a Lost Kingdom - El Vasallo Despojado
+			MoonLord: The End of an Olden Era - El Señor de la Luna
+			PrimordialWyrm: Vocitus Terminus - El Gusano Primordial
+			ExoMechsOld: Inferior Fabrications (Exo Remix) - Los Exo Mecánicos
+			ExoMechs: Catastrophic Fabrications - Los Exo Mecánicos
+			ExoMechsAlt: Zenith Fabrications - Los Exo Mecánicos
+			Draedon: Their Fabricator - Draedon
+			Calamitas: Scars of Calamity - Calamitas
+			StormBeforeDawn: Storm Before Dawn - Infernum
+		}
+
+		Errors: {
+			1: ERROR: No se especificó ningún nombre de función. El primer argumento debe ser un nombre de función.
+			2: ERROR: El primer argumento debe ser un nombre de función de tipo cadena.
+		}
+
+		Configs: {
+			InfernumMusicConfig: {
+				DisplayName: Configuración del cliente
+
+				Headers: {
+					MusicOverrides: Sustituciones de música
+					ExoMechs: Exo Mecánicos
+				}
+
+				OverrideKingSlimeTheme: {
+					Label: Rey Slime
+					Tooltip: Si está activado, sonará Gelatinous Dynasty.
+				}
+
+				OverrideEyeOfCthulhuTheme: {
+					Label: Ojo de Cthulhu
+					Tooltip: Si está activado, sonará Seer of the Night.
+				}
+
+				OverrideEaterOfWorldsTheme: {
+					Label: Devorador de Mundos
+					Tooltip: Si está activado, sonará Maw of the Corruption.
+				}
+
+				OverrideBrainOfCthulhuTheme: {
+					Label: Cerebro de Cthulhu
+					Tooltip: Si está activado, sonará Intellect of the Crimson.
+				}
+
+				OverrideQueenBeeTheme: {
+					Label: Abeja Reina
+					Tooltip: Si está activado, sonará Royal Retaliation.
+				}
+
+				OverrideSkeletronTheme: {
+					Label: Esqueletrón
+					Tooltip: Si está activado, sonará Warden of the Damned.
+				}
+
+				OverrideWallOfFleshTheme: {
+					Label: Muro Carnoso
+					Tooltip: Si está activado, sonará One's Ending, Another's Beginning.
+				}
+
+				OverrideMinibossTheme: {
+					Label: Minijefes
+					Tooltip: Si está activado, sonará Misanthropic Encounters.
+				}
+
+				OverrideDreadnautilusTheme: {
+					Label: Dreadnautilus
+					Tooltip: Si está activado, sonará Misanthropic Encounters.
+				}
+
+				OverrideQueenSlimeTheme: {
+					Label: Reina Slime
+					Tooltip: Si está activado, sonará Crowned Before One's End.
+				}
+
+				OverrideTwinsTheme: {
+					Label: Los Gemelos
+					Tooltip: Si está activado, sonará Inferior Fabrications.
+				}
+
+				OverrideDestroyerTheme: {
+					Label: El Destructor
+					Tooltip: Si está activado, sonará Inferior Fabrications.
+				}
+
+				OverrideSkeletronPrimeTheme: {
+					Label: Esqueletrón Mayor
+					Tooltip: Si está activado, sonará Inferior Fabrications.
+				}
+
+				OverridePlanteraTheme: {
+					Label: Plantera
+					Tooltip: Si está activado, sonará Floral Animosity.
+				}
+
+				OverrideGolemTheme: {
+					Label: Gólem
+					Tooltip: Si está activado, sonará Icon of the Sun.
+				}
+
+				OverrideDukeFishronTheme: {
+					Label: Duque Fishron
+					Tooltip: Si está activado, sonará Razorblade Monsoon.
+				}
+
+				OverrideEmpressOfLightTheme: {
+					Label: Emperatriz de la Luz
+					Tooltip: Si está activado, sonará Shining Kaleidoscope ~ Prismatic Radiance.
+				}
+
+				OverrideLunaticCultistTheme: {
+					Label: Cultista Lunático
+					Tooltip: Si está activado, sonará Eidolic Ancestry.
+				}
+
+				OverrideMoonLordTheme: {
+					Label: Señor Lunar
+					Tooltip: Si está activado, sonará The End Of An Olden Era.
+				}
+
+				OverrideAdultEidolonWyrmTheme: {
+					Label: Gusano Primordial
+					Tooltip: Si está activado, sonará Vocitus Terminus.
+				}
+
+				PlayCatastrophicFabrications: {
+					Label: Catastrophic Fabrications
+					Tooltip: Si está activado, sonará Catastrophic Fabrications.
+				}
+
+				PlayZenithFabrications: {
+					Label: Zenith Fabrications
+					Tooltip: Si está activado, sonará Zenith Fabrications en dificultad Infernum durante la segunda mitad de la pelea.
+				}
+
+				PlayTheirFabricator: {
+					Label: Their Fabricator
+					Tooltip: Si está activado, sonará Their Fabricator al final de la pelea.
+				}
+
+				OverrideCalTheme: {
+					Label: Calamitas Suprema
+					Tooltip: Si está activado, sonará Scars of Calamity.
+				}
+
+				ToggleAllMusic: {
+					Label: Alternar todas las sustituciones de música
+					Tooltip: Activar esto habilitará todas las sustituciones de música
+				}
+			}
+		}
+
+		MusicDisplay: {
+			AdultEidolonWyrm: {
+				DisplayName: Vocitus Terminus
+				Author: de PinpinNeon
+			}
+
+			BrainOfCthulhu: {
+				DisplayName: Intellect of the Crimson
+				Author: de PinpinNeon
+			}
+
+			Calamitas: {
+				DisplayName: Scars of Calamity
+				Author: de PinpinNeon
+			}
+
+			LunaticCultist: {
+				DisplayName: Eidolic Ancestry
+				Author: de PinpinNeon
+			}
+
+			DukeFishron: {
+				DisplayName: Razorblade Monsoon
+				Author: de PinpinNeon
+			}
+
+			EaterOfWorlds: {
+				DisplayName: Maw of the Corruption
+				Author: de PinpinNeon
+			}
+
+			EmpressOfLight: {
+				DisplayName: Shining Kaleidoscope ~ Prismatic Radiance
+				Author: de PinpinNeon
+			}
+
+			EyeOfCthulhu: {
+				DisplayName: Seer of the Night
+				Author: de PinpinNeon
+			}
+
+			Golem: {
+				DisplayName: Icon of the Sun
+				Author: de PinpinNeon
+			}
+
+			KingSlime: {
+				DisplayName: Gelatinous Dynasty
+				Author: de PinpinNeon
+			}
+
+			MechBosses: {
+				DisplayName: Inferior Fabrications
+				Author: de PinpinNeon
+			}
+
+			Minibosses: {
+				DisplayName: Misanthropic Encounters
+				Author: de PinpinNeon
+			}
+
+			Dreadnautilus: {
+				DisplayName: Misanthropic Encounters (Dreadnautilus Variant)
+				Author: de PinpinNeon
+			}
+
+			MoonLord: {
+				DisplayName: The End Of An Olden Era
+				Author: de PinpinNeon
+			}
+
+			Plantera: {
+				DisplayName: Floral Animosity
+				Author: de PinpinNeon
+			}
+
+			QueenBee: {
+				DisplayName: Royal Retaliation
+				Author: de PinpinNeon
+			}
+
+			QueenSlime: {
+				DisplayName: Crowned Before One's End
+				Author: de PinpinNeon
+			}
+
+			Skeletron: {
+				DisplayName: Warden of the Damned
+				Author: de PinpinNeon
+			}
+
+			WallOfFlesh: {
+				DisplayName: One's Ending, Another's Beginning
+				Author: de PinpinNeon
+			}
+
+			Draedon: {
+				DisplayName: Their Fabricator
+				Author: de PinpinNeon
+			}
+
+			ExoMechBossesOld: {
+				DisplayName: Inferior Fabrications (Exo Remix)
+				Author: de PinpinNeon
+			}
+
+			ExoMechBosses: {
+				DisplayName: Catastrophic Fabrications
+				Author: de PinpinNeon
+			}
+
+			ZenithFabrications: {
+				DisplayName: Zenith Fabrications
+				Author: de PinpinNeon
+			}
+
+			BereftVassal: {
+				DisplayName: Duel for a Lost Kingdom
+				Author: de PinpinNeon
+			}
+
+			TitleScreen: {
+				DisplayName: Sky After Rain
+				Author: de PinpinNeon
+			}
+
+			StormBeforeDawn: {
+				DisplayName: Storm Before Dawn
+				Author: de PinpinNeon
+			}
+		}
+	}
+}

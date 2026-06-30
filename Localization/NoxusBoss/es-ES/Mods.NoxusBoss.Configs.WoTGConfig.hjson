@@ -1,0 +1,29 @@
+DisplayName: Configuración principal
+
+DisplayConfigMessage: {
+	Label: Mostrar mensaje de configuración
+	Tooltip: Activa o desactiva el texto de aviso que instruye al jugador a revisar la interfaz de configuración.
+	WarningText:
+		'''
+		¡Hola! Tu primer pensamiento al leer esto probablemente sea algo como «¿Cómo elimino este texto? ¡Es molesto!»
+		Voy al grano. Dada la intensidad de algunos efectos visuales del mod, es importante que conozcas las opciones de configuración para reducirlos.
+		La razón por la que esto se explica tan explícitamente es para asegurarse de que quienes tengan fotosensibilidad estén informados antes de continuar.
+		Puedes encontrar la configuración en: Ajustes -> Configuración de mods -> Calamity: Wrath of the Gods -> Configuración principal.
+		Para confirmar que has seguido estos pasos correctamente, este mensaje emergente puede desactivarse permanentemente en la configuración mediante la opción «Mostrar mensaje de configuración».
+		'''
+}
+
+PhotosensitivityMode: {
+	Label: Modo fotosensibilidad
+	Tooltip: Activa o desactiva los efectos que dependen de animaciones repentinas y parpadeantes. Al activarlo o desactivarlo, también afecta a las opciones de configuración relacionadas, aunque pueden anularse manualmente si se desea.
+}
+
+ScreenShatterEffects: {
+	Label: Efectos de pantalla fragmentada
+	Tooltip: Activa o desactiva los efectos de fragmentación de pantalla. Desactívalo si resultan demasiado incómodos para la vista.
+}
+
+VisualOverlayIntensity: {
+	Label: Intensidad de superposición visual
+	Tooltip: Cambia la intensidad de las superposiciones visuales como el desenfoque y la aberración cromática.
+}

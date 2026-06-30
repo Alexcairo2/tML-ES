@@ -1,0 +1,1820 @@
+// General (Player) and (Enemy) indicators for buff tags
+OnPlayer: (Jugador)
+OnEnemy: (Enemigo)
+
+// Alcohols (including Odd Mushroom)
+AlcoholPoisoning: {
+	DisplayName: Alcohol Poisoning
+	Description: Bebiste demasiado y ahora te estás muriendo
+}
+
+BaconOilBuff: {
+	DisplayName: Bacon Oil
+	Description: ¡Dios mío, te lo derramaste todo encima!
+}
+
+BloodyMaryBuff: {
+	DisplayName: Bloody Mary
+	Description: Mayor tasa de aparición de enemigos, menor efectividad de armas perforantes
+}
+
+CaribbeanRumBuff: {
+	DisplayName: Caribbean Rum
+	Description: Mayor velocidad de movimiento, menor gravedad
+}
+
+CinnamonRollBuff: {
+	DisplayName: Cinnamon Roll
+	Description: Velocidad de impulso muy aumentada, distancia de impulso muy reducida
+}
+
+PurpleHazeBuff: {
+	DisplayName: Purple Haze
+	Description: Mayor daño tras un golpe furtivo, menor daño de golpe furtivo
+}
+
+EverclearBuff: {
+	DisplayName: Everclear
+	Description: Mayor daño, menor regeneración de vida y defensa
+}
+
+EvergreenGinBuff: {
+	DisplayName: Evergreen Gin
+	Description: El daño de efectos negativos de Enfermedad y Agua aumenta, el daño de efectos negativos Eléctricos y de Calor se reduce
+}
+
+FireballBuff: {
+	DisplayName: Fireball
+	Description: El daño del efecto negativo de Calor aumenta, el daño del efecto negativo de Enfermedad se reduce
+}
+
+GrapeBeerBuff: {
+	DisplayName: Grape Beer
+	Description: Los proyectiles a distancia son teledirigidos, menor daño a enemigos lejanos
+}
+
+ManhattanBuff: {
+	DisplayName: Manhattan
+	Description: El daño del efecto negativo de Frío aumenta, el daño del efecto negativo de Agua se reduce
+}
+
+MargaritaBuff: {
+	DisplayName: Margarita
+	Description: Duración reducida de la mayoría de efectos negativos dañinos, menor daño infligido a enemigos por efectos negativos
+}
+
+MoonshineBuff: {
+	DisplayName: Moonshine
+	Description: Mayor salud máxima, mayor daño de defensa recibido
+}
+
+MoscowMuleBuff: {
+	DisplayName: Moscow Mule
+	Description: Mayor retroceso, menor efectividad de armas perforantes
+}
+
+OldFashionedBuff: {
+	DisplayName: Old Fashioned
+	Description: El daño sin arma aumenta, el daño con arma se reduce
+}
+
+RedWineBuff: {
+	DisplayName: Red Wine
+	Description: Mayor velocidad vertical, menor tiempo de vuelo
+	ItemTooltipPlayer: Hace que la Baguette cure 200 PV, pero reduce la regeneración en 2 PV/s durante 15 segundos
+}
+
+RumBuff: {
+	DisplayName: Rum
+	Description: Mayor daño de invocación sin súbditos, menor daño de súbditos
+}
+
+ScrewdriverBuff: {
+	DisplayName: Screwdriver
+	Description: Mejor capacidad de construcción, menor daño
+}
+
+StarBeamRyeBuff: {
+	DisplayName: Star Beam Rye
+	Description: Mayor regeneración de maná, menor daño mágico
+}
+
+TequilaBuff: {
+	DisplayName: Tequila
+	Description: El daño del efecto negativo Eléctrico aumenta, el daño del efecto negativo de Frío se reduce
+}
+
+TequilaSunriseBuff: {
+	DisplayName: Tequila Sunrise
+	Description: Mayor regeneración de vida, mayor daño recibido de efectos negativos
+}
+
+Trippy: {
+	DisplayName: Trippy
+	Description: Ves el mundo tal como realmente es...
+}
+
+VodkaBuff: {
+	DisplayName: Vodka
+	Description: El daño del efecto negativo Sin tipo aumenta, el daño de otros efectos negativos se reduce
+}
+
+WhiskeyBuff: {
+	DisplayName: Whiskey
+	Description: Mayor daño al cambiar de arma
+}
+
+WhiteWineBuff: {
+	DisplayName: White Wine
+	Description: Regeneras el tiempo de vuelo cuando estás cerca de enemigos, menor tiempo de vuelo
+}
+
+// Cooldowns
+Withered: {
+	DisplayName: Marchito
+	Description: Sostener armas marchitadas te hace sufrir, pero las vuelve más poderosas
+}
+
+// Damage over time
+AstralInfectionDebuff: {
+	DisplayName: Infección Astral
+	Description: Tu carne se está derritiendo
+	ItemTooltipPlayer: Enfermedad - 12 DPS
+	ItemTooltipEnemy: Enfermedad - 37,5 DPS
+}
+
+AuricRebuke: {
+	DisplayName: Represalia Áurica
+	Description: Tus células chocan violentamente entre sí
+	ItemTooltipPlayer: Eléctrico - 8 DPS. Inflige 5x de daño a jugadores en movimiento
+	ItemTooltipEnemy: Eléctrico - 100 DPS. Inflige 4x de daño a objetivos en movimiento
+}
+
+BanishingFire: {
+	DisplayName: Fuego Desterrador
+	Description: No serás perdonado por tus pecados
+	ItemTooltipEnemy: Calor - Inflige DPS equivalente al 0,1% del máximo de PV o 2000, lo que sea mayor
+}
+
+BrimstoneFlames: {
+	DisplayName: Llamas de Azufre
+	Description: Incinerando cuerpo y mente
+	ItemTooltipPlayer: Calor - 15 DPS
+	ItemTooltipEnemy: Calor - 30 DPS
+}
+
+BurningBlood: {
+	DisplayName: Sangre Ardiente
+	Description: Tu sangre está en llamas
+	ItemTooltipPlayer: Enfermedad - 4 DPS
+	ItemTooltipEnemy: Enfermedad - 20 DPS
+}
+
+BrainRot: {
+	DisplayName: Podredumbre Cerebral
+	Description: Tus neuronas estallan como palomitas de maíz
+	ItemTooltipPlayer: Enfermedad - 4 DPS
+	ItemTooltipEnemy: Enfermedad - 20 DPS
+}
+
+DemonicFlames: {
+	DisplayName: Llamas Demoníacas
+	Description: Las llamas abrasadoras queman tu alma
+	ItemTooltipEnemy: Calor - DPS depende del objeto que lo inflige
+}
+
+ElementalMix: {
+	DisplayName: Mezcla Elemental
+	Description: Una bella sinfonía elemental te está desollando vivo
+	ItemTooltipEnemy: Sin tipo - 200 DPS
+}
+
+CrushDepth: {
+	DisplayName: Aplastamiento Profundo
+	Description: Aplastado por la presión acuática
+	ItemTooltipPlayer:
+		'''
+		Agua - 9 DPS
+		Aumenta la tasa de pérdida de aliento en el Abismo
+		'''
+	ItemTooltipEnemy: Agua - 50 DPS
+}
+
+Dragonfire: {
+	DisplayName: Fuego de Dragón
+	Description: Envuelto en llamas rugientes
+	ItemTooltipPlayer: Calor - 25 DPS
+	ItemTooltipEnemy: Calor - 480 DPS
+}
+
+GodSlayerInferno: {
+	DisplayName: Infierno Matagdioses
+	Description: Tu carne se está quemando
+	ItemTooltipPlayer: Calor - 20 DPS
+	ItemTooltipEnemy: Calor - 250 DPS
+}
+
+HadopelagicPressure: {
+	DisplayName: Presión Hadopelágica
+	Description: Hundiéndote rápidamente en una tumba acuática
+	ItemTooltipPlayer:
+		'''
+		Agua - 20 DPS
+		Aumenta la tasa de pérdida de aliento en el Abismo
+		'''
+	ItemTooltipEnemy: Agua - 175 DPS
+}
+
+HeavyBleeding: {
+	DisplayName: Hemorragia Grave
+	Description: Eso va a necesitar puntos
+	ItemTooltipPlayer: Sin tipo - 8 DPS
+	ItemTooltipEnemy: Sin tipo - 40 DPS
+}
+
+HolyFlames: {
+	DisplayName: Llamas Sagradas
+	Description: Disolviéndose por la luz sagrada
+	ItemTooltipPlayer: Calor - 20 DPS
+	ItemTooltipEnemy: Calor - 150 DPS
+}
+
+HolyInferno: {
+	DisplayName: Infierno Sagrado
+	Description: ¡Te has alejado demasiado de la Diosa Profanada!
+}
+
+Laceration: {
+	DisplayName: Laceración
+	Description: Eres un desastre sangriento
+	ItemTooltipPlayer: Sin tipo - 18 DPS
+	ItemTooltipEnemy: Sin tipo - 200 DPS
+}
+
+ManaBurn: {
+	DisplayName: Quemadura de Maná
+	Description: El exceso de maná abrasa tu cuerpo y tu mente
+	ItemTooltipEnemy:
+		'''
+		Sin tipo
+		Por cada 100 de maná negativo, reduce tu regeneración de vida en 4 PV/s, pero quema a los enemigos por el 5% del daño infligido
+		'''
+}
+
+MiracleBlight: {
+	DisplayName: Plaga Milagrosa
+	Description: Una resonancia exótica destroza tu forma corporal
+	ItemTooltipPlayer: Sin tipo - 30 DPS
+	ItemTooltipEnemy: Sin tipo - 1500 DPS
+}
+
+Nightwither: {
+	DisplayName: Marchitez Nocturna
+	Description: Incinerado por rayos lunares
+	ItemTooltipPlayer: Frío - 20 DPS
+	ItemTooltipEnemy: Frío - 100 DPS
+}
+
+Plague: {
+	DisplayName: Plaga
+	Description: Pudriéndose por dentro
+	ItemTooltipPlayer: Enfermedad - 15 DPS
+	ItemTooltipEnemy: Enfermedad - 50 DPS
+}
+
+RiptideDebuff: {
+	DisplayName: Resaca
+	Description: Azotado por aguas poderosas
+	ItemTooltipPlayer: Agua - 3 DPS
+	ItemTooltipEnemy: Agua - 15 DPS
+}
+
+SagePoison: {
+	DisplayName: Veneno del Sabio
+	Description: Envenenado
+	ItemTooltipEnemy:
+		'''
+		Enfermedad - 25 DPS por Brote Viral / 50 DPS por Vanguardia Vírida
+		Ignora el 75% de las debilidades y resistencias de Enfermedad del enemigo
+		'''
+}
+
+SearingLava: {
+	DisplayName: Lava Abrasadora
+	Description: La lava de azufre abrasa tu carne
+	ItemTooltipPlayer: Calor - 15 DPS
+	ItemTooltipEnemy:
+		'''
+		Calor - 20 DPS
+		Ignora las debilidades y resistencias de Calor del enemigo
+		Obtiene doble efecto de los amplificadores de efecto negativo de Calor
+		'''
+}
+
+ShellfishClaps: {
+	DisplayName: Palmadas de Marisco
+	Description: Fiesta de almejas
+	ItemTooltipEnemy: Sin tipo - 75 DPS por cada súbdito Marisco
+}
+
+Shred: {
+	DisplayName: Desgarramiento
+	Description: Alguien fabricó diez Dagas Tri-Punta...
+	ItemTooltipEnemy: ""
+}
+
+SnapClamDebuff: {
+	DisplayName: Almejeado
+	Description: Abofeteado por Almejas Chasqueadoras
+	ItemTooltipEnemy: Sin tipo - 7,5 DPS por cada almeja enganchada
+}
+
+StaticDischarge: {
+	DisplayName: Descarga Estática
+	Description: Electrocutado por electricidad estática
+	ItemTooltipPlayer: Eléctrico - 1,5 DPS. 4x de daño a jugadores en movimiento
+	ItemTooltipEnemy: Eléctrico - 2,5 DPS. 4x de daño a objetivos en movimiento
+}
+
+SulphuricPoisoning: {
+	DisplayName: Envenenamiento Sulfúrico
+	Description: El agua ácida quema tu carne
+	ItemTooltipPlayer: Enfermedad - 3 DPS
+	ItemTooltipEnemy: Enfermedad - 175 DPS
+}
+
+TrueVulnerabilityHex: {
+	DisplayName: Maleficio de Vulnerabilidad Verdadero
+	Description: El fin ha llegado
+	ItemTooltipPlayer:
+		'''
+		Calor - 25 DPS
+		Aumenta el daño recibido de todas las fuentes
+		'''
+	ItemTooltipEnemy:
+		'''
+		Calor - 1332 DPS
+		Aumenta el daño recibido de todas las fuentes
+		Ralentiza a los enemigos
+		'''
+}
+
+Vaporfied: {
+	DisplayName: Vaporizado
+	Description: Vapor
+	ItemTooltipEnemy:
+		'''
+		Sin tipo - 15 DPS
+		Ralentiza a los enemigos
+		'''
+}
+
+VermillionFlux: {
+	DisplayName: Flujo Bermellón
+	Description: Agudos arcos escarlatas te atraviesan
+	ItemTooltipPlayer: Eléctrico - 5 DPS. 5x de daño a jugadores en movimiento
+	ItemTooltipEnemy: Eléctrico - 37,5 DPS. 4x de daño a objetivos en movimiento
+}
+
+Voidfrost: {
+	DisplayName: Escarcha del Vacío
+	Description: El vacío del espacio devora todo calor y vida
+	ItemTooltipPlayer: Frío - 20 DPS
+	ItemTooltipEnemy: Frío - 250 DPS
+}
+
+VulnerabilityHex: {
+	DisplayName: Maleficio de Vulnerabilidad
+	Description: Tu fortaleza mental se desvanece
+	ItemTooltipPlayer:
+		'''
+		Calor - 15 DPS
+		Reduce la defensa y la reducción de daño
+		'''
+	ItemTooltipEnemy:
+		'''
+		Calor - 1332 DPS
+		Ralentiza a los enemigos
+		'''
+}
+
+WeakBrimstoneFlames: {
+	DisplayName: Llamas de Azufre Débiles
+	Description: Usar el poder de la Bruja Suprema te hace sufrir, pero fortalece tus armas
+}
+
+WindChilled: {
+	DisplayName: Enfriado por el Viento
+	Description: Deberías haberte puesto un abrigo
+	ItemTooltipPlayer:
+		'''
+		Frío - 2 DPS
+		Velocidad de movimiento reducida
+		'''
+	ItemTooltipEnemy:
+		'''
+		Frío - 6 DPS
+		1,5x de daño si el enemigo tiene un efecto negativo de Agua
+		Potencia el daño del efecto negativo de Agua
+		'''
+}
+
+// Mounts
+
+AndromedaBuff: {
+	DisplayName: Andromeda
+	Description: Estás controlando un fragmento de la historia
+}
+
+AndromedaSmallBuff: {
+	DisplayName: Andromeda
+	Description: Estás controlando un pequeño fragmento de la historia
+}
+
+BrimroseMount: {
+	DisplayName: Brimrose Mount
+	Description: El asiento está calentito. Eso es todo
+}
+
+BumbledogeMount: {
+	DisplayName: Bumbledoge
+	Description: Espera un momento. Esto no está bien...
+}
+
+DraedonGamerChairBuff: {
+	DisplayName: Exosilla
+	Description: Montando una silla gamer que desafía la física
+}
+
+ExoTankBuff: {
+	DisplayName: Rodador de Arcoíris
+	Description: Tus enemigos caerán dentro de tus cálculos
+}
+
+GazeOfCrysthamyrBuff: {
+	DisplayName: Mirada de Crysthamyr
+	Description: Estás montando un dragón de sombras
+}
+
+MarniteLiftBuff: {
+	DisplayName: Elevador de Marnite
+	Description: ¿Pero tú...?
+}
+
+OnyxExcavatorBuff: {
+	DisplayName: Excavador de Ónice
+	Description: Perforar
+}
+
+RimehoundBuff: {
+	DisplayName: Rimehound
+	Description: Estás montando un perro enojado
+}
+
+SquishyBeanBuff: {
+	DisplayName: Squishy Bean
+	Description: HOMBRE FRIJOL. FRIJOL HAZ E L  F R I J O L  ESTÁ AQUÍ
+}
+
+TheCartofGodsBuff: {
+	DisplayName: El Carrito de los Dioses
+	Description: Montando un terror cósmico
+}
+
+// Pets
+AkatoBuff: {
+	DisplayName: Akato
+	Description: Parece que tendrás que cuidarlo ahora
+}
+
+ArcherofLunamoon: {
+	DisplayName: Arquero de Lunamoon
+	Description: Tienes un observador personal
+}
+
+AstrophageBuff: {
+	DisplayName: Astrophage
+	Description: Pequeño bicho astral
+}
+
+BabyGhostBellBuff: {
+	DisplayName: Bebé Campana Fantasma
+	Description: Ten cuidado de no reventar la burbuja
+}
+
+BearBuff: {
+	DisplayName: Oso
+	Description: Un ángel guardián te sigue
+}
+
+BeldumBuff: {
+	DisplayName: Bola de Hierro
+	Description: ¡Muy brillante!
+}
+
+BloodBound: {
+	DisplayName: Ligado por Sangre
+	Description: Debes estar desesperado por compañía
+}
+
+BrimlingBuff: {
+	DisplayName: Brimling
+	Description: Protégela o sufre en agonía
+}
+
+ChibiiDoGBuff: {
+	DisplayName: Chibii Devourer
+	Description: ¿Qué? ¿Esperabas a otra persona?
+}
+
+ClassicSCalPetBuff: {
+	DisplayName: Calamitas Suprema Clásica
+	Description: Sus poderes supremos nunca serán olvidados
+}
+
+DannyDevito: {
+	DisplayName: Danny Devito
+	Description: El hombre de la basura te sigue
+}
+
+Dreamfog: {
+	DisplayName: Niebla Onírica
+	Description: Xi cree en Yuu
+}
+
+EidolonSnailBuff: {
+	DisplayName: Caracol Eidolón
+	Description: Qué caracol tan ridículo
+}
+
+ElectricTroublemaker: {
+	DisplayName: Alborotador Eléctrico
+	Description: El rayo nunca cae dos veces en el mismo lugar
+}
+
+FlakHermitBuff: {
+	DisplayName: Flak Hermit
+	Description: Pequeño bicho ácido
+}
+
+FoxPetBuff: {
+	DisplayName: Mascota Zorro
+	Description: ¿Mascota zorro? MASCOTA ZORRO
+}
+
+FrostyBatBuff: {
+	DisplayName: Amigo Murciélago Helado
+	Description: Un murciélago helado revolotea alrededor
+}
+
+FurtasticDuoBuff: {
+	DisplayName: Dúo Furtástico
+	Description: ¡Acaban de hacerlo! ¡El Dúo Furtástico te acompañará!
+}
+
+GoldieBuff: {
+	DisplayName: Goldie
+	Description: Todo lo que brilla es oro
+}
+
+Kendra: {
+	DisplayName: Kendra
+	Description: Un leal amigo te acompaña
+}
+
+LadBuff: {
+	DisplayName: El Padre
+	Description: Un padre de muchos flota a tu alrededor
+}
+
+LeviBuff: {
+	DisplayName: Levi
+	Description: Pequeño y adorable
+}
+
+LittleLightBuff: {
+	DisplayName: Pequeña Luz
+	Description: Entrañable
+}
+
+MiniMindBuff: {
+	DisplayName: Mente Mini
+	Description: Lo sabe todo
+}
+
+OceanSpiritBuff: {
+	DisplayName: Espíritu Oceánico
+	Description: Pequeño y adorable
+}
+
+PineappleBuff: {
+	DisplayName: Piña
+	Description: Huele a pizza...
+}
+
+PlaguebringerBabBuff: {
+	DisplayName: Bebé Portadora de la Plaga
+	Description: La bebé portadora de la plaga te ve como a su reina
+}
+
+RadiatorBuff: {
+	DisplayName: Radiator
+	Description: Radiactivo pero adorable
+}
+
+SparksBuff: {
+	DisplayName: Chispas
+	Description: Come mariposas
+}
+
+StarSwallowerPetBuff: {
+	DisplayName: Devoraestrellas
+	Description: Mmmm sí
+}
+
+ThirdSageBuff: {
+	DisplayName: Tercer Sabio
+	Description: ¿Eh? No puede ser un oni
+}
+
+ToastyBatBuff: {
+	DisplayName: Amigo Murciélago Tostado
+	Description: Un murciélago ardiente aletea en tu hombro
+}
+
+YharonSonBuff: {
+	DisplayName: Hijo de Yharon
+	Description: Más te vale no comerte su cena
+}
+
+// Placeables
+ChaosCandleBuff: {
+	DisplayName: Chaos Candle
+	Description: ¡Las tasas de aparición alrededor de la vela aumentan!
+}
+
+BlueCandleBuff: {
+	DisplayName: Agilidad
+	Description: La llama flotante parece elevar tu espíritu
+}
+
+PinkCandleBuff: {
+	DisplayName: Vigor
+	Description: La brillante luz te llena de esperanza
+}
+
+PurpleCandleBuff: {
+	DisplayName: Resiliencia
+	Description: Ni la lluvia ni el viento pueden apagar tu llama imperecedera
+}
+
+YellowCandleBuff: {
+	DisplayName: Rencor
+	Description: El odioso resplandor parpadeante alimenta tu ira
+}
+
+CorruptionEffigyBuff: {
+	DisplayName: Efigie de la Corrupción
+	Description: La Corrupción te fortalece
+}
+
+CrimsonEffigyBuff: {
+	DisplayName: Efigie del Carmesí
+	Description: El Carmesí te fortalece
+}
+
+EffigyOfDecayBuff: {
+	DisplayName: Efigie de la Decadencia
+	Description: Las aguas sulfúricas te fortalecen
+}
+
+TranquilityCandleBuff: {
+	DisplayName: Tranquility Candle
+	Description: ¡Las tasas de aparición alrededor de la vela se reducen!
+}
+
+// Potions
+AnechoicCoatingBuff: {
+	DisplayName: Recubrimiento Anecoico
+	Description: El rango de detección de las criaturas abisales se reduce
+}
+
+AstralInjectionBuff: {
+	DisplayName: Inyección Astral
+	Description: Recuperación de maná extrema
+}
+
+BaguetteBuff: {
+	DisplayName: Baguette
+	Description: La regeneración de vida se reduce en 2 PV/s
+}
+
+BloodfinBoost: {
+	DisplayName: Impulso de Aleta Sangrienta
+	Description: No dejes que la sangre se te suba a la cabeza
+}
+
+BoundingBuff: {
+	DisplayName: Salto Potenciado
+	Description: Mayor velocidad y altura de salto
+}
+
+CalciumBuff: {
+	DisplayName: Calcio
+	Description: Recibes un {0}% menos de retroceso
+}
+
+CeaselessHunger: {
+	DisplayName: Hambre Incesante
+	Description: Estás absorbiendo todos los objetos
+}
+
+GravityNormalizerBuff: {
+	DisplayName: Normalizador de Gravedad
+	Description: La gravedad es normal en el espacio, inmunidad a {$BuffName.VortexDebuff}
+}
+
+Omniscience: {
+	DisplayName: Omnisciencia
+	Description: Puedes verlo todo
+}
+
+PhotosynthesisBuff: {
+	DisplayName: Fotosíntesis
+	Description: Los corazones curan {0} PV adicionales
+}
+
+ShadowBuff: {
+	DisplayName: Sombra
+	Description:
+		'''
+		Eres una sombra
+		{0}% más de generación de sigilo
+		'''
+}
+
+Soaring: {
+	DisplayName: Vuelo Elevado
+	Description: "{0}% más de tiempo y velocidad de vuelo con alas"
+}
+
+SulphurskinBuff: {
+	DisplayName: Piel Sulfúrica
+	Description: Las aguas sulfúricas tienen menos efecto sobre ti
+}
+
+SwinesWrathBuff: {
+	DisplayName: Ira del Cerdo
+	Description: La esencia divina rechaza tu cuerpo
+}
+
+WeaponImbueBrimstone: {
+	DisplayName: Imbuir Arma: Azufre
+	Description: Los ataques cuerpo a cuerpo, látigo y pícaro incendian a los enemigos con llamas de azufre
+}
+
+WeaponImbueCrumbling: {
+	DisplayName: Imbuir Arma: Desmoronamiento
+	Description: Los ataques cuerpo a cuerpo, látigo y pícaro reducen la reducción de daño del enemigo
+}
+
+WeaponImbueHolyFlames: {
+	DisplayName: Imbuir Arma: Llamas Sagradas
+	Description: Los ataques cuerpo a cuerpo, látigo y pícaro disuelven a los enemigos con llamas sagradas
+}
+
+Zen: {
+	DisplayName: Zen
+	Description: Las tasas de aparición se reducen enormemente
+}
+
+Zerg: {
+	DisplayName: Zerg
+	Description: Las tasas de aparición aumentan enormemente
+}
+
+// Stat buffs
+AbsorberRegen: {
+	DisplayName: Regeneraga
+	Description:
+		'''
+		Estás bendecido por la culminación de los poderes de la naturaleza
+		La regeneración de vida aumenta en {0} PV/s, el daño en {1}% y la reducción de daño en {2}%
+		'''
+	ItemTooltipPlayer: Aumenta la regeneración de vida, el daño y la reducción de daño
+}
+
+AbyssalDivingSuitBuff: {
+	DisplayName: Traje de Buceo Abisal
+	Description: Eres de metal
+}
+
+AbyssalMadness: {
+	DisplayName: Locura Abisal
+	Description: Mayor daño, probabilidad de ataque crítico, y agresividad y alcance de los tentáculos
+}
+
+AdrenalineMode: {
+	DisplayName: Modo Adrenalina
+	Description: El daño total se multiplica por {0}x
+}
+
+AeolianEarthBuff: {
+	DisplayName: Tierra Eólica
+	Description:
+		'''
+		Eres fortalecido por poderes primordiales
+		La reducción de daño aumenta en {0}%, el daño en {1}% y la regeneración de maná enormemente
+		'''
+	ItemTooltipPlayer: Aumenta tu reducción de daño en un 8%, el daño en un 15% y la regeneración de maná enormemente
+}
+
+Afflicted: {
+	DisplayName: Afligido
+	Description: Empoderado por espíritus de otro mundo
+}
+
+AmidiasBlessing: {
+	DisplayName: Bendición de Amidias
+	Description:
+		'''
+		Estás bendecido por Amidias
+		¡Te permite respirar bajo el agua, incluso en el Abismo!
+		Solo no recibas golpes...
+		'''
+}
+
+AquaticHeartBuff: {
+	DisplayName: Elemental del Agua
+	Description: Ahora eres un elemental del agua
+}
+
+AquaticHeartWaterSpeed: {
+	DisplayName: Bendición del Océano
+	Description: "{0}% más de velocidad máxima y aceleración"
+}
+
+AvertorBonus: {
+	DisplayName: Bono del Avertor
+	Description: Mayor daño y regeneración de vida
+}
+
+BloodflareBloodFrenzy: {
+	DisplayName: Frenesí Sanguíneo
+	Description: El daño por contacto se reduce y las estadísticas cuerpo a cuerpo aumentan enormemente
+}
+
+BossEffects: {
+	DisplayName: Efectos de Jefe
+	Description:
+		'''
+		El jefe cercano:
+		Aumenta el coste de curación de la Enfermera en un 400%
+		Desactiva las hitboxes del Maniquí y del Super Maniquí
+		'''
+	ZenDescription: Reduce enormemente las tasas de aparición de enemigos
+}
+
+BrimflameFrenzyBuff: {
+	DisplayName: Frenesí Brimflame
+	Description: La magia oscura potencia tus ataques a costa de tu vida
+}
+
+ChiBuff: {
+	DisplayName: Chi
+	Description: Eres más resistente
+}
+
+ChiRegenBuff: {
+	DisplayName: Chi
+	Description: La regeneración de vida aumenta
+}
+
+CoralSymbiosis: {
+	DisplayName: Simbiosis Coralina
+	Description: El Chorro de Coral se carga más rápido e inflige {0} de daño adicional
+	ItemTooltipPlayer: Aumenta la velocidad de carga y el daño del Chorro de Coral
+}
+
+CosmicFreeze: {
+	DisplayName: Congelación Cósmica
+	Description: Te sientes tan frío como la vasta extensión del espacio exterior
+	ItemTooltipPlayer: Aumenta la regeneración, especialmente al estar quieto, y congela a los enemigos cercanos
+}
+
+DivineBless: {
+	DisplayName: Bendición Divina
+	Description: Mayor regeneración de vida y los súbditos infligen Fuego Desterrador
+}
+
+EmpyreanWrath: {
+	DisplayName: Ira Empírea
+	Description: Ira del cosmos
+	ItemTooltipPlayer: Aumenta el daño y la probabilidad de ataque crítico
+}
+
+Encased: {
+	DisplayName: Encerrado
+	Description: La defensa aumenta en {0} y la reducción de daño en {1}%, pero...
+}
+
+GraxBoost: {
+	DisplayName: Impulso Grax
+	Description: Tus defensas y músculos son fuertes
+}
+
+GreenJellyRegen: {
+	DisplayName: Regeneración de Baba Verde
+	Description: La baba regenerativa te fortalece, la regeneración de vida aumenta en {0} PV/s
+}
+
+HallowedRuneDefense: {
+	DisplayName: Defensa Sagrada
+	Description: La defensa aumenta en {0}
+}
+
+HallowedRunePower: {
+	DisplayName: Poder Sagrado
+	Description: "{0}% más de daño de invocación"
+}
+
+HallowedRuneRegeneration: {
+	DisplayName: Regeneración Sagrada
+	Description: Regenerando vida
+}
+
+Haste: {
+	DisplayName: Celeridad
+	Description: Mayor velocidad de movimiento y aceleración
+}
+
+IceShieldBuff: {
+	DisplayName: Escudo de Hielo
+	Description: Absorbe el {0}% del daño del próximo golpe que recibas y luego se rompe
+}
+
+Mushy: {
+	DisplayName: Esponjoso
+	Description: La defensa aumenta en {0} y la regeneración de vida en {1} PV/s
+	ItemTooltipPlayer: Aumenta la defensa y la regeneración de vida
+}
+
+PhantomicEmpowerment: {
+	DisplayName: Empoderamiento Fantómico
+	Description: "{0}% más de daño de invocación"
+}
+
+PhantomicRegen: {
+	DisplayName: Regeneración Fantómica
+	Description: Regenerando vida
+}
+
+PhantomicShield: {
+	DisplayName: Escudo Fantómico
+	Description:
+		'''
+		La defensa aumenta en {0}
+		Un baluarte efímero te protege
+		'''
+}
+
+PinkJellyRegen: {
+	DisplayName: Regeneración de Baba Rosa
+	Description: El poder de la baba te refresca, la regeneración de vida aumenta en {0} PV/s
+}
+
+ProfanedCrystalBuff: {
+	DisplayName: Devoción
+	Description: ¡Ahora eres un emisario de la diosa profanada!
+	Offense: "{0} potencia tus capacidades ofensivas"
+	Lava: El calor de la lava
+	Day: La luz del día
+	Defense: "{0} tus llamas, potenciando tus capacidades defensivas"
+	Water: El agua apaga
+	Honey: La miel enfría
+	Night: La oscuridad de la noche enfría
+	Enrage: En ausencia del calor del día, tus llamas arden con más fuerza
+	Empowered:
+		'''
+		Al renunciar a cualquier apoyo de súbdito adicional, has liberado todo tu potencial
+		[c/F05A5A:Eres el último as, en la mano perdida de esta campaña.]
+		'''
+	LockedSlots: Tu alma profanada está limitada por tu insuficiente poder de invocación
+	LockedExos: El alma dentro de este cristal ha sido profanada por poderosas ondas de energía provenientes de maquinaciones peligrosas
+	LockedSCal: El alma profanada en su interior ha sido corrompida por la poderosa magia de una bruja suprema
+}
+
+ProfanedCrystalWhipDebuff: {
+	DisplayName: Debilitamiento del Látigo de Cristal Profanado
+	Description: ¡Tu carne ha sido desgarrada por un látigo cristalino profanado!
+}
+
+ProfanedCrystalWhipBuff: {
+	DisplayName: Empoderamiento del Látigo de Cristal Profanado
+	Description: ¡Los guardianes han sido fortalecidos por el látigo de cristal profanado!
+	Empowered: Su pleno potencial ha sido liberado, y nadie está a salvo de su ira
+}
+
+RageMode: {
+	DisplayName: Modo Rabia
+	Description: El daño total se multiplica por {0}x
+}
+
+ReaverRage: {
+	DisplayName: Rabia del Saqueador
+	Description:
+		'''
+		Ira de la tierra
+		La defensa aumenta en {0} y el daño en {1}%
+		'''
+	ItemTooltipPlayer: Aumenta tu defensa en 10 y el daño en un 10%
+}
+
+SandsWindBuff: {
+	DisplayName: Viento de Arena
+	Description:
+		'''
+		Eres fortalecido por los poderes de la arena
+		La defensa aumenta en {0}, el daño en {1}% y la regeneración de maná considerablemente
+		'''
+	ItemTooltipPlayer: Aumenta tu defensa en 4, el daño en un 12% y la regeneración de maná considerablemente
+}
+
+SilvaRevival: {
+	DisplayName: Inmunidad Silva
+	Description: La bendición de Silva te vuelve invulnerable e inmune a la mayoría de efectos negativos
+}
+
+SpiritDefense: {
+	DisplayName: Defensa del Espíritu
+	Description: La defensa aumenta en {0}
+}
+
+SpiritPower: {
+	DisplayName: Poder del Espíritu
+	Description: "{0}% más de daño de invocación"
+}
+
+SpiritRegen: {
+	DisplayName: Regeneración del Espíritu
+	Description: Regenerando vida
+}
+
+TarragonCloak: {
+	DisplayName: Capa de Estragón
+	Description: "{0}% menos de daño por contacto"
+}
+
+TarragonImmunity: {
+	DisplayName: Inmunidad de Estragón
+	Description: Eres inmune
+}
+
+TarraLifeRegen: {
+	DisplayName: Vida Estragón
+	Description: Curación rápida
+	ItemTooltipPlayer: ""
+}
+
+// Stat debuffs
+AbsorberAffliction: {
+	DisplayName: Aflicción del Absorbedor
+	Description: ¡Maldita naturaleza, qué miedo das!
+	ItemTooltipEnemy: Enfermedad - 200 DPS
+}
+
+AndromedaCripple: {
+	DisplayName: Parálisis de Andrómeda
+	Description: Eres lento
+}
+
+ArmorCrunch: {
+	DisplayName: Aplastamiento de Armadura
+	Description: Tu armadura está destrozada
+	ItemTooltipPlayer: Reduce la defensa y la reducción de daño
+	ItemTooltipEnemy: La reducción de daño es un 15% menos efectiva
+}
+
+Bane: {
+	DisplayName: Perdición
+	Description: Una antigua maldición te envuelve
+	ItemTooltipEnemy:
+		'''
+		Sin tipo - 20 DPS
+		No escala con los multiplicadores de efectos negativos
+		Escala en función de tu probabilidad de ataque crítico
+		'''
+}
+
+Crumbling: {
+	DisplayName: Desmoronamiento
+	Description: Tu armadura está dañada
+	ItemTooltipEnemy: La reducción de daño es un 8% menos efectiva
+}
+
+Clamity: {
+	DisplayName: Clamity
+	Description: ¡Las almejas están enojadas!
+}
+
+DoGExtremeGravity: {
+	DisplayName: Gravedad Extrema
+	Description:
+		'''
+		{0}% menos de tiempo de vuelo con alas
+		El vuelo infinito está desactivado
+		'''
+}
+
+Enraged: {
+	DisplayName: Enfurecido
+	Description: El daño total se multiplica por 1,5x, pero recibes 1,25x de daño
+}
+
+Eutrophication: {
+	DisplayName: Eutrofización
+	Description: Los nutrientes excesivos restringen tu movimiento
+	ItemTooltipEnemy: Ralentiza a los enemigos
+}
+
+ExoFreeze: {
+	DisplayName: Congelación Exo
+	Description: No puedes moverte
+}
+
+FishAlert: {
+	DisplayName: Alerta de Peces
+	Description: ¡Las criaturas abisales te han visto!
+}
+
+FrozenLungs: {
+	DisplayName: Pulmones Congelados
+	Description: Las aguas heladas restringen tu respiración
+}
+
+GalvanicCorrosion: {
+	DisplayName: Corrosión Galvánica
+	Description: Tus extremidades han comenzado a corroerse
+	ItemTooltipEnemy: Ralentiza a los enemigos
+}
+
+IcarusFolly: {
+	DisplayName: Locura de Ícaro
+	Description:
+		'''
+		{0}% menos de tiempo de vuelo con alas
+		El vuelo infinito está desactivado
+		'''
+}
+
+Irradiated: {
+	DisplayName: Irradiado
+	Description: Tu piel se está quemando
+	ItemTooltipPlayer:
+		'''
+		Sin tipo - 2 DPS
+		Reduce la defensa y la reducción de daño
+		'''
+	ItemTooltipEnemy:
+		'''
+		Sin tipo - 10 DPS
+		Aumenta el daño recibido de efectos negativos de Enfermedad
+		'''
+}
+
+MarkedforDeath: {
+	DisplayName: Marcado para Morir
+	Description: Mayor daño recibido
+	ItemTooltipEnemy: Los enemigos reciben 1,1x de daño
+}
+
+PearlAura: {
+	DisplayName: Aura Perlada
+	Description: Ralentizado
+	ItemTooltipEnemy: Ralentiza a los enemigos
+}
+
+ProfanedWeakness: {
+	DisplayName: Debilidad Profanada
+	Description: Recibes más daño
+}
+
+TemporalSadness: {
+	DisplayName: Tristeza Temporal
+	Description: Estás llorando
+	ItemTooltipEnemy: Ralentiza a los enemigos
+}
+
+TimeDistortion: {
+	DisplayName: Distorsión Temporal
+	Description: El tiempo se ralentiza
+	ItemTooltipEnemy: Ralentiza a los enemigos
+}
+
+Warped: {
+	DisplayName: Distorsionado
+	Description: Tu movimiento está siendo distorsionado
+}
+
+WeakPetrification: {
+	DisplayName: Petrificación Leve
+	Description: Tu movimiento vertical está debilitado
+}
+
+WhisperingDeath: {
+	DisplayName: Susurro de la Muerte
+	Description: La muerte se acerca; el poder de ataque y la regeneración de vida se reducen
+	ItemTooltipPlayer: Anula la regeneración de vida y reduce el daño
+	ItemTooltipEnemy: Daño reducido
+}
+
+WitherDebuff: {
+	DisplayName: Marchitez
+	Description:
+		'''
+		Marchito...
+		La defensa disminuye en {0}
+		'''
+	ItemTooltipEnemy: Reduce la defensa en 20
+}
+
+// Summons
+AbandonedSlimeBuff: {
+	DisplayName: Jalea Astral
+	Description: ¡De vuelta del cielo para protegerte!
+}
+
+AmphibiansGuitarBuff: {
+	DisplayName: Guitarras Anfibias
+	Description: Humano inútil...
+}
+
+AncientMineralSharkBuff: {
+	DisplayName: Tiburón Mineral Antiguo
+	Description: Tan antiguo y aun así igual de poderoso
+}
+
+AquaticStar: {
+	DisplayName: Estrella Acuática
+	Description: La estrella acuática te protegerá
+}
+
+AqueousHunterDroneBuff: {
+	DisplayName: Dron Cazador Acuoso
+	Description: Lamentablemente incapaz de producir arroz frito
+}
+
+AstralProbeBuff: {
+	DisplayName: Sonda Astral
+	Description: La sonda astral te protegerá
+}
+
+BabyBloodCrawlerBuff: {
+	DisplayName: Bebé Arañasangre
+	Description: La bebé arañasangre te protegerá
+}
+
+BabySlimeGodBuff: {
+	DisplayName: Bebé Dios Slime
+	Description: El Dios Slime te protegerá
+}
+
+BabyStormlionBuff: {
+	DisplayName: Bebé León de la Tormenta
+	Description: El bebé León de la Tormenta te protegerá
+}
+
+BelladonnaSpiritBuff: {
+	DisplayName: Espíritu de Belladona
+	Description: Un adorable espíritu del bosque te sigue
+}
+
+BlackHawkBuff: {
+	DisplayName: Halcón Negro
+	Description: El caza te protegerá
+}
+
+BrimseekerBuff: {
+	DisplayName: Brimseeker
+	Description: ¿Quiere algo de ti?
+}
+
+BrimstoneElemental: {
+	DisplayName: Elemental de Azufre
+	Description: El Elemental de Azufre te protegerá
+}
+
+BrittleStar: {
+	DisplayName: Estrella Frágil
+	Description: La estrella frágil te protegerá
+}
+
+BurrowerBuff: {
+	DisplayName: Excavador
+	Description: Un excavador amistoso respondió tu llamado
+}
+
+CalamarisLamentBuff: {
+	DisplayName: Calamar
+	Description: ¡Es hora de transportar a todos tus enemigos a la estúpida cárcel del calamar!
+}
+
+CausticStaffBuff: {
+	DisplayName: Dragón Cáustico
+	Description: Un mini dragón de la jungla te sigue
+}
+
+CinderBlossomBuff: {
+	DisplayName: Flor de Ceniza
+	Description: Una flor ardiente y abrasadora flota incómodamente cerca de ti
+}
+
+CloudElemental: {
+	DisplayName: Elemental de Nube
+	Description: El Elemental de Nube te protegerá
+}
+
+Corroslime: {
+	DisplayName: Corroslime
+	Description: El corroslime te protegerá
+}
+
+CorvidHarbringerBuff: {
+	DisplayName: Cuervo
+	Description: El poderoso cuervo te protegerá
+}
+
+CosmicEnergy: {
+	DisplayName: Energía Cósmica
+	Description: La energía cósmica te protegerá
+}
+
+CosmicViperEngineBuff: {
+	DisplayName: Víbora Cósmica
+	Description: La cañonera cósmica te protegerá
+}
+
+CosmilampBuff: {
+	DisplayName: Cosmilamp
+	Description: La cosmilamp te protegerá
+}
+
+Crimslime: {
+	DisplayName: Crimslime
+	Description: El crimslime te protegerá
+}
+
+DaedalusCrystalBuff: {
+	DisplayName: Cristal de Dédalo
+	Description: El cristal Dédalo te protegerá
+}
+
+DaedalusGolemBuff: {
+	DisplayName: Gólem de Dédalo
+	Description: Un gólem de cristal te sigue
+}
+
+DankCreeperBuff: {
+	DisplayName: Enredador Malsano
+	Description: El enredador malsano te protegerá
+}
+
+DazzlingStabberBuff: {
+	DisplayName: Apuñalador Deslumbrante
+	Description: ¡En guardia!
+}
+
+EnchantedKnifeStaffBuff: {
+	DisplayName: Cuchillo Encantado
+	Description: Cuchillos de chatarra no incluidos
+}
+
+EndoCooperBuff: {
+	DisplayName: Endo Cooper
+	Description: El Cooper ascendido te protegerá
+}
+
+EndoHydraBuff: {
+	DisplayName: Endo Hidra
+	Description: La endo hidra te protegerá... por alguna razón
+}
+
+EntropysVigilBuff: {
+	DisplayName: Vigilia de la Entropía
+	Description: Los clones necrománticos te protegen con una vigilancia inquebrantable
+}
+
+ExoskeletonCannons: {
+	DisplayName: Cañones de Ares
+	Description: Cañón de pulso no incluido
+}
+
+EyeOfNightBuff: {
+	DisplayName: Ojo de la Noche
+	Description: Observa de forma escalofriante
+}
+
+FieryDraconidBuff: {
+	DisplayName: Dracónido Ardiente
+	Description: El dracónido ardiente te protegerá
+}
+
+FleshBallBuff: {
+	DisplayName: Bola de Carne
+	Description: ¿Por qué te sigue?
+}
+
+FlowersOfMortalityBuff: {
+	DisplayName: Flores de la Mortalidad
+	Description: Flores celestes te rodean
+}
+
+FrostBlossomBuff: {
+	DisplayName: Flor de Escarcha
+	Description: Una flor fría y espinosa flota incómodamente cerca de ti
+}
+
+FungalClumpBuff: {
+	DisplayName: Grumo Fúngico
+	Description: El grumo fúngico te protegerá
+}
+
+GammaHydraBuff: {
+	DisplayName: Hidra Gamma
+	Description: ...
+}
+
+GastricAberrationBuff: {
+	DisplayName: Aberración Gástrica
+	Description: La aberración acuática te protegerá
+}
+
+GlacialEmbraceBuff: {
+	DisplayName: Abrazo Glacial
+	Description: La magia del antiguo castillo de hielo te ayudará
+}
+
+HauntedDishesBuff: {
+	DisplayName: Vajilla Encantada
+	Description: Los platos encantados te protegerán
+}
+
+HermitCrab: {
+	DisplayName: Cangrejo Ermitaño
+	Description: El cangrejo ermitaño te protegerá
+}
+
+Herring: {
+	DisplayName: Arenque
+	Description: El arenque te protegerá
+}
+
+HotE: {
+	DisplayName: Corazón de los Elementos
+	Description: Todos los elementales te protegerán
+}
+
+HowlTrio: {
+	DisplayName: Corazón de Howl
+	Description: Howl te protege, Calcifer ilumina tu camino, Cabeza-de-Nabo te acecha
+}
+
+HydrothermicVentBuff: {
+	DisplayName: Respiradero Hidrotérmico
+	Description: El respiradero hidrotérmico te protegerá
+}
+
+IceClasperBuff: {
+	DisplayName: Aprietahielo
+	Description: El aprietahielo te protegerá
+}
+
+IgneousExaltationBuff: {
+	DisplayName: Hoja Ígnea
+	Description: Una hoja orbita a tu alrededor
+}
+
+KalandraMirrorBuff: {
+	DisplayName: Espejo de Kalandra
+	Description: Cinco armas antiguas aniquilarán a tus enemigos
+}
+
+KingofConstellationsBuff: {
+	DisplayName: Dragones Celestiales
+	Description: Los dragones celestiales te protegerán
+}
+
+LegionofCelestiaBuff: {
+	DisplayName: Hacha Celestial
+	Description: Si tan solo fuera igual de buena cortando árboles...
+}
+
+LiliesOfFinalityBuff: {
+	DisplayName: Finalidad
+	Description: Recuerda nuestra promesa
+}
+
+LilPlaguebringerBuff: {
+	DisplayName: Portadora de la Plaga
+	Description: El Portador de la Plaga te protegerá
+}
+
+LordeBuff: {
+	DisplayName: Lil'orde
+	Description: Gira gira gira
+}
+
+MagicHatBuff: {
+	DisplayName: Sombrero Mágico
+	Description: El sombrero lleva tu alma, atada por un contrato
+}
+
+VoidEaterMarionetteBuff: {
+	DisplayName: Marioneta Devoradora del Vacío
+	Description: El poder de controlar al Devorador es tuyo
+}
+
+MidnightSunBuff: {
+	DisplayName: OVNI del Sol de Medianoche
+	Description: Un extraño OVNI te observa y te hace sentir muy incómodo
+}
+
+MiniatureEyeofCthulhu: {
+	DisplayName: Ojo de Cthulhu en Miniatura
+	Description: Te está mirando fijamente a la muerte
+}
+
+MutatedTruffleBuff: {
+	DisplayName: Baby Boomer
+	Description: El fishron mutado intoxicará a tus enemigos
+}
+
+MiniPlaguebringerBuff: {
+	DisplayName: Mini Portadora de la Plaga
+	Description: Una pequeña abeja de la plaga te sigue
+}
+
+MoonFistBuff: {
+	DisplayName: Puño Lunar
+	Description: Atrapa estos golpes
+}
+
+MountedScannerBuff: {
+	DisplayName: Escáner Montado
+	Description: Poderosa maquinaria te rodea
+}
+
+NOU: {
+	DisplayName: NO, TÚ
+	Description: Equipamiento desactivado
+}
+
+PerditionBuff: {
+	DisplayName: Perdición
+	Description: Qué desafortunado
+}
+
+Phantom: {
+	DisplayName: Fantasma
+	Description: El fantasma te protegerá
+}
+
+PlantationStaffBuff: {
+	DisplayName: Plantación
+	Description: La Plantera en miniatura te protegerá
+}
+
+PoleWarperBuff: {
+	DisplayName: Distorsionador de Polos
+	Description: Imanes sintientes se sienten atraídos por ti
+}
+
+ProfanedSoulGuardians: {
+	DisplayName: El Alma Profanada
+	Description: ¡Los Guardianes del Alma Profanada lucharán y te defenderán!
+	VanityDescription: ¡Los Guardianes del Alma Profanada te acompañarán!
+}
+
+PuffWarriorBuff: {
+	DisplayName: Guerrero Esponjoso
+	Description: Te protege con confianza y entusiasmo
+}
+
+OasisElementalBuff: {
+	DisplayName: Elemental del Oasis
+	Description: El Elemental del Oasis te curará
+}
+
+ResurrectionButterflyBuff: {
+	DisplayName: Mariposa de la Resurrección
+	Description: Duerme bajo los cerezos en flor, Mariposa Rojo-Blanca
+}
+
+SageSpiritBuff: {
+	DisplayName: Espíritu del Sabio
+	Description: Está incómodamente cerca
+}
+
+Sandnado: {
+	DisplayName: Vendaval de Arena
+	Description: El vendaval de arena te protegerá
+}
+
+SandElemental: {
+	DisplayName: Elemental de Arena
+	Description: El Elemental de Arena te protegerá
+}
+
+SarosPossessionBuff: {
+	DisplayName: Posesión de Saros
+	Description: Un aura radiante te protege
+}
+
+SeaSnailBuff: {
+	DisplayName: Caracol de Mar
+	Description: ¿Miau?
+}
+
+SepulcherMinionBuff: {
+	DisplayName: Sepulcro
+	Description: No es benévolo
+}
+
+ShellfishBuff: {
+	DisplayName: Marisco
+	Description: Los mariscos te protegerán
+}
+
+SilvaCrystalBuff: {
+	DisplayName: Cristal Silva
+	Description: El cristal te protegerá
+}
+
+SiriusBuff: {
+	DisplayName: Sirius
+	Description: Un poco demasiado brillante, pero te ayuda
+}
+
+SkeletalDragonsBuff: {
+	DisplayName: Dragones Esqueléticos
+	Description: Gran familia feliz
+}
+
+SmallSkeletonBuff: {
+	DisplayName: Esqueleto Pequeño
+	Description: Un esqueleto te observa
+}
+
+SnakeEyesBuff: {
+	DisplayName: Ojos de Serpiente
+	Description: Siempre vigilando...
+}
+
+SolarGodSpiritBuff: {
+	DisplayName: Espíritu Solar Vengativo
+	Description: Un furioso espíritu Solar está listo para protegerte
+}
+
+SolarSpirit: {
+	DisplayName: Espíritu Solar
+	Description: El espíritu solar te protegerá
+}
+
+SoulSeekerBuff: {
+	DisplayName: Buscaalmas
+	Description: Definitivamente quiere algo de ti
+}
+
+StellarTorusBuff: {
+	DisplayName: Toro Estelar
+	Description: Invoca un Toro Orbital que fríe a tus enemigos
+}
+
+TacticalPlagueEngineBuff: {
+	DisplayName: Motor de Plaga Táctico
+	Description: Un enorme jet de la plaga te sigue
+}
+
+TundraFlameBlossomsBuff: {
+	DisplayName: Flor de Llama de Tundra
+	Description: Una perfecta unión de equilibrio y belleza
+}
+
+ValkyrieBuff: {
+	DisplayName: Valquiria
+	Description: La valquiria te protegerá
+}
+
+VileFeederBuff: {
+	DisplayName: Alimentador Vil
+	Description: El bebé devorador de almas te protegerá
+}
+
+ViridVanguardBuff: {
+	DisplayName: Vanguardia Vírida
+	Description: Un perfecto acto de unidad te rodea
+}
+
+ViriliBuff: {
+	DisplayName: Virili
+	Description: Lamentablemente para ti, es bastante contagiosa
+}
+
+VoidConcentrationBuff: {
+	DisplayName: Vacío Concentrado
+	Description: El vacío infinito anhela más...
+}
+
+WaterElemental: {
+	DisplayName: Anahita
+	Description: Anahita te protegerá
+}
+
+WitherBlossomsBuff: {
+	DisplayName: Flores Marchitas
+	Description: La pestilencia te rodea
+}
+
+WulfrumDroidBuff: {
+	DisplayName: Droide de Wulfrum
+	Description: El droide de wulfrum te protegerá
+}
+
+YoungDukeBuff: {
+	DisplayName: Baby Boomer
+	Description: El fishron mutado intoxicará a tus enemigos
+}
+
+// Misc
+
+HyperiusCollapse: {
+	DisplayName: Colapso de Hyperius
+	Description: Nunca deberías ver esto...
+}
+
+PopoBuff: {
+	DisplayName: Popo
+	Description: ¡Ahora eres un muñeco de nieve!
+}
+
+PopoNoselessBuff: {
+	DisplayName: Popo Sin Nariz
+	Description: ¡Te han robado la nariz!
+}
+
+Daybroken: {
+	DisplayName: Calcinado
+	ItemTooltipPlayer: Calor - 20 DPS
+	ItemTooltipEnemy: Calor - 100 DPS
+}
+
+Shadowflame: {
+	DisplayName: Llamaumbra
+	ItemTooltipPlayer: Calor - 15 DPS
+	ItemTooltipEnemy: Calor - 30 DPS
+}
+
+ForbiddenStealthSummonTagBuff: {
+	DisplayName: Forbidden Stealth Summon Tag Buff
+	Description: Si ves esto, algo salió terriblemente mal
+}
+
+Malnourished: {
+	DisplayName: Desnutrido
+	Description:
+		'''
+		Reducciones menores en todas las estadísticas
+		¡Tu hígado se siente más fuerte!
+		'''
+}
+
+SeaKingsAssurance: {
+	DisplayName: Sea King's Assurance
+	Description: Si ves esto, algo seguramente salió terriblemente mal
+}
+
+CnidarianSummonTagBuff: {
+	DisplayName: Cnidarian Summon Tag Buff
+	Description: no estás viendo esto
+}
+
+SmashedEvil: {
+	DisplayName: Mal Aplastado
+	Description: Mayor daño, velocidad de movimiento y regeneración
+	ItemTooltipEnemy:
+		'''
+		Todos los tipos - 20 DPS
+		+5 de daño recibido
+		'''
+	ItemTooltipPlayer:
+		'''
+		La regeneración vuelve a plena potencia un 200% más rápido
+		10% más de daño
+		20% más de velocidad de movimiento
+		'''
+}
+
+VoidConcentrationSummonTagBuff: {
+	DisplayName: Void Concentration Summon Tag Buff
+	Description: Nunca deberías ver esto.
+}

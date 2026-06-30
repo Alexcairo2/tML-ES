@@ -1,0 +1,536 @@
+AstralBreastplate: {
+	DisplayName: Pechera Astral
+	Tooltip:
+		'''
+		{$CommonItemTooltip.IncreasesMaxManaBy}
+		{$CommonItemTooltip.PercentIncreasedDamage@1}
+		{$CommonItemTooltip.PercentChanceToSaveAmmo@2}
+		'''
+}
+
+AstralHelm: {
+	DisplayName: Yelmo Astral
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedDamage} y {$CommonItemTooltip.PercentIncreasedCritChance@1}
+		Detecta criaturas cercanas, proyectiles enemigos, fuentes de peligro y tesoros
+		[c/aaaaaa:Shift-<right> en tu inventario para activar/desactivar el] [cbuffplr:CalamityMod/Omniscience] [c/aaaaaa:efecto]
+		'''
+	SetBonus:
+		'''
+		{$CommonItemTooltip.IncreasesMaxMinionsBy}
+		{$CommonItemTooltip.PercentIncreasedDamageCritChance@1}
+		Cada vez que asestes un crítico a un enemigo, lloverá una lluvia de estrellas
+		Este efecto tiene un tiempo de espera de {2} {^2:segundo;segundos} antes de poder activarse de nuevo
+		'''
+}
+
+AstralLeggings: {
+	DisplayName: Grebas Astrales
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedDamage}
+		{$CommonItemTooltip.PercentIncreasedMovementSpeed@1}
+		'''
+}
+
+BrimflameBoots: {
+	DisplayName: Botas de Llamazufre
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedMagicDamage}
+		{$CommonItemTooltip.PercentIncreasedMovementSpeed@1}
+		'''
+}
+
+BrimflameCowl: {
+	DisplayName: Capucha de Llamazufre
+	Tooltip:
+		'''
+		{$CommonItemTooltip.IncreasesMaxManaBy} y {$CommonItemTooltip.PercentReducedManaCost@1}
+		{$CommonItemTooltip.PercentIncreasedMagicDamageCritChance@2}
+		Inmunidad a [cbuffplr:OnFire], [cbuffplr:CalamityMod/BrimstoneFlames] y [cbuffplr:Frostburn]
+		'''
+	SetBonus:
+		'''
+		{$CommonItemTooltip.PercentIncreasedMagicDamageCritChance}
+		[c/{1}:Frenesí Llamazufre - {2} durante {3} {^3:segundo;segundos} de {$CommonItemTooltip.PercentIncreasedMagicDamage@4}]
+		[c/FF9173:Sin embargo, inflige pérdida de salud rápida y deshabilita la regeneración y las pociones de maná]
+		[c/FF9173:Este efecto se puede desactivar y tiene un tiempo de espera de {5} {^5:segundo;segundos}]
+		'''
+}
+
+BrimflameRobes: {
+	DisplayName: Ropajes de Llamazufre
+	Tooltip: "{$CommonItemTooltip.PercentIncreasedMagicDamageCritChance}"
+}
+
+DaedalusBreastplate: {
+	DisplayName: Pechera de Dédalo
+	Tooltip: "{$CommonItemTooltip.PercentIncreasedDamage}"
+}
+
+DaedalusHeadMagic: {
+	DisplayName: Capucha de Dédalo
+	Tooltip:
+		'''
+		{$CommonItemTooltip.IncreasesMaxManaBy} y {$CommonItemTooltip.PercentReducedManaCost@1}
+		{$CommonItemTooltip.PercentIncreasedMagicDamage@2} y {$CommonItemTooltip.PercentIncreasedMagicCritChance@3}
+		'''
+	SetBonus: Tienes un {0}% de posibilidades de recuperar el {1}% del daño recibido
+}
+
+DaedalusHeadMelee: {
+	DisplayName: Yelmo de Dédalo
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedMeleeDamageCritChance}
+		{$CommonItemTooltip.PercentIncreasedMeleeSpeed@1}
+		'''
+	SetBonus:
+		'''
+		{$Common.AggroBoost}
+		Reflejas los proyectiles de vuelta a los enemigos, anulando su daño
+		{$Common.ReflectInformation}
+		'''
+}
+
+DaedalusHeadRanged: {
+	DisplayName: Casco de Dédalo
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedRangedDamage} y {$CommonItemTooltip.PercentIncreasedRangedCritChance@1}
+		{$CommonItemTooltip.PercentChanceToSaveAmmo@2}
+		'''
+	SetBonus: Recibir un golpe te hace emitir una explosión de fragmentos de cristal
+}
+
+DaedalusHeadRogue: {
+	DisplayName: Careta de Dédalo
+	Tooltip:
+		'''
+		{$Common.RogueDamage} y {$Common.RogueCrit@1}
+		{$Common.RogueVelocity@2} y {$CommonItemTooltip.PercentIncreasedMovementSpeed@3}
+		'''
+	SetBonus:
+		'''
+		{$Common.RogueStealth}
+		Los proyectiles de pícaro lanzan fragmentos de cristal mientras viajan
+		'''
+}
+
+DaedalusHeadSummon: {
+	DisplayName: Máscara de Dédalo
+	Tooltip:
+		'''
+		{$CommonItemTooltip.IncreasesMaxMinionsBy}
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
+		'''
+	SetBonus:
+		'''
+		{$CommonItemTooltip.IncreasesMaxMinionsBy}
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
+		Un cristal de Dédalo flota sobre ti para protegerte
+		'''
+}
+
+DaedalusLeggings: {
+	DisplayName: Grebas de Dédalo
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedCritChance}
+		{$CommonItemTooltip.PercentIncreasedMovementSpeed@1}
+		'''
+}
+
+FathomSwarmerBoots: {
+	DisplayName: Grebas del Enjambrador Abisal
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedSummonDamage}
+		Otorga la habilidad de nadar
+		{$CommonItemTooltip.PercentIncreasedMovementSpeed@1} mientras estás sumergido en un líquido
+		'''
+}
+
+FathomSwarmerBreastplate: {
+	DisplayName: Pechera del Enjambrador Abisal
+	Tooltip:
+		'''
+		{$CommonItemTooltip.IncreasesMaxMinionsBy}
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
+		Reduce la pérdida de defensa dentro del Abismo
+		'''
+}
+
+FathomSwarmerVisage: {
+	DisplayName: Semblante del Enjambrador Abisal
+	Tooltip:
+		'''
+		{$CommonItemTooltip.IncreasesMaxMinionsBy}
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
+		Proporciona oxígeno y luz bajo el agua
+		Mejora enormemente la visibilidad en el Abismo
+		'''
+	SetBonus:
+		'''
+		{$CommonItemTooltip.IncreasesMaxMinionsBy}
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
+		Otorga la habilidad de trepar paredes
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@2}, +{3} de defensa y +{4} PV/s de regeneración de vida bajo el agua
+		Proporciona una cantidad moderada de luz y reduce moderadamente la pérdida de oxígeno en el Abismo
+		'''
+}
+
+ForbiddenCirclet: {
+	DisplayName: Tiara Prohibida
+	Tooltip: "{$CommonItemTooltip.PercentIncreasedSummonDamage} y {$Common.RogueVelocity@1}"
+	SetBonus:
+		'''
+		{$Common.RogueStealth}
+		{1} para convocar una tormenta antigua en la posición del cursor
+		La tormenta antigua cuesta {2} de maná y se beneficia de las bonificaciones de invocación y de pícaro
+		Los golpes furtivos de pícaro marcan a los enemigos, haciendo que los súbditos generen devoradores teledirigidos al golpear
+		Usar armas de invocación ya no reinicia tu sigilo
+		Los súbditos ya no infligen menos daño mientras empuñas armas de pícaro
+		'''
+}
+
+HydrothermicArmor: {
+	DisplayName: Armadura Hidrotérmica
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedDamage}
+		Otorga inmunidad a la lava y a [cbuffplr:OnFire]
+		'''
+	CommonSetBonus:
+		'''
+		Efecto Infierno cuando tienes menos del {0}% de vida
+		Emites una explosión ardiente cuando recibes un golpe
+		'''
+}
+
+HydrothermicHeadMagic: {
+	DisplayName: Máscara Hidrotérmica
+	Tooltip:
+		'''
+		{$CommonItemTooltip.IncreasesMaxManaBy} y {$CommonItemTooltip.PercentReducedManaCost@1}
+		{$CommonItemTooltip.PercentIncreasedMagicDamage@2} y {$CommonItemTooltip.PercentIncreasedMagicCritChance@3}
+		'''
+	SetBonus:
+		'''
+		Los ataques mágicos convocan orbes de destello dañinos y curativos al golpear
+		{$HydrothermicArmor.CommonSetBonus}
+		'''
+}
+
+HydrothermicHeadMelee: {
+	DisplayName: Yelmo Hidrotérmico
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedMeleeDamage} y {$CommonItemTooltip.PercentIncreasedMeleeCritChance@1}
+		{$CommonItemTooltip.PercentIncreasedMeleeSpeed@2}
+		'''
+	SetBonus:
+		'''
+		{$Common.AggroBoost}
+		Los ataques y proyectiles cuerpo a cuerpo hacen estallar llamas del caos al golpear enemigos
+		{$HydrothermicArmor.CommonSetBonus}
+		'''
+}
+
+HydrothermicHeadRanged: {
+	DisplayName: Casco Hidrotérmico
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedRangedDamage} y {$CommonItemTooltip.PercentIncreasedRangedCritChance@1}
+		{$CommonItemTooltip.PercentChanceToSaveAmmo@2}
+		'''
+	SetBonus:
+		'''
+		Disparas una llamarada del caos teledirigida al usar armas a distancia cada {0} segundos
+		{$HydrothermicArmor.CommonSetBonus@1}
+		'''
+}
+
+HydrothermicHeadRogue: {
+	DisplayName: Capucha Hidrotérmica
+	Tooltip:
+		'''
+		{$Common.RogueDamage} y {$Common.RogueCrit@1}
+		{$CommonItemTooltip.PercentIncreasedMovementSpeed@2}
+		'''
+	SetBonus:
+		'''
+		{$Common.RogueStealth}
+		Las armas de pícaro desatan una andanada de llamas del caos teledirigidas alrededor del jugador cada {1} segundos
+		{$HydrothermicArmor.CommonSetBonus@2}
+		'''
+}
+
+HydrothermicHeadSummon: {
+	DisplayName: Almete Hidrotérmico
+	Tooltip:
+		'''
+		{$CommonItemTooltip.IncreasesMaxMinionsBy}
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
+		'''
+	SetBonus:
+		'''
+		{$CommonItemTooltip.IncreasesMaxMinionsBy}
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
+		Convoca un respiradero hidrotérmico para protegerte
+		{$HydrothermicArmor.CommonSetBonus@2}
+		'''
+}
+
+HydrothermicSubligar: {
+	DisplayName: Subligar Hidrotérmico
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedCritChance}
+		{$CommonItemTooltip.PercentIncreasedMovementSpeed@1}
+		'''
+}
+
+LunicCorpsBoots: {
+	DisplayName: Botas del Cuerpo Lúnico
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedRangedCritChance}
+		{1}% de velocidad de movimiento y aceleración aumentadas
+		'''
+}
+
+LunicCorpsHelmet: {
+	DisplayName: Yelmo del Cuerpo Lúnico
+	Tooltip:
+		'''
+		Aumenta un {0}% el daño de armas que no sean arcos
+		Mejora la visión y muestra la ubicación de los enemigos
+		'''
+	SetBonus:
+		'''
+		{0}% de velocidad de salto aumentada
+		[c/{1}:Escudo MJOLNIR - Proyecta un escudo de burbuja que absorbe hasta {2} de daño]{3}
+		[c/52CBDE:El escudo empieza a recargarse {4} {^4:segundo;segundos} después de recibir un golpe]
+		[c/52CBDE:Recargarse de cero a carga completa tarda {5} {^5:segundo;segundos}]
+		[c/52CBDE:Recibir otro golpe mientras se recarga reinicia el temporizador de carga]
+		[c/9EA67F:'Acaba la lucha']
+		'''
+	ShieldAdren: "[c/52CBDE:Reduce a la mitad la Adrenalina perdida al recibir un golpe si el escudo lo absorbe por completo]"
+}
+
+LunicCorpsVest: {
+	DisplayName: Chaleco del Cuerpo Lúnico
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedRangedDamageCritChance}
+		{$CommonItemTooltip.PercentChanceToSaveAmmo@1}
+		'''
+}
+
+MolluskShelleggings: {
+	DisplayName: Conchagreba del Molusco
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedDamage} y {$CommonItemTooltip.PercentIncreasedCritChance@1}
+		Tu movimiento horizontal es más lento
+		'''
+}
+
+MolluskShellmet: {
+	DisplayName: Conchacasco del Molusco
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedDamage} y {$CommonItemTooltip.PercentIncreasedCritChance@1}
+		Puedes moverte libremente a través de los líquidos
+		Tu movimiento horizontal es más lento
+		'''
+	SetBonus:
+		'''
+		{0}% de reducción de daño aumentada
+		Dos crustáceos te ayudan en combate, infligiendo [cbuff:CalamityMod/ShellfishClaps]
+		'''
+}
+
+MolluskShellplate: {
+	DisplayName: Conchaplastra del Molusco
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedDamage} y {$CommonItemTooltip.PercentIncreasedCritChance@1}
+		Tu movimiento horizontal es más lento
+		'''
+}
+
+PlaguebringerCarapace: {
+	DisplayName: Caparazón del Portador de la Plaga
+	Tooltip:
+		'''
+		{$CommonItemTooltip.IncreasesMaxMinionsBy}
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
+		Otorga inmunidad a [cbuffplr:CalamityMod/Plague]
+		'''
+}
+
+PlaguebringerPistons: {
+	DisplayName: Pistones del Portador de la Plaga
+	Tooltip:
+		'''
+		{$CommonItemTooltip.IncreasesMaxMinionsBy}
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@1} y {$CommonItemTooltip.PercentIncreasedMovementSpeed@2}
+		Crecen flores en la hierba por la que caminas, y plantas de tinte crecen ocasionalmente en la tierra sin hierba por la que caminas
+		'''
+}
+
+PlaguebringerVisor: {
+	DisplayName: Visera del Portador de la Plaga
+	Tooltip:
+		'''
+		{$CommonItemTooltip.IncreasesMaxMinionsBy}
+		{$CommonItemTooltip.PercentIncreasedSummonDamage@1}
+		'''
+	SetBonus:
+		'''
+		Otorga un impulso de plaga que puede atravesar enemigos sin recibir daño
+		Convoca un pequeño portador de la plaga que abruma a tus enemigos con pequeñas abejas
+		Las abejas aliadas infligen [cbuff:CalamityMod/Plague]
+		'''
+}
+
+PlagueReaperMask: {
+	DisplayName: Máscara del Segador de la Plaga
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedRangedDamage} y {$CommonItemTooltip.PercentIncreasedRangedCritChance@1}
+		{$CommonItemTooltip.PercentChanceToSaveAmmo@2}
+		'''
+	SetBonus:
+		'''
+		{0}% de tiempo de vuelo aumentado
+		Los enemigos afectados por la Plaga reciben {1}x de daño de proyectiles a distancia
+		[c/{2}:Oscurecimiento de Plaga - {3} para potenciar enormemente tu daño pero cegarte por completo]
+		[c/009418:{$CommonItemTooltip.PercentIncreasedRangedDamage@4} y {$CommonItemTooltip.PercentIncreasedRangedCritChance@5} mientras estás a oscuras]
+		[c/009418:Este efecto dura {6} {^6:segundo;segundos} y tiene un tiempo de espera de {7} {^7:segundo;segundos}]
+		'''
+}
+
+PlagueReaperStriders: {
+	DisplayName: Zancadores del Segador de la Plaga
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedRangedCritChance}
+		{$CommonItemTooltip.PercentIncreasedMovementSpeed@1}
+		'''
+}
+
+PlagueReaperVest: {
+	DisplayName: Chaleco del Segador de la Plaga
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentIncreasedRangedDamage}
+		Otorga inmunidad a [cbuffplr:CalamityMod/Plague]
+		'''
+}
+
+ReaverCuisses: {
+	DisplayName: Musleras del Saqueador
+	Tooltip: "{$CommonItemTooltip.PercentIncreasedMovementSpeed}"
+}
+
+ReaverHeadExplore: {
+	DisplayName: Casco del Saqueador
+	Tooltip:
+		'''
+		{0}% de velocidad de minería aumentada
+		{1}% de velocidad de colocación de bloques y paredes aumentada
+		Otorga inmunidad a la lava y permite moverse libremente a través de los líquidos
+		'''
+	SetBonus:
+		'''
+		Emite luz y muestra la ubicación de tesoros y minerales
+		{$Common.AggroReduction} y otorga respiración bajo el agua
+		Mejora enormemente la visibilidad en el Abismo
+		Aumenta el alcance de colocación de bloques y herramientas en {0}
+		Aumenta el alcance de recogida de objetos
+		'''
+}
+
+ReaverHeadMobility: {
+	DisplayName: Semblante del Saqueador
+	Tooltip: "{$CommonItemTooltip.PercentIncreasedMovementSpeed} y {1}% de velocidad de salto aumentada"
+	SetBonus:
+		'''
+		Otorga inmunidad al daño por caída y permite saltar constantemente
+		{0}% de tiempo de vuelo y velocidad horizontal de alas aumentados
+		Los ganchos de agarre se retraen y arrastran al jugador un {1}% más rápido
+		Reduce el tiempo de espera de los impulsos en un {2}%
+		'''
+}
+
+ReaverHeadTank: {
+	DisplayName: Yelmo del Saqueador
+	Tooltip: +{0} de vida máxima y +{1} PV/s de regeneración de vida
+	SetBonus:
+		'''
+		{$Common.AggroBoost}
+		Reduce en un {0}% la regeneración de vida perdida por efectos negativos de daño con el tiempo
+		{1}% de velocidad de movimiento y tiempo de vuelo reducidos
+		Otorga [cbuffplr:CalamityMod/ReaverRage] durante {2} {^2:segundo;segundos} al recibir daño
+		'''
+}
+
+ReaverScaleMail: {
+	DisplayName: Cota de Escamas del Saqueador
+	Tooltip: "{0}% de reducción de daño aumentada"
+}
+
+TitanHeartBoots: {
+	DisplayName: Botas del Corazón de Titán
+	Tooltip: "{$Common.RogueDamage}"
+}
+
+TitanHeartMantle: {
+	DisplayName: Manto del Corazón de Titán
+	Tooltip: "{$Common.RogueDamage} y {1}% de retroceso de pícaro aumentado"
+}
+
+TitanHeartMask: {
+	DisplayName: Máscara del Corazón de Titán
+	Tooltip:
+		'''
+		{$Common.RogueDamage} y {$Common.RogueVelocity@1}
+		Las armas de pícaro infligen [cbuff:CalamityMod/AstralInfectionDebuff]
+		'''
+	SetBonus:
+		'''
+		{$Common.RogueStealth}
+		Los golpes furtivos infligen {1}x de retroceso y provocan una explosión astral
+		{$Common.KnockbackImmunity}
+		'''
+}
+
+UmbraphileBoots: {
+	DisplayName: Botas Umbráfilas
+	Tooltip:
+		'''
+		{$Common.RogueDamage} y {$Common.RogueCrit@1}
+		{$CommonItemTooltip.PercentIncreasedMovementSpeed@2}
+		'''
+}
+
+UmbraphileHood: {
+	DisplayName: Capucha Umbráfila
+	Tooltip: "{$Common.RogueDamage} y {$Common.RogueVelocity@1}"
+	SetBonus:
+		'''
+		{$Common.RogueStealth}
+		Las armas de pícaro tienen una posibilidad de crear explosiones al golpear
+		Los golpes furtivos siempre crean una explosión
+		'''
+}
+
+UmbraphileRegalia: {
+	DisplayName: Insignias Umbráfilas
+	Tooltip: "{$Common.RogueDamageCrit}"
+}

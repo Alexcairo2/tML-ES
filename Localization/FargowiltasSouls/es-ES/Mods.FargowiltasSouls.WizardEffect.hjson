@@ -1,0 +1,70 @@
+// Maybe move into entries of each enchant
+Adamantite: Bonificación de velocidad aumentada al 50%
+Apprentice: Frecuencia del arma secundaria aumentada a 1/5
+AncientHallow: Daño de espada aumentado; límite de daño de proyectiles aumentado a 200
+AncientShadow: Número de orbes sombríos aumentado
+AncientCobalt: Altura de salto y daño y tamaño de explosión aumentados
+Angler: Todas las cañas de pescar tienen 5 señuelos adicionales
+Bee: Fuerza de las alas y daño del enjambre de abejas aumentados
+Beetle: Las mejoras de escarabajo pueden alcanzar el nivel 3
+BorealWood: Dispara más bolas de nieve con más frecuencia
+Cactus: Número de espinas y daño aumentados
+Chlorophyte: Daño del anillo y las esporas aumentado; tiempo de reutilización de las esporas reducido
+Cobalt: Daño de explosión aumentado
+Copper: Número de arcos aumentado a 8; daño de rayo aumentado
+Crimson: Temporizador duplicado, pero la curación se activa dos veces: una a la mitad y otra al final
+CrystalAssassin: Tiempo de reutilización de embestida reducido; tiempo de reutilización de Primer Golpe reducido a 5 segundos
+DarkArtist: Frecuencia del arma secundaria aumentada a 1/3
+Ebonwood: Tamaño del aura aumentado; daño fijo y límite de reducción de daño aumentados a 10 y 10% respectivamente
+Forbidden: Aumento de daño incrementado de 1.2x a 1.4x
+Fossil: Curación de reanimación aumentada a 200 y número de huesos de reanimación duplicado
+Frost: Daño de témpanos duplicado
+Gladiator: Tamaño del aura del estandarte aumentado y mejora de estadísticas duplicada; daño y tiempo de reutilización de la lluvia de lanzas mejorados
+Gold: Duración del caparazón aumentada
+Hallow: Bonificación de curación de pociones aumentada del 40 al 70%; duración de repulsión duplicada
+Huntress: Penetración de armadura y daño fijo aumentados a 10 y 5 respectivamente
+Iron: Aumenta el alcance de agarre; aumenta la reducción de daño al 35%
+Jungle: Daño de esporas aumentado; tiempo de reutilización reducido
+Lead: Daño de Envenenamiento por plomo aumentado; resistencia al daño con el tiempo aumentada al 60%
+Meteor: Daño, tamaño y frecuencia de meteoritos aumentados
+Miner: Velocidad de minado aumentada
+Molten: El anillo de infierno es más grande y dañino; bonificación de daño aumentada a 1.3x
+Monk: Daño de embestida aumentado
+Mythril: Bonificación máxima de velocidad de ataque aumentada y de mayor duración
+Nebula: Los disparos de nebulosa hacen más daño y generan 2 potenciadores de nebulosa
+Necro: Las tumbas tienen mayor tamaño, flotan y te persiguen ligeramente cuando estás cerca
+Ninja: Probabilidad máxima de crítico aumentada al 40%; velocidad máxima del jugador a la que se activa el efecto aumentada
+Obsidian: También otorga explosiones al sufrir cualquier efecto negativo, pero con daño reducido; límite de daño aumentado; tiempo de reutilización de bolas de fuego reducido
+Orichalcum: Daño de efectos negativos aumentado aún más al 250%
+Palladium: La Curación rápida dura siempre 5 segundos; aumenta el daño de los orbes
+PalmWood: Velocidad de ataque, daño y tamaño aumentados
+Pearlwood: Tus críticos se recalculan dos veces; daño de estrellas aumentado
+Platinum: Bonificación reemplazada por un 33% de probabilidad de que los enemigos suelten 5 veces el botín
+Pumpkin: Las calabazas pueden crecer mientras vuelas, curan el doble y el daño de fuego aumenta a 45
+Rain: El paraguas puede bloquear hasta 400 de daño y el daño reflejado se triplica
+RedRiding: La lluvia de flechas tiene menos tiempo de reutilización y hace más daño
+RichMahogany: Los ganchos tiran 2.5 veces más rápido; reducción de daño y espinas muy aumentadas
+Shadewood: Tamaño del aura y daño de sangre aumentados; además aplica Ícor
+Shinobi: Daño de embestidas aumentado
+Shroomite: Estadísticas de Poder de champiñón aumentadas al 30%; daño y número de champiñones aumentados
+Silver: El parry anula hasta 200 de daño y siempre otorga la mejora Momento de Golpe
+Solar: Las ráfagas solares hacen más daño en un radio mayor
+Spectre: Curación de reanimación aumentada a 200; número de espíritus de reanimación duplicado; daño de espíritus duplicado
+Spider: 15% de probabilidad de golpe crítico adicional
+Spooky: Tiempo de reutilización reducido
+Stardust: Tiempo de reutilización de detención del tiempo reducido de 90 a 75
+Snow: Las bolas de nieve infligen Congelación y congelan por completo a los enemigos
+Shadow: Número de orbes sombríos aumentado
+Squire: Defensa de montura aumentada de 10 a 15; velocidad y aceleración de 1.25x a 1.5x; bonificación de curación del 10% al 15%
+Tiki: Bonificación de alcance de látigo aumentada al 40%; bonificación de daño de proyectiles aumentada a 1.4x
+Tin: Crítico mínimo aumentado al 10%; crítico máximo de al menos 50%; tiempo de reutilización de activación reducido
+Titanium: Daño de fragmentos aumentado; duración del Escudo de titanio aumentada a 5 segundos y reducción máxima de daño aumentada en un 10%
+Tungsten: Las ondas expansivas son 3 veces más grandes y frecuentes
+Turtle: Ocasionalmente recuperas un punto de bloqueo de proyectiles; número de espinas y daño aumentados
+ValhallaKnight: Defensa de montura aumentada de 15 a 20; aceleración de 1.5x a 2x; y bonificación de curación del 15% al 20%
+Vortex: Daño de láser aumentado
+Wood: Multiplicador de bestiario y estandarte aumentado a 5
+AshWood: Tiempo de reutilización de bola de fuego reducido; límite de daño de bola de fuego aumentado
+NoUpgrade: Sin mejora
+Active: Activo
+Inactive: Inactivo

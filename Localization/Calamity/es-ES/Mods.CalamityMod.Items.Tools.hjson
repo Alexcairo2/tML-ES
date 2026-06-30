@@ -1,0 +1,512 @@
+AbyssalWarhammer: {
+	DisplayName: Martillo de Guerra Abisal
+	Tooltip: ""
+}
+
+AcidwoodHammer: {
+	DisplayName: Martillo de Madera Ácida
+	Tooltip: ""
+}
+
+AerialHamaxe: {
+	DisplayName: Martillo Hacha Aéreo
+	Tooltip: ""
+}
+
+AggressiveVoucher: {
+	DisplayName: Vale Agresivo
+	Tooltip:
+		'''
+		Marca este objeto como favorito en tu inventario para aumentar la probabilidad de obtener una reforja deseable
+		Este efecto solo se aplica al reforjar accesorios
+		Reforja objetivo: {0}
+		Reforjas seleccionables: {1}
+		[c/aaaaaa:Shift-<right> en tu inventario para alternar entre las reforjas objetivo]
+		'''
+	SalesPitch:
+		'''
+		'Ese duende de ahí solo te está estafando para sacarte tu dinero, ¿sabes? ¡Pero no te preocupes, Hoggart y yo tenemos una solución para eso!'
+		'¡Solo dale esto y mira cómo martilla tu equipo como si hubiera sido tocado por la inspiración divina! ¡Será como un objeto nuevo!'
+		'''
+}
+
+AntiCystOintment: {
+	DisplayName: Ungüento Antiquistes
+	Tooltip:
+		'''
+		Activa este objeto para evitar que aparezcan quistes de la colmena cerca de ti
+		Presiona <right> para activar/desactivar
+		[STATE]
+		'''
+}
+
+AntiTumorOintment: {
+	DisplayName: Ungüento Antitumores
+	Tooltip:
+		'''
+		Activa este objeto para evitar que aparezcan tumores de la colmena cerca de ti
+		Presiona <right> para activar/desactivar
+		[STATE]
+		'''
+}
+
+AridArtifact: {
+	DisplayName: Artefacto Árido
+	Tooltip:
+		'''
+		Invoca una tormenta de arena
+		La tormenta de arena ocurrirá poco después de usar el objeto
+		Si se usa durante una tormenta de arena, esta se detendrá poco después
+		'''
+}
+
+AstralHamaxe: {
+	DisplayName: Martillo Hacha Astral
+	Tooltip: ""
+}
+
+AstralPickaxe: {
+	DisplayName: Pico Astral
+	Tooltip: ""
+}
+
+AxeofPurity: {
+	DisplayName: Hacha de la Pureza
+	Tooltip:
+		'''
+		<left> para usar como herramienta
+		<right> para purificar la maldad
+		'''
+}
+
+Bakidon: {
+	DisplayName: Bakidon
+	Tooltip:
+		'''
+		Un artefacto perdido del que se dice que mantiene los cielos en su lugar
+		<left> para congelar el paso del día y la noche temporalmente
+		Esto no funciona durante anomalías celestiales
+		La congelación del tiempo se recarga mientras no está en uso
+		'''
+}
+
+BallAndChain: {
+	DisplayName: Bola y Cadena
+	Tooltip:
+		'''
+		Activa este objeto para desactivar cualquier impulso otorgado por el equipo
+		<right> para activar/desactivar
+		[STATE]
+		'Qué pesada...'
+		'''
+	// This is "backwards" because enabling this disables dashes
+	TooltipEnabled: Los impulsos están actualmente desactivados
+	TooltipDisabled: Los impulsos están actualmente activados
+}
+
+BeastialPickaxe: {
+	DisplayName: Pico Bestial
+	Tooltip: ""
+}
+
+BerserkerWaraxe: {
+	DisplayName: Hacha de Guerra de Berserker
+	Tooltip: ""
+}
+
+BleachBall: {
+	DisplayName: Bola de Lejía
+	Tooltip:
+		'''
+		Activa este objeto para evitar que aparezca el Azote Acuático
+		Presiona <right> para activar/desactivar
+		[STATE]
+		'''
+}
+
+BlossomPickaxe: {
+	DisplayName: Pico Floral
+	Tooltip: Puede extraer mineral áurico
+}
+
+BobbitHook: {
+	DisplayName: Gancho Bobbit
+	Tooltip:
+		'''
+		Se retrae a velocidades extremas al engancharse a un bloque
+		{$Common.GrappleStats}
+		'''
+}
+
+BrimstoneLocus: {
+	DisplayName: Nexo de Azufre
+	Tooltip:
+		'''
+		[c/C61B40:'No solo puedo mejorar tu equipo con magia potente,]
+		[c/C61B40:también puedo hacer que parte de tu armamento trascienda a formas completamente nuevas.]
+		[c/C61B40:Ese tipo de objetos se revelan mientras este objeto está en tu inventario.']
+		'''
+}
+
+BrokenWaterFilter: {
+	DisplayName: Filtro de Agua Roto
+	Tooltip:
+		'''
+		Activa este objeto para evitar que ocurra la Lluvia Ácida
+		Presiona <right> para activar/desactivar
+		[STATE]
+		'''
+}
+
+CombatVoucher: {
+	DisplayName: Vale de Combate
+	Tooltip:
+		'''
+		Marca este objeto como favorito en tu inventario para aumentar la probabilidad de obtener una reforja deseable
+		Este efecto solo se aplica al reforjar armas
+		'''
+	SalesPitch:
+		'''
+		'Ese duende de ahí solo te está estafando para sacarte tu dinero, ¿sabes? ¡Pero no te preocupes, Hoggart y yo tenemos una solución para eso!'
+		'¡Solo dale esto y mira cómo martilla tu equipo como si hubiera sido tocado por la inspiración divina! ¡Será como un objeto nuevo!'
+		'''
+}
+
+Cosmolight: {
+	DisplayName: Cosmoluz
+	Tooltip:
+		'''
+		Un artefacto perdido recién reavivado por la exposición a energías cósmicas puras
+		Mantén <left> para acelerar drásticamente el paso del día y la noche
+		<right> para congelar el paso del día y la noche indefinidamente
+		La congelación del tiempo dura para siempre y funciona durante anomalías celestiales
+		'''
+}
+
+CrystylCrusher: {
+	DisplayName: Triturador de Crystyl
+	Tooltip:
+		'''
+		Mantén <right> para canalizar un rayo que destruye casi cualquier cosa
+		'Un arma primitiva de una época pasada...'
+		'''
+}
+
+DisgustingMeat: {
+	DisplayName: Carne Asquerosa
+	Tooltip:
+		'''
+		<left> eliminará las mejoras de salud y maná, úsalo sin mejoras de Calamity para eliminar las mejoras del juego base
+		<right> eliminará las mejoras de Rabia y Adrenalina, además de otros potenciadores misceláneos como el Corazón del Demonio
+		Las mejoras eliminadas serán vomitadas por ti en forma de objetos
+		'''
+}
+
+DriftwoodHammer: {
+	DisplayName: Martillo de Madera Flotante
+	Tooltip: Eficiencia mejorada mientras estás mojado
+}
+
+FellerofEvergreens: {
+	DisplayName: Talador de Perennes
+	Tooltip: Ocasionalmente suelta frutas adicionales al sacudir árboles
+}
+
+Gelpick: {
+	DisplayName: Picogel
+	Tooltip: ""
+}
+
+GenesisPickaxe: {
+	DisplayName: Pico del Génesis
+	Tooltip: "{$Common.CanMineUelibloom}"
+}
+
+Grax: {
+	DisplayName: Grax
+	Tooltip:
+		'''
+		Golpear a un enemigo aumenta tu daño un {0}% y tu defensa en {1} durante {2} segundos
+		Presiona <right> para usarlo sin derribar paredes o talar árboles
+		'''
+}
+
+GreatbayPickaxe: {
+	DisplayName: Pico de Gran Bahía
+	Tooltip: Puede extraer endemoniado, carmesí, meteorito, prismas marinos y cristales de prisma marino
+}
+
+HurriedVoucher: {
+	DisplayName: Vale Apresurado
+	Tooltip:
+		'''
+		Marca este objeto como favorito en tu inventario para aumentar la probabilidad de obtener una reforja deseable
+		Este efecto solo se aplica al reforjar accesorios
+		Reforja objetivo: {0}
+		Reforjas seleccionables: {1}
+		[c/aaaaaa:Shift-<right> en tu inventario para alternar entre las reforjas objetivo]
+		'''
+	SalesPitch:
+		'''
+		'Ese duende de ahí solo te está estafando para sacarte tu dinero, ¿sabes? ¡Pero no te preocupes, Hoggart y yo tenemos una solución para eso!'
+		'¡Solo dale esto y mira cómo martilla tu equipo como si hubiera sido tocado por la inspiración divina! ¡Será como un objeto nuevo!'
+		'''
+}
+
+InfernaCutter: {
+	DisplayName: Cortadora Inferna
+	Tooltip:
+		'''
+		Los golpes críticos con la hoja causan pequeñas explosiones
+		Genera una serie de pequeñas chispas al blandirse
+		'''
+}
+
+MarniteDeconstructor: {
+	DisplayName: Deconstructor de Marnite
+	Tooltip:
+		'''
+		Su motor genera rayos de luz sólida capaces de excavar paredes desde una gran distancia
+		{$Common.ArmorPenetration}
+		'''
+}
+
+MarniteObliterator: {
+	DisplayName: Obliterador de Marnite
+	Tooltip:
+		'''
+		Utiliza un foco de diamante para proyectar un rayo excavador de luz de largo alcance
+		{$Common.ArmorPenetration}
+		'''
+}
+
+MomentumCapacitor: {
+	DisplayName: Capacitor de Impulso
+	GFBName: Rompecargas
+	Tooltip: "[GFB]"
+	TooltipNormal:
+		'''
+		Mientras usas el Capacitor de Impulso,
+		tu velocidad máxima aumentará continua e incontrolablemente
+		Este efecto solo funciona si no hay jefes vivos
+		'''
+	TooltipGFB:
+		'''
+		El buen rato
+		Ve rápido
+		ADVERTENCIA: Podría tener resultados desastrosos
+		Solo funciona si no hay jefes vivos
+		'''
+}
+
+MonolithHammer: {
+	DisplayName: Martillo de Monolito
+	Tooltip: ""
+}
+
+NormalityRelocator: {
+	DisplayName: Reubicador de Normalidad
+	Tooltip:
+		'''
+		Presiona [KEY] para teletransportarte a la posición del ratón
+		La velocidad de caída se duplica durante 0.5 segundos después de teletransportarse
+		La teletransportación se desactiva mientras el estado Caos esté activo
+		Funciona mientras está en el inventario
+		'Estaré allí en un abrir y cerrar de ojos'
+		'''
+}
+
+OddVoucher: {
+	DisplayName: Vale Extraño
+	Tooltip:
+		'''
+		Marca este objeto como favorito en tu inventario para aumentar la probabilidad de obtener una reforja deseable
+		Este efecto solo se aplica al reforjar accesorios
+		Reforja objetivo: {0}
+		Reforjas seleccionables: {1}
+		[c/aaaaaa:Shift-<right> en tu inventario para alternar entre las reforjas objetivo]
+		'''
+	SalesPitch:
+		'''
+		'Ese duende de ahí solo te está estafando para sacarte tu dinero, ¿sabes? ¡Pero no te preocupes, Hoggart y yo tenemos una solución para eso!'
+		'¡Solo dale esto y mira cómo martilla tu equipo como si hubiera sido tocado por la inspiración divina! ¡Será como un objeto nuevo!'
+		'''
+}
+
+ReefclawHamaxe: {
+	DisplayName: Martillo Hacha de Garra de Arrecife
+	Tooltip: ""
+}
+
+RelicOfConvergence: {
+	DisplayName: Reliquia de la Convergencia
+	Tooltip:
+		'''
+		Crea un cristal profanado en el cursor que canaliza un aura curativa antes de hacerse añicos
+		Todos los jugadores dentro del área de efecto se curan por {0} PV
+		Los aliados obtienen un 50% de curación extra
+		Sostener el cristal reduce el daño de todos los súbditos, disminuye la defensa y aumenta el daño recibido
+		[c/FF8C00:Nunca antes había conocido la bondad. Ni mis compañeros ni mi familia tenían una pizca de compasión por mí.]
+		[c/FF8C00:Deseaba a alguien en quien pudiera confiar. Una presencia que me limpiara de la ansiedad.]
+		[c/FF8C00:Y cuando vi Su sonrisa radiante al conocernos, supe que finalmente la había encontrado.]
+		'''
+}
+
+RelicOfResilience: {
+	DisplayName: Reliquia de la Resiliencia
+	Tooltip:
+		'''
+		Sostener este objeto crea fragmentos de roca que orbitan alrededor de ti y de tus aliados cercanos
+		Después de 5 segundos, la reliquia retendrá las rocas orbitantes incluso cuando no se sostenga el objeto
+		Continuar sosteniendo el objeto aumentará constantemente la cantidad de rocas y defensas hasta alcanzar su potencia máxima
+		Mientras te orbitan, tu defensa mínima se establece en 200 y la reducción de daño mínima en 10%
+		Recibir un golpe o presionar <right> mientras sostienes este objeto atraerá los fragmentos y luego los lanzará hacia afuera, lisiando a los enemigos golpeados
+		Este efecto tiene un enfriamiento de 10 segundos después de recibir un golpe, pero se recarga más rápido si se sostiene el objeto
+		Sostener el escudo reduce enormemente el daño de todos los súbditos
+		[c/FF8C00:Vi una masacre y no hice nada para detenerla. Con mi juramento roto, fui marginado.]
+		[c/FF8C00:Mi voluntad de seguir adelante se desvaneció. Mi último deseo fue simplemente no morir solo.]
+		[c/FF8C00:Pero cuando Ella puso su fe en mi escudo, decidí que nunca más lo dejaría flaquear.]
+		'''
+}
+
+SeismicHampick: {
+	DisplayName: Picomartillo Sísmico
+	Tooltip:
+		'''
+		Capaz de extraer Ladrillos de Lihzahrd
+		Presiona <left> para usarlo como pico
+		Presiona <right> para usarlo como martillo
+		'''
+}
+
+ShardlightPickaxe: {
+	DisplayName: Pico de Luz de Fragmentos
+	Tooltip: ""
+}
+
+SirenproofEarMuffs: {
+	DisplayName: Orejeras a Prueba de Sirenas
+	Tooltip:
+		'''
+		Activa este objeto para evitar que aparezca Anahita
+		Presiona <right> para activar/desactivar
+		[STATE]
+		'''
+}
+
+SkyfringePickaxe: {
+	DisplayName: Pico de Borde Celestial
+	Tooltip: Capaz de extraer piedra infernal
+}
+
+SulphurousSeaWorldSideChanger: {
+	DisplayName: Cambiador de Lado del Mundo del Mar Sulfuroso
+	Tooltip:
+		'''
+		Genera y usa esto si tu océano normal cuenta como un Mar Sulfuroso
+		Esto también arreglará El Abismo si está roto
+		'''
+}
+
+SuperDummy: {
+	DisplayName: Súper Muñeco de Pruebas
+	Tooltip:
+		'''
+		Crea un súper muñeco de pruebas
+		Regenera 1 millón de vida por segundo
+		No morirá al recibir daño en el tiempo por efectos negativos
+		<right> para matar a todos los súper muñecos de pruebas
+		Solo puede haber 50 súper muñecos de pruebas a la vez
+		'''
+}
+
+TectonicTruncator: {
+	DisplayName: Truncador Tectónico
+	Tooltip: ""
+}
+
+TheGift: {
+	DisplayName: El Regalo
+	Tooltip:
+		'''
+		Deja caer este regalo sobre uno de los PNJ de tu ciudad como muestra de agradecimiento
+		Puede hacer que te amen o te odien, ¡nunca lo sabrás hasta que lo abran!
+		El efecto durará 24 horas
+		'''
+	SalesPitch:
+		'''
+		'Comprar regalos para la gente es difícil, y tienes que asegurarte de que tu gente esté feliz, así que ¿qué te parece si matamos dos pájaros de un tiro?'
+		'¡Entrégale esta ingeniosa caja a alguien y de repente contendrá el regalo perfecto para la persona a la que se la diste!' 
+		'''
+}
+
+TorrentialTear: {
+	DisplayName: Lágrima Torrencial
+	Tooltip:
+		'''
+		Invoca la lluvia
+		La lluvia comenzará poco después de usar este objeto
+		Si se usa mientras llueve, la lluvia se detendrá poco después
+		'''
+}
+
+UnbreakableVoucher: {
+	DisplayName: Vale Irrompible
+	Tooltip:
+		'''
+		Marca este objeto como favorito en tu inventario para aumentar la probabilidad de obtener una reforja deseable
+		Este efecto solo se aplica al reforjar accesorios
+		Reforja objetivo: {0}
+		Reforjas seleccionables: {1}
+		[c/aaaaaa:Shift-<right> en tu inventario para alternar entre las reforjas objetivo]
+		'''
+	SalesPitch:
+		'''
+		'Ese duende de ahí solo te está estafando para sacarte tu dinero, ¿sabes? ¡Pero no te preocupes, Hoggart y yo tenemos una solución para eso!'
+		'¡Solo dale esto y mira cómo martilla tu equipo como si hubiera sido tocado por la inspiración divina! ¡Será como un objeto nuevo!'
+		'''
+}
+
+VoodooDemonVoodooDoll: {
+	DisplayName: Muñeco Vudú del Demonio Vudú
+	Tooltip:
+		'''
+		Activa este objeto para evitar que aparezcan demonios vudú cerca de ti
+		Presiona <right> para activar/desactivar
+		[STATE]
+		'''
+}
+
+WulfrumDiggingTurtle: {
+	DisplayName: Tortuga Excavadora de Wulfrum
+	Tooltip:
+		'''
+		Lanza un artilugio minero destartalado para excavar un pequeño túnel
+		En caso de emergencia, presiona <right> para detonar instantáneamente todas tus tortugas excavadoras
+		La tortuga escala con tu poder de pico
+		'''
+}
+
+WulfrumDrill: {
+	DisplayName: Taladro de Wulfrum
+	Tooltip: "{$Common.ArmorPenetration}"
+}
+
+WulfrumScaffoldKit: {
+	DisplayName: Kit de Andamiaje de Wulfrum
+	Tooltip:
+		'''
+		Coloca andamios de metal temporales. Consume [i:CalamityMod/WulfrumMetalScrap] {$Items.Materials.WulfrumMetalScrap.DisplayName} por cada {0} bloques construidos
+		El andamio necesita estar adyacente a un bloque sólido para ser colocado
+		'Para cuando necesitas construir algo rápido y no necesitas que dure.'
+		'''
+}
+
+WulfrumTreasurePinger: {
+	DisplayName: Localizador de Tesoros Wulfrum
+	Tooltip:
+		'''
+		Localiza metal cercano que, con suerte, será más valioso que el wulfrum
+		Este artilugio parece increíblemente de mala calidad. [c/FC4903:Seguro que se romperá más temprano que tarde]
+		'''
+}

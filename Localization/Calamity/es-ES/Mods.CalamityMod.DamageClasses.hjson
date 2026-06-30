@@ -1,0 +1,7 @@
+AverageDamageClass.DisplayName: daño promedio
+MeleeRangedHybridDamageClass.DisplayName: daño cuerpo a cuerpo/a distancia
+RogueDamageClass.DisplayName: daño de pícaro
+StealthDamageClass.DisplayName: daño de sigilo
+TrueMeleeDamageClass.DisplayName: daño cuerpo a cuerpo verdadero
+TrueMeleeNoSpeedDamageClass.DisplayName: daño cuerpo a cuerpo verdadero
+VoidTagDmgType.DisplayName: daño del vacío

@@ -1,0 +1,152 @@
+AureateBooster: {
+	DisplayName: Propulsor Áureo
+	Tooltip:
+		'''
+		{$CommonItemTooltip.FlightAndSlowfall}
+		{$CommonItemTooltip.PressUpToBooster}
+		'¡Velocidad Mach con estilo!'
+		'''
+}
+
+ElysianWings: {
+	DisplayName: Alas Elíseas
+	Tooltip:
+		'''
+		{$CommonItemTooltip.FlightAndSlowfall}
+		Bendecidas por la Llama Profanada
+		'''
+}
+
+ExodusWings: {
+	DisplayName: Alas del Éxodo
+	Tooltip:
+		'''
+		{$CommonItemTooltip.FlightAndSlowfall}
+		Otorga [cbuffplr:CalamityMod/EmpyreanWrath] permanente mientras llevas la armadura Empírea
+		Pulsando con un latido alienígena
+		'''
+}
+
+HadalMantle: {
+	DisplayName: Manto Hadal
+	Tooltip:
+		'''
+		{$CommonItemTooltip.FlightAndSlowfall}
+		Impulsado por la furia de las profundidades
+		'''
+}
+
+HadarianWings: {
+	DisplayName: Alas Hadarianas
+	Tooltip:
+		'''
+		{$CommonItemTooltip.FlightAndSlowfall}
+		{$CommonItemTooltip.PressDownToHover}
+		Impulsadas por la Infección Astral
+		'''
+}
+
+MOAB: {
+	DisplayName: MOAB
+	Tooltip:
+		'''
+		{$CommonItemTooltip.FlightAndSlowfall}
+		{$CommonItemTooltip.PressUpToBooster}
+		32% de velocidad de salto aumentada y permite el salto automático
+		Otorga al jugador saltos en el aire de nube, ventisca y tormenta de arena
+		[c/aaaaaa:Shift-<right> este objeto en tu inventario para activar/desactivar el] [i:Jetpack] [c/aaaaaa:jetpack]
+		'La Madre de Todos los Globos'
+		'''
+}
+
+MoonWalkers: {
+	DisplayName: Caminadores Lunares
+	TreadsName: Botas Lunares
+	Tooltip:
+		'''
+		{$CommonItemTooltip.FlightAndSlowfall}
+		24% de aceleración de carrera aumentada
+		Proporciona los efectos de las [i:CalamityMod/AngelTreads] Pisadas Angelicales
+		Otorga inmunidad a la lava
+		[c/aaaaaa:Shift-<right> este objeto en tu inventario para activar/desactivar las] [i:AngelWings] [c/aaaaaa:alas]
+		'¡Hee hee!'
+		'''
+}
+
+SeraphTracers: {
+	DisplayName: Rastreadoras Serafín
+	TreadsName: Pisadas Serafín
+	Tooltip:
+		'''
+		{$CommonItemTooltip.FlightAndSlowfall}
+		50% de aceleración de carrera aumentada
+		Proporciona los efectos de las [i:CalamityMod/AngelTreads] Pisadas Angelicales
+		Otorga inmunidad a la lava y a bloques dañinos, incluido el [i:CalamityMod/AuricOre] Mineral Áurico
+		[c/aaaaaa:Shift-<right> este objeto en tu inventario para activar/desactivar las] [i:AngelWings] [c/aaaaaa:alas]
+		'¡Llevando la velocidad AÚN MÁS ALLÁ!'
+		'''
+}
+
+SilvaWings: {
+	DisplayName: Alas de Silva
+	Tooltip:
+		'''
+		{$CommonItemTooltip.FlightAndSlowfall}
+		'La más pura de la naturaleza'
+		'''
+}
+
+SkylineWings: {
+	DisplayName: Alas del Horizonte
+	Tooltip: "{$CommonItemTooltip.FlightAndSlowfall}"
+}
+
+SoulofCryogen: {
+	DisplayName: Alma de Cryogen
+	Tooltip:
+		'''
+		{$CommonItemTooltip.FlightAndSlowfall}
+		Carámbanos llueven mientras vuelas
+		'''
+}
+
+StarlightWings: {
+	DisplayName: Alas de Luz Estelar
+	Tooltip:
+		'''
+		{$CommonItemTooltip.FlightAndSlowfall}
+		Alas del Ruiseñor
+		'''
+}
+
+TarragonWings: {
+	DisplayName: Alas de Estragón
+	Tooltip:
+		'''
+		{$CommonItemTooltip.FlightAndSlowfall}
+		'Nacidas de la jungla'
+		'''
+}
+
+VoidStriders: {
+	DisplayName: Zancadores del Vacío
+	TreadsName: Patadas del Vacío
+	Tooltip:
+		'''
+		{$CommonItemTooltip.FlightAndSlowfall}
+		36% de aceleración de carrera aumentada
+		Proporciona los efectos de las [i:CalamityMod/AngelTreads] Pisadas Angelicales
+		Otorga inmunidad a la lava
+		[c/aaaaaa:Shift-<right> este objeto en tu inventario para activar/desactivar las] [i:AngelWings] [c/aaaaaa:alas]
+		'¡Velocidad ridícula!'
+		'''
+}
+
+WingsofRebirth: {
+	DisplayName: Alas del Renacer
+	Tooltip:
+		'''
+		{$CommonItemTooltip.FlightAndSlowfall}
+		'Resplandecientes hasta el final'
+		'''
+}

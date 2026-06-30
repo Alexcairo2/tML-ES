@@ -1,0 +1,73 @@
+// Drop conditions
+Drops: {
+	CataclysmKilledLast: Cae si es derrotado después de {$NPCs.Catastrophe.DisplayName}
+	CatastropheKilledLast: Cae si es derrotado después de {$NPCs.Cataclysm.DisplayName}
+	Cynosure: Tras derrotar a Draedon y a Calamitas
+	DownedDS: Tras derrotar al Azote Desértico
+	DownedCrab: Tras derrotar a Crabulon
+	DownedHM: Tras derrotar a la Mente Colmena
+	DownedPerfs: Tras derrotar a los Perforadores
+	DownedHMOrPerfs: Tras derrotar a la Mente Colmena o a los Perforadores
+	DownedSG: Tras derrotar al Dios Slime
+	DownedCryo: Tras derrotar a Cryogen
+	DownedAS: Tras derrotar al Azote Acuático
+	DownedBrim: Tras derrotar al Elemental de Azufre
+	DownedDest: Tras derrotar al Destructor
+	DownedCal: Tras derrotar al Clon de Calamitas
+	DownedCalPlant: Tras derrotar al Clon de Calamitas o a Plantera
+	DownedLevi: Tras derrotar al Leviatán y a Anahita
+	DownedAureus: Tras derrotar a Astrum Aureus
+	DownedPBG: Tras derrotar al Goliat Portador de la Plaga
+	DownedRav: Tras derrotar al Devastador
+	DownedAD: Tras derrotar a Astrum Deus
+	DownedGuard: Tras derrotar a los Guardianes Profanados
+	DownedBirb: Tras derrotar a Dragonfolly
+	DownedProv: Tras derrotar a Providencia
+	DownedSig: Tras derrotar a Signus
+	DownedSW: Tras derrotar al Tejedor de Tormentas
+	DownedCV: Tras derrotar al Vacío Incesante
+	DownedPolter: Tras derrotar a Polterghast
+	DownedOD: Tras derrotar al Viejo Duque
+	DownedDoG: Tras derrotar al Devorador de Dioses
+	DownedYharon: Tras derrotar a Yharon
+	DownedExos: Tras derrotar al Trío Mecánico Exo
+	DownedSCal: Tras derrotar a Calamitas
+	DownedAEW: Tras derrotar al Gusano Primordial
+	DownedHorribleHog: Tras derrotar al Cerdo Horrible
+	DownedClam: Tras derrotar a la Almeja Gigante
+	DownedClamHM: Tras derrotar a la Almeja Gigante en Modo Difícil
+	DownedGSS: Tras derrotar al Gran Tiburón de Arena
+	DownedBetsy: Tras derrotar a Betsy
+	DownedT1AR: Tras completar el primer nivel de la Lluvia Ácida
+	DownedT2AR: Tras completar el segundo nivel de la Lluvia Ácida
+	FirstKill: Solo cae en la primera muerte
+	MechBoss: Cae en la primera muerte del último Jefe Mecánico
+	ProvidenceEnraged: Cae si Providencia fue enfurecida
+	ProvidenceChallenge:
+		'''
+		Cae si Providencia fue derrotada solo con el [i:CalamityMod/ProfanedSoulArtifact] Artefacto del Alma Profanada
+		{$Bestiary_ItemDropConditions.IsExpert}
+		'''
+}
+
+// Other conditions
+HasFlareGun: Al sostener una mejora de Pistola de Bengalas
+LacewingBestiary: Cuando al menos el 40% del Bestiario ha sido completado
+CrescentMoons: Durante una luna creciente
+GibbousMoons: Durante una luna gibosa
+HasRogueArmor: Al llevar armadura de pícaro
+HasWings: Al llevar alas
+InAstral: En la Infección Astral
+InCrag: En las Grietas de Azufre
+InSulph: En el Mar Sulfuroso
+InSunken: En el Mar Hundido
+InRev: En Modo Revengeance
+InRevOrMM: En Modo Revengeance o en Modo Maestro
+HasFoundCorruptionEffigy: Tras obtener la Efigie de la Corrupción
+HasFoundCrimsonEffigy: Tras obtener la Efigie del Carmesí
+HasFoundUnstableGraniteCore: Tras obtener el Núcleo de Granito Inestable
+HasFoundGladiatorsLocket: Tras obtener el Medallón del Gladiador
+HasFoundFrozenCube: Tras obtener el Cubo Congelado
+HasFoundTrinketOfChi: Tras obtener el Amuleto de Chi
+HasFoundFungalSymbiote: Tras obtener el Simbionte Fúngico
+HasFoundLuxorsGift: Tras obtener el Regalo de Luxor

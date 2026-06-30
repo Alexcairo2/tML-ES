@@ -1,0 +1,1515 @@
+AcesHigh: {
+	DisplayName: El As al Máximo
+	Tooltip:
+		'''
+		Dispara una cadena de cartas con efectos variados según el tipo
+		Los Corazones otorgan robo de vida
+		Las Picas perforan enemigos
+		Los Diamantes explotan violentamente
+		Los Tréboles se dividen en tres
+		'''
+}
+
+AcidwoodBow: {
+	DisplayName: Arco de Madera Ácida
+	Tooltip: ""
+}
+
+AdamantiteParticleAccelerator: {
+	DisplayName: Acelerador de Partículas de Adamantita
+	Tooltip: Carga y dispara 2 rayos de polaridades opuestas. Golpear con la polaridad opuesta aumenta el daño
+}
+
+Alluvion: {
+	DisplayName: Aluvión
+	Tooltip:
+		'''
+		Lanza una ráfaga de seis flechas a la vez
+		Convierte flechas de madera en una combinación de flechas de tiburón, torrencial y tifón
+		'''
+}
+
+AngelicShotgun: {
+	DisplayName: Escopeta Angelical
+	Tooltip:
+		'''
+		Cada disparo lanza un rayo radiante de [cbuff:CalamityMod/HolyFlames] desde el cielo
+		Las balas de mosquete se convierten en balas de punta sagrada que también potencian el rayo
+		'Combatiendo hasta ganar la guerra'
+		'''
+}
+
+Animosity: {
+	DisplayName: Animosidad
+	GFBName: Escopeta Llena de Odio
+	Tooltip: "[GFB]"
+	TooltipNormal:
+		'''
+		Dispara una ráfaga de escopeta concentrada imbuida con [cbuff:CalamityMod/BrimstoneFlames]
+		Presiona <right> para disparar una poderosa bala de azufre que hace que los enemigos queden con [cbuff:CalamityMod/MarkedforDeath]
+		'''
+	TooltipGFB:
+		'''
+		[c/9c0b0b:Dispara una ráfaga de escopeta llena de odio... entre otras cosas]
+		[c/ac14ba:Presiona <right> para usar una bala de rifle maldita en su lugar]
+		[c/454545:Por el Ojo de Cthulhu, el diente de Yharon...]
+		'''
+}
+
+AntiMaterielRifle: {
+	DisplayName: Rifle Anti-Material
+	Tooltip:
+		'''
+		Convierte balas de mosquete en balas de francotirador calibre .50 que destrozan la defensa enemiga y hacen que los enemigos queden con [cbuff:CalamityMod/MarkedforDeath]
+		Libera un segundo enjambre de balas al impactar, con balas adicionales en golpes críticos
+		'''
+}
+
+Arbalest: {
+	DisplayName: Arbalesta
+	Tooltip:
+		'''
+		Dispara una andanada de 6 flechas de alta velocidad
+		Las flechas comienzan pequeñas y crecen con el disparo continuo
+		El daño, dispersión y retroceso de las flechas escalan con su tamaño
+		'''
+}
+
+AquashardShotgun: {
+	DisplayName: Escopeta de Fragmentos Aqua
+	Tooltip: Convierte balas de mosquete en fragmentos aqua que se dividen al impactar a un enemigo
+}
+
+Archerfish: {
+	DisplayName: Pez Arquero
+	Tooltip:
+		'''
+		Convierte balas de mosquete en chorros de agua
+		{$CommonItemTooltip.PercentChanceToSaveAmmo}
+		'''
+}
+
+ArcNovaDiffuser: {
+	DisplayName: Difusor Nova de Arco
+	Tooltip:
+		'''
+		Carga y dispara una ráfaga rápida de pernos nova
+		La primera etapa de carga aumenta la cadencia de disparo de la ráfaga
+		La segunda etapa reemplaza la ráfaga rápida con una explosión nova devastadora que siempre golpea críticamente
+		'''
+}
+
+Arietes41: {
+	DisplayName: Arietes 41
+	Tooltip:
+		'''
+		Alterna entre disparar balas imbuidas con robo de vida y [cbuff:Electrified]
+		Las balas imbuidas eléctricas crean una pequeña explosión de choque al impactar, causando daño adicional al enemigo
+		'''
+}
+
+ArterialAssault: {
+	DisplayName: Asalto Arterial
+	Tooltip:
+		'''
+		Dispara un grupo de 5 flechas de sangre teledirigidas
+		Estas flechas de sangre estallan en orbes de sangre al golpear a un enemigo
+		Recoger estos orbes de sangre reduce la duración de [cbuffplr:PotionSickness]
+		'''
+}
+
+AstralBlaster: {
+	DisplayName: Exterminador Astral
+	Tooltip: Convierte balas de mosquete en balas astrales teledirigidas que esparcen [cbuff:CalamityMod/AstralInfectionDebuff]
+}
+
+AstrealDefeat: {
+	DisplayName: Derrota Astreal
+	Tooltip: Todas las flechas se convierten en Flechas Astrales que emiten llamas al viajar
+}
+
+Auralis: {
+	DisplayName: Auralis
+	Tooltip:
+		'''
+		Dispara una bala brillante de alta velocidad que hace que los enemigos queden con [cbuff:CalamityMod/MarkedforDeath]
+		Presiona <right> para alejarte
+		Permanecer quieto otorga bonificaciones de daño crecientes de hasta 25%
+		Permanecer quieto 5 o más segundos usando la mira invocará una aurora
+		La aurora reduce el daño del próximo proyectil que te golpee en 100
+		Este efecto dura hasta 20 segundos y tiene un tiempo de recarga de 30 segundos
+		'''
+}
+
+AuroraBlazer: {
+	DisplayName: Abrasador Aurora
+	Tooltip:
+		'''
+		Escupe un flujo de nebulosa que forma un patrón de estrella y esparce [cbuff:CalamityMod/AstralInfectionDebuff]
+		Usa gel como munición
+		'''
+}
+
+Barinade: {
+	DisplayName: Barinade
+	Tooltip: Dispara dos flechas de aleta convergentes de alta velocidad que surcan el aire fácilmente
+}
+
+Barinautical: {
+	DisplayName: Barinautical
+	Tooltip: Convierte flechas de madera en cadenas de 3 flechas de rayo eléctrico que explotan
+}
+
+BarracudaGun: {
+	DisplayName: Pistola Barracuda
+	Tooltip: Dispara cuatro barracudas que se adhieren a los enemigos y los destrozan
+}
+
+BladedgeRailbow: {
+	DisplayName: Arcocarril de Filo Cortante
+	Tooltip: "[GFB]"
+	TooltipNormal: Dispara una dispersión de 4 flechas y 2 hojas a la vez
+	TooltipGFB: Dispara una dispersión de 4 flechas... junto con otras cosas varias
+}
+
+BlightSpewer: {
+	DisplayName: Escupidor de Plaga
+	Tooltip:
+		'''
+		Dispara nubes de nanomáquinas de [cbuff:CalamityMod/Plague] que se adhieren a bloques
+		Las nanomáquinas se enfocan agresivamente en los enemigos cercanos
+		{$CommonItemTooltip.PercentChanceToSaveAmmo}
+		'''
+}
+
+BlissfulBombardier: {
+	DisplayName: Bombardero Dichoso
+	Tooltip:
+		'''
+		Lanza un misil cristalino al cielo, haciendo llover fuego sagrado sobre el cursor
+		El misil busca incansablemente un objetivo antes de estallar en una explosión masiva
+		'''
+}
+
+BloodBoiler: {
+	DisplayName: Hervidero de Sangre
+	Tooltip:
+		'''
+		Dispara dos corrientes de sangrefuego que regresan a ti
+		El sangrefuego que regresa reduce [cbuffplr:PotionSickness] si golpeó a un enemigo
+		Usa tu salud como munición
+		20% de probabilidad de ahorrar salud
+		'''
+}
+
+BlossomFlux: {
+	DisplayName: Flujo Floreciente
+	Tooltip:
+		'''
+		Dispara un flujo de hojas
+		Presiona <right> para disparar un orbe de esporas que explota en una nube de gas de esporas
+		'''
+	LegendaryText:
+		'''
+		'...Ya veo... Mis hijos estaban tan aterrorizados por el Buscador de Dioses que eligieron profanar la muerte por un guardián a mi imagen.
+		Lo siento. No pude ver vuestros corazones. La desesperación que os infligí... Debería haber previsto las consecuencias de quitaros a vuestro guardián.
+		Pero ya no seréis ignorados.
+		Escúchame, bestia floral, por mi autoridad. No arrasarás más este lugar; guarda la morada y los recuerdos de quienes alguna vez vivieron aquí.
+		Canaliza todo el poder de este dosel y de los muertos que hay en ti, para que ningún Buscador de Dioses, humilde o poderoso, profane jamás este asentamiento.
+		Defiéndelo hasta los últimos rayos del sol, para que mi héroe aún tenga un hogar.'
+		'''
+}
+
+BrimstoneFury: {
+	DisplayName: Furia de Azufre
+	Tooltip: Convierte flechas de madera en una dispersión de 3 pernos de azufre
+}
+
+BulletFilledShotgun: {
+	DisplayName: Escopeta Repleta de Balas
+	Tooltip:
+		'''
+		Dispara una masiva dispersión de balas que rebotan
+		Las balas intentan rebotar hacia los enemigos tras rebotar dos veces
+		Consume cinco balas por uso
+		'¿Apuntar? ¿Eso qué es?'
+		'''
+}
+
+Buzzkill: {
+	DisplayName: Aguafiestas
+	Tooltip:
+		'''
+		Mantén <left> para acelerar una sierra circular que causa daño de corto alcance
+		Suéltalo para disparar la sierra, que rebota en bloques y destroza enemigos
+		Acelerar la sierra aumenta su daño y permite que perfore más enemigos
+		'No confundir con la Escopeta Aserrada'
+		'''
+}
+
+ChickenCannon: {
+	DisplayName: Cañón de Pollos
+	Tooltip: Dispara bengalas de pollo que crean enormes explosiones de [cbuff:CalamityMod/Dragonfire]
+}
+
+ChromaticEruption: {
+	DisplayName: Erupción Cromática
+	Tooltip:
+		'''
+		Se carga para escupir llamas de arcoíris y pares de bengalas cromáticas teledirigidas
+		Usa gel como munición
+		{$CommonItemTooltip.PercentChanceToSaveAmmo}
+		'''
+}
+
+ClamorRifle: {
+	DisplayName: Rifle del Clamor
+	Tooltip:
+		'''
+		Convierte balas de mosquete en pernos de energía teledirigidos
+		Los pernos de energía aturden brevemente a los enemigos
+		'''
+}
+
+CleansingBlaze: {
+	DisplayName: Llamarada Purificadora
+	Tooltip:
+		'''
+		Libera una ráfaga de [cbuff:CalamityMod/GodSlayerInferno] que puede atravesar bloques
+		Usa gel como munición
+		'''
+}
+
+ClockworkBow: {
+	DisplayName: Arco de Relojería
+	Tooltip:
+		'''
+		Mantén <left> para cargar hasta seis pernos de precisión
+		Cuantos más pernos de precisión se carguen, más fuerte golpean
+		'''
+}
+
+Condemnation: {
+	DisplayName: Condena
+	Tooltip:
+		'''
+		Dispara poderosos pernos escarlatas imbuidos de magia malévola
+		Mantén <left> para cargar hasta nueve pernos en una potente ráfaga
+		'''
+}
+
+ConferenceCall: {
+	DisplayName: Llamada en Conferencia
+	Tooltip:
+		'''
+		Dispara una dispersión compacta de balas que invocan más balas desde el cielo
+		[c/768EE6:@everyone]
+		'''
+}
+
+Contagion: {
+	DisplayName: Contagio
+	Tooltip: Dispara flechas de contagio que dejan orbes explosivos a su paso
+}
+
+ContinentalGreatbow: {
+	DisplayName: Gran Arco Continental
+	Tooltip:
+		'''
+		Las flechas de madera se encienden con fuego
+		Dispara 3 flechas a la vez
+		Dispara 2 flechas adicionales de fuego infernal o icor
+		'''
+}
+
+CorinthPrime: {
+	DisplayName: Corinth Prime
+	Tooltip:
+		'''
+		Dispara una ráfaga concentrada de 6 balas de alta velocidad
+		Presiona <right> para disparar una granada
+		La granada emite una explosión masiva si no toca nada durante 2 segundos
+		De lo contrario, la granada emite una explosión extremadamente débil
+		Convierte balas de mosquete en balas explosivas de alta velocidad
+		'''
+}
+
+CorrodedCaustibow: {
+	DisplayName: Arco Cáustico Corroído
+	Tooltip: Convierte flechas de madera en proyectiles lentos y poderosos que dejan un aura irradiada
+}
+
+CrackshotColt: {
+	DisplayName: Colt del Tirador Experto
+	Tooltip:
+		'''
+		Presiona <right> para lanzar una Moneda de Cobre al aire
+		Golpear una moneda con una bala hace que rebote hacia el enemigo más cercano
+		Se pueden lanzar hasta 4 monedas simultáneamente, y los disparos rebotan en múltiples monedas si es posible
+		Las monedas garantizan un golpe crítico tras un breve retraso
+		'''
+}
+
+DaemonsFlame: {
+	DisplayName: Llama del Demonio
+	Tooltip:
+		'''
+		Dispara bolas de fuego de llama demoniaca y 4 flechas regulares
+		{$CommonItemTooltip.PercentChanceToSaveAmmo}
+		'''
+}
+
+DarkechoGreatbow: {
+	DisplayName: Gran Arco de Eco Oscuro
+	Tooltip:
+		'''
+		Dispara dos flechas a la vez
+		Dispara un dardo de cristal adicional
+		'''
+}
+
+DeadSunsWind: {
+	DisplayName: Viento del Sol Muerto
+	Tooltip:
+		'''
+		Dispara una ráfaga concentrada de plasma cósmico sobrecalentado que explota y puede rebotar en bloques
+		Los disparos se dirigen agresivamente a los enemigos tras rebotar
+		Los golpes consecutivos causan explosiones más grandes
+		Usa gel como munición
+		'''
+}
+
+DeepcoreGK2: {
+	DisplayName: Deepcore GK2
+	Tooltip:
+		'''
+		Las balas son el doble de grandes e ignoran 10 puntos de defensa enemiga
+		'¡Por la roca y la piedra!'
+		'''
+}
+
+DragonsBreath: {
+	DisplayName: Aliento del Dragón
+	Tooltip:
+		'''
+		Dispara ráfagas intensas de [cbuff:CalamityMod/Dragonfire] a un ritmo acelerado
+		Al disparar durante suficiente tiempo, comenzarás a usar un cartucho de energía
+		Mientras usas un cartucho, disparas un rayo dracónico de [cbuff:CalamityMod/Dragonfire] puro que no consume munición
+		Una vez eyectado el cartucho, volverás a la cadencia original
+		{$CommonItemTooltip.PercentChanceToSaveAmmo}
+		'''
+}
+
+Drataliornus: {
+	DisplayName: Drataliornus
+	Tooltip:
+		'''
+		Dispara un flujo escalado de flechas de [cbuff:CalamityMod/Dragonfire]
+		Las bolas de fuego llueven meteoros, dejan rastros de polvo de dragón y lanzan pernos adicionales a velocidad máxima
+		Recibir daño mientras disparas el flujo lo interrumpirá y reducirá el tiempo de vuelo con alas
+		Presiona <right> para disparar dos devastadoras andanadas de cinco bolas de fuego potenciadas
+		'Solo evita que te golpeen'
+		'''
+}
+
+DriftwoodBow: {
+	DisplayName: Arco de Madera a la Deriva
+	Tooltip: Este arco es más poderoso cuando estás mojado
+}
+
+EternalBlizzard: {
+	DisplayName: Ventisca Eterna
+	Tooltip: Dispara una flecha de carámbano adicional que se congela en un carámbano en caída
+}
+
+Eviscerator: {
+	DisplayName: Eviscerador
+	Tooltip: Convierte balas de mosquete en coágulos de sangre de movimiento rápido
+}
+
+FetidEmesis: {
+	DisplayName: Émesis Fétida
+	Tooltip:
+		'''
+		Dispara un flujo acelerado de balas hasta que el cañón se sobrecalienta
+		Cuando el cañón se sobrecalienta, se vomitan trozos fétidos
+		Tras disparar, la pistola debe enfriarse antes de poder usarse de nuevo
+		{$CommonItemTooltip.PercentChanceToSaveAmmo}
+		'''
+}
+
+FirestormCannon: {
+	DisplayName: Cañón de Tormenta de Fuego
+	Tooltip:
+		'''
+		Dispara una rápida andanada de bengalas que acumula calor abrasador en el arma
+		Disparar durante demasiado tiempo sobrecalienta el arma, dejándola inutilizable por un momento y haciendo que quedes con [cbuffplr:OnFire]
+		Presiona <right> para guardar el arma, lo que conserva su calor
+		{$CommonItemTooltip.PercentChanceToSaveAmmo}
+		'¿Qué podría salir mal?'
+		'''
+}
+
+FlakKraken: {
+	DisplayName: Kraken de Fragmentación
+	Tooltip:
+		'''
+		Dispara pares de proyectiles antiaéreos abisales que explotan en amplios conos de metralla de tinta
+		Los proyectiles abisales estallan al llegar a la posición del cursor
+		Los impactos directos con el proyectil reducirán el daño de metralla
+		'''
+}
+
+FlakToxicannon: {
+	DisplayName: Cañón Tóxico de Fragmentación
+	Tooltip:
+		'''
+		Dispara un proyectil tóxico que explota en un cono de lodo radiactivo
+		Los proyectiles tóxicos estallan al llegar a la posición del cursor
+		Los impactos directos con el proyectil tóxico reducirán el daño del lodo
+		Usa cohetes como munición
+		'''
+}
+
+FlarewingBow: {
+	DisplayName: Arco de Ala Ardiente
+	Tooltip:
+		'''
+		Dispara una dispersión de 3 flechas
+		Las flechas de madera se convierten en murciélagos de obsidiana que se dirigen al objetivo tras perforar una vez
+		'''
+}
+
+FlurrystormCannon: {
+	DisplayName: Cañón de Tormenta de Vendaval
+	Tooltip:
+		'''
+		Dispara una cadena de bolas de nieve que se aceleran con el tiempo
+		Tiene posibilidad de disparar también un trozo de hielo que se astilla en fragmentos
+		{$CommonItemTooltip.PercentChanceToSaveAmmo}
+		'''
+}
+
+FreedomStar: {
+	DisplayName: Estrella de la Libertad
+	Tooltip:
+		'''
+		Pulsa <left> para disparar orbes de energía
+		Mantén <left> para cargar y disparar un rayo que explota al impactar
+		'''
+}
+
+FrostbiteBlaster: {
+	DisplayName: Exterminador de Mordedura de Hielo
+	Tooltip:
+		'''
+		Dispara una dispersión de 6 balas
+		Convierte balas de mosquete en carámbanos
+		'''
+}
+
+Fungicide: {
+	DisplayName: Fungicida
+	Tooltip: Convierte balas de mosquete en proyectiles fúngicos que se dividen al impactar
+}
+
+Galeforce: {
+	DisplayName: Fuerza del Vendaval
+	Tooltip: Dispara una dispersión de plumas de bajo daño
+}
+
+GoldenEagle: {
+	DisplayName: Águila Dorada
+	Tooltip: Dispara 5 balas a la vez
+}
+
+Goobow: {
+	DisplayName: Arco Baboso
+	Tooltip: Adicionalmente dispara dos corrientes de limo dañino
+}
+
+GunkShot: {
+	DisplayName: Disparo Mugriento
+	Tooltip: Dispara una dispersión de balas
+}
+
+HalibutCannon: {
+	DisplayName: Cañón de Halibut
+	Tooltip: "[GFB]"
+	TooltipNormal: "'Sí, sigue siendo demasiado poderoso'"
+	TooltipGFB: "'No, ahora es una porquería'"
+}
+
+HalleysInferno: {
+	DisplayName: Infierno de Halley
+	Tooltip:
+		'''
+		Dispara una ráfaga de chorros de fuego lunar intensamente concentrados
+		<right> para disparar rápidamente Destellos Estelares que infligen [cbuff:CalamityMod/Voidfrost]
+		Genera Destellos Estelares al golpear enemigos, según tu precisión
+		Usa gel como munición
+		'Halley llegó antes de lo esperado'
+		'''
+}
+
+HandheldTank: {
+	DisplayName: Tanque de Mano
+	Tooltip: ""
+}
+
+HavocsBreath: {
+	DisplayName: Aliento del Caos
+	Tooltip:
+		'''
+		Proyecta ráfagas cónicas de [cbuff:CalamityMod/BrimstoneFlames] abrasador
+		Usa gel como munición
+		'''
+}
+
+HeavenlyGale: {
+	DisplayName: Vendaval Celestial
+	Tooltip:
+		'''
+		Dispara un rápido flujo de exocristales supercargados
+		Mantener el arco y esperar un tiempo antes de disparar hace que los cristales sean más poderosos
+		Si los cristales son suficientemente poderosos, invocarán torrentes de exorrelámpago sobre el objetivo que golpeen
+		Los enemigos golpeados con exorrelámpago son atomizados por [cbuff:CalamityMod/MiracleBlight]
+		'''
+}
+
+Hellborn: {
+	DisplayName: Engendro del Infierno
+	Tooltip:
+		'''
+		Un arma de fuego ornamentada creada durante la Era Dracónica por el mejor maestro herrero de Azafure
+		Mantén <left> para girar la pistola en tu mano, golpeando rápidamente a los enemigos cercanos
+		Los golpes con la pistola misma añaden rondas al arma, hasta un máximo de 12
+		A costo de una ronda, mantén <right> para disparar una esfera de energía gigante con potente retroceso
+		[c/E1B65F:'Conoce la gracia de un arma forjada mediante inspiración sublime']
+		'''
+}
+
+Helstorm: {
+	DisplayName: Helstorm
+	Tooltip:
+		'''
+		Dispara dos balas a la vez
+		La pistola también causa daño a los enemigos que la tocan
+		'''
+}
+
+HoarfrostBow: {
+	DisplayName: Arco de Escarcha
+	Tooltip:
+		'''
+		Dispara dos flechas a la vez
+		Convierte flechas de madera en flechas de niebla que esparcen niebla helada al colisionar
+		'''
+}
+
+Hydra: {
+	DisplayName: Hidra
+	Tooltip:
+		'''
+		Dispara una dispersión de 3 glóbulos de sangre imbuidos con [cbuff:Venom]
+		Crece una cabeza-pistola cada 3 segundos, hasta un máximo de 3 cabezas
+		Presiona <left> para ordenar a las cabezas existentes que disparen
+		Presiona <right> para lanzar las cabezas causando poderoso daño explosivo
+		[c/9D80B0:Fusión de maquinaria pesada y sangre de Lerna]
+		'''
+}
+
+Infinity: {
+	DisplayName: Infinito
+	Tooltip:
+		'''
+		Dispara un doble flujo de pernos de energía que se dividen
+		{$Common.ArmorPenetration}
+		{$CommonItemTooltip.PercentChanceToSaveAmmo@1}
+		'Dicen que el infinito no tiene fin, pero lo sostienes en tus manos'
+		'''
+}
+
+Karasawa: {
+	DisplayName: Karasawa
+	Tooltip: ...Esto es pesado... demasiado pesado
+}
+
+Kingsbane: {
+	DisplayName: Perdición del Rey
+	Tooltip:
+		'''
+		Tras acelerar, dispara balas rápidamente
+		Cuando dejas de disparar, liberas una andanada de balas aúricas
+		Las balas aúricas se dirigen agresivamente a los enemigos, ignoran 50 puntos de defensa e infligen [cbuff:CalamityMod/AuricRebuke]
+		Consume munición constantemente mientras se usa
+		{$CommonItemTooltip.PercentChanceToSaveAmmo}
+		'''
+}
+
+Leviatitan: {
+	DisplayName: Leviatitán
+	Tooltip:
+		'''
+		Dispara ráfagas acuáticas de alta velocidad
+		Libera aberraciones teledirigidas que destrozan la defensa enemiga cada seis disparos
+		<right> para vomitar un meteoro que explota al impactar
+		'La L de LMG significa Leviatán'
+		'''
+}
+
+LunarianBow: {
+	DisplayName: Arco Lunario
+	Tooltip:
+		'''
+		Dispara dos flechas a la vez
+		Convierte flechas de madera en pernos de energía deslizantes
+		'''
+}
+
+M1Garand: {
+	DisplayName: M1 Garand
+	Tooltip:
+		'''
+		Convierte balas en proyectiles .30-06 que heredan el daño de la bala convertida
+		Dispara 8 balas antes de eyectar el cartucho del rifle
+		Las balas que rebotan en monedas también pueden rebotar en cartuchos
+		'Cuidado con el pulgar'
+		'''
+}
+
+MagnaCannon: {
+	DisplayName: Cañón Magna
+	Tooltip:
+		'''
+		Carga una ráfaga rápida de pernos de cristal
+		Cargar por más tiempo aumenta el número de pernos disparados
+		Los disparos con carga completa disparan una ráfaga aún más larga y rápida
+		'''
+}
+
+MagnomalyCannon: {
+	DisplayName: Cañón de Anomalía Magna
+	Tooltip:
+		'''
+		Lanza un potente exocohete para aniquilar todo con [cbuff:CalamityMod/MiracleBlight]
+		Los cohetes están rodeados de un aura dañina invisible y se dividen en rayos dañinos al impactar
+		{$CommonItemTooltip.PercentChanceToSaveAmmo}
+		'''
+}
+
+Malevolence: {
+	DisplayName: Malevolencia
+	Tooltip:
+		'''
+		Dispara dos flechas a la vez
+		Convierte flechas de madera en flechas de [cbuff:CalamityMod/Plague] que explotan en abejas
+		'''
+}
+
+MarksmanBow: {
+	DisplayName: Arco del Tirador
+	Tooltip:
+		'''
+		Dispara tres flechas a la vez
+		Las flechas de madera se convierten en flechas de Bufón
+		'''
+}
+
+Megalodon: {
+	DisplayName: Megalodón
+	Tooltip:
+		'''
+		Carga un cargador de 30 rondas de balas y chorros de agua presurizada que se liberan rápidamente
+		Tras disparar, la pistola libera un potente cohete teledirigido antes de recargar
+		El daño del cohete se basa en cuántos disparos impactaron
+		{$CommonItemTooltip.PercentChanceToSaveAmmo}
+		'''
+}
+
+Meowthrower: {
+	DisplayName: Lanzagatos
+	Tooltip:
+		'''
+		Cocina a tus enemigos a la purrfección con humo gatuno
+		Ocasionalmente lanza entidades felinas teledirigidas
+		Usa gel como munición
+		'''
+}
+
+MidasPrime: {
+	DisplayName: Midas Prime
+	Tooltip:
+		'''
+		Presiona <right> para lanzar una Moneda de Oro o de Plata al aire
+		Golpear una moneda con una bala hace que rebote hacia el enemigo más cercano
+		Se pueden lanzar hasta 4 monedas simultáneamente, y los disparos rebotan en múltiples monedas si es posible
+		Las monedas garantizan un golpe crítico tras un breve retraso y las balas hacen daño adicional según las monedas utilizadas
+		'''
+	UltrakillEasterEgg:
+		'''
+		LA HUMANIDAD HA MUERTO.
+		LA SANGRE ES COMBUSTIBLE.
+		EL INFIERNO ESTÁ LLENO.
+		'''
+}
+
+MineralMortar: {
+	DisplayName: Mortero Mineral
+	Tooltip:
+		'''
+		Dispara una bomba de ónice que explota en un enorme daño en área
+		Usa cohetes como munición
+		'''
+}
+
+MonolithBow: {
+	DisplayName: Arco Monolito
+	Tooltip: ""
+}
+
+Monsoon: {
+	DisplayName: Monzón
+	Tooltip:
+		'''
+		Dispara una dispersión de 5 flechas
+		Las flechas de madera se convierten en flechas de tifón y tiburones
+		'''
+}
+
+Needler: {
+	DisplayName: Pinchador
+	Tooltip: Convierte balas de mosquete en agujas imbuidas de [cbuff:Venom] que se adhieren a los enemigos y explotan
+}
+
+NettlevineGreatbow: {
+	DisplayName: Gran Arco de Zarza Urticante
+	Tooltip:
+		'''
+		Dispara 4 flechas a la vez
+		Dispara 2 flechas adicionales de veneno o clorofita
+		'''
+}
+
+NitroExpressRifle: {
+	DisplayName: Rifle Nitro Express
+	Tooltip: "[c/88354B:'El retroceso se siente tan fuerte como para partirte el hombro...']"
+}
+
+Norfleet: {
+	DisplayName: Norfleet
+	Tooltip:
+		'''
+		Dispara un grupo de esferas de energía erráticas que cada una contiene un elemento diferente
+		Cada tres disparos, el arma debe recargar su energía
+		[c/FF9900:'¡Lo hace explotar todo!']
+		'''
+}
+
+NullificationPistol: {
+	DisplayName: Pistola de Anulación
+	Tooltip:
+		'''
+		Dispara pernos discretos de energía polarizada. <right> para cambiar de modo
+		La energía positiva se divide en tres rayos perforadores
+		La energía negativa dispara rápidamente y se dirige a los enemigos
+		Todos los disparos repelen a los enemigos a corta distancia
+		Cada modo se debilita con el uso continuo y se restablece al pleno poder al cambiar
+		'¿Armar tecnología alienígena? ¡Eso sí que me gusta escuchar!'
+		'''
+}
+
+OntologicalDespoiler: {
+	DisplayName: Depredador Ontológico
+	Tooltip:
+		'''
+		Condensa bolsillos cargables de irrealidad concentrada. <right> para cambiar de modo solo tras disparar un disparo cargado
+		Los disparos de condensado inestable se trifurcan y perforan enemigos
+		Los disparos de condensado nulo disparan rápidamente y se dirigen a los enemigos
+		Con el 50% de carga o más, la cadencia de disparo aumenta significativamente
+		El condensado inestable con carga completa lanza una esfera de perturbación teledirigida
+		El condensado nulo con carga completa emite un rayo de aniquilación nula de impacto instantáneo que siempre golpea críticamente
+		Cada modo se carga más lento con el uso repetido y se restablece a velocidad plena al cambiar
+		'Arráncales la continuidad y las leyes de la física que tanto aprecian.'
+		'''
+}
+
+OnyxChainBlaster: {
+	DisplayName: Exterminador en Cadena de Ónice
+	Tooltip:
+		'''
+		Dispara una dispersión de balas y un fragmento de ónice
+		{$CommonItemTooltip.PercentChanceToSaveAmmo}
+		'''
+}
+
+Onyxia: {
+	DisplayName: Onyxia
+	Tooltip:
+		'''
+		Dispara una tormenta de balas y fragmentos de ónice
+		{$CommonItemTooltip.PercentChanceToSaveAmmo}
+		'''
+}
+
+OmniGun: {
+	DisplayName: La Omniarma
+	Tooltip:
+		'''
+		Un arma multipropósito con varios modos que se usan en secuencia
+		El primer disparo es una bala de francotirador que gana daño con el tiempo y siempre golpea críticamente
+		El segundo disparo es una ráfaga de 10 balas estándar
+		El tercer disparo es una devastadora dispersión a quemarropa
+		El cuarto disparo es una granada peligrosa pero poderosa que destruye todo, incluido tú
+		'''
+	SalesPitch:
+		'''
+		'¿Por qué cargar cuatro pistolas diferentes cuando puedes cargar solo una? ¡Eso es lo que yo solía preguntarme!'
+		'¡Con esta belleza, hasta el más torpe puede volverse invencible, y al precio correcto puede ser tuya!'
+		'''
+}
+
+OpalStriker: {
+	DisplayName: Percutor de Ópalo
+	Tooltip:
+		'''
+		Dispara un perno de energía calentada cargable que perfora
+		Los disparos con carga completa causan daño adicional, se mueven más rápido e infligen [cbuff:OnFire3]
+		'''
+}
+
+OverloadedBlaster: {
+	DisplayName: Exterminador Sobrecargado
+	Tooltip:
+		'''
+		Convierte gel en una dispersión de perlas de limo energizadas que se sobrecargan al detenerse
+		Las perlas de limo sobrecargadas causan 60% más de daño pero ya no perforan
+		Las perlas de limo rebotan en las paredes a muy alta velocidad
+		Usa gel como munición
+		{$CommonItemTooltip.PercentChanceToSaveAmmo}
+		'''
+}
+
+P90: {
+	DisplayName: P90
+	Tooltip:
+		'''
+		Libera un flujo de proyectiles perforantes a una velocidad increíble
+		Los proyectiles perforantes ignoran 30 de defensa
+		{$CommonItemTooltip.PercentChanceToSaveAmmo}
+		'Es una manguera de balas'
+		'''
+}
+
+PearlGod: {
+	DisplayName: Dios de Perlas
+	Tooltip:
+		'''
+		Alterna entre disparar una bala imbuida con robo de vida y 3 balas imbuidas con perlescencia
+		Las balas imbuidas perlescentes crean un destello radiante al impactar, causando daño adicional al enemigo
+		'''
+}
+
+PestilentDefiler: {
+	DisplayName: Profanador Pestilente
+	Tooltip: Convierte balas de mosquete en proyectiles de [cbuff:CalamityMod/Plague] que explotan y se dividen al impactar
+}
+
+Photoviscerator: {
+	DisplayName: Fotoeviscerador
+	Tooltip:
+		'''
+		Emite un rayo continuo de [cbuff:CalamityMod/MiracleBlight] que desintegra todo
+		Presiona <right> para disparar bengalas exo teledirigidas que se adhieren a los enemigos y los incineran
+		Usa gel como munición
+		El rayo tiene un {0}% de probabilidad de ahorrar munición
+		'''
+}
+
+PlagueTaintedSMG: {
+	DisplayName: Subfusil Contaminado por la Plaga
+	Tooltip:
+		'''
+		Dispara balas de [cbuff:CalamityMod/Plague] que invocan drones en golpes críticos
+		Las balas causan más daño y retroceso cuanto más cerca esté el enemigo
+		Los drones tienen una probabilidad de golpe crítico mucho mayor al golpear enemigos con [cbuff:CalamityMod/Plague]
+		Presiona <right> para disparar un enjambre de drones
+		'''
+}
+
+PlanetaryAnnihilation: {
+	DisplayName: Aniquilación Planetaria
+	Tooltip:
+		'''
+		Dispara una tormenta de 7 flechas desde el cielo
+		Las flechas de madera se convierten en pernos de energía teledirigidos
+		'''
+}
+
+PolarisParrotfish: {
+	DisplayName: Pez Loro de Polaris
+	Tooltip: "[GFB]"
+	TooltipNormal:
+		'''
+		Dispara rápidamente una serie de disparos estelares coloridos
+		La velocidad de disparo aumenta cuanto más cerca estés de un enemigo
+		{$Common.ArmorPenetration}
+		'Lleva la marca de la Estrella del Norte'
+		'''
+	TooltipGFB:
+		'''
+		Dispara rápidamente una serie de disparos estelares coloridos
+		La velocidad de disparo aumenta cuanto más cerca estés de un enemigo
+		{$Common.ArmorPenetration}
+		<right> para darle atención a la niñita
+		'Es una niña feliz'
+		'''
+}
+
+PridefulHuntersPlanarRipper: {
+	DisplayName: Desgarrador Planar del Cazador Orgulloso
+	Tooltip:
+		'''
+		Cada cuarto disparo causa 135% de daño
+		Convierte balas de mosquete en rayos de [cbuff:Electrified]
+		Los rayos viajan extremadamente rápido y explotan al matar enemigos
+		Los golpes críticos de rayo otorgan un aumento de velocidad acumulable al jugador
+		Esto se acumula hasta un 20% de velocidad de movimiento y aceleración adicional
+		El aumento se reinicia si el jugador sujeta otro objeto
+		{$CommonItemTooltip.PercentChanceToSaveAmmo}
+		'''
+}
+
+PristineFury: {
+	DisplayName: Furia Prístina
+	Tooltip:
+		'''
+		Dispara una intensa hélice de [cbuff:CalamityMod/HolyFlames] que estalla en una columna de humo
+		<right> para dispersar una cantidad limitada de polvo cristalino inflamable que se regenera con el tiempo
+		El polvo puede encenderse, causando una explosión que hace daño adicional
+		Tanto las llamas helicoidales como las explosiones cercanas pueden encender el polvo
+		Usa gel como munición
+		'''
+	LegendaryText:
+		'''
+		'Yo y muchos otros lo perdimos todo en la hora más oscura de este mundo.
+		Vi a una bestia descender de los cielos. Una colosal monstruosidad cósmica que anunció incontables ángeles de la muerte.
+		Mi familia me fue arrebatada, mi pueblo me abandonó. Incluso nuestros supuestos protectores no hicieron nada por ayudarnos.
+		Y así juré a los que perdí que haría lo correcto, que la luz de mi llama eclipsaría incluso al Sol de Zeratros;
+		Que un día, este mundo cruel no conocería nada menos que Mi furia perfecta.'
+		'''
+}
+
+Pumpler: {
+	DisplayName: Lanzacalabazas
+	Tooltip: Mantén <left> para cargar hasta cinco granadas de calabaza a la vez
+}
+
+RealmRavager: {
+	DisplayName: Devastador de Reinos
+	Tooltip:
+		'''
+		Dispara una ráfaga de 4 balas
+		Convierte balas de mosquete en balas explosivas
+		'''
+}
+
+ReedBlowgun: {
+	DisplayName: Cerbatana de Junco
+	Tooltip:
+		'''
+		Dispara un flujo de burbujas a alta presión
+		[c/5C95A1:'El Antiguo Reino del Mar nunca buscó realmente expandirse más allá de sus fronteras iniciales.]
+		[c/5C95A1:Sin embargo, tenían un historial perfecto de repeler invasiones, gracias a su insuperable ventaja en el agua.']
+		'''
+}
+
+Riftburst: {
+	DisplayName: Estallido de Grieta
+	Tooltip:
+		'''
+		Dispara una dispersión de 5 flechas y emite flechas fantasma al golpear enemigos
+		{$CommonItemTooltip.PercentChanceToSaveAmmo}
+		'''
+}
+
+RubicoPrime: {
+	DisplayName: Rubico Prime
+	Tooltip:
+		'''
+		Un poderoso rifle de francotirador que debe recargarse tras 5 disparos
+		Dispara proyectiles de impacto que causan mayor daño crítico
+		'''
+}
+
+Sandblaster: {
+	DisplayName: Arenador
+	Tooltip:
+		'''
+		Dispara balas de arena que explotan y ralentizan a los enemigos al impactar
+		Usa arena como munición
+		{$CommonItemTooltip.PercentChanceToSaveAmmo}
+		'''
+}
+
+ScorchedEarth: {
+	DisplayName: Tierra Quemada
+	Tooltip:
+		'''
+		Dispara una ráfaga de cuatro misiles termodirigidos que se aceleran rápidamente tras un breve retraso
+		Todos los cohetes explotan en bombas de racimo de napalm al impactar
+		{$CommonItemTooltip.PercentChanceToSaveAmmo}
+		'Quema a tus objetivos hasta carbonizarlos'
+		'''
+}
+
+Scorpio: {
+	DisplayName: Escorpio
+	Tooltip:
+		'''
+		Mantén <left> para disparar una andanada de nanomisiles teledirigidos y cargar energía
+		La carga máxima se alcanza tras disparar 3 andanadas
+		<right> mientras mantienes <left> con carga máxima para lanzar una nanonuclear
+		Las nanonucleares causan daño masivo y reinician el tiempo de recarga de las andanadas
+		'''
+}
+
+SDFMG: {
+	DisplayName: SDFMG
+	Tooltip:
+		'''
+		{$CommonItemTooltip.PercentChanceToSaveAmmo}
+		'Vino del borde de Terraria'
+		'''
+}
+
+Seadragon: {
+	DisplayName: Dragón del Mar
+	Tooltip:
+		'''
+		Carga un cargador de 50 rondas de balas y chorros de agua presurizada alternados
+		Los chorros de agua invocan pececillos que nadan a tu alrededor
+		Cuando se disparan todas las balas, los peces invocados enjambran el cursor mientras recargas
+		{$CommonItemTooltip.PercentChanceToSaveAmmo}
+		'''
+}
+
+SeasSearing: {
+	DisplayName: Ardor del Mar
+	Tooltip:
+		'''
+		Dispara una cadena de burbujas que invoca una lluvia de burbujas al impactar
+		Presiona <right> para disparar una ráfaga de agua más lenta y grande que invoca un chorro de agua
+		'''
+}
+
+SepticSkewer: {
+	DisplayName: Lanzapinchos Séptico
+	Tooltip:
+		'''
+		Lanza un vil arpón encadenado infestado de toxinas
+		Los arpones se clavan en los enemigos e infligen [cbuff:CalamityMod/SulphuricPoisoning] por mucho tiempo
+		Tras un segundo de empalamiento, los arpones se arrancan solos y rocían fragmentos dañinos
+		Presiona <right> para arrancar manualmente todos los arpones, causando daño adicional
+		Los enemigos cerca de la muerte son arrastrados de vuelta con los arpones que regresan y ejecutados cuando llegan a ti
+		Las ejecuciones te curan 25 de salud y lanzan automáticamente un arpón adicional
+		'''
+}
+
+Shadethrower: {
+	DisplayName: Lanzasombras
+	Tooltip:
+		'''
+		Escupe nubes de sombra que afligen a los enemigos con [cbuff:CalamityMod/BrainRot]
+		Usa gel como munición
+		'''
+}
+
+Shellshooter: {
+	DisplayName: Disparador de Conchas
+	Tooltip:
+		'''
+		Dispara flechas lentas pero poderosas
+		Convierte flechas de madera en caracolas marinas pesadas que perforan
+		'''
+}
+
+Shredder: {
+	DisplayName: Triturador
+	Tooltip:
+		'''
+		Dispara una andanada de pernos de energía que se dividen y rebotan
+		'El mito, la leyenda, el arma que baja más FPS que cualquier otra'
+		'''
+}
+
+Shroomer: {
+	DisplayName: Champiñero
+	Tooltip: Dispara balas y un hongo teledirigido extremadamente poderoso
+}
+
+SlagfireDouser: {
+	DisplayName: Extinguidor de Escoria Ardiente
+	Tooltip:
+		'''
+		Rocía ráfagas de polen fundido
+		El polen fundido ignora 10 puntos de defensa enemiga y cubre a los enemigos con [cbuff:CalamityMod/SearingLava]
+		[c/FF9900:También es capaz de empapar a los aldeanos con lava...]
+		'''
+}
+
+SlagMagnum: {
+	DisplayName: Magnum de Escoria
+	Tooltip: Convierte balas de mosquete en fragmentos fósiles que infligen [cbuff:CalamityMod/ArmorCrunch] y se dividen en fragmentos adicionales al impactar
+}
+
+SomaPrime: {
+	DisplayName: Soma Prime
+	Tooltip:
+		'''
+		Esta arma puede supercriticar si su probabilidad de crítico supera el 100%
+		Todas las balas disparadas tienen 5% de probabilidad de infligir [cbuff:CalamityMod/Shred], una penalización de sangrado acumulable
+		Los golpes críticos causan 3x daño en lugar de 2x por defecto y tienen 30% de probabilidad de infligir [cbuff:CalamityMod/Shred]
+		[cbuff:CalamityMod/Shred] causa 600 DPS por acumulación y escala con tus estadísticas de distancia
+		Los ticks de daño de [cbuff:CalamityMod/Shred] pueden golpear críticamente por 3x daño y pueden supercriticar
+		Reemplaza las balas de mosquete con Balas de Alta Velocidad mejoradas
+		{$CommonItemTooltip.PercentChanceToSaveAmmo}
+		'''
+}
+
+SparkSpreader: {
+	DisplayName: Dispersor de Chispas
+	Tooltip:
+		'''
+		Enciende a tu enemigo con chispas llameantes
+		Usa gel como munición
+		'''
+}
+
+SpectralstormCannon: {
+	DisplayName: Cañón de Tormenta Espectral
+	Tooltip:
+		'''
+		Dispara una andanada de bengalas espectrales de [cbuff:CalamityMod/Nightwither] que acumula calor abrasador en el arma
+		Durante el enfriamiento, se liberan continuamente fantasmas termodirigidos
+		Disparar durante demasiado tiempo sobrecalienta el arma, dejándola inutilizable por un momento e infligiéndote [cbuffplr:CalamityMod/Nightwither]
+		Sin embargo, provocar el sobrecalentamiento libera una poderosa ráfaga de almas y reinicia el calor
+		Presiona <right> para guardar el arma, lo que conserva su calor
+		{$CommonItemTooltip.PercentChanceToSaveAmmo}
+		'Visera obligatoria para explosiones ectoplásmicas'
+		'''
+}
+
+SpeedBlaster: {
+	DisplayName: Exterminador de Velocidad
+	Tooltip:
+		'''
+		Dispara rápidamente proyectiles de paintball fosforescentes
+		Presiona <right> para expulsar un potente chorro de pintura de diferente color
+		Usar esta habilidad te propulsa rápidamente en la dirección en que te mueves
+		Esta habilidad tiene un tiempo de recarga de {0} segundos
+		Durante este tiempo de recarga, disparas más rápidamente con mayor precisión
+		'''
+}
+
+Spyker: {
+	DisplayName: Spyker
+	Tooltip: Convierte balas de mosquete en pinchos imbuidos de [cbuff:Venom] que se adhieren a enemigos y bloques y explotan en metralla
+}
+
+Starfleet: {
+	DisplayName: Flota Estelar
+	Tooltip:
+		'''
+		<left> dispara una dispersión de disparos estelares
+		<right> dispara un destello estelar contundente de corto alcance
+		Los disparos estelares pueden acelerarse disparando cuando el destello se activa
+		El tiempo perfecto reduce la dispersión y aumenta el daño
+		El tiempo imperfecto igual aumenta el daño, pero aumenta mucho la dispersión
+		Usa estrellas caídas, 50% de probabilidad de ahorrar munición
+		'Etoile, et toi'
+		'''
+}
+
+Starmada: {
+	DisplayName: Estarmada
+	Tooltip:
+		'''
+		<left> dispara una dispersión de disparos estelares
+		<right> dispara un destello estelar contundente de corto alcance
+		Los disparos estelares pueden acelerarse disparando cuando el destello se activa
+		El tiempo perfecto reduce la dispersión, aumenta el daño y añade un aumento de poder del arma acumulable
+		El tiempo imperfecto igual aumenta el daño, pero aumenta mucho la dispersión y reduce el poder del arma
+		El aumento de poder del arma fortalece tanto los disparos estelares como el destello contundente
+		Usa estrellas caídas, 50% de probabilidad de ahorrar munición
+		'Et toi, et moi'
+		'''
+}
+
+Starmageddon: {
+	DisplayName: Estarmagedon
+	Tooltip: Proyecta la finalidad de la aniquilación cósmica con el poder del Sol Oscuro
+}
+
+StarSputter: {
+	DisplayName: Chisporroteo Estelar
+	Tooltip:
+		'''
+		Dispara una cadena de cometas que esparcen [cbuff:CalamityMod/AstralInfectionDebuff]
+		Dispara un cometa más grande y poderoso cada cuatro rondas
+		'Mira las estrellas en busca de una galaxia muy, muy lejana'
+		'''
+}
+
+StellarCannon: {
+	DisplayName: Cañón Estelar
+	Tooltip: Lanza un cristal astral explosivo que esparce [cbuff:CalamityMod/AstralInfectionDebuff]
+}
+
+StormSurge: {
+	DisplayName: Marejada de Tormenta
+	Tooltip:
+		'''
+		Dispara una onda de choque azul que atraviesa bloques
+		No consume munición
+		'Teme a la tormenta'
+		'''
+}
+
+SulphuricAcidCannon: {
+	DisplayName: Cañón de Ácido Sulfúrico
+	Tooltip:
+		'''
+		Dispara Cohetes de Ácido teledirigidos
+		Los Cohetes de Ácido se adhieren a los enemigos y explotan en niebla tóxica tras un breve retraso
+		'''
+}
+
+SuperradiantSlaughterer: {
+	DisplayName: Matanza Superradiante
+	Tooltip:
+		'''
+		[MAIN]
+		[ALT]
+		[c/ad1717:'Nadie sabe cómo convierte la sangre en arcoíris...']
+		'''
+	MainInfo:
+		'''
+		Mantén <left> para acelerar una sierra elemental que causa daño de corto alcance
+		Suelta <left> para disparar la sierra que rebota en bloques, liberando pernos teledirigidos al regresar según los golpes
+		Acelerar la sierra aumenta su daño y permite que perfore más enemigos
+		'''
+	AltInfo:
+		'''
+		Presiona <right> para expulsar una sierra persistente hacia el cursor con tiempo de recarga de {0} segundos
+		Doble <right> para propulsarte rápidamente en la dirección en que te mueves
+		Durante el tiempo de recarga, las sierras se dirigen al cursor y liberan constantemente pernos teledirigidos al regresar
+		'''
+}
+
+SurgeDriver: {
+	DisplayName: Impulsor de Corriente
+	Tooltip:
+		'''
+		Presiona <left> para liberar un rayo láser que explota al colisionar
+		Presiona <right> para liberar una andanada de rayos láser que liberan energía teledirigida al golpear enemigos
+		'''
+}
+
+Svantechnical: {
+	DisplayName: Svantechnical
+	Tooltip:
+		'''
+		Dispara una trinidad de pernos de energía que se dividen en rayos que siguen tu cursor
+		{$Common.ArmorPenetration}
+		{$CommonItemTooltip.PercentChanceToSaveAmmo@1}
+		'El antiguo equilibrio de cambiar daño por FPS'
+		'''
+}
+
+TauCannon: {
+	DisplayName: Cañón Tau
+	Tooltip:
+		'''
+		Un rifle de asalto voluminoso con tres niveles de carga que dispara energía astral
+		El nivel de carga uno dispara una ráfaga de pernos
+		El nivel de carga dos dispara un rayo de energía que se extingue rápidamente
+		El nivel de carga tres dispara un láser masivo y crea portales astrales a tu alrededor
+		'Esta arma es muy cuestionable éticamente'
+		'''
+}
+
+TelluricGlare: {
+	DisplayName: Destello Telúrico
+	Tooltip:
+		'''
+		Dispara rápidamente andanadas de flechas
+		Cada segunda flecha se convierte en grandes flechas radiantes que perforan pero desaparecen rápido tras golpear
+		Las flechas de madera se convierten en grandes flechas más poderosas que causan mayor daño
+		'''
+}
+
+TheBallista: {
+	DisplayName: La Balista
+	Tooltip: Convierte flechas de madera en grandes flechas que causan [cbuff:CalamityMod/ArmorCrunch] y se rompen en fragmentos
+}
+
+TheHive: {
+	DisplayName: La Colmena
+	Tooltip:
+		'''
+		Lanza una amplia dispersión de 4 misiles que explotan al contacto con enemigos y bloques
+		Cargar el lanzador reduce la dispersión y aumenta la velocidad de la andanada
+		La carga completa del lanzador hará que dispare una nuclear de [cbuff:CalamityMod/Plague] para devastar un área masiva al impactar
+		'''
+}
+
+TheJailor: {
+	DisplayName: El Carcelero
+	Tooltip: Libera minas eléctricas hacia afuera que se conectan entre sí mediante arcos
+}
+
+TheMaelstrom: {
+	DisplayName: El Maelstrom
+	Tooltip: Dispara Tiburones Segadores cargados que causan explosiones de agua
+}
+
+ThePack: {
+	DisplayName: La Manada
+	Tooltip: Dispara grandes cohetes teledirigidos que explotan en más minicohetes teledirigidos al estar cerca de un enemigo
+}
+
+ThermoclineBlaster: {
+	DisplayName: Exterminador de Termoclina
+	Tooltip:
+		'''
+		Alterna entre disparar balas imbuidas con fuego y hielo
+		Cualquier tipo de bala puede imbuirse al dispararse desde esta pistola
+		'''
+}
+
+TheSevensStriker: {
+	DisplayName: El Golpeador de los Sietes
+	Tooltip:
+		'''
+		Presiona <left> para consumir 1 moneda y jugar a la máquina tragamonedas
+		La calidad del resultado depende de la moneda utilizada
+		'Un arma dada a un gran pistolero
+		Forjada por los brazos de un hombre sin nombre'
+		'''
+	HoldShiftTooltip: "[c/ADD8E6:'¡A APOSTAR!']"
+}
+
+TheStorm: {
+	DisplayName: La Tormenta
+	Tooltip:
+		'''
+		Dispara una dispersión de rayos y flechas teledirigidas desde el cielo
+		Convierte flechas de madera en poderosos rayos
+		'''
+}
+
+ThreadOfEradication: {
+	DisplayName: Hilo de la Erradicación
+	Tooltip:
+		'''
+		Carga [ceffect/dog:Rayo de Condena del Asesino de Dioses]
+		Canalizar el arma hace que cargue [ceffect/dog:Falla de Hipermuerte] en su lugar
+		Mientras carga [ceffect/dog:Falla de Hipermuerte], la velocidad de giro del arco se reduce
+		Siempre golpea críticamente, y la probabilidad de golpe crítico aumenta el daño crítico
+		'''
+}
+
+TitaniumRailgun: {
+	DisplayName: Pistola de Rieles de Titanio
+	Tooltip:
+		'''
+		Mantén pulsado para cargar una ráfaga de titanio devastadora
+		Mayor tiempo de carga aumenta el poder, lo que lleva a más daño, tamaño y retroceso
+		El poder tiene límite cuando las miras del cañón convergen completamente
+		'''
+}
+
+Toxibow: {
+	DisplayName: Arco Tóxico
+	Tooltip: Convierte flechas de madera en flechas lentas que infligen [cbuff:CalamityMod/Irradiated]
+}
+
+TyrannysEnd: {
+	DisplayName: Fin de la Tiranía
+	Tooltip:
+		'''
+		Convierte balas de mosquete en proyectiles de francotirador calibre .70 que causan daño devastador
+		Hace que los enemigos queden con [cbuff:CalamityMod/MarkedforDeath] y atraviesa la defensa
+		Los golpes críticos invocan un enjambre de 6 balas adicionales
+		'Perfora el corazón incluso del enemigo más blindado'
+		'''
+}
+
+Ultima: {
+	DisplayName: Ultima
+	Tooltip:
+		'''
+		Lanza un flujo continuo de pernos de plasma
+		Con el tiempo, los pernos se potencian en rayos sólidos mientras continúas disparando
+		{$CommonItemTooltip.PercentChanceToSaveAmmo}
+		'''
+}
+
+UniversalGenesis: {
+	DisplayName: Génesis Universal
+	Tooltip:
+		'''
+		Dispara una dispersión de balas desde la pistola y una lluvia de estrellas sobre el cursor
+		Convierte balas de mosquete en disparos de convocador de estrellas que invocan estrellas adicionales al golpear enemigos
+		'Que el cielo estrellado caiga sobre tus enemigos'
+		'''
+}
+
+VernalBolter: {
+	DisplayName: Disparador Primaveral
+	Tooltip:
+		'''
+		Dispara una columna compacta de tres flechas
+		Convierte flechas de madera en pernos de energía deslizantes
+		'''
+}
+
+Voidragon: {
+	DisplayName: Dragón del Vacío
+	Tooltip:
+		'''
+		Carga un cargador de 50 rondas de balas y explosiones de vacío concentradas alternadas
+		Cuando se disparan todas las balas, la pistola libera un enorme chorro de fuego abisal
+		El poder del fuego abisal escala según la cantidad de disparos que impactaron
+		{$CommonItemTooltip.PercentChanceToSaveAmmo}
+		[c/620BB0:'Fundido a negro']
+		'''
+}
+
+Vortexpopper: {
+	DisplayName: Reventavórtex
+	Tooltip: Dispara burbujas por doquier que estallan en balas
+}
+
+WildfireBloom: {
+	DisplayName: Floración de Fuego Salvaje
+	Tooltip:
+		'''
+		Se carga para emitir un flujo de llamas energizadas y pares de bengalas de fuego salvaje teledirigidas
+		Usa gel como munición
+		{$CommonItemTooltip.PercentChanceToSaveAmmo}
+		'''
+}
+
+WulfrumBlunderbuss: {
+	DisplayName: Trabuco de Wulfrum
+	Tooltip:
+		'''
+		Consume chatarra de Wulfrum o monedas de plata para disparar
+		La dispersión del disparo puede reducirse apuntando más lejos, a costa de menos daño
+		{$Common.ArmorPenetration}
+		[c/83B87E:'Lo bueno del Wulfrum es que aunque se rompe rápido, puede reutilizarse aún más rápido.]
+		[c/83B87E:De hecho, es bastante común que un robot se convierta en munición justo después de dejar de funcionar.']
+		'''
+}

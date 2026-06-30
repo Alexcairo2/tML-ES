@@ -1,0 +1,407 @@
+Mods: {
+	CalamityModMusic: {
+		Items: {
+			AbyssLayer1MusicBox: {
+				DisplayName: Caja de música (Abismo - Capa 1)
+				Tooltip: Reproduce 'hesitation' de Heart Plus Up!
+			}
+
+			AbyssLayer2MusicBox: {
+				DisplayName: Caja de música (Abismo - Capa 2)
+				Tooltip: Reproduce 'Hadopelagic Pressure' de DM DOKURO
+			}
+
+			AbyssLayer3AltMusicBox: {
+				DisplayName: Caja de música (Abismo - Capa 3 Alternativa)
+				Tooltip: Reproduce 'R'lyehian Depths' de Heart Plus Up!
+			}
+
+			AbyssLayer3MusicBox: {
+				DisplayName: Caja de música (Abismo - Capa 3)
+				Tooltip: Reproduce 'hydrothermophobia' de CDMusic
+			}
+
+			AbyssLayer4MusicBox: {
+				DisplayName: Caja de música (Abismo - Capa 4)
+				Tooltip: Reproduce 'void' de DM DOKURO
+			}
+
+			AbyssLegacyMusicBox: {
+				DisplayName: Caja de música (Abismo - Legacy)
+				Tooltip: Reproduce 'R'LYEH' de RoverdriveX
+			}
+
+			AcidRainTier1MusicBox: {
+				DisplayName: Caja de música (Lluvia Ácida - Niveles 1 y 2)
+				Tooltip:
+					'''
+					Plays 'corrosion!' de RoverdriveX
+					Esta caja de música contiene una canción de muestra
+					'''
+			}
+
+			AcidRainTier3MusicBox: {
+				DisplayName: Caja de música (Lluvia Ácida - Nivel 3)
+				Tooltip:
+					'''
+					Plays 'nuclear monsoon' de PinpinNeon
+					Esta caja de música contiene una canción de muestra
+					'''
+			}
+
+			AnahitaMusicBox: {
+				DisplayName: Caja de música (Anahita)
+				Tooltip: Reproduce 'Siren's War Cry' de DM DOKURO
+			}
+
+			AnahitasLureMusicBox: {
+				DisplayName: Caja de música (Anahita's Lure)
+				Tooltip: Reproduce 'Siren's Call' de DM DOKURO
+			}
+
+			AquaticScourgeMusicBox: {
+				DisplayName: Caja de música (Azote Acuático)
+				Tooltip: Reproduce 'Outcast of the Sulphurous Seas' de DM DOKURO
+			}
+
+			AstralInfectionMusicBox: {
+				DisplayName: Caja de música (Infección Astral)
+				Tooltip: Reproduce 'The Heaven-Sent Abomination' de DM DOKURO
+			}
+
+			AstralInfectionUndergroundMusicBox: {
+				DisplayName: Caja de música (Infección Astral Subterránea)
+				Tooltip: Reproduce 'Treasures Within the Abomination' de DM DOKURO
+			}
+
+			AstrumAureusMusicBox: {
+				DisplayName: Caja de música (Astrum Aureus)
+				Tooltip: Reproduce 'Interstellar Stomper' de DM DOKURO
+			}
+
+			AstrumDeusMusicBox: {
+				DisplayName: Caja de música (Astrum Deus)
+				Tooltip: Reproduce 'Pest of the Cosmos' de DM DOKURO
+			}
+
+			BioLabMusicBox: {
+				DisplayName: Caja de música (Biolaboratorio)
+				Tooltip: Reproduce 'Engineer's Sanctum' de Heart Plus Up!
+			}
+
+			BossRushTier1MusicBox: {
+				DisplayName: Caja de música (Boss Rush - Nivel 1)
+				Tooltip: Reproduce 'Ensemble of Fools' de CDMusic
+			}
+
+			BossRushTier2MusicBox: {
+				DisplayName: Caja de música (Boss Rush - Nivel 2)
+				Tooltip: Reproduce 'Onslaught of Beasts' de CDMusic
+			}
+
+			BossRushTier3MusicBox: {
+				DisplayName: Caja de música (Boss Rush - Nivel 3)
+				Tooltip: Reproduce 'Reign of Lords' de CDMusic
+			}
+
+			BossRushTier4MusicBox: {
+				DisplayName: Caja de música (Boss Rush - Nivel 4)
+				Tooltip: Reproduce 'Trial of the Insane' de CDMusic
+			}
+
+			BossRushTier5MusicBox: {
+				DisplayName: Caja de música (Boss Rush - Nivel 5)
+				Tooltip: Esta caja musical no se ha hecho aún y no funciona.
+			}
+
+			BrainstormTrailerMusicBox: {
+				DisplayName: Caja de música (Brainstorm Trailer)
+				Tooltip: Reproduce el musical del tráiler de actualización por Moonburn, CDMusic, y TYESKI
+			}
+
+			BrimstoneCragsMusicBox: {
+				DisplayName: Caja de música (Azafure / Grietas de Azufre)
+				Tooltip: Reproduce 'The Step Below Hell' de DM DOKURO
+			}
+
+			BrimstoneElementalMusicBox: {
+				DisplayName: Caja de música (Elemental de Azufre)
+				Tooltip: Reproduce 'Left Alone' de DM DOKURO
+			}
+
+			CalamitasCloneMusicBox: {
+				DisplayName: Caja de música (Clon de Calamitas)
+				Tooltip: Reproduce 'Raw, Unfiltered Calamity' de DM DOKURO
+			}
+
+			CalamitasDefeatMusicBox: {
+				DisplayName: Caja de música (Calamitas - Derrota)
+				Tooltip: Reproduce 'Stained, Brutal Calamity (Acceptance)' de DM DOKURO
+			}
+
+			CalamitasPhase1MusicBox: {
+				DisplayName: Caja de música (Calamitas - Fase 1)
+				Tooltip: Reproduce 'Stained, Brutal Calamity (Grief)' de DM DOKURO
+			}
+
+			CalamitasPhase2MusicBox: {
+				DisplayName: Caja de música (Calamitas - Fase 2)
+				Tooltip: Reproduce 'Stained, Brutal Calamity (Lament)' de DM DOKURO
+			}
+
+			CalamitasPhase3MusicBox: {
+				DisplayName: Caja de música (Calamitas - Fase 3)
+				Tooltip: Reproduce 'Stained, Brutal Calamity (Epiphany)' de DM DOKURO
+			}
+
+			CalamityTitleMusicBox: {
+				DisplayName: Caja de música (Título de Calamity)
+				Tooltip: Reproduce 'The Tale of a Cruel World' de DM DOKURO
+			}
+
+			CeaselessVoidMusicBox: {
+				DisplayName: Caja de música (Vacío Incesante)
+				Tooltip: Reproduce 'Servants of the Scourge (Type V)' de DM DOKURO
+			}
+
+			CrabulonMusicBox: {
+				DisplayName: Caja de música (Crabulon)
+				Tooltip: Reproduce 'Infestation' de DM DOKURO
+			}
+
+			CryogenMusicBox: {
+				DisplayName: Caja de música (Cryogen)
+				Tooltip: Reproduce 'Antarctic Reinforcement' de DM DOKURO
+			}
+
+			DesertScourgeMusicBox: {
+				DisplayName: Caja de música (Azote Desértico)
+				Tooltip: Reproduce 'Guardian of the Former Seas' de DM DOKURO
+			}
+
+			DevourerofGodsEulogyMusicBox: {
+				DisplayName: Caja de música (Devorador de Dioses - Eulogio)
+				Tooltip: Reproduce 'Scourge of the Universe (Eulogy for the Ego)' de DM DOKURO
+			}
+
+			DevourerofGodsPhase1MusicBox: {
+				DisplayName: Caja de música (Devorador de Dioses - Fase 1)
+				Tooltip: Reproduce 'Scourge of the Universe' de DM DOKURO
+			}
+
+			DevourerofGodsPhase2MusicBox: {
+				DisplayName: Caja de música (Devorador de Dioses - Fase 2)
+				Tooltip: Reproduce 'Universal Collapse' de DM DOKURO
+			}
+
+			DragonfollyMusicBox: {
+				DisplayName: Caja de música (Dragonfolly)
+				Tooltip: Reproduce 'Murderswarm' de DM DOKURO
+			}
+
+			ExoMechsMusicBox: {
+				DisplayName: Caja de música (Los Exo Mecánicos)
+				Tooltip:
+					'''
+					Plays 'Inferior Fabrications' de PinpinNeon
+					Esta caja de música contiene una canción de muestra
+					'''
+			}
+
+			HiveMindMusicBox: {
+				DisplayName: Caja de música (Mente Colmena)
+				Tooltip: Reproduce 'The Filthy Mind' de DM DOKURO y SixteenInMono
+			}
+
+			Interlude1MusicBox: {
+				DisplayName: Caja de música (Interludio 1)
+				Tooltip: Reproduce 'Silence before the storms' de DM DOKURO
+			}
+
+			Interlude2MusicBox: {
+				DisplayName: Caja de música (Interludio 2)
+				Tooltip: Reproduce 'Storms before the catastrophes' de DM DOKURO
+			}
+
+			Interlude3MusicBox: {
+				DisplayName: Caja de música (Interludio 3)
+				Tooltip: Reproduce 'Catastrophes before the calamity' de DM DOKURO
+			}
+
+			LeviathanMusicBox: {
+				DisplayName: Caja de música (Leviatán)
+				Tooltip: Reproduce 'Forbidden Lullaby' de DM DOKURO
+			}
+
+			OldDukeMusicBox: {
+				DisplayName: Caja de música (Viejo Duque)
+				Tooltip: Reproduce 'Toxic Wisdom' de DM DOKURO
+			}
+
+			PerforatorsMusicBox: {
+				DisplayName: Caja de música (Perforadores)
+				Tooltip: Reproduce 'Blood Coagulant' de DM DOKURO and SixteenInMono
+			}
+
+			PlaguebringerGoliathMusicBox: {
+				DisplayName: Caja de música (Goliat Portador de la Plaga)
+				Tooltip: Reproduce 'Fly of Beelzebub' de DM DOKURO
+			}
+
+			PolterghastMusicBox: {
+				DisplayName: Caja de música (Polterghast)
+				Tooltip: Reproduce 'Feral Amalgamation' de DM DOKURO
+			}
+
+			PrimordialWyrmMusicBox: {
+				DisplayName: Caja de música (Gusano Primordial)
+				Tooltip: Reproduce 'Threats of the Ocean Floor' de DM DOKURO
+			}
+
+			ProfanedGuardiansMusicBox: {
+				DisplayName: Caja de música (Guardianes Profanados)
+				Tooltip: Reproduce 'Unholy Ambush' de DM DOKURO
+			}
+
+			ProvidenceMusicBox: {
+				DisplayName: Caja de música (Providencia)
+				Tooltip: Reproduce 'Unholy Insurgency' de DM DOKURO
+			}
+
+			RavagerMusicBox: {
+				DisplayName: Caja de música (Devastador)
+				Tooltip: Reproduce 'Open Frenzy' de DM DOKURO
+			}
+
+			SignusMusicBox: {
+				DisplayName: Caja de música (Signus)
+				Tooltip: Reproduce 'Servants of the Scourge (Type S)' de DM DOKURO
+			}
+
+			SlimeGodMusicBox: {
+				DisplayName: Caja de música (Dios Slime)
+				Tooltip: Reproduce 'Return to Slime' de DM DOKURO and SixteenInMono
+			}
+
+			StormWeaverMusicBox: {
+				DisplayName: Caja de música (Tejedor de Tormentas)
+				Tooltip: Reproduce 'Servants of the Scourge (Type W)' de DM DOKURO
+			}
+
+			SulphurousSeaDayMusicBox: {
+				DisplayName: Caja de música (Mar Sulfuroso - Día)
+				Tooltip: Reproduce 'wasteland' de DM DOKURO
+			}
+
+			SulphurousSeaNightMusicBox: {
+				DisplayName: Caja de música (Mar Sulfuroso - Noche)
+				Tooltip: Reproduce 'caustic tides' de Heart Plus Up!
+			}
+
+			SulphurousSeaRainMusicBox: {
+				DisplayName: Caja de música (Mar Sulfuroso - Lluvia)
+				Tooltip: Reproduce 'septication' de Heart Plus Up!
+			}
+
+			SunkenSeaMusicBox: {
+				DisplayName: Caja de música (Mar Hundido)
+				Tooltip: Reproduce 'sanctuary' de DM DOKURO
+			}
+
+			YharonLegacyMusicBox: {
+				DisplayName: Caja de música (Yharon - Legado)
+				Tooltip: Reproduce 'Infernal Catharsis' de DM DOKURO
+			}
+
+			YharonPhase1MusicBox: {
+				DisplayName: Caja de música (Yharon - Fase 1)
+				Tooltip: Reproduce 'Infernal Catharsis (Rebirth)' de DM DOKURO
+			}
+
+			YharonPhase2MusicBox: {
+				DisplayName: Caja de música (Yharon - Fase 2)
+				Tooltip: Reproduce 'Roar of the Jungle Dragon' de DM DOKURO
+			}
+		}
+
+		ModSupport: {
+			MusicDisplay: {
+				SongNames: {
+					AbyssLayer1: hesitation
+					AbyssLayer2: Hadopelagic Pressure
+					AbyssLayer3: hydrothermophobia
+					AbyssLayer3Alt: R'lyehian Depths
+					AbyssLayer4: void
+					AbyssLegacy: R'LYEH
+					AcidRainTier1: corrosion!
+					AcidRainTier3: nuclear monsoon
+					Anahita: Siren's War Cry
+					AnahitasLure: Siren's Call
+					AquaticScourge: Outcast of the Sulphurous Seas
+					AstralInfection: The Heaven-Sent Abomination
+					AstralInfectionUnderground: Treasures Within the Abomination
+					AstrumAureus: Interstellar Stomper
+					AstrumDeus: Pest of the Cosmos
+					BioLab: Engineer's Sanctum
+					BossRushTier1: Ensemble of Fools
+					BossRushTier2: Onslaught of Beasts
+					BossRushTier3: Reign of Lords
+					BossRushTier4: Trial of the Insane
+					BrainstormTrailer: Brainstorm Trailer
+					BrimstoneCrags: The Step Below Hell
+					BrimstoneElemental: Left Alone
+					CalamitasClone: Raw, Unfiltered Calamity
+					CalamitasDefeat: Stained, Brutal Calamity (Acceptance)
+					CalamitasDefeat_LongFade: Stained, Brutal Calamity (Acceptance)
+					CalamitasPhase1: Stained, Brutal Calamity (Grief)
+					CalamitasPhase2: Stained, Brutal Calamity (Lament)
+					CalamitasPhase3: Stained, Brutal Calamity (Epiphany)
+					CalamityTitle: The Tale of a Cruel World
+					CeaselessVoid: Servants of the Scourge (Type V)
+					Crabulon: Infestation
+					Cryogen: Antarctic Reinforcement
+					DesertScourge: Guardian of the Former Seas
+					DevourerofGodsEulogy: Scourge of the Universe (Eulogy for the Ego)
+					DevourerofGodsPhase1: Scourge of the Universe
+					DevourerofGodsPhase2: Universal Collapse
+					Dragonfolly: Murderswarm
+					ExoMechs: Inferior Fabrications
+					HiveMind: The Filthy Mind
+					Interlude1: Silence before the storms
+					Interlude2: Storms before the catastrophes
+					Interlude3: Catastrophes before the calamity
+					Leviathan: Forbidden Lullaby
+					OldDuke: Toxic Wisdom
+					Perforators: Blood Coagulant
+					PlaguebringerGoliath: Fly of Beelzebub
+					Polterghast: Feral Amalgamation
+					PrimordialWyrm: Threats of the Ocean Floor
+					ProfanedGuardians: Unholy Ambush
+					Providence: Unholy Insurgency
+					Ravager: Open Frenzy
+					Signus: Servants of the Scourge (Type S)
+					SlimeGod: Return to Slime
+					StormWeaver: Servants of the Scourge (Type W)
+					SulphurousSeaDay: wasteland
+					SulphurousSeaNight: caustic tides
+					SulphurousSeaRain: septication
+					SunkenSea: sanctuary
+					YharonLegacy: Infernal Catharsis
+					YharonPhase1: Infernal Catharsis (Rebirth)
+					YharonPhase2: Roar of the Jungle Dragon
+				}
+
+				Authors: {
+					AquaSG: de AquaSG
+					CDMusic: de CDMusic
+					DMDOKURO: de DM DOKURO
+					DMDOKUROFeature: de DM DOKURO y SixteenInMono
+					HeartPlusUp: de Heart Plus Up!
+					MoonburnFeature: de Moonburn, CDMusic, y TYESKI
+					PinpinNeon: de PinpinNeon
+					RoverdriveX: de RoverdriveX
+				}
+			}
+		}
+	}
+}

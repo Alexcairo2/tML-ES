@@ -1,0 +1,582 @@
+DashKey: Mantén pulsado {0} mientras miras en una dirección
+DodgeInfo:
+	'''
+	{$Common.DodgeProvided}
+	{$Common.DodgeInformation}
+	'''
+
+AddedTooltip: {
+	/*
+	Accessories
+	*/
+	TitanGloveLine: 10% más de daño de cuerpo a cuerpo verdadero
+	YoyoGlove: Los yoyos secundarios harán un 50% menos de daño
+	// Also used by Sniper Scope
+	EyeoftheGolem: 15% más de daño de golpe crítico
+	RifleScope: El efecto de mira se puede activar/desactivar con la visibilidad
+	ReconScope2: 5% más de probabilidad de golpe crítico a distancia
+	ArcaneFlower: 5% más de daño mágico
+	HellfireTreads:
+		'''
+		50% más de daño del efecto negativo de Calor, no se acumula con versiones inferiores
+		Todos los ataques infligen Fuego Infernal
+		'''
+	FairyBoots:
+		'''
+		Las hadas pueden aparecer en cualquier momento en la superficie y aparecen con mucha más frecuencia
+		Las hadas cercanas otorgan +1 PV/s de regeneración de vida, 4 de defensa y 10% de velocidad de movimiento
+		Las hadas son inmunes al daño y ya no huirán
+		'''
+	FleshKnucklesLine: La vida máxima aumenta en 25
+	HandWarmer: Proporciona un aumento de regeneración al llevar la armadura de Nieve
+	/*
+	Others
+	*/
+	TruffleWorm:
+		'''
+		Invoca a Duke Fishron si se usa como cebo en el Océano
+		Se enfurecerá fuera del Océano
+		'''
+	SlimeGun: Los enemigos enlimados reciben más daño de los efectos negativos basados en fuego
+	RodofDiscord: La teletransportación está desactivada mientras el Estado de Caos está activo
+	Pwnhammer:
+		'''
+		Los Altares Demoníacos ahora sueltan Almas de la Noche en lugar de generar minerales al ser destruidos
+		Los minerales del Modo Difícil ahora se generan después de derrotar a los Jefes Mecánicos por primera vez
+		'''
+	// Life Drain
+	SoulDrain:
+		'''
+		Esto otorga +1.5 PV/s de regeneración de vida y acelera la regeneración de vida natural
+		El drenaje de vida se acumula según el número de enemigos alcanzados
+		'''
+	GoldenFishingRod: Su línea de pesca nunca se romperá
+	Tombstones:
+		'''
+		13 lápidas de cualquier tipo convierten el área circundante en un cementerio
+		Los cementerios tienen varias ventas y recetas de objetos nuevos
+		'''
+	FeatherfallPotion: Desactiva toda recuperación de vuelo en el aire
+	CrimsonArmorPieces: +0.5 PV/s de regeneración de vida
+	Picksaw: Puede minar Mineral de Escoria ubicado en el Abismo
+}
+
+PrefixTooltip: {
+	ArcaneBuffStat:
+		'''
+		+{0} de maná máximo
+		+{1}% de daño mágico
+		-{2}% de coste de maná
+		'''
+	ArmorPenStat: +{0} de penetración de armadura
+	CritStat: +{0}% de probabilidad de golpe crítico
+	DamageStat: +{0}% de daño
+	DefenseStat: +{0} de defensa
+	DRStat: +{0}% de reducción de daño
+	LuckStat: +{0} de suerte
+	MeleeSpeedStat: +{0}% de velocidad de combate cuerpo a cuerpo
+	SpeedStat: +{0}% de velocidad de movimiento
+}
+
+EditedTooltip: {
+	/*
+	Boss Summons
+	*/
+	Abeemination:
+		'''
+		Invoca a la Reina Abeja cuando se usa en la Jungla
+		Se enfurecerá fuera de la Jungla Subterránea
+		'''
+	BloodySpine:
+		'''
+		Invoca al Cerebro de Cthulhu cuando se usa en el Crímson
+		Desaparece fuera del Crímson
+		'''
+	ClothierVoodooDoll:
+		'''
+		Mientras está equipado, invoca al Esqueletrón cuando el Sastre es asesinado durante la noche
+		Se enfurecerá durante el día
+		'Eres una persona terrible'
+		'''
+	DeerThing: Invoca a Deerclops cuando se usa en el bioma de Nieve o Hielo
+	GuideVoodooDoll:
+		'''
+		Invoca al Muro carnoso si se lanza a la lava en el Inframundo mientras el Guía está vivo
+		'Eres una persona terrible'
+		'''
+	LihzahrdPowerCell:
+		'''
+		Invoca al Gólem cuando se usa en el Altar Lihzahrd
+		Se enfurecerá fuera del Templo de la Jungla
+		'''
+	MechanicalEye: Invoca a Los Gemelos cuando se usa durante la noche
+	MechanicalSkull:
+		'''
+		Invoca al Esqueletrón Mayor cuando se usa durante la noche
+		Se enfurecerá durante el día
+		'''
+	MechanicalWorm: Invoca al Destructor cuando se usa durante la noche
+	QueenSlimeCrystal: Invoca a la Reina Slime cuando se usa en el Sagrado
+	SuspiciousLookingEye: Invoca al Ojo de Cthulhu cuando se usa durante la noche
+	WormFood:
+		'''
+		Invoca al Devoramundo cuando se usa en la Corrupción
+		Desaparece fuera de la Corrupción
+		'''
+	/*
+	Life Regen
+	*/
+	Campfires: La regeneración de vida aumenta en 0.5 PV/s al estar cerca de una hoguera
+	HeartLantern: Otorga +1 PV/s de regeneración de vida cuando está colocada cerca
+	BottledHoney:
+		'''
+		Otorga +1 PV/s de regeneración de vida por un corto tiempo
+		Otorga +1 PV/s adicional de regeneración de vida mientras se está bajo un efecto negativo dañino
+		'''
+	ShinyStone: Otorga +2 PV/s de regeneración de vida y acelera la regeneración de vida natural cuando no te mueves
+	BandofRegeneration: Otorga +1 PV/s de regeneración de vida
+	CharmofMyths: Otorga +1 PV/s de regeneración de vida y reduce el tiempo de reutilización de las pociones de curación en un 25%
+	RegenerationPotion: Proporciona +2 PV/s de regeneración de vida
+	HamBat: Derrotar enemigos otorga temporalmente +3 PV/s de regeneración de vida
+	// Vital Crystal
+	AegisCrystal: Aumenta permanentemente la regeneración de vida natural
+	/*
+	OOA armors
+	*/
+	SquireGreatHelm: Aumenta el número máximo de centinelas en 1 y otorga +2 PV/s de regeneración de vida
+	MonkBrows: Aumenta el número máximo de centinelas en 1 y aumenta la velocidad de pícaro en un 20%
+	MonkShirt: 20% más de daño de invocación y de pícaro
+	MonkPants: 15% más de probabilidad de golpe crítico de pícaro y 20% más de velocidad de movimiento
+	// Valhalla Knight
+	SquireAltShirt: 30% más de daño de invocación y otorga +4 PV/s de regeneración de vida
+	// Shinobi Infiltrator
+	MonkAltHead: Aumenta el número máximo de centinelas en 2 y aumenta el daño de invocación y de pícaro en un 20%
+	MonkAltShirt0: 20% más de daño de invocación y velocidad de pícaro
+	MonkAltShirt1: 5% más de probabilidad de golpe crítico de pícaro
+	MonkAltPants: 20% más de daño de invocación y probabilidad de golpe crítico de pícaro
+	/*
+	Accessories
+	*/
+	SunMoonStones: probabilidad de golpe crítico, regeneración de vida,
+	CelestialStoneShell: Ligero aumento al daño,
+	PowerBerserkerGlove: 12% más de velocidad de combate cuerpo a cuerpo, no se acumula con versiones inferiores
+	MechanicalGlove:
+		'''
+		12% más de daño de combate cuerpo a cuerpo
+		12% más de velocidad de combate cuerpo a cuerpo, no se acumula con versiones inferiores
+		'''
+	FireGauntlet1: Aumenta el retroceso de combate cuerpo a cuerpo y los ataques cuerpo a cuerpo infligen Fuego Infernal
+	FireGauntlet2:
+		'''
+		14% más de daño de combate cuerpo a cuerpo
+		14% más de velocidad de combate cuerpo a cuerpo, no se acumula con versiones inferiores
+		'''
+	MoltenQuiver: Enciende las flechas de madera en llamas y todas las flechas infligen Fuego Infernal
+	RifleScope1: Aumenta el rango de visión para armas de fuego (<right> para alejar la vista)
+	RifleScope2: El efecto de mira se puede activar/desactivar con la visibilidad
+	ReconScope1: 15% más de daño a distancia
+	SniperScope: 12% más de probabilidad de golpe crítico a distancia
+	Magiluminescence:
+		'''
+		Aumenta la aceleración y desaceleración de movimiento en 1.75x
+		Aumenta la velocidad de movimiento en 1.15x. Este bonus se aplica a los accesorios de botas de movimiento
+		'''
+	FrogLeg: Aumenta la velocidad de salto en un {0}% y permite el salto automático
+	// Soaring Insignia
+	EmpressFlightBooster1: Aumenta el tiempo de vuelo de alas en un 33%
+	EmpressFlightBooster2: Aumenta la velocidad de movimiento en un 7.5%, la velocidad de salto en un 10% y la aceleración en 1.25x
+	GravityGlobe:
+		'''
+		Proporciona un 32% más de velocidad de salto y mayor velocidad de caída
+		Proporciona un salto de impulso gravitacional, que se recarga cada vez que la gravedad se invierte
+		Mejora ligeramente la velocidad de movimiento aéreo sin alas
+		Pulsa {$Key.UP} para cambiar la gravedad
+		Pulsa {$Key.DOWN} para caer más rápido
+		'''
+	FlameWakerBoots:
+		'''
+		25% más de daño del efecto negativo de Calor
+		Todos los ataques prenden fuego a los enemigos
+		'Nunca más tengas los pies fríos'
+		'''
+	/*
+	Armor
+	*/
+	MagicHat: 6% más de probabilidad de golpe crítico mágico
+	Gi: 10% más de velocidad de movimiento y salto
+	SolarFlarePieces: Otorga +1 PV/s de regeneración de vida
+	/*
+	Potions
+	*/
+	ArcheryPotion: 5% más de daño de flecha y 20% más de velocidad de flecha
+	AleSake:
+		'''
+		Aumenta el tamaño del arma cuerpo a cuerpo en un 25%, pero reduce la velocidad cuerpo a cuerpo en un 10%
+		Cuenta como alcohol para el Envenenamiento por Alcohol
+		{$Common.AlcoholWarning}
+		'''
+	FlaskofCursedFlames: Los ataques cuerpo a cuerpo, de látigo y de pícaro infligen llamas malditas a los enemigos
+	FlaskofFire: Los ataques cuerpo a cuerpo, de látigo y de pícaro prenden fuego a los enemigos
+	FlaskofGold: Los ataques cuerpo a cuerpo, de látigo y de pícaro hacen que los enemigos suelten más oro
+	FlaskofIchor: Los ataques cuerpo a cuerpo, de látigo y de pícaro reducen la defensa de los enemigos
+	FlaskofNanites: Los ataques cuerpo a cuerpo, de látigo y de pícaro confunden a los enemigos
+	FlaskofParty: Todos los ataques hacen aparecer confeti
+	FlaskofPoison: Los ataques cuerpo a cuerpo, de látigo y de pícaro envenenan a los enemigos
+	FlaskofVenom: Los ataques cuerpo a cuerpo, de látigo y de pícaro infligen Veneno Ácido a los enemigos
+	/*
+	Others
+	*/
+	// Aerial Bane
+	DD2BetsyBow: Dispara una ráfaga compacta de 6 flechas que se dividen
+	GoldPickaxe: Puede minar Demonita, Crimsana, Meteorita, Prismas Marinos y Cristales de Prisma Marino
+	MasterExclusive: Maestro o Revengeance
+	// Sparkle Slime Balloon
+	GelBalloon:
+		'''
+		Lanza una mezcla de slime y cristales brillantes
+		Los enemigos enlimados reciben más daño de los efectos negativos basados en fuego
+		'''
+	// Ancient Manipulator
+	LunarCraftingStation: Se usa para fabricar objetos a partir de Fragmentos Lunares, Luminita y Lingotes Astrales
+	AnkhShield: Otorga inmunidad a la mayoría de los efectos negativos, incluyendo Viento Fuerte
+}
+
+// Buff Descriptions
+BuffDescription: {
+	Banner: Tienes mayor daño y defensa contra los siguientes:
+	BeetleMight: El daño y la velocidad de combate cuerpo a cuerpo aumentan en un {0}% y {1}% respectivamente
+	ChaosState: Los teletransportes del Rod of Discord están desactivados
+	Rabies: Menor regeneración de vida, provoca efectos de estado
+	WeaponImbueConfetti: Todos los ataques hacen aparecer confeti
+	WeaponImbueCursedFlames: Los ataques cuerpo a cuerpo, de látigo y de pícaro infligen llamas malditas a los enemigos
+	WeaponImbueFire: Los ataques cuerpo a cuerpo, de látigo y de pícaro prenden fuego a los enemigos
+	WeaponImbueGold: Los ataques cuerpo a cuerpo, de látigo y de pícaro hacen que los enemigos suelten más oro
+	WeaponImbueIchor: Los ataques cuerpo a cuerpo, de látigo y de pícaro reducen la defensa de los enemigos
+	WeaponImbueNanites: Los ataques cuerpo a cuerpo, de látigo y de pícaro confunden a los enemigos
+	WeaponImbuePoison: Los ataques cuerpo a cuerpo, de látigo y de pícaro envenenan a los enemigos
+	WeaponImbueVenom: Los ataques cuerpo a cuerpo, de látigo y de pícaro infligen veneno ácido a tus objetivos
+}
+
+HerbTooltips: {
+	Daybloom: "[C/FFEB8A:Una hierba alegre que florece bajo la luz del día]"
+	Moonglow: "[C/8AFFFF:Una hierba radiante que florece bajo la luz de la luna]"
+	Waterleaf: "[C/8AFFAF:Una hierba tenaz que florece bajo la lluvia]"
+	Blinkroot: "[C/FFC28A:Una hierba caprichosa, cuya floración es impredecible]"
+	Shiverthorn: "[C/AADEFA:Una hierba gélida que florece lentamente y de forma permanente]"
+	Deathweed: "[C/A98AFF:Una hierba repugnante que florece bajo la Luna Llena o la Luna de Sangre]"
+	Fireblossom: "[C/FF8063:Una hierba vibrante que florece en las horas del atardecer]"
+}
+
+SeedTooltips: {
+	Daybloom: "[C/FFEB8A:Debe plantarse en Hierba normal]"
+	Moonglow: "[C/8AFFFF:Debe plantarse en Hierba de la Jungla]"
+	Waterleaf: "[C/8AFFAF:Debe colocarse en Arena]"
+	Blinkroot: "[C/FFC28A:Debe sembrarse en Tierra o Barro]"
+	Shiverthorn: "[C/AADEFA:Debe colocarse en Nieve o Hielo]"
+	Deathweed: "[C/A98AFF:Debe enterrarse en Hierba del Mal o Piedra del Mal]"
+	Fireblossom: "[C/FF8063:Debe enterrarse en Ceniza]"
+}
+
+// Vanilla NPC dialogues added by Calamity
+AnglerChat.SeaKing: ¡Oye! ¡Que alguien le diga a {0} que deje de intentar echarme del pueblo, no va a funcionar!
+
+ArmsDealerChat: {
+	MentionQuadBarrel: Ese viejo dejó una escopeta vieja y gruñona en su lecho de muerte. ¿Me estás captando?
+	HasQuadBarrel: ¡Ja! Mira esa escopeta vieja y oxidada. ¡Parece sacada directo de los 70!
+	DoGDefeated: ¿Soy yo o tus armas son cada vez más grandes?
+	Eclipse: ¡Creía que las polillas iban hacia la luz, qué hace una aquí?! ¡Vas a necesitar algo más que un escopetazo para matar eso!
+}
+
+ClothierChat: {
+	PolterghastDefeated: Las voces han cesado... No quiero saber qué hiciste allí, pero gracias.
+	MoonLordDefeated1: ¿A quién vas a llamar?
+	MoonLordDefeated2: Esos gritos... No sé por qué, pero siento como si un miedo sin nombre hubiera despertado en mi corazón.
+	MoonLordDefeated3: Las voces que siempre escuchaba en la Mazmorra han vuelto... Debe haber algo detrás de ellas, sé cuándo es solo mi cabeza.
+	MoonLordPresent: Houston, tuvimos un problema.
+}
+
+CyborgChat: {
+	MoonLordDefeated: ¡Apunta siempre a la luna! Claramente ya funcionó antes.
+	MentionPlague: Esas grandes cucarachas verdes en la Jungla no me amenazan, pero todos los animales que ha consumido... Por favor, hazme un favor y protégelos.
+	Rain: Todos estos momentos se perderán en el tiempo. Como lágrimas... en la lluvia.
+}
+
+DemolitionistChat: {
+	MentionSkynamite: ¿Cansado de volar tus piernas con dinamita? ¡Esa es parte de la emoción! Pero quizás vuelen si intentas lanzarlas a un Molino Celestial.
+	DoGDefeated: ¿Dinamita Asesina de Dioses? ¡Eso sí que me gusta escucharlo!
+}
+
+DryadChat: {
+	DarksunEclipse: Hay una oscura energía solar emanando de las polillas que aparecen durante este tiempo. ¿Qué pasa con que las polillas se vuelven más fuertes a medida que tú también lo haces?
+	Hardmode: Esa enfermedad proveniente de las estrellas se asienta sobre esta tierra como una llaga. ¿Acaso existen fuerzas de corrupción aún más viles en mundos más allá?
+	SulphurSea: Mi Diosa descansa en lo profundo de este mar. Si me disculpas, deseo rendirle mis respetos a solas.
+}
+
+DyeTraderChat: {
+	Normal: ¿Has visto esas criaturas de piedras preciosas en las cavernas? ¡Sus colores son simplemente impresionantes!
+	Archmage: ¿Crees que {0} sabe cómo 'dejarlo ir'?
+}
+
+GoblinTinkererChat: {
+	Bandit: Oye, ¿soy solo yo o mis bolsillos se han aligerado desde que llegó {0}?
+	MoonLordDefeated: Sabes... no hemos tenido una invasión en un tiempo...
+}
+
+GuideChat: {
+	ProvidenceDefeated1: ¡Matar a una Diosa obviamente haría que su esencia se filtrara en la tierra, probablemente puedas usar los restos de su poder para crear equipo aún más poderoso!
+	ProvidenceDefeated2: He escuchado que el Culto del Dragón tiene algo encerrado en la Mazmorra que usan para potenciar sus maleficios; aparentemente, meterse con ello puede llevarte a otro mundo...
+	MoonLordDefeated: He visto a miembros del Culto del Dragón fuera de la Mazmorra con mucha más frecuencia que antes... Creo que deberías investigar qué podría estar causando su desplazamiento.
+	Hardmode1: ¿Podrías ser tan amable de, eh... revisar el infierno por mí...? Dejé a alguien de quien me importa algo allá abajo.
+	Hardmode2: Ese terremoto no fue natural, algo debió haberlo causado... Ten cuidado al explorar; sea lo que sea que lo causó debe ser una entidad poderosa, quizás incluso de otro mundo.
+}
+
+MechanicChat: {
+	HasPortalGun: ¿Qué es ese artefacto? ¡Hace que mis Teletransportadores parezcan un juego de niños!
+	MoonLordDefeated: ¿Qué quieres decir con que tus trampas no dan la talla? ¡No me mires a mí!
+	Eclipse: Eh... ¿debería estar encendida mi luz nocturna?
+	AcidRain: ¡Vaya! Debería haber impermeabilizado mis aparatos, están empezando a corroerse.
+}
+
+MerchantChat: {
+	MoonLordDefeated: Cada noche parece más tensa que la anterior. Siento que horrores indecibles nos están vigilando.
+	Eclipse: ¿Estás loco?! ¡Apaga esas lámparas!
+	AcidRain: ¡Si esta lluvia ácida continúa, pronto habrá escasez de Bloques de Tierra!
+	Bandit: ¿Tienes alguna idea de por qué tengo varias Estatuas de Ángel en mi inventario, amigo? ¡Por favor, líbrame de ellas!
+}
+
+NurseChat: {
+	Bandit: No estarías tomando cosas de mi contenedor de material biológico peligroso, ¿verdad?
+	PlanteraDefeatedAndBanditPresent: Últimamente han estado desapareciendo cosas. Primero agujas usadas, luego bisturís sucios, y ahora... ¿bolsas de suero usadas?
+}
+
+PainterChat: {
+	Corruption: ¡Un poco de enfermedad no va a impedirme hacer mi trabajo como artista!
+	Crimson: Hay un arte sorprendente en esta zona. Una especie de sensación horrible y ancestral. ¡Me inspira!
+	Archmage: ¿Crees que {0} me dejaría pintarlo como una de sus chicas francesas?!
+	Tundra: No estoy exactamente hecho para este clima frío. Aunque sigue viéndose bonito.
+	Desert: Odio la arena. Es áspera, basta y se mete en mi pintura.
+	Hallow: ¿Crees que la sangre de unicornio podría usarse como un buen pigmento o resina? No, yo mismo no voy a averiguarlo.
+	Space: No puedo trabajar en este entorno. Toda mi pintura simplemente flota.
+	Jungle: Pintar las tortugas en un bodegón no está yendo muy bien.
+	Astral: No puedo pintar un bodegón si la fruta crece patas y se va caminando.
+	Underworld1: En el lienzo, las cosas siempre se calientan por aquí. ¡Igual que el entorno!
+	Underworld2: Lo siento, se me agotaron las acuarelas. Siguen evaporándose.
+	Crags: ¿Rosas, en serio? Es algo muy sobrevalorado para pintar.
+	SulphurSea: ¡Dato curioso! ¡El azufre se usó como pigmento en una época! ¿O era Cinabrio?
+	Abyss: El paisaje más fácil que he pintado en mi vida.
+}
+
+PartyGirlChat: {
+	Eclipse1: Mi exhibición de luces se está convirtiendo en un matamosqueros accidental. Sí, no sé, pero al menos los monstruos lo están disfrutando.
+	Eclipse2: ¡Oh! ¡Me encantan las fiestas donde todos llevan disfraces de miedo!
+}
+
+PirateChat: {
+	PreLeviathan: Argh, he oído hablar de una criatura mítica en los océanos, cantando con una voz seductora. ¡Ten cuidado cuando pesques por ahí, marinero!
+	WetScourgeDefeated: Tengo que agradecerte de nuevo por encargarte de esa serpiente de mar. O era otra...
+	SeaKing: ¡Hay muchas leyendas sobre ese {0}! Pero no es exactamente como las historias lo pintan.
+	Ocean: ¡Argh, las aguas abiertas! ¡Este es un escenario que cualquier lobo de mar puede admirar!
+	SulphurSea1: No es gran cosa a la vista, pero estas aguas siguen rebosando de vida.
+	SulphurSea2: ¡Argh, este no es un muelle como Dios manda! ¡Mi barco podría hundirse solo por el ácido!
+}
+
+SkeletonMerchantChat.Normal: ¿Qué compras, forastero?
+
+SteampunkerChat: {
+	MoonLordDefeated: ¡Sí! También estoy considerando ser pirata espacial ahora.
+	Astral: ¡Vaya! Algunas de mis máquinas están volviéndose locas gracias a esta Infección Astral. ¡No debería haberlas construido aquí!
+	Hallow: No tengo ninguna tecnología resistente a Unicornios aquí, estás un pelín solo, amigo.
+}
+
+StylistChat: {
+	Hardmode: Por favor, no te contagies de piojos espaciales. O piojos de {0}. O piojos en general.
+	ProfanedSoulCrystal1: Se ven tan monos y, sin embargo, puedo sentir su inmenso poder con solo estar cerca. ¿Qué son?
+	ProfanedSoulCrystal2: Me duele decírtelo, pero no tienes pelo que cortar o peinar, cielo.
+	ProfanedDonuts: ¡Aw, son tan monos, tienen nombres?
+}
+
+TavernkeepChat.FullMoon: ¿Te apetece un poco de licor de luna?
+
+TaxCollectorChat: {
+	DoGDefeated: ¿Devorador de qué, dijiste? ¡Devorador de Fondos, si su nómina sirve de indicativo!
+	PreBrimmy: ¿Así que esos gamberros en Azafure creen que pueden vivir gratis en mis tierras? Te lo digo así: haz mi trabajo allí y quizás te dé una bonificación.
+	HasSlickCane: ¡Dios mío! ¡Ese bastón tiene estilo!
+	Has100Plat: ¡BAH! ¡Parece que nunca podré volver a disputar las deudas del pueblo!
+	Has500Plat: ¿De dónde y cómo consigues todo ese dinero?! ¡Lárgate, ya no me necesitas!
+}
+
+TruffleChat.Normal: No me siento muy seguro; creo que hay cerdos siguiéndome y eso me asusta.
+
+WitchDoctorChat: {
+	BloodMoon: Este es tan buen momento como cualquier otro para recoger los mejores ingredientes para pociones.
+	PrePlantera: Recuerdo rumores sobre algunos aldeanos que estaban creando un monstruo para defender su pueblo. Esa magia nunca podría domar bestias, pero quizás te sea de utilidad.
+	Jungle: Me pregunto cómo estará mi gente. La última vez que los revisé estaban demasiado ocupados adorando al... Sol, creo.
+}
+
+WizardChat.Hardmode: El espacio acaba de acercarse demasiado para mi gusto.
+
+TownNPCMood: {
+	// Default dialogues if, for example, a modded NPC does not have a dialogue line registered
+	DefaultMonument: Odio El Monumento.
+	DefaultGiftPositive: Me encanta El Regalo.
+	DefaultGiftNegative: Odio El Regalo.
+
+	Angler: {
+		Monument: ¡Ese monumento es TAAAAAAN feo! ¡Creo que necesita un poco de pescado picado tiradoooo por todas partes!
+		GiftPositive: ¡Oye! No sé cómo conseguiste toda esa cosa asquerosa y blandengue en ese regalo, ¡pero podría ser el mejor material para bromas que he visto! ¡Je je je!
+		GiftNegative: ¿Eres tonto?! ¡NUNCA caería en una broma de regalo tan patéeeetica como esa! ¡Más te vale pescar muchos peces increíbles para compensar!
+	}
+
+	ArmsDealer: {
+		Monument: ¿Alguien tenía realmente ganas de tener una estatua enorme en mi campo de tiro? ¡Porque yo no!
+		GiftPositive: ¡Ese nuevo cinturón de munición era justo el regalo que andaba buscando, amigo! ¡Probémoslo juntos después!
+		GiftNegative: ¿Sabes lo que estás haciendo al gastarme una broma de bomba en una caja? ¡Puedo matarte de más de setecientas maneras, y eso solo con mis pistolas!
+	}
+
+	BestiaryGirl: {
+		Monument: ¡Este monumento es como, totalmente escalofriante, tío!
+		MonumentTransformed: Grrr... PIEDRA GRANDE. ¡MALO! ¡NO!!
+		GiftPositive: ¡¡Oye!! ¡Eres como, supeeeer genial y todo eso por regalarme ese conejito tan mono! Ahora um... ¡tengo que pensar en un nombre para él!
+		GiftPositiveTransformed: AMOR. BUEN REGALO. ¡MONO!
+		GiftNegative: ¡Ay!! ¿De verdad me regalaste, como, un conejo muerto? ¡Realmente me parece totalmente horrible cuando la gente piensa que eso es gracioso!
+		GiftNegativeTransformed: ¡Grrr!! ODIO. CRUEL. REGALO. ¡CUÍDATE!!
+	}
+
+	Clothier: {
+		Monument: Creo que me estoy haciendo demasiado viejo para entender este... "arte moderno".
+		GiftPositive: Había una simple campanilla en ese regalo, pero su sonido era simplemente extraordinario. Quizás esto significa que realmente creo...
+		GiftNegative: ¿Podemos ponernos serios ahora? ¡Nadie me advirtió! Nadie dijo "Estás a punto de recibir el regalo más miserable de la historia". ¡Nadie podría entrenarse para eso!
+	}
+
+	Cyborg: {
+		Monument: Análisis del monumento cercano: No proporciona ninguna cualidad positiva a las formas de vida cercanas.
+		GiftPositive: El escaneo del contenido del regalo reveló silicio extremadamente puro para usar en procesadores mejorados. Parece que lo aprecio.
+		GiftNegative: El escaneo del contenido del regalo reveló un intento de provocar un mal funcionamiento en mis sistemas. Traducción: Odio esto.
+	}
+
+	DD2Bartender: {
+		Monument: Últimamente he tenido muchos clientes quejándose de ese gran monumento de ahí fuera. Tengo que decir, tienen razón.
+		GiftPositive: ¡La pinta en ese regalo tuyo me recordó a lo que sirvo en Etheria! Ahh, realmente lo echo de menos... pero fue muy considerado de tu parte.
+		GiftNegative: ¿Qué vil brebaje era esa bebida? ¡Con un solo sorbo tuve que limpiar la barra de nuevo! ¡¿Estabas conspirando con los Kobolds?!
+	}
+
+	Demolitionist: {
+		Monument: ¿Sabes?, hay un uso para ese monumento: ¡será una buena prueba de demolición para mi dinamita más grande hasta ahora!
+		GiftPositive: ¡Oye, eso es un cargamento de cerveza! ¡Es lo único que los enanos amamos más que hacer explotar cosas! ¡Eres una bomba!
+		GiftNegative: ¡ARGH! ¿Te ves como un bromista, dándome una pistola de agua? ¡Eso es un insulto a mi oficio de dos maneras! ¡Ahora me muero de ganas de convertirte en un fuego artificial!
+	}
+
+	Dryad: {
+		Monument: No me gusta ese monumento. Puedo sentir su fea mancha en la naturaleza.
+		GiftPositive: Como espíritu de la naturaleza no necesito bienes materiales... pero al menos puedo sentir que tu regalo fue dado con genuina compasión.
+		GiftNegative: No sería sabio que te acercaras a mí después de "regalarme" una masa rezumante de corrupción. Me pregunto si estás comprometido con purificar el mundo...
+	}
+
+	DyeTrader: {
+		Monument: ¡Oh no no, ese apagado monumento no puede ser! ¡Su mera presencia está chupando el color y la vitalidad de la vida misma!
+		GiftPositive: ¡Qué extraordinario lote de flores raras había en ese regalo, amigo! ¡Debo agradecerte tu ayuda, explora mis colores a precio reducido a cambio!
+		GiftNegative: ¿Crees que puedes gastarme una broma de regalo tan sosa? ¡No creo! ¡No quiero ningún negocio tuyo después de ese ataque a mis preciadas paletas!
+	}
+
+	GoblinTinkerer: {
+		Monument: ¿Sabes?, incluso el bárbaro campamento goblin del que fui parte nunca consideró el concepto de un monumento inútil que solo drena fondos.
+		GiftPositive: ¡Qué fascinante herramienta combinada de soldadura y corte había en ese regalo! Me encantaría hacer ingeniería inversa y modificarla para mi propia investigación.
+		GiftNegative: Cuando metí la mano en tu aparentemente inocente regalo, ¡mis manos fueron laceradas por un puñado de bolas con pinchos! Me temo que tendré que subir mis precios para cubrir los gastos médicos.
+	}
+
+	Golfer: {
+		Monument: Esto debe ser una burla. No quiero un monumento de la codicia erigido tan cerca de mi hogar.
+		GiftPositive: No sé dónde encontraste ese wedge, pero ha sido un salvavidas en la arena. ¡Gracias por ayudar a mi juego!
+		GiftNegative: Dime una cosa. ¿Por qué el malo driver de ese regalo se astilló por todas partes después de un golpe? El golf es un deporte delicado, ¡y esto realmente duele!
+	}
+
+	Guide: {
+		Monument: No me gusta nada ese monumento que tienen ahí. ¡Cómo puede alguien tener tan poca humildad!
+		GiftPositive: Un regalo considerado en este mundo siempre es un espectáculo bienvenido. ¡Lo aprecio mucho!
+		GiftNegative: Disculpa, actualmente estoy en shock por tu decisión de regalarme mi propio muñeco vudú. ¡Si al menos pudiera maldecirte!
+	}
+
+	Mechanic: {
+		Monument: Si tengo que aportar más dinero para este monumento, ¡voy a tener que empezar a cobrar una factura de electricidad! Me molestaría hacer eso.
+		GiftPositive: ¡Gracias a tu regalo de amplificadores de señal, puedo conectar más de este mundo que nunca! ¡Ese impulso extra de motivación es justo lo que necesito para terminar de cablear esta ciudad!
+		GiftNegative: ¿Qué te impulsó a ser tan imprudente como para regalarme un dispositivo EMP? ¡Todos me gritan como si fuera CULPA MÍA! Bueno, ahora será TU problema pagarlo cuando compres todo tu cable.
+	}
+
+	Merchant: {
+		Monument: ¡Ese horrible monumento está ahuyentando mi negocio!
+		GiftPositive: ¡Qué bonito regalo de mercancías exóticas me diste, amigo! Por favor, echa un vistazo a mi tienda a precios de liquidación.
+		GiftNegative: ¿Por qué ofrecer un "regalo" de inútiles Estatuas de Ángel? Me cansan tus bromas, así que si quieres negocio, tendrá un costo adicional.
+	}
+
+	Nurse: {
+		Monument: Ugh, ¿quién pondría una roca tan fea en este pueblo?
+		GiftPositive: ¡Oye! Gracias por ese regalo de antes. Si alguna vez necesitas reconstrucción facial, ya sabes a quién llamar.
+		GiftNegative: TÚ, espero que entiendas que regalarle aceite de serpiente a LA ÚNICA MÉDICA DE AQUÍ es la forma de hacer que nunca quiera tratarte.
+	}
+
+	Painter: {
+		Monument: Esa estatua ciertamente hace pensar. Me deja sin palabras lo apagado, aburrido y desesperanzado que hace sentir su entorno.
+		GiftPositive: ¿Cómo supiste exactamente el color de pintura que estaba buscando? ¡Mi nuevo mural lo agradece mucho!
+		GiftNegative: ¡Debes estar enfermo y ser cruel, porque esa broma de bomba de agua tuya arruinó todo mi último trabajo! ¡Sí, deberías estar cubierto de rojo, y no de pintura!
+	}
+
+	PartyGirl: {
+		Monument: ¡Uf, vamos a tener una fea estatua de la codicia por aquí? Eso como que mata totalmente el ambiente de fiesta por aquí.
+		GiftPositive: ¿REGALOS DE FIESTA? ¿PARA MÍ? Oh espera y verás, ¡voy a organizar la FIESTA MÁS GRANDE que este pueblo haya visto jamás, por siempre y para siempre!
+		GiftNegative: ¡Sabía que eras un problema cuando entraste en esa caja de aspecto sospechoso! ¡Ahora es demasiado tarde para disculparse!
+	}
+
+	Pirate: {
+		Monument: ¡Argh, vosotros los de tierra firme tenéis un gusto horrible en decoración! ¡Esa estatua está pidiendo a gritos ser arrasada!
+		GiftPositive: ¡JAR JAR! ¡Me traes la mejor botella de ron que he probado en mi vida! ¡No hay más que decir, perro del mar!
+		GiftNegative: ¡Argh, granuja! ¡Estás pidiendo que te manden al fondo del mar con ese repugnante brebaje que me diste antes!
+	}
+
+	Princess: {
+		Monument: Um... mi gente ha estado quejándose frecuentemente de ese monumento. ¿Puedo solicitar que lo retiren, por favor?
+		GiftPositive: Aprecio mucho tu consideración con este regalo, ¡mi leal súbdito! ¡Siempre es maravilloso ver las muchas cosas fantásticas que hay dentro!
+		GiftNegative: Um... ¿puedo preguntar qué querías decir con el contenido de ese regalo? Quizás no debería preocuparme tanto, pero me encuentro preocupada...
+	}
+
+	SantaClaus: {
+		Monument: ¿Esto es lo que la temporada navideña significa para la gente ahora? ¡Travieso, tú eres!
+		GiftPositive: ¡Jo jo jo! ¡Qué sensación tan inusual que alguien me regale algo en esta época del año! ¡Serías genial tomando el mando!
+		GiftNegative: Qué horrible regalo pensaste que podrías darme. ¡No recibirás ningún regalo este año!
+	}
+
+	Steampunker: {
+		Monument: ¡Oye, esa maldita roca enorme que tienes afuera es un error monumental! ¡Desmantelala en este mismo instante!
+		GiftPositive: ¡Ahh, qué motor de mochila propulsora tan profundamente inspirador! ¡Los avances en tecnología steampunk de esto serán exquisitos! Considera esta venta un retorno de generosidad.
+		GiftNegative: ¡Cuando abrí tu regalo, una súbita ráfaga de aire frío condensó todo mi vapor! ¡De no ser por mis sistemas de respaldo, mis máquinas serían inutilizables! ¡Maldita sea, más te vale cuidarte!
+	}
+
+	Stylist: {
+		Monument: ¡Esa estatua ha sido el tema del pueblo! ...En el sentido de que nadie puede aguantar esa cosa horrible.
+		GiftPositive: ¡Gracias, cielo, ese regalo de nuevos tintes de cabello exóticos era justo lo que me faltaba en la vida! ¡Sé exactamente quién más podría usar un poco de este estilo!
+		GiftNegative: ¿Qué me estabas haciendo con una bola de fuego en una caja de regalo? ¡Podría haberme dejado calva, y nunca podría ser estilista sin cabello! ¡NUNCA!
+	}
+
+	TaxCollector: {
+		Monument: ¡Bah! ¡No deberías estar viendo este mensaje, plebeyo!
+		GiftPositive: ¡Qué ganga, recibir un regalo lleno de lo único que vale algo en este mundo: el dinero!
+		GiftNegative: ¡Bah! ¿Te crees un bufón con ese trozo de carbón? ¡Fuera de mi vista!
+	}
+
+	Truffle: {
+		Monument: Tu especie tiene gustos decorativos muy extraños, como ese monumento cercano.
+		GiftPositive: Los amo, mis nuevos compañeros seta de regalo. ¡Es genial ver más de los nuestros por aquí!
+		GiftNegative: ¡Un cerdito saltó del regalo que me diste antes e intentó comerme la cara! Quizás tampoco puedo confiar en ti.
+	}
+
+	WitchDoctor: {
+		Monument: Una vil perturbación de la naturaleza es ese monumento. Mi alma está atormentada de desprecio por este edificio tan antiestético.
+		GiftPositive: Una amable ofrenda a mi pueblo es este regalo. Que seas bendecido por espíritus afines en tiempos difíciles.
+		GiftNegative: Una profanación sacrílega contra mis artes, de tu falso regalo hablo. Que tus pesares sean muchos y tus días pocos.
+	}
+
+	Wizard: {
+		Monument: ¡Si tuviera tu edad, habría destruido ese odioso monumento con una enorme bola de fuego! Lamentablemente, no recuerdo el hechizo.
+		GiftPositive: ¿Un auténtico tomo de sabiduría del mismísimo Archimago? ¡¡Qué posesión tan preciada!! ...eh, ¿quién es el Archimago?
+		GiftNegative: ¿Me tomas por tonto por poner un maleficio en ese regalo? ¿Qué tal si pongo un maleficio en tu cartera, y todo tu dinero desaparece cuando me compras?
+	}
+}

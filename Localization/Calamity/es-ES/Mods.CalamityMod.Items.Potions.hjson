@@ -1,0 +1,642 @@
+AnechoicCoating: {
+	DisplayName: Revestimiento Anecoico
+	Tooltip: Reduce la capacidad de las criaturas para detectarte en El Abismo
+}
+
+AstralInjection: {
+	DisplayName: Inyección Astral
+	Tooltip:
+		'''
+		Recupera {0} de maná por segundo
+		Inflige [cbuff:ManaSickness] al usarse
+		'''
+}
+
+AureusCell: {
+	DisplayName: Celda de Aureus
+	Tooltip: Otorga las mejoras {$BuffName.MagicPower} y {$BuffName.ManaRegeneration}
+}
+
+Baguette: {
+	DisplayName: Baguette
+	Tooltip:
+		'''
+		{$CommonItemTooltip.MinorStats}
+		Va bien con [cbuffplr:CalamityMod/RedWineBuff]
+		[c/FCE391:'je suis Monte']
+		'''
+}
+
+BlasphemousDonut: {
+	DisplayName: Dona Blasfema
+	Tooltip:
+		'''
+		{$CommonItemTooltip.MediumStats}
+		'Dona por sentado que es perfectamente comestible'
+		'''
+}
+
+BottledPanacea: {
+	DisplayName: Panacea Embotellada
+	Tooltip:
+		'''
+		Te cura de todos los efectos negativos de Enfermedad y Eléctricos al consumirse
+		Tiene un enfriamiento de 30 segundos
+		'''
+}
+
+BoundingPotion: {
+	DisplayName: Poción de Rebote
+	Tooltip: Aumenta en un {0}% la velocidad de salto y en un {1}% la altura de salto
+}
+
+CalciumPotion: {
+	DisplayName: Poción de Calcio
+	Tooltip: Otorga un {0}% de resistencia al retroceso
+}
+
+CeaselessHungerPotion: {
+	DisplayName: Poción de Hambre Incesante
+	Tooltip: Hace que succiones todos los objetos del mundo
+}
+
+DeliciousMeat: {
+	DisplayName: Carne Deliciosa
+	Tooltip:
+		'''
+		{$CommonItemTooltip.MediumStats}
+		{$Common.NotConsumable}, pero tarda {0} minutos en regenerarse
+		'Una tira de cerdo bendita que parece que nunca se consume por completo...'
+		'''
+}
+
+FlaskOfBrimstone: {
+	DisplayName: Matraz de Azufre
+	Tooltip: Los ataques cuerpo a cuerpo, de látigo y de pícaro infligen {$Buffs.BrimstoneFlames.DisplayName}
+}
+
+FlaskOfCrumbling: {
+	DisplayName: Matraz de Desmoronamiento
+	Tooltip: Los ataques cuerpo a cuerpo, de látigo y de pícaro infligen {$Buffs.Crumbling.DisplayName}
+}
+
+FlaskOfHolyFlames: {
+	DisplayName: Matraz de Llamas Sagradas
+	Tooltip: Los ataques cuerpo a cuerpo, de látigo y de pícaro infligen {$Buffs.HolyFlames.DisplayName}
+}
+
+GravityNormalizerPotion: {
+	DisplayName: Poción Normalizadora de Gravedad
+	Tooltip: Desactiva la baja gravedad del espacio y otorga inmunidad al efecto negativo {$BuffName.VortexDebuff}
+}
+
+HadalStew: {
+	DisplayName: Estofado Hadal
+	Tooltip:
+		'''
+		Solo da [S] segundos de {$BuffName.PotionSickness}
+		{$CommonItemTooltip.MajorStats}
+		{$CommonItemTooltip.MinuteDuration}
+		'''
+}
+
+LavaChickenBroth: {
+	DisplayName: Caldo de Pollo de Lava
+	Tooltip:
+		'''
+		{$CommonItemTooltip.MajorStats}
+		'Sabe endiabladamente bien'
+		'''
+}
+
+OmegaHealingPotion: {
+	DisplayName: Poción de Curación Omega
+	Tooltip: ""
+}
+
+PhotosynthesisPotion: {
+	DisplayName: Poción de Fotosíntesis
+	Tooltip: Los corazones caídos curan {0} PV más
+}
+
+PotionofOmniscience: {
+	DisplayName: Poción de Omnisciencia
+	Tooltip:
+		'''
+		Resalta criaturas, proyectiles enemigos,
+		fuentes de peligro y tesoros cercanos
+		'''
+}
+
+ShadowPotion: {
+	DisplayName: Poción de las Sombras
+	Tooltip:
+		'''
+		Aumenta un {0}% la generación de sigilo
+		Convierte al jugador en una sombra con ojos brillantes
+		Los efectos visuales se pueden desactivar con la configuración de Invisibilidad de Sigilo
+		'''
+}
+
+SoaringPotion: {
+	DisplayName: Poción de Vuelo
+	Tooltip: Aumenta en un {0}% el tiempo de vuelo y la velocidad de vuelo horizontal
+}
+
+SulphurskinPotion: {
+	DisplayName: Poción de Piel de Azufre
+	Tooltip: Reduce los efectos de las aguas sulfurosas
+}
+
+SupremeHealingPotion: {
+	DisplayName: Poción de Curación Suprema
+	Tooltip: ""
+}
+
+SupremeManaPotion: {
+	DisplayName: Poción de Maná Suprema
+	Tooltip: ""
+}
+
+TheConcoction: {
+	DisplayName: El Brebaje
+	EasterEggText: Quita 9999 de vida
+	Tooltip:
+		'''
+		Recupera 9999 de vida
+		Se puede usar incluso si tienes Enfermedad de poción si se presiona Curación rápida repetidamente
+		'''
+	SalesPitch:
+		'''
+		'¿No estás harto de lo poco fiables que son tus pociones de curación? ¡¿Qué pasa si estás en medio de una horda de zombis y estás harto de esas cosas?!'
+		'¡Con mi brebaje, no tendrás que preocuparte por eso! ¡Solo un sorbo de este chico malo y quedarás como nuevo, listo para comerte el mundo!'
+		'''
+}
+
+ZenPotion: {
+	DisplayName: Poción Zen
+	Tooltip: Reduce enormemente la tasa de aparición de enemigos
+}
+
+ZergPotion: {
+	DisplayName: Poción Zerg
+	Tooltip: Aumenta enormemente la tasa de aparición de enemigos
+}
+
+BaconOil: {
+	DisplayName: Aceite de Tocino
+	Tooltip:
+		'''
+		Otorga "buena" movilidad que escala con los aumentos de tus estadísticas de daño
+		Cuenta como 3 alcoholes para {$Buffs.AlcoholPoisoning.DisplayName}
+		{$Common.AlcoholWarning}
+		'''
+	DripEffect:
+		'''
+		Otorga "buena" movilidad que escala con los aumentos de tus estadísticas de daño
+		Cuenta como 3 alcoholes para {$Buffs.AlcoholPoisoning.DisplayName}
+		Al combinarse con beber Aceite de Tocino puro, la movilidad se vuelve más alocada
+		'''
+	SalesPitch:
+		'''
+		'Los monjes hablan y hablan sobre renunciar al apego. No creo que a esto se refirieran. ¡Es mejor!'
+		'No prestes atención al descargo de responsabilidad por accidentes: ¡consigue un poco de este resbaladizo aceite de grasa y ni una pizca de este mundo podrá retenerte!'
+		'''
+}
+
+BloodyMary: {
+	DisplayName: Bloody Mary
+	Tooltip:
+		'''
+		Multiplica la tasa de aparición de enemigos por 7
+		Reduce enormemente la eficacia de las armas perforantes
+		{$Common.AlcoholWarning}
+		'''
+	DripEffect:
+		'''
+		Multiplica la tasa de aparición de enemigos por 7
+		Reduce enormemente la eficacia de las armas perforantes
+		Al combinarse con beber Bloody Mary puro, las tasas de aparición de enemigos se multiplican por 10 en total
+		'''
+}
+
+CaribbeanRum: {
+	DisplayName: Ron Caribeño
+	Tooltip:
+		'''
+		Aumenta en un {0}% la velocidad de movimiento
+		Reduce tu gravedad en un {1}%
+		{$Common.AlcoholWarning}
+		'''
+	DripEffect:
+		'''
+		Aumenta en un {0}% la velocidad de movimiento
+		Reduce tu gravedad en un {1}%
+		'''
+}
+
+CinnamonRoll: {
+	DisplayName: Rollo de Canela
+	Tooltip:
+		'''
+		Aumenta enormemente la velocidad de impulso
+		Reduce enormemente la distancia de impulso
+		{$Common.AlcoholWarning}
+		'''
+	DripEffect:
+		'''
+		Aumenta enormemente la velocidad de impulso
+		Reduce enormemente la distancia de impulso
+		'''
+}
+
+Everclear: {
+	DisplayName: Everclear
+	Tooltip:
+		'''
+		Aumenta un {0}% el daño
+		Reduce la regeneración de vida en {1} PV/s y la defensa un {2}%
+		Cuenta como 2 alcoholes para {$Buffs.AlcoholPoisoning.DisplayName}
+		{$Common.AlcoholWarning}
+		'''
+	DripEffect:
+		'''
+		Aumenta un {0}% el daño
+		Reduce la regeneración de vida en {1} PV/s y la defensa un {2}%
+		Cuenta como 2 alcoholes para {$Buffs.AlcoholPoisoning.DisplayName}
+		'''
+}
+
+EvergreenGin: {
+	DisplayName: Ginebra de Hoja Perenne
+	Tooltip:
+		'''
+		Aumenta un {0}% el daño de los efectos negativos de Agua y Enfermedad
+		Reduce un {1}% el daño de los efectos negativos de tipo Eléctrico y Calor
+		{$Common.AlcoholWarning}
+		'''
+	DripEffect:
+		'''
+		Aumenta un {0}% el daño de los efectos negativos de Agua y Enfermedad
+		Reduce un {1}% el daño de los efectos negativos de tipo Eléctrico y Calor
+		'''
+}
+
+Fireball: {
+	DisplayName: Fireball
+	Tooltip:
+		'''
+		Aumenta un {0}% el daño de los efectos negativos de Calor
+		Reduce un {1}% el daño de los efectos negativos de Enfermedad
+		{$Common.AlcoholWarning}
+		'''
+	DripEffect:
+		'''
+		Aumenta un {0}% el daño de los efectos negativos de Calor
+		Reduce un {1}% el daño de los efectos negativos de Enfermedad
+		'''
+}
+
+GrapeBeer: {
+	DisplayName: Cerveza de Uva
+	Tooltip:
+		'''
+		Las balas, flechas, dardos y cohetes se vuelven teledirigidos
+		Los proyectiles infligen menos daño cuanto más lejos esté el enemigo
+		Esto alcanza un mínimo de {0} veces el daño a una distancia de {1} bloques
+		{$Common.AlcoholWarning}
+		'''
+	DripEffect:
+		'''
+		Las balas, flechas, dardos y cohetes se vuelven teledirigidos
+		Los proyectiles infligen menos daño cuanto más lejos esté el enemigo
+		Esto alcanza un mínimo de {0} veces el daño a una distancia de {1} bloques
+		Al combinarse con beber Cerveza de Uva pura, el alcance teledirigido aumenta
+		'''
+}
+
+Manhattan: {
+	DisplayName: Manhattan
+	Tooltip:
+		'''
+		Aumenta un {0}% el daño de los efectos negativos de Frío
+		Reduce un {1}% el daño de los efectos negativos de Agua
+		{$Common.AlcoholWarning}
+		'''
+	DripEffect:
+		'''
+		Aumenta un {0}% el daño de los efectos negativos de Frío
+		Reduce un {1}% el daño de los efectos negativos de Agua
+		'''
+}
+
+Margarita: {
+	DisplayName: Margarita
+	Tooltip:
+		'''
+		Reduce a la mitad la duración de los efectos negativos dañinos que recibes
+		Reduce el daño de los efectos negativos que infliges un {0}%
+		{$Common.AlcoholWarning}
+		'''
+	DripEffect:
+		'''
+		Reduce a la mitad la duración de los efectos negativos dañinos que recibes
+		Reduce el daño de los efectos negativos que infliges un {0}%
+		'''
+}
+
+Moonshine: {
+	DisplayName: Licor de Contrabando
+	Tooltip:
+		'''
+		Aumenta la salud máxima un {0}%
+		Los ataques siempre reciben al menos la mitad del valor de tu defensa como daño a la defensa
+		El daño a la defensa tarda tres veces más en recuperarse
+		{$Common.AlcoholWarning}
+		'''
+	DripEffect:
+		'''
+		Aumenta la salud máxima un {0}%
+		Los ataques siempre reciben al menos la mitad del valor de tu defensa como daño a la defensa
+		El daño a la defensa tarda tres veces más en recuperarse
+		'''
+}
+
+MoscowMule: {
+	DisplayName: Moscow Mule
+	Tooltip:
+		'''
+		Aumenta un {0}% el retroceso, todos los ataques infligen un gran retroceso
+		Reduce la eficacia de las armas perforantes
+		{$Common.AlcoholWarning}
+		'''
+	DripEffect:
+		'''
+		Aumenta un {0}% el retroceso, todos los ataques infligen un gran retroceso
+		Reduce la eficacia de las armas perforantes
+		'''
+}
+
+OddMushroom: {
+	DisplayName: Champiñón Extraño
+	Tooltip:
+		'''
+		Hace que veas muchas copias falsas y vibrantes de todas las entidades cercanas
+		[c/FF232C:Estos efectos visuales pueden ser nauseabundos o dañinos para personas con problemas de fotosensibilidad]
+		'Psicodélico'
+		'''
+}
+
+OldFashioned: {
+	DisplayName: Old Fashioned
+	Tooltip:
+		'''
+		Multiplica la mayoría del daño que no es de armas ni de efectos negativos por {0}
+		Multiplica todo el daño de armas por {1}
+		{$Common.AlcoholWarning}
+		'''
+	DripEffect:
+		'''
+		Multiplica la mayoría del daño que no es de armas ni de efectos negativos por {0}
+		Multiplica todo el daño de armas por {1}
+		'''
+}
+
+PurpleHaze: {
+	DisplayName: Purple Haze
+	Tooltip:
+		'''
+		Durante 5 segundos después de un golpe furtivo, todo el daño aumenta un {0}%, pero el daño de los golpes furtivos se reduce un {1}%
+		{$Common.AlcoholWarning}
+		'''
+	DripEffect: Durante 5 segundos después de un golpe furtivo, todo el daño aumenta un {0}%, pero el daño de los golpes furtivos se reduce un {1}%
+}
+
+RedWine: {
+	DisplayName: Vino Tinto
+	Tooltip:
+		'''
+		Aumenta en un {0}% la velocidad vertical
+		Reduce en un {1}% el tiempo de vuelo
+		{$Common.AlcoholWarning}
+		'''
+	DripEffect:
+		'''
+		Aumenta en un {0}% la velocidad vertical
+		Reduce en un {1}% el tiempo de vuelo
+		'''
+}
+
+Rum: {
+	DisplayName: Ron
+	Tooltip:
+		'''
+		Aumenta un {0}% el daño de invocador
+		Reduce un {1}% el daño de los súbditos
+		{$Common.AlcoholWarning}
+		'''
+	DripEffect:
+		'''
+		Aumenta un {0}% el daño de invocador
+		Reduce un {1}% el daño de los súbditos
+		'''
+}
+
+Screwdriver: {
+	DisplayName: Destornillador
+	Tooltip:
+		'''
+		Aumenta enormemente el alcance y la velocidad de colocación de bloques y paredes
+		Reduce enormemente el daño infligido
+		{$Common.AlcoholWarning}
+		'''
+	DripEffect:
+		'''
+		Aumenta enormemente el alcance y la velocidad de colocación de bloques y paredes
+		Reduce enormemente el daño infligido
+		'''
+}
+
+StarBeamRye: {
+	DisplayName: Centeno de Rayo Estelar
+	Tooltip:
+		'''
+		Aumenta la regeneración de maná, incluso mientras usas un objeto
+		Las armas mágicas infligen {0} veces más daño
+		{$Common.AlcoholWarning}
+		'''
+	DripEffect:
+		'''
+		Aumenta la regeneración de maná, incluso mientras usas un objeto
+		Las armas mágicas infligen {0} veces más daño
+		'''
+}
+
+Tequila: {
+	DisplayName: Tequila
+	Tooltip:
+		'''
+		Aumenta un {0}% el daño de los efectos negativos de tipo Eléctrico
+		Reduce un {1}% el daño de los efectos negativos de Frío
+		{$Common.AlcoholWarning}
+		'''
+	DripEffect:
+		'''
+		Aumenta un {0}% el daño de los efectos negativos de tipo Eléctrico
+		Reduce un {1}% el daño de los efectos negativos de Frío
+		'''
+}
+
+TequilaSunrise: {
+	DisplayName: Tequila Sunrise
+	Tooltip:
+		'''
+		Aumenta enormemente la regeneración natural de vida tras sufrir un efecto negativo dañino
+		Aumenta un {0}% el daño recibido por efectos negativos
+		{$Common.AlcoholWarning}
+		'''
+	DripEffect:
+		'''
+		Aumenta enormemente la regeneración natural de vida tras sufrir un efecto negativo dañino
+		Aumenta un {0}% el daño recibido por efectos negativos
+		'''
+}
+
+TheElixir: {
+	DisplayName: El Elíxir
+	Tooltip:
+		'''
+		Funciona como una Poción de regreso
+		De vez en cuando te envía... [c/AA23C4:a otro lugar]
+		'''
+	SalesPitch:
+		'''
+		'¡Las pociones de regreso son geniales y todo eso, pero saben a rayos! ¡Pero con mi fórmula especial, mágicamente sabrá a tu comida favorita!'
+		'Además, no las encontrarás mucho más baratas por estos lares. Créeme, ¡prácticamente me estás robando!'
+		'''
+}
+
+Vodka: {
+	DisplayName: Vodka
+	Tooltip:
+		'''
+		Aumenta un {0}% el daño de los efectos negativos Sin tipo
+		Reduce un {1}% el daño de los efectos negativos elementales
+		{$Common.AlcoholWarning}
+		'''
+	DripEffect:
+		'''
+		Aumenta un {0}% el daño de los efectos negativos Sin tipo
+		Reduce un {1}% el daño de los efectos negativos elementales
+		'''
+}
+
+Whiskey: {
+	DisplayName: Whisky
+	Tooltip:
+		'''
+		Otorga entre un {0}% y un {1}% de daño a la clase del arma empuñada
+		Cada clase registra esta mejora individualmente
+		Esta mejora se reduce cuanto más tiempo empuñes armas de la misma clase, tardando {2} segundos en decaer por completo
+		Esta mejora se recarga al empuñar armas de una clase diferente, tardando {3} segundos en recargarse por completo
+		{$Common.AlcoholWarning}
+		'''
+	DripEffect:
+		'''
+		Otorga entre un {0}% y un {1}% de daño a la clase del arma empuñada
+		Cada clase registra esta mejora individualmente
+		Esta mejora se reduce cuanto más tiempo empuñes armas de la misma clase, tardando {2} segundos en decaer por completo
+		Esta mejora se recarga al empuñar armas de una clase diferente, tardando {3} segundos en recargarse por completo
+		Al combinarse con beber Whisky puro, el daño varía entre un {4}% y un {5}%
+		'''
+}
+
+WhiteWine: {
+	DisplayName: Vino Blanco
+	Tooltip:
+		'''
+		Recuperas tiempo de vuelo cuanto más cerca estés de un enemigo
+		{0}% de reducción del tiempo de vuelo
+		{$Common.AlcoholWarning}
+		'''
+	DripEffect:
+		'''
+		Recuperas tiempo de vuelo cuanto más cerca estés de un enemigo
+		{0}% de reducción del tiempo de vuelo
+		'''
+}
+
+// Food
+Barberry: {
+	DisplayName: Agracejo
+	Tooltip: "{$CommonItemTooltip.MediumStats}"
+}
+
+Cometfruit: {
+	DisplayName: Fruta Cometa
+	Tooltip:
+		'''
+		{$CommonItemTooltip.MediumStats}
+		'¡Sabe estelar!'
+		'''
+}
+
+Jackfruit: {
+	DisplayName: Yaca
+	Tooltip: "{$CommonItemTooltip.MinorStats}"
+}
+
+Lotus: {
+	DisplayName: Loto
+	Tooltip: "{$CommonItemTooltip.MediumStats}"
+}
+
+Mangosteen: {
+	DisplayName: Mangostán
+	Tooltip:
+		'''
+		{$CommonItemTooltip.MediumStats}
+		'La reina de las frutas'
+		'''
+}
+
+QualitySlop: {
+	DisplayName: Bazofia de Calidad
+	Tooltip:
+		'''
+		{$CommonItemTooltip.MajorStats}
+		'Solo te gusta porque es buena'
+		'''
+}
+
+Salak: {
+	DisplayName: Salak
+	Tooltip: "{$CommonItemTooltip.MinorStats}"
+}
+
+ShroomBowl: {
+	DisplayName: Tazón de Champiñones
+	Tooltip:
+		'''
+		{$CommonItemTooltip.MediumStats}
+		'Lo han castigado'
+		'''
+}
+
+TheSandwich: {
+	DisplayName: El Sándwich
+	Tooltip:
+		'''
+		¡Un sándwich hecho con el mejor pan, queso y pescado del lugar!
+		Pequeñas reducciones a todas las estadísticas
+		Aumenta un {0}% el daño por cada alcohol que te afecte
+		Te permite beber 2 alcoholes más de lo normal
+		Los efectos del alcohol no expirarán mientras estés bajo los efectos de El Sándwich
+		'En realidad podría saber bien si fuera lo único que hubieras comido...'
+		'''
+	SalesPitch:
+		'''
+		'...¿Quieres comprar mi almuerzo?'
+		'Bueno, ¡no importa! ¡Pero no será barato! ¡Este sándwich está hecho con lo mejor que el mercado puede ofrecer, así que prepara tu billetera!'
+		'''
+}

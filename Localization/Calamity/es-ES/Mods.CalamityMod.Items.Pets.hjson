@@ -1,0 +1,233 @@
+AbyssShellFossil: {
+	DisplayName: Fósil de Concha del Abismo
+	Tooltip:
+		'''
+		Invoca un Caracol Escargidolón mascota para que te siga
+		Equipado, reduce ligeramente la capacidad de las criaturas para detectarte en el Abismo
+		'''
+}
+
+BearsEye: {
+	DisplayName: Ojo de Oso
+	Tooltip: Invoca un ángel guardián mascota
+}
+
+BloodyVein: {
+	DisplayName: Vena Sangrienta
+	Tooltip: Invoca un montón amalgamado de carne
+}
+
+BrimstoneJewel: {
+	DisplayName: Joya de Azufre
+	Tooltip:
+		'''
+		'La recompensa definitiva por derrotar a semejante bestia...
+		¡Quién iba a saber que sería tan adorablemente mona!'
+		'''
+}
+
+BurrowerController: {
+	DisplayName: Baliza del Excavador
+	Tooltip:
+		'''
+		Solicita a un excavador amistoso que te siga e ilumine minerales
+		Cuenta como mascota de luz
+		'''
+}
+
+CharredRelic: {
+	DisplayName: Reliquia Chamuscada
+	Tooltip: Contiene una pequeña cantidad de azufre
+}
+
+ChromaticOrb: {
+	DisplayName: Orbe Cromático
+	Tooltip:
+		'''
+		Invoca una mascota de luz de dragón antiguo que resalta a los enemigos y fuentes de peligro cercanas
+		'Brilla cálidamente en tu mano'
+		'''
+}
+
+CosmicPlushie: {
+	DisplayName: Peluche Cósmico
+	Tooltip:
+		'''
+		Invoca al devorador del cosmos...?
+		'Es posible que se incluyan objetos afilados'
+		'''
+}
+
+EnchantedButterfly: {
+	DisplayName: Mariposa Encantada
+	Tooltip:
+		'''
+		Invoca una misteriosa mascota de luz libélula
+		'¡Aliméntalo con mariposas para mantenerlo fuerte!'
+		'''
+}
+
+ForgottenDragonEgg: {
+	DisplayName: Huevo de Dragón Olvidado
+	Tooltip: Llama a Akato, hijo de Yharon, a tu lado
+}
+
+FoxDrive: {
+	DisplayName: Unidad Zorro
+	Tooltip:
+		'''
+		Contiene 1 archivo:
+		'Fox.cs'
+		'''
+}
+
+FrostyBatBottle: {
+	DisplayName: Frasco de Murciélago Helado
+	Tooltip:
+		'''
+		Invoca un murciélago helado para iluminarte el camino que vuela hacia tu cursor cuando te impulsas
+		[c/6ECAC3:'¡Todos los murciélagos del mundo están listos para chillar!']
+		'''
+}
+
+GeyserShell: {
+	DisplayName: Concha del Géiser
+	Tooltip: Invoca un pequeño ermitaño antiaéreo
+}
+
+HermitsBoxofOneHundredMedicines: {
+	DisplayName: Caja de Cien Medicinas del Ermitaño
+	Tooltip:
+		'''
+		Invoca al Tercer Sabio
+		'Al derretirse el hielo en los manantiales
+		Y las olas lavan el cabello del viejo musgo...
+		Gracias, Adiós'
+		'''
+}
+
+IronBall: {
+	DisplayName: Bola de Hierro
+	Tooltip:
+		'''
+		Invoca una bola de hierro viviente
+		<left> la mascota para acariciarla
+		<right> la mascota para que se siente en tu hombro
+		'''
+}
+
+JoyfulHeart: {
+	DisplayName: Corazón Alegre
+	Tooltip: Es extrañamente cálido. Atrae al ser prohibido
+}
+
+Levi: {
+	DisplayName: Levi
+	Tooltip: Invoca una cría de Leviatán mascota
+}
+
+LittleLight: {
+	DisplayName: Pequeña Luz
+	Tooltip:
+		'''
+		Invoca un pequeño artefacto que te sigue y proporciona gran cantidad de luz
+		{$Common.AbyssLightLevel}
+		'Lleva mucho tiempo buscándote'
+		'''
+}
+
+McNuggets: {
+	DisplayName: McNuggets
+	Tooltip: "'¡Estos nuggets de pollo no son para que tú te los comas!'"
+}
+
+PineapplePet: {
+	DisplayName: Piña
+	Tooltip: Invoca una piña
+}
+
+PlagueCaller: {
+	DisplayName: Invocador de la Plaga
+	Tooltip: Invoca un bebé Portador de la Plaga mascota
+}
+
+PrimroseKeepsake: {
+	DisplayName: Recuerdo de Prímula
+	Tooltip: Acaban de...
+}
+
+RadiatingCrystal: {
+	DisplayName: Cristal Radiante
+	Tooltip:
+		'''
+		Invoca una mascota de luz radiante
+		'El cristal contiene trazas de holothurina'
+		'''
+}
+
+RomajedaOrchid: {
+	DisplayName: Orquídea Romajeda
+	Tooltip: Invoca a un amigo nunca olvidado
+}
+
+RottingEyeball: {
+	DisplayName: Globo Ocular Podrido
+	Tooltip: Invoca una conglomeración corrompida
+}
+
+StarSwallowerUnit: {
+	DisplayName: Unidad Devoraestrella
+	Tooltip: Invoca una rana biomecánica
+}
+
+StrangeOrb: {
+	DisplayName: Orbe Extraño
+	Tooltip:
+		'''
+		Invoca una miniatura de mascota de luz Espíritu del Océano
+		Proporciona gran cantidad de luz bajo el agua
+		{$Common.AbyssLightLevel}
+		'''
+}
+
+SuspiciousLookingNOU: {
+	DisplayName: NO U de Aspecto Sospechoso
+	Tooltip:
+		'''
+		Invoca un Lil Lorde que proporciona luz
+		'¡Vive!'
+		'''
+}
+
+TheEtomer: {
+	DisplayName: El Etomer
+	Tooltip:
+		'''
+		Invoca a un alborotador eléctrico
+		Hay una pequeña nota adjunta:
+		'¡Gracias, Aloe! Con mucho aprecio de Ben'
+		'''
+}
+
+ThiefsDime: {
+	DisplayName: Moneda del Ladrón
+	Tooltip:
+		'''
+		Invoca a Goldie, la moneda pícara, para recoger monedas cercanas e iluminarte el camino
+		'Un día fue un tesoro sin valor, ahora es una reliquia de la compañía de un ladrón'
+		'''
+}
+
+ToastyBatBottle: {
+	DisplayName: Frasco de Murciélago Tostado
+	Tooltip:
+		'''
+		Invoca un murciélago ardiente para iluminarte el camino que deja un rastro de brasas brillantes
+		[c/CF6454:'Garantizado para NO tirarte de tu puente infernal']
+		'''
+}
+
+TrashmanTrashcan: {
+	DisplayName: Cubo de Basura
+	Tooltip: Invoca al basurero
+}
