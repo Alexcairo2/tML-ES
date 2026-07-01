@@ -59,13 +59,13 @@ Antes de empezar, consulta en Discord qué archivos o mods están disponibles pa
 
 | Mod | Estado |
 |-----|--------|
-| Calamity Mod | ✅ |
-| Infernum Mode | ✅ |
-| Wrath of the Gods | ✅ |
-| Fargo's Mutant Mod | ✅ |
-| Fargo's Souls Mod | ✅ |
-| Fargo's Souls DLC | ✅ |
-| Split | Pendiente |
+| Calamity Mod | ✅ | v2.2.1 
+| Infernum Mode | ✅ | v2.0.1.34
+| Wrath of the Gods | ✅ | v1.2.31
+| Fargo's Mutant Mod | ✅ | v3.3.6.7
+| Fargo's Souls Mod | ✅ | v1.7.3.9
+| Fargo's Souls DLC | ✅ | v1.2.0.26
+| Split | PENDIENTE | X
 
 Trabajar en un archivo que no está disponible puede resultar en que tu aporte no sea integrado. Si tienes dudas sobre qué tomar, pregunta primero.
 

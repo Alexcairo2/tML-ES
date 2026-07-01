@@ -45,15 +45,14 @@ Los cambios aprobados aquí son integrados periódicamente al mod principal y pu
 
 | Mod | Estado |
 |-----|:------:|
-| Calamity Mod | ✅ |
+| Calamity Mod | ✅ | v2.2.1
 | Calamity Mod Music | ✅ |
-| Infernum Mode | ✅ |
-| Infernum Mode Music | ✅ |
-| Calamity: Wrath of the Gods | ✅ |
-| Fargo's Mutant Mod | ✅ |
-| Fargo's Souls Mod | ✅ |
-| Fargo's Souls DLC - Calamity | ✅ |
-
+| Infernum Mode | ✅ | v2.0.1.34
+| Infernum Mode Music | ✅ | 
+| Calamity: Wrath of the Gods | ✅ | v1.2.31
+| Fargo's Mutant Mod | ✅ | v3.3.6.7
+| Fargo's Souls Mod | ✅ | v1.7.3.9
+| Fargo's Souls DLC - Calamity | ✅ | v1.2.0.26
 ---
 
 ## Comunidad
