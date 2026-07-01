@@ -4,7 +4,7 @@ AbyssalTome: {
 }
 
 AbyssShocker: {
-	DisplayName: Chocador del Abismo
+	DisplayName: Electrocutador Abisal
 	Tooltip: Dispara un relámpago errático que forma arcos y rebota entre los enemigos
 }
 
@@ -222,7 +222,7 @@ Cryophobia: {
 }
 
 DarkSpark: {
-	DisplayName: Chispa Oscura
+	DisplayName: Destello Oscuro
 	Tooltip:
 		'''
 		'Y todo bajo el sol está en sintonía,
@@ -231,7 +231,7 @@ DarkSpark: {
 }
 
 DeathValleyDuster: {
-	DisplayName: Plumero del Valle de la Muerte
+	DisplayName: Guardapolvo del Valle de la Muerte
 	Tooltip:
 		'''
 		Lanza una ráfaga encantada de arena que atraviesa enemigos y bloques
@@ -254,7 +254,7 @@ Effervescence: {
 }
 
 EidolicWail: {
-	DisplayName: Lamento Eidólico
+	DisplayName: Aullido Eidólico
 	Tooltip:
 		'''
 		Dispara una cadena de ondas sonoras rebotadoras que se ralentizan al golpear enemigos
@@ -313,7 +313,7 @@ FatesReveal: {
 }
 
 FlareBolt: {
-	DisplayName: Proyectil de Bengala
+	DisplayName: Descarga Ígnea
 	Tooltip:
 		'''
 		Lanza una bola de fuego
@@ -327,7 +327,7 @@ ForbiddenSun: {
 }
 
 FrigidflashBolt: {
-	DisplayName: Proyectil de Destello Frígido
+	DisplayName: Descarga Frígida
 	Tooltip:
 		'''
 		Lanza una bola rápida de magma de congelación instantánea que rebota en los bloques
@@ -707,8 +707,8 @@ RelicofRuin: {
 }
 
 RougeSlash: {
-	DisplayName: Tajo de Rouge
-	Tooltip: Dispara una onda de 3 tajos de aire de rouge
+	DisplayName: Tajo Rojizo
+	Tooltip: Dispara una onda de 3 tajos de aire carmesí
 }
 
 SandstreamScepter: {
@@ -759,7 +759,7 @@ ShaderainStaff: {
 }
 
 ShadowboltStaff: {
-	DisplayName: Báculo de Proyectil de las Sombras
+	DisplayName: Báculo Umbral
 	Tooltip: Dispara un rayo de sombras que crea una plataforma para redirigirse de vuelta a los enemigos e infligir daño aumentado
 }
 
@@ -801,7 +801,7 @@ SHPC: {
 }
 
 SkyGlaze: {
-	DisplayName: Glaseado Celestial
+	DisplayName: Resplandor Celestial
 	Tooltip: Dispara plumas desde el cielo que se adhieren a los enemigos y bloques y explotan
 }
 
@@ -848,7 +848,7 @@ SubsumingVortex: {
 }
 
 Sylvestaff: {
-	DisplayName: Báculo Sylve
+	DisplayName: Sylvebáculo
 	Tooltip:
 		'''
 		Lanza un rayo rebotador que se divide cuando los enemigos están cerca de él
