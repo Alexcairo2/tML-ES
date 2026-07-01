@@ -2,6 +2,9 @@ SoulTogglerButton: Open Effect Toggler
 Standard: Standard Mode
 Eternity: Eternity Mode
 Masochist: Masochist Mode
+// added this, fargo please update your localization files I'm tired of dealing with this shit
+MasochistMode: Masochist Mode
+EternityMode: Eternity Mode
 EternityEnabled: Eternity Mode is enabled
 MasochistEnabled: Masochist Mode is enabled
 EternityDisabled: Eternity Mode is disabled

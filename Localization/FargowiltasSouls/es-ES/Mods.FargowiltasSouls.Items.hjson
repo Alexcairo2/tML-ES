@@ -355,7 +355,7 @@ MonkEnchant: {
 }
 
 MythrilEnchant: {
-	DisplayName: Encantamiento de Mitrilo
+	DisplayName: Encantamiento de Mithril
 	Tooltip:
 		'''
 		Aumenta temporalmente la velocidad de ataque tras no atacar durante un rato
@@ -542,7 +542,7 @@ ShinobiEnchant: {
 }
 
 ShroomiteEnchant: {
-	DisplayName: Encantamiento de Hongofita
+	DisplayName: Encantamiento de Piñonita
 	Tooltip:
 		'''
 		Los hongos curan 50 de vida y consumirlos otorga Poder de Hongo durante 20 segundos

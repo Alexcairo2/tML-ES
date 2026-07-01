@@ -74,7 +74,7 @@ SetBonus: {
 	MonkTier3: "{$Common.RogueStealth}"
 	Mythril:
 		'''
-		Al golpear enemigos se liberan bengalas de mitrilo, que persiguen a los enemigos tras un breve retraso
+		Al golpear enemigos se liberan bengalas de Mithril, que persiguen a los enemigos tras un breve retraso
 		Una vez que se crea una bengala, hay un retraso de {0} fotogramas antes de que pueda aparecer otra
 		'''
 	Nebula:

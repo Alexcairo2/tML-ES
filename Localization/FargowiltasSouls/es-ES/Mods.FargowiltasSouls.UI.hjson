@@ -2,6 +2,9 @@ SoulTogglerButton: Abrir el alternador de efectos
 Standard: Modo Estándar
 Eternity: Modo Eternidad
 Masochist: Modo Masoquista
+// added this, fargo please update your localization files I'm tired of dealing with this shit
+MasochistMode: Modo Masoquista
+EternityMode: Modo Eternidad
 EternityEnabled: El Modo Eternidad está activado
 MasochistEnabled: El Modo Masoquista está activado
 EternityDisabled: El Modo Eternidad está desactivado

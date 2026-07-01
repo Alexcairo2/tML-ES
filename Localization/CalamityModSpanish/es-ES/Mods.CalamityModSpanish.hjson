@@ -1,7 +1,12 @@
 Configs: {
 	CalSpanishConfig: {
 		DisplayName: Configuración
-		Headers.General: Sección General
+
+		Headers: {
+			General: Ajustes generales
+			ModTranslations: Traducción de mods
+			GeneralOptions: General Options Header
+		}
 
 		ColoredDamageTypes: {
 			Label: Tipo de daño coloreado
@@ -47,6 +52,16 @@ Configs: {
 			Label: Calamity - Fargo's Souls DLC
 			Tooltip: Desactiva la traducción de Calamity - Fargo's Souls DLC.
 		}
+
+		ShowStartUpCollabMessage: {
+			Label: Mostrar anuncio de colaboradores al iniciar
+			Tooltip: Muestra un mensaje de anuncio indicando que el mod está abierto a recibir contribuciones de la comunidad al entrar a un mundo.
+		}
+
+		ShowTranslationModIncompatibilityScreen: {
+			Label: Mostrar pantalla de incompatibilidad de traducción de mods
+			Tooltip: Muestra una pantalla de advertencia si se detecta que un mod de traducciones no es compatible con tModLoader en Español.
+		}
 	}
 }
 
@@ -57,3 +72,11 @@ AuthorTags: {
 	Morselli.DisplayName: purrMorselli
 	Allan.DisplayName: all_xozzin
 }
+
+Misc.CollabMessage:
+	'''
+	[tmles:CalamityModSpanish/DoremyGlyph] ¡Oye! ¡Es importante!
+	>*     tModLoader en Español está abierto a recibir contribuciones de la comunidad. 
+	>	    Si deseas ayudar a traducir mods, puedes unirte a nuestro Discord para obtener más detalles.
+	>	    ¡Los colaboradores recibirán créditos en el mod y una mascota exclusiva dentro del mod! ¡Gracias por tu apoyo!
+	'''
