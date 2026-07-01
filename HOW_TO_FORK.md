@@ -47,8 +47,8 @@ Para cambios puntuales no hace falta clonar nada — GitHub tiene un editor inte
 
 2. Haz tus cambios siguiendo las [directrices de traducción](CONTRIBUTING.md#directrices-de-traducción) y el [formato HJSON](CONTRIBUTING.md#formato-hjson) de `CONTRIBUTING.md`.
 
-   > [!WARNING]
-   > Edita solo los valores, nunca las claves. No modifiques los `{0}`, `<right>`, `[i:...]` ni otros marcadores — revisa la sección [Tags y placeholders](CONTRIBUTING.md#tags-y-placeholders--no-se-traducen).
+> [!WARNING]
+> Edita solo los valores, nunca las claves. No modifiques los `{0}`, `<right>`, `[i:...]` ni otros marcadores — revisa la sección [Tags y placeholders](CONTRIBUTING.md#tags-y-placeholders--no-se-traducen).
 
 3. Si el archivo `es-ES` no existe todavía, créalo desde la carpeta correspondiente con el botón **Add file → Create new file**, usando el mismo nombre que el `en-US`.
 
@@ -99,8 +99,8 @@ Para cambios puntuales no hace falta clonar nada — GitHub tiene un editor inte
 
    ![Estado del check de CI en la Pull Request, en verde o rojo](docs/images/fork-pr/09-ci-status.png)
 
-   > [!NOTE]
-   > Si es tu primera PR en este repositorio, es posible que veas **"Workflow awaiting approval"** en vez del check corriendo — GitHub bloquea por defecto la primera ejecución de un colaborador nuevo hasta que alguien del equipo la apruebe. No es un error tuyo; solo espera a que el equipo lo apruebe. Desde tu segunda PR en adelante corre automático.
+> [!NOTE]
+> Si es tu primera PR en este repositorio, es posible que veas **"Workflow awaiting approval"** en vez del check corriendo — GitHub bloquea por defecto la primera ejecución de un colaborador nuevo hasta que alguien del equipo la apruebe. No es un error tuyo; solo espera a que el equipo lo apruebe. Desde tu segunda PR en adelante corre automático.
 
 2. Con el CI en verde, el equipo de tML ES revisa el contenido siguiendo el [proceso de revisión](CONTRIBUTING.md#proceso-de-revisión).
 
