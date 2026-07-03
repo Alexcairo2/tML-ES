@@ -891,7 +891,7 @@ Mods: {
 				Activated: activado
 				Deactivated: desactivado
 				// {Battle / Calming} Cry {activated / deactivated} for {playerName}{punctuation}
-				CryText: Grito de {0} {1} para {2}{3}
+				CryText: ¡Grito de {0} {1} para {2}{3}
 			}
 
 			DeathFruit: {

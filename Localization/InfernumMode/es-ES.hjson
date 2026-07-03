@@ -2557,7 +2557,11 @@ Mods: {
 			GuardiansPlaqueUI: {
 				HoverText: Leer
 				// !! Beware translators: The "ancient artifact" string must be the same as the one in the SpecialText
-				PlaqueText: Tres discípulos. Una mente. Un dios. Un propósito. Templado por las llamas sagradas de Providencia, un artefacto antiguo se cristaliza, con el único propósito de iniciar el Ritual en el acantilado de este Templo.
+				PlaqueText:
+					'''
+					Tres discípulos. Una mente. Un dios. Un propósito. Templado por las llamas sagradas de Providencia,
+					un artefacto antiguo se cristaliza, con el único propósito de iniciar el Ritual en el acantilado de este Templo.
+					'''
 				SpecialText: artefacto antiguo
 			}
 
