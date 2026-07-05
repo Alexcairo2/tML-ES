@@ -1,7 +1,7 @@
 Nekomi:
 	'''
 	7% más de daño y probabilidad de golpe crítico para tu clase de arma actual
-	Aumenta en 1 el número máximo de secuaces
+	Aumenta en 1 el número máximo de súbditos
 	Aumenta el radio de roce de Adoración Centelleante
 	Roza ataques para cargar energía temporalmente
 	Aumenta la regeneración de vida al recibir daño a costa de algo de energía
@@ -13,7 +13,7 @@ Gaia:
 	10% más de velocidad cuerpo a cuerpo
 	Reduce el uso de maná un 10% y aumenta el maná máximo en 30
 	10% de probabilidad de no consumir munición
-	Aumenta en 4 el número máximo de secuaces
+	Aumenta en 4 el número máximo de súbditos
 	Toca dos veces {0} para alternar el modo ofensivo, que tiene los siguientes efectos:
 	30% más de daño y 15% más de probabilidad de golpe crítico para tu clase de arma actual
 	Aumenta la penetración de armadura en 20
@@ -23,7 +23,7 @@ EridanusOff:
 	'''
 	15% más de daño para tu clase de arma actual
 	10% más de probabilidad de golpe crítico para tu clase de arma actual
-	Aumenta en 3 tu número máximo de secuaces
+	Aumenta en 3 tu número máximo de súbditos
 	Toca dos veces {0} para activar la bendición de Eridanus
 	'''
 EridanusOn:
@@ -34,7 +34,7 @@ EridanusOn:
 	70% más de daño para la clase potenciada
 	30% más de probabilidad de golpe crítico para la clase potenciada
 	30% más de velocidad de ataque para la clase potenciada
-	Aumenta en 3 tu número máximo de secuaces
+	Aumenta en 3 tu número máximo de súbditos
 	Tus armas de invocación pueden hacer crítico con la potenciación de invocador
 	Toca dos veces {0} para desactivar la bendición de Eridanus
 	'''

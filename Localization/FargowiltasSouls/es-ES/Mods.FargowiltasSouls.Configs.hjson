@@ -70,6 +70,16 @@ ClientConfig: {
 		Label: Modo de Fotosensibilidad
 		Tooltip: ""
 	}
+
+	WikiNotification: {
+		Label: Notificación de Wiki
+		Tooltip: Al estar activado, se envía una notificación de chat indicando la wiki al entrar al mundo
+	}
+
+	MusicModNotification: {
+		Label: Notificación del Mod de Música
+		Tooltip: Al estar activado, se envía una notificación de chat para el mod de música al entrar al mundo
+	}
 }
 
 SoulConfig: {

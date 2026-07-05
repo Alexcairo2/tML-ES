@@ -450,6 +450,7 @@ Lore: {
 	LoreDraedon: {
 		DisplayName: Draedon
 		Tooltip: ""
+		Lore: ""
 	}
 }
 

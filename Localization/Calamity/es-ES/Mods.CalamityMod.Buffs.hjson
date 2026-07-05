@@ -769,17 +769,17 @@ SwinesWrathBuff: {
 }
 
 WeaponImbueBrimstone: {
-	DisplayName: Imbuir Arma: Azufre
+	DisplayName: Arma imbuida: Azufre
 	Description: Los ataques cuerpo a cuerpo, látigo y pícaro incendian a los enemigos con llamas de azufre
 }
 
 WeaponImbueCrumbling: {
-	DisplayName: Imbuir Arma: Desmoronamiento
+	DisplayName: Arma imbuida: Desmoronamiento
 	Description: Los ataques cuerpo a cuerpo, látigo y pícaro reducen la reducción de daño del enemigo
 }
 
 WeaponImbueHolyFlames: {
-	DisplayName: Imbuir Arma: Llamas Sagradas
+	DisplayName: Arma imbuida: Llamas Sagradas
 	Description: Los ataques cuerpo a cuerpo, látigo y pícaro disuelven a los enemigos con llamas sagradas
 }
 

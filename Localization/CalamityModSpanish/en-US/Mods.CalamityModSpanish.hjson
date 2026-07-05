@@ -3,9 +3,9 @@ Configs: {
 		DisplayName: Configuración
 
 		Headers: {
-			General: Ajustes generales
+			GeneralOptions: Ajustes generales
 			ModTranslations: Traducción de mods
-			GeneralOptions: General Options Header
+			MiscOptions: Ajustes especiales
 		}
 
 		ColoredDamageTypes: {
@@ -25,32 +25,56 @@ Configs: {
 
 		CalamityModLocalization: {
 			Label: Calamity Mod
-			Tooltip: Desactiva la traducción del mod Calamity.
+			Tooltip:
+				'''
+				Desactiva la traducción del mod Calamity.
+				[c/ff388e:Nota:] Esto no desactiva la traducción de objetos, solo la traducción de los textos fuera de los objetos, como las interfaces o diálogos muy rebuscados.
+				'''
 		}
 
 		NoxusBossLocalization: {
 			Label: Calamity: Wrath of the Gods
-			Tooltip: Desactiva la traducción de Wrath of the Gods.
+			Tooltip:
+				'''
+				Desactiva la traducción de Wrath of the Gods.
+				[c/ff388e:Nota:] Esto no desactiva la traducción de objetos, solo la traducción de los textos fuera de los objetos, como las interfaces o diálogos muy rebuscados.
+				'''
 		}
 
 		InfernumModeLocalization: {
-			Tooltip: Desactiva la traducción de Infernum Mode.
+			Tooltip:
+				'''
+				Desactiva la traducción de Infernum Mode.
+				[c/ff388e:Nota:] Esto no desactiva la traducción de objetos, solo la traducción de los textos fuera de los objetos, como las interfaces o diálogos muy rebuscados.
+				'''
 			Label: Infernum Mode
 		}
 
 		FargowiltasLocalization: {
 			Label: Fargo's Mutant Mod
-			Tooltip: Desactiva la traducción de Fargo's Mutant Mod.
+			Tooltip:
+				'''
+				Desactiva la traducción de Fargo's Mutant Mod.
+				[c/ff388e:Nota:] Esto no desactiva la traducción de objetos, solo la traducción de los textos fuera de los objetos, como las interfaces o diálogos muy rebuscados.
+				'''
 		}
 
 		FargowiltasSoulsLocalization: {
 			Label: Fargo's Souls Mod
-			Tooltip: Desactiva la traducción de Fargo's Souls Mod.
+			Tooltip:
+				'''
+				Desactiva la traducción de Fargo's Souls Mod.
+				[c/ff388e:Nota:] Esto no desactiva la traducción de objetos, solo la traducción de los textos fuera de los objetos, como las interfaces o diálogos muy rebuscados.
+				'''
 		}
 
 		FargowiltasCrossmodLocalization: {
 			Label: Calamity - Fargo's Souls DLC
-			Tooltip: Desactiva la traducción de Calamity - Fargo's Souls DLC.
+			Tooltip:
+				'''
+				Desactiva la traducción de Calamity - Fargo's Souls DLC.
+				[c/ff388e:Nota:] Esto no desactiva la traducción de objetos, solo la traducción de los textos fuera de los objetos, como las interfaces o diálogos muy rebuscados.
+				'''
 		}
 
 		ShowStartUpCollabMessage: {
@@ -61,6 +85,17 @@ Configs: {
 		ShowTranslationModIncompatibilityScreen: {
 			Label: Mostrar pantalla de incompatibilidad de traducción de mods
 			Tooltip: Muestra una pantalla de advertencia si se detecta que un mod de traducciones no es compatible con tModLoader en Español.
+		}
+
+		ShowOriginalItemNames: {
+			Label: "[i:Book] Mostrar nombres originales de los objetos"
+			Tooltip:
+				'''
+				Muestra los nombres originales (sin traducir) de los objetos, manteniendo el resto de la traducción en español. 
+				Esto te facilitará la búsqueda de objetos en internet, ya que la mayoría de los tutoriales y guías están en inglés.
+				El cambio se aplica al instante, sin necesidad de recargar.
+				[c/ff388e:Nota:] Esto no desactiva la traducción de objetos, solo la traducción de los nombres de los objetos.
+				'''
 		}
 	}
 }
