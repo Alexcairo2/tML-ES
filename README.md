@@ -54,6 +54,8 @@ Los cambios aprobados aquí son integrados periódicamente al mod principal y pu
 | Fargo's Souls Mod | ✅ | v1.7.3.9
 | Fargo's Souls DLC - Calamity | ✅ | v1.2.0.26
 | Calamity Overhaul | ✅ | v0.9025
+| Catalyst Mod | ✅ | v1.1.7
+| Calamity: Wrath of the Machines | ✅ | v1.0.4
 | Split | PENDIENTE | X
 | AlchemistNPC Lite | PENDIENTE | X
 ---
