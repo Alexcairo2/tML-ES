@@ -2333,7 +2333,7 @@ Mods: {
 
 			Wizard: {
 				DisplayName: Mago
-				Tooltip: "'¿Quieres que saque una moneda de detrás de tu oreja? ¿No? Vale.'"
+				Tooltip: "'¿Quieres que saque una moneda de detrás de tu oreja? ¿No? Bueno.'"
 			}
 
 			Zoologist: {
@@ -2606,8 +2606,8 @@ Mods: {
 					LoveBiome: ¡Las estrellas de allá arriba son tan bonitas, me encanta verlas pasar!
 					DislikeBiome: ¿Podemos ir a algún sitio más cálido que este?
 					HateBiome: ¡Quiero vivir en otra parte! Esto es horrible, ¡estoy sudando a mares!
-					LikeNPC: "{NPCName} es mi hermano mayor... pero no el mayor del todo. ¡Es bastante guay!"
-					LoveNPC: ¡{NPCName} está aquí! Es mi hermano mayor, ¿a que es lo más guay?!
+					LikeNPC: "{NPCName} es mi hermano mayor... pero no el mayor del todo. ¡Es bastante piola!"
+					LoveNPC: ¡{NPCName} está aquí! Es mi hermano mayor, ¿a que es lo más piola?!
 					DislikeNPC: No soporto a las chicas como {NPCName}; parece que solo está aquí para cierto público.
 					HateNPC: Que quede entre nosotros. ¿Alguna vez has pensado en devolver a {NPCName} al lugar donde lo encontraste?
 					LikeNPC_Princess: Tengo que visitar a {NPCName} otra vez; ¡esa chica sí me entiende!
@@ -2727,7 +2727,7 @@ Mods: {
 					LucyTheAxe: Lucy de aquel universo... Te esperan cosas interesantes.
 					// Normal
 					Normal1: ¿Madera de dinastía? Entre tú y yo, ¡esa cosa no es madera de verdad!
-					Normal2: Vale, el cactus no es madera, pero igual puedo talarlo con mi fiel hacha.
+					Normal2: Bueno, el cactus no es madera, pero igual puedo talarlo con mi fiel hacha.
 					Normal3: No tendrás por casualidad alguna fantasía conmigo... ¿verdad?
 					Normal4: Desayuno un tazón de virutas de madera... sin leche.
 					Normal5: ¡ÁRBOOOOOOOOL VAAAAAAAA!
@@ -2748,7 +2748,7 @@ Mods: {
 					// Tree Treasures
 					Desert: Mientras talaba un cactus, estas cosas saltaron hacia mí; ¿por qué no te encargas tú de ellas?
 					Jungle: Estos árboles de caoba están llenos de vida, pero un árbol solo tiene un propósito: ser talado. Ah, sí, estos se cayeron del último.
-					Hallow: Este lugar es un poco fantasioso para mi gusto, pero la madera es tan talable como cualquier otra. Aunque de noche hay estos bichos chulos, llévate unos cuantos.
+					Hallow: Este lugar es un poco fantasioso para mi gusto, pero la madera es tan talable como cualquier otra. Aunque de noche hay estos bichos increíbles, llévate unos cuantos.
 					GlowshroomHM: Lo que sea que hace que estos brillen me supera; probablemente te los vayas a comer igual, así que toma esto ya que estás.
 					Evil: Los árboles de aquí son seguramente los más duros de esta rama de la realidad... Perdón, solo bromas de árboles. Te encontré estos por aquí.
 					Snow: Este rincón del bosque es bonito, ¿eh? Toma, aquí tienes algo de mi madera favorita.
@@ -2808,14 +2808,14 @@ Mods: {
 					Party: "{0} es quien me invitó, aunque no entiendo por qué."
 					PartyWithoutPartyGirl: No sé por qué están todos tan contentos, pero mientras nadie me confunda con una Cerdiñata, yo también estoy contento.
 					Nurse: Cada vez que estamos a solas, {0} no para de lanzarme jeringas, ¡por más veces que le diga que pare!
-					WitchDoctor: Por favor, ve y dile a {0} que deje el numerito 'místico', ¡venga ya! Lo pillo, haces agua contaminada o algo así.
+					WitchDoctor: Por favor, ve y dile a {0} que deje el numerito 'místico', ¡Dale! Lo entiendo, haces agua contaminada o algo así.
 					Dryad: ¿Por qué el atuendo de {0} hace que me revoloteen las alas?
 					Stylist: "{0} una vez me dio una peluca... me veo horrible con el pelo largo."
 					Truffle: Ese hongo mutado parece de mi tipo de gente.
 					TaxCollector: ¡{0} no para de pedirme dinero, pero no acepta mis generadores!
 					Guide: ¿Alguna idea de por qué {0} siempre se encoge de miedo cuando me acerco a él?
 					WitchDoctorTruffleCyborg: Si alguno de nosotros supiera tocar instrumentos, montaría sin duda una banda con {0}, {1} y {2}.
-					PartyGirl: Tío, el confeti de {0} no para de pegárseme a las alas.
+					PartyGirl: Amigo, el confeti de {0} no para de pegárseme a las alas.
 					Demolitionist: Me sorprende que {0} no haya volado ya un agujero en el suelo; pensándolo bien, eso suena divertido.
 					Tavernkeep: "{0} no para de sugerirme que beba cerveza; aunque algo me dice que no le gustaría verme borracho."
 					DyeTrader: "{0} quiere ver cómo me vería de azul... no sé cómo sentirme al respecto."
@@ -2823,7 +2823,7 @@ Mods: {
 					Normal1: Salvajismo, barbarie, sed de sangre, eso es lo que me gusta ver en la gente.
 					Normal2: Cuanto más fuerte te haces, más cosas vendo. Tiene sentido, ¿no?
 					Normal3: Hay algo que todos ustedes tienen y yo no... Percepción de la muerte, ¿se llama así?
-					Normal4: Estaría bastante guay que vendiera una invocación para mí mismo...
+					Normal4: Estaría bastante piola que vendiera una invocación para mí mismo...
 					Normal5: ¡La única forma de hacerte más fuerte es seguir comprándome, y al por mayor!
 					Normal6: ¿Por qué me miras así? Solo me comí una manzana.
 					Normal7: No te molestes con nadie más, todo lo que necesitarás está aquí mismo.

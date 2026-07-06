@@ -1,0 +1,885 @@
+ItemFilterUI: {
+	HintText: Clic izquierdo para añadir
+	HintText2: Clic izquierdo para quitar
+	CloseHint: "[ESC] o [Clic derecho] para cerrar"
+}
+
+LegendUpgradeConfirmUI: {
+	TitleText: Confirmar mejora de arma legendaria
+	DescText:
+		'''
+		El nivel del mundo actual es superior al del arma.
+		¿Deseas mejorar {0} al nivel {1}?
+		'''
+	ConfirmText: Confirmar mejora
+	CancelText: Cancelar
+	Success: "[ITEM] ha sido mejorado al nivel [LEVEL]"
+	QueueIndicator: Quedan {0} armas legendarias por confirmar
+	TrustText: Confiar en este mundo
+	TrustSuccess: Se ha marcado este mundo como de confianza para [ITEM]; se sincronizará automáticamente a partir de ahora
+}
+
+QuestTracker: {
+	DamageTrackerSystem: {
+		QuestFailedPrefix: Misión fallida
+		QuestCompletedPrefix: ¡Misión completada!
+		FailureReasonWrongWeapon: Golpe final no realizado con el arma requerida
+		FailureReasonInsufficientDamage: Contribución de daño insuficiente
+		SuccessDamageContribution: Contribución de daño
+	}
+}
+
+DialogueSystem: {
+	ContinueHint: Continuar
+	FastHint: Acelerar
+	AutoHint: Auto
+	SkipHint: Saltar
+	BacklogHint: BACKLOG
+	ClaimHint: Haz clic para reclamar
+	PopupContinueHint: Haz clic para continuar
+	ChoiceTitle: Elegir
+}
+
+ExoMechdusaSumRender: {
+	ThanatosDescription: Thanatos, un terror serpentino con armadura impenetrable e innumerables torretas láser
+	AresDescription: Ares, una monstruosidad diabólica de gran peso equipada con cuatro exosuperarmas
+	ArtemisApolloDescription: Artemis y Apollo, un dúo de autómatas extremadamente persistentes con reservas de energía inestables.
+}
+
+CQETConstructorTP: {
+	GuideText_NeedBlocks: Requiere {0} Exoplacas
+	GuideText_Ready: ¡Listo!
+	GuideText_GroundIncomplete: ¡Suelo incompleto!
+}
+
+SignalTowerTargetRenderer: {
+	InRangeText: En rango
+	TargetCompletedText: ¡Punto objetivo [NUM] completado!
+	AllCompletedText: ¡Red de entrelazamiento cuántico completada!
+}
+
+DraedonCallUI: {
+	TitleText: Llamar a Draedon
+	TitleTextDisabled: Llamada deshabilitada
+	CallButtonText: Iniciar llamada
+	CallingText: Llamando...
+	DisabledButtonText: Deshabilitado
+	ConnectingText: Conectando...
+	ConnectedText: Conectado
+	DisabledReasonText: Ya has llamado a Draedon
+}
+
+DraedonShopUI: {
+	TitleText: DRAEDON.EXCHANGE
+	FundsLabelText: SALDO
+	BuyActionText: COMPRAR
+	HintText: "[Clic izq.] Comprar · Mantén para repetir · [ESC] Cerrar"
+	EmptyText: No hay artículos disponibles para intercambiar
+}
+
+EnchantUI: {
+	ExpandHint: Expandir interfaz de forja
+	CollapseHint: Colapsar interfaz de forja
+	EnchantTitle: Forja
+}
+
+ConstructionBlueprintUI: {
+	UITitle: Autoconstructor (Torre Cuántica)
+	MaterialsRequired: Materiales necesarios:
+	CloseHint: Clic para cerrar
+	CraftingStation: Estación de creación:
+}
+
+Generator: {
+	ThermalGeneratorUI: {
+		TitleText: Generador Térmico
+		FuelLabel: Combustible
+		TemperatureLabel: Temperatura
+		PowerLabel: Energía
+		StatusLabel: Estado:
+		ActiveText: Activo
+		IdleText: Inactivo
+		EfficiencyText: Eficiencia: {0}%
+		InsertFuelHint: Clic para insertar/retirar combustible
+		TemperatureUnit: °C
+		PowerUnit: UE
+	}
+}
+
+ChargingStationUI: {
+	TitleText: Estación de carga
+	ItemSlotLabel: Objeto a cargar
+	BatterySlotLabel: Batería
+	StationEnergyLabel: Energía de estación
+	ItemChargeLabel: Carga del objeto
+	StatusLabel: Estado:
+	ChargingText: Cargando
+	IdleText: Inactivo
+	InsertItemHint: Insertar objeto recargable
+	InsertBatteryHint: Insertar celda de energía de Draedon
+	EnergyUnit: UE
+	StationText1: ¡Solo se permiten objetos recargables!
+	StationText2: ¡Solo se permiten celdas de energía de Draedon!
+}
+
+OldDukeShopUI: {
+	TitleText: Tienda de El Viejo Duque
+	CurrencyName: Fragmentos Oceánicos
+	HintTooltip: Desplazar/Arrastrar barra
+}
+
+OceanRaidersUI: {
+	TitleText: Almacén del Devorador de Océanos
+	StorageText: Espacio de almacenamiento
+}
+
+OldDuchestUI: {
+	TitleText: Cofre Viejo
+	StorageText: Espacio de almacenamiento
+}
+
+QuestLog: {
+	ObjectiveText: Objetivo
+	RewardText: Recompensa
+	ReceiveAwardText: Reclamar
+	ProgressText: Progreso
+	QuickReceiveAwardText: Reclamar todo
+	StyleSwitchText: Cambiar estilo
+	NightModeText: Modo Noche
+	ResetViewText: Restablecer vista
+	SunModeText: Modo Día
+	LauncherHoverText: Clic izquierdo para Interactuar - Clic derecho para Arrastrar
+	QuestManagerText: Encargos
+
+	ObjectiveTemplate: {
+		DefeatNpc: Derrota a {0}
+		ObtainItem: Obtén {0}
+		CollectItem: Recoge {0} {1}
+	}
+}
+
+QuestNotificationSystem.Text1: Misión completada
+
+ExtraMain: {
+	ExtraText: EXTRAS
+	GalleryText: GALERÍA
+	SceneText: ESCENAS
+	MusicText: MÚSICA
+	StaffText: EQUIPO
+	BackText: VOLVER
+	LockedText: BLOQUEADO
+}
+
+QuestWorldConfirmUI: {
+	TitleText: Confirmar verificación de misión
+	DescText:
+		'''
+		Has entrado a este mundo desde otro.
+		¿Deseas verificar el progreso de las misiones en el mundo actual?
+		'''
+	ConfirmText: Verificar
+	CancelText: Omitir
+	TrustText: Confiar en este mundo
+	EnabledText: Verificación activada
+	DisabledText: Verificación omitida
+	TrustedText: Mundo de confianza; la verificación se activará automáticamente aquí
+	DisabledOverlayText:
+		'''
+		La verificación de misiones está deshabilitada en este mundo.
+		Vuelve a entrar al mundo para reconfigurar.
+		'''
+}
+
+Incinerator: {
+	IncineratorUI: {
+		TitleText: Incinerador Eléctrico
+		InputLabel: Entrada
+		OutputLabel: Salida
+		ProgressLabel: Progreso
+		PowerLabel: Energía
+		StatusLabel: Estado:
+		SmeltingText: Incinerando
+		IdleText: Inactivo
+		NoPowerText: Sin energía
+		InputHint: Insertar objeto para quemar
+		OutputHint: Clic para retirar producto
+		PowerUnit: UE
+	}
+}
+
+ItemPipeline: {
+	Normal: Normal
+	Output: Salida
+	Input: Entrada
+	NotEndpointHint: Entrada/Salida solo se pueden colocar al final de la tubería
+}
+
+ThrowerUI: {
+	TitleText: Lanzador de objetos
+	InventoryLabel: Almacén
+	ControlLabel: Panel de control
+	SpeedLabel: Fuerza
+	AngleLabel: Ángulo
+	IntervalLabel: Intervalo
+	DirectionLabel: Dirección
+	StartText: Iniciar
+	StopText: Detener
+	StatusRunning: En marcha
+	StatusIdle: Inactivo
+	StatusNoEnergy: Energía insuficiente
+	StatusNoItems: Sin objetos
+	EnergyLabel: Energía
+	DropHint: Soltar objetos aquí
+	AmmoModeOnText: Modo Munición
+	AmmoModeOffText: Modo Lanzamiento
+	AmmoModeHint: Modo Munición: Dispara el proyectil correspondiente si hay munición
+}
+
+SHPCSoulSelectUI: {
+	TitleText: Núcleo de Alma
+	SoulNameLight: Luz
+	SoulNameNight: Noche
+	SoulNameFlight: Vuelo
+	SoulNameMight: Poder
+	SoulNameSight: Visión
+	SoulNameFright: Terror
+	TooltipSoulPrefix: ""
+	StatusActive: "[ACTIVO]"
+	StatusClickToSelect: "[CLIC PARA SELECCIONAR]"
+}
+
+ElysiumUI: {
+	TitleText: Elíseo
+	DiscipleCountText: Discípulos
+	TotalBonusText: Bendición Sagrada
+	DamageText: Daño
+	DefenseText: Defensa
+	CritText: Crítico
+	RegenText: Regeneración
+	EmptySlotText: Vacío
+	JudasWarningText: ADVERTENCIA: La traición de Judas acecha aquí
+	BonusLabel: Pasiva
+	AbilityLabel: Habilidad
+	DragHintText: Arrastra discípulos para cambiar su identidad
+	SwapSuccessText: Cambio de identidad completado
+	SwapFailText: Fallo en el cambio
+	CannotSwapText: No se puede cambiar a esta posición
+	AbilityBrief_0: Escudo de roca
+	AbilityBrief_1: Red de pesca
+	AbilityBrief_2: Juicio del trueno
+	AbilityBrief_3: Visión de la revelación
+	AbilityBrief_4: Guía de luz sagrada
+	AbilityBrief_5: Revelación de la verdad
+	AbilityBrief_6: Toque de la duda
+	AbilityBrief_7: Bendición de la riqueza
+	AbilityBrief_8: Curación devota
+	AbilityBrief_9: Manifestación milagrosa
+	AbilityBrief_10: Fuerza ferviente
+	AbilityBrief_11: Pacto de traición
+}
+
+MartyrdomBarUI: {
+	SlotLabel_0: Pe
+	SlotLabel_1: An
+	SlotLabel_2: Ja
+	SlotLabel_3: Jo
+	SlotLabel_4: Fe
+	SlotLabel_5: Ba
+	SlotLabel_6: To
+	SlotLabel_7: Ma
+	SlotLabel_8: Ja
+	SlotLabel_9: Ta
+	SlotLabel_10: Si
+	SlotLabel_11: Ju
+	RevelationJudgingText: Apocalipsis: juicio de los tres últimos sellos en curso
+	RevelationStatusText: Apocalipsis: jinetes {0}/4 Q:meteoro R:juicio
+	RevelationReadyText: Pulsa Q — Apocalipsis listo
+	MartyrdomPowerText: Poder del martirio {0}/11
+}
+
+MenuModify.OverhaulSettingsButtonText: Configuración de Overhaul
+
+OverhaulSettingsUI: {
+	TitleText: Configuración de Overhaul
+	CloseText: Cerrar
+	ContentSettingsText: Configuración de contenido
+	ReloadHintText: "[c/FF6666:* Las opciones marcadas requieren recargar el mod]"
+	WeaponOverrideText: Gestión de modificación de armas
+	SearchHintText: Buscar nombre de arma o palabra clave...
+	EnableAllText: Activar todo
+	DisableAllText: Desactivar todo
+	WorldGenSettingsText: Generación de mundo
+	WorldGenFooterHintText: Estos ajustes surtirán efecto en la próxima creación de mundo
+	DensityExtinctionText: Extinto
+	DensityRareText: Raro
+	DensityNormalText: Normal
+	DensityCommonText: Común
+	DensityFloodText: Abundante
+	DensityEverywhereText: En todas partes
+	ResetDefaultText: Restablecer valores
+	DensityTooltipText: Densidad de generación de estructuras
+}
+
+OverhaulSettingsButton.OverhaulSettingsButtonText: Configuración de Overhaul
+
+GalacticCrisisRender: {
+	HeaderStellarNavigation: ◢ NAVEGACIÓN ESTELAR ◣
+	HeaderKortoSystemOverview: ◢ VISTA GENERAL DEL SISTEMA KORTO ◣
+	HeaderGalacticStrategicMap: ◢ MAPA ESTRATÉGICO GALÁCTICO ◣
+	MarkerTerra: TERRA
+	ExtinctionProtocolWarning: ◢ PROTOCOLO DE EXTINCIÓN ACTIVO ◣
+	KortoSystemLabel: SISTEMA KORTO
+	KortoTargetLocked: ◢ OBJETIVO BLOQUEADO ◣
+	KortoStarLabel: KORTO
+	KortoIIILabel: KORTO-III
+	KortoPrimaryObjective: ◢ OBJETIVO PRINCIPAL ◣
+	KortoClassTerrestrial: CLASE: TERRESTRE
+	KortoThreatCritical: AMENAZA: CRÍTICA
+	KortoPlanetCountInfo: SISTEMA KORTO — 6 PLANETAS
+	KortoStatusCompromised: ESTADO: COMPROMETIDO
+	HeaderAndroidProfile: ◢ EXPEDIENTE DE ANDROIDE TÁCTICO ◣
+	AndroidArtisName: ARTIS
+	AndroidApolaName: APOLA
+	AndroidCodename: NOMBRE EN CLAVE
+	AndroidClassLabel: CLASE: ANDROIDE TÁCTICO
+	AndroidStatusLabel: ESTADO
+	AndroidStatusLost: SEÑAL PERDIDA
+}
+
+TransitionScene: {
+	LoadingText: Vinculando datos...
+	InitializingText: Inicializando protocolos...
+	Hint0: No preguntes por qué matamos a las aberraciones; pregunta por qué no lo hacemos.
+	Hint1: El Protocolo Aqueronte es uno de los planes de emergencia de máximo nivel de Draedon.
+	Hint2: Las muñecas tácticas no conocen el miedo, porque el miedo es su arma.
+	Hint3: Las creaciones mecánicas de Draedon han trascendido los límites de la realidad.
+	Hint4: Ningún sacrificio es demasiado grande para aceptarlo, ni ninguna traición demasiado pequeña para perdonarla.
+	Hint5: Toda tecnología suficientemente avanzada es indistinguible de la magia.
+	Hint6: Dentro de la Calamidad hay posibilidades que trascienden todo.
+	Hint7: Draedon nunca actúa sin propósito; cada paso es el resultado de un cálculo preciso.
+	Hint8: Los datos son poder y el conocimiento es armamento.
+	Hint9: Las máquinas no traicionan, pero quien las controla sí puede hacerlo.
+}
+
+ApolliaHeroPanelUI: {
+	TitleText: Apolia
+	HPLabel: PV
+	DamageLabel: Daño
+	DefenseLabel: Defensa
+	CommandLabel: Órdenes de combate
+	CmdFollow: Seguir
+	CmdHold: Mantener posición
+	CmdAggressive: Agresivo
+	CmdDefensive: Defensivo
+}
+
+DraedonIncomingCall: {
+	IncomingLabel: LLAMADA ENTRANTE
+	AnswerHint: Clic para contestar
+	ConnectingLabel: CONECTANDO...
+	EndLabel: FIN
+	NextLabel: SIGUIENTE
+	TimerLabel: DURACIÓN
+	UnknownCaller: Desconocido
+	ChannelPrefix: CH
+}
+
+QuestManagerUI: {
+	TitleText: Gestión de misiones
+	CategoryAll: Todas
+	CategoryActive: En curso
+	CategoryCompleted: Completadas
+	CategorySuspended: Suspendidas
+	EmptyHintText: No hay misiones disponibles...
+	TrackHintText: "[Clic derecho] Seguir/Dejar de seguir"
+	SuspendHintText: "[Clic central] Suspender/Reanudar"
+	OpenHintText: Pulsa [L] para abrir la gestión de misiones
+	HeaderStatusTag: ◈ EN CURSO
+	FooterStatsFormat: TOTAL: {0} | EN CURSO: {1}
+	ExpandHintText: "[Clic izquierdo] Expandir/Contraer detalles"
+	EntryStatusActive: En curso
+	EntryStatusTracked: Seguida
+	EntryStatusSuspended: Suspendida
+	EntryStatusCompleted: Completada
+	EntryStatusFailed: Fallida
+}
+
+CyberwareUI: {
+	TitleText: CIBERWARE
+	StatusText: ESTADO DEL SISTEMA: OPERATIVO
+	SlotSelectedText: "[ SELECCIONADO ]"
+	SlotEmptyText: VACÍO
+	ClinicRequiredTitle: CYBERWARE BLOQUEADO
+	ClinicRequiredDesc: Solo un médico cibernético puede instalar implantes. Visita a Víctor.
+	Slot_FrontalCortex: CORTEZA FRONTAL
+	Slot_OcularSystem: SISTEMA OCULAR
+	Slot_LeftArm: BRAZO IZQUIERDO
+	Slot_Hands: MANOS
+	Slot_LeftLeg: PIERNA IZQUIERDA
+	Slot_Feet: PIES
+	Slot_OperatingSystem: SISTEMA OPERATIVO
+	Slot_CirculatorySystem: SIST. CIRCULATORIO
+	Slot_RightArm: BRAZO DERECHO
+	Slot_Skeleton: ESQUELETO
+	Slot_RightLeg: PIERNA DERECHA
+	Slot_NervousSystem: SISTEMA NERVIOSO
+	TooltipSlot: RANURA:
+	TooltipCapacityCost: COSTE DE CAPACIDAD: {0}
+	SkillRamCost: RAM {0}
+}
+
+VictorTalkUI: {
+	SpeakerName: VÍCTOR
+	Greet0: ¿Otro cliente? Pasa, antes de que la corriente de aire disperse tus repuestos.
+	Greet1: ¿Quieres un cuerpo más fuerte? El acero nunca te traiciona; solo lo hace tu billetera.
+	Greet2: He visto a demasiados necios encajar balas con la carne. Ahora solo viven en mi memoria... y en mi mesa de operaciones.
+	Greet3: Cerebro, ojos, extremidades: si el precio es justo, no hay nada que no pueda reemplazar.
+	Greet4: Todavía tienes los dos ojos originales. Interesante. La mayoría lo arregla primero.
+	Greet5: No toques nada de esa bandeja. La mitad está esterilizada. La otra mitad es peor.
+	Greet6: No pregunto cómo recibiste el daño. Solo me aseguro de que no ocurra de la misma manera dos veces.
+	Greet7: El último cliente llegó sin un brazo. Se fue con dos mejores. Eso es progreso.
+	Greet8: La carne se pudre. El cromo adecuado, no. Tenlo en cuenta antes de irte sin cambiar nada.
+	Greet9: El tiempo es dinero. El mío, concretamente. Dime lo que necesitas y ahórrate la charla.
+	Greet10: Las piezas nuevas necesitan rodaje. Intenta no recibir fuego pesado durante unos días.
+	Greet11: El cuerpo es solo una herramienta. El tuyo parece que ha pasado sin mantenimiento durante un tiempo.
+	ClinicButtonText: Clínica cibernética
+	ChatButtonText: Charlar
+	LeaveButtonText: Salir
+}
+
+VictorClinicUI: {
+	TitleText: CLÍNICA DE VÍCTOR
+	StatusText: MÉDICO CIBERNÉTICO EN LÍNEA - ELIGE UN MIEMBRO
+	GuideText: Elige una parte del cuerpo para ver, cambiar y comprar sus implantes.
+	LabelOwned: EN POSESIÓN
+	LabelForSale: EN VENTA
+	EmptyOwned: ( nada en el bolso )
+	EmptyShop: ( nada más a la venta )
+}
+
+EntrustManagerNotification: {
+	LabelNewQuest: Nuevo encargo
+	LabelTracked: Seguido
+	LabelUntracked: Sin seguimiento
+	LabelSuspended: Suspendido
+	LabelUnsuspended: Reanudado
+	LabelCompleted: Encargo completado
+}
+
+HackTime: {
+	Locked: BLOQUEADO
+	Done: HECHO
+	Queued: EN COLA
+	UploadingText: SUBIENDO...
+	BreachReady: PROTOCOLO DE INTRUSIÓN · LISTO
+	UploadComplete: >> SUBIDA COMPLETA <<
+	UploadQueue: COLA DE SUBIDA
+	TargetLocked: OBJETIVO BLOQUEADO
+	HpFormat: PV {0}%
+	Protocols: "[{0} PROTOCOLOS]"
+	RamDepleted: !! ¡RAM AGOTADA!!
+	LowRam: ! RAM BAJA !
+	Scanning: ESCANEANDO...
+	AnalysisComplete: ANÁLISIS COMPLETO
+	TypeLabel: TIPO
+	BossClass: CLASE JEFE
+	EliteUnit: UNIDAD ÉLITE
+	HostileEntity: ENTIDAD HOSTIL
+	TownNpc: PNJ DE CIUDAD
+	FriendlyUnit: UNIDAD ALIADA
+	PassiveCritter: CRIATURA PASIVA
+	NeutralEntity: ENTIDAD NEUTRAL
+	ThreatLabel: AMENAZA
+	ThreatExtreme: EXTREMA
+	ThreatHigh: ALTA
+	ThreatModerate: MODERADA
+	ThreatLow: BAJA
+	DefLabel: DEFENSA
+	DmgLabel: DAÑO
+	KbResLabel: RES.EMPUJE
+	Breach: INTRUSIÓN
+	InitBreach: INICIANDO INTRUSIÓN
+	SystemBreach: INTRUSIÓN DEL SISTEMA
+	Rebooting: REINICIANDO...
+	SystemOnline: SISTEMA EN LÍNEA
+	MemoryWiped: MEMORIA BORRADA
+	Cyberpsychosis: CIBERPSICOSIS
+	RamRefund: +{0} RAM
+	ActiveText: ACTIVO
+	ActivePct: ACTIVO {0}%
+	Complete: COMPLETO
+	UploadingPct: SUBIENDO {0}%
+	CatLethal: LETAL
+	CatControl: CONTROL
+	CatCovert: ENCUBIERTO
+	CatContagion: CONTAGIO
+	CatUnknown: DESCONOCIDO
+	CatTileManip: MANIP. BLOQUES
+	TileScanName: NOMBRE
+	TileScanClass: CLASE
+	TileScanSize: TAMAÑO
+	TileScanHardness: DUREZA
+	TileScanStatus: ESTADO
+	TileScanCrafting: ESTACIÓN DE CRAFTEO
+	TileScanContainer: CONTENEDOR
+	TileScanLight: FUENTE DE LUZ
+	TileScanFurniture: MUEBLE
+	TileScanBlock: ESTRUCTURA
+	TileScanDungeon: MATERIAL DE MAZMORRA
+	TileScanLihzahrd: TECNOLOGÍA LIHZAHRD
+	TileScanHardnessExtreme: EXTREMA
+	TileScanHardnessHigh: ALTA
+	TileScanHardnessNormal: MODERADA
+	TileScanHardnessLow: BAJA
+	TileScanActive: ACTIVO
+	TileScanInactive: INACTIVO
+	TileScanSealed: SELLADO
+	TileScanOnline: EN LÍNEA
+	TileScanIntact: INTACTO
+	TileScanMisc: VARIOS
+	TileScanMiscPile: MONTÓN VARIOS
+	ProjectileScanName: NOMBRE
+	ProjectileScanClass: CLASE
+	ProjectileScanSpeed: VELOCIDAD
+	ProjectileScanKnockback: EMPUJE
+	ProjectileScanPenetrate: PENETRACIÓN
+	ProjectileScanTimeLeft: TIEMPO RESTANTE
+	ProjectileScanOwner: ORIGEN
+	ProjectileScanAI: IA
+	ProjectileScanPosition: POSICIÓN
+	ProjectileScanHostile: PROYECTIL HOSTIL
+	ProjectileScanFriendly: PROYECTIL ALIADO
+	ProjectileScanNeutral: PROYECTIL NEUTRAL
+	ProjectileScanMinion: PROYECTIL DE SÚBDITO
+	ProjectileScanSentry: PROYECTIL DE CENTINELA
+	ProjectileScanTrap: PROYECTIL DE TRAMPA
+	ProjectileScanInfinite: INFINITO
+	ProjectileScanOwnerWorld: MUNDO/ENTORNO
+	ItemScanName: NOMBRE
+	ItemScanClass: CLASE
+	ItemScanStack: APILADO
+	ItemScanValue: VALOR
+	ItemScanRarity: RAREZA
+	ItemScanCombat: COMBATE
+	ItemScanUtility: UTILIDAD
+	ItemScanPrefix: PREFIJO
+	ItemScanTypeId: ID DE TIPO
+	ItemScanPosition: POSICIÓN
+	ItemScanWeapon: ARMA
+	ItemScanTool: HERRAMIENTA
+	ItemScanArmor: ARMADURA
+	ItemScanAccessory: ACCESORIO
+	ItemScanAmmo: MUNICIÓN
+	ItemScanConsumable: CONSUMIBLE
+	ItemScanPlaceable: COLOCABLE
+	ItemScanMaterial: MATERIAL
+	ItemScanQuest: OBJETO DE MISIÓN
+	ItemScanMisc: OBJETO VARIO
+	ItemScanNone: NINGUNO
+	ItemScanNoValue: SIN VALOR
+	WaterScanLiquid: LÍQUIDO
+	WaterScanEnvironment: ENTORNO
+	WaterScanDepth: PROFUNDIDAD
+	WaterScanWorldLayer: CAPA DEL MUNDO
+	WaterScanTileCoord: COORD. BLOQUE
+	WaterScanContainment: CONTENCIÓN
+	WaterScanWater: AGUA
+	WaterScanLava: LAVA
+	WaterScanHoney: MIEL
+	WaterScanShimmer: BRILLO
+	WaterScanLayerSky: CIELO
+	WaterScanLayerSurface: SUPERFICIE
+	WaterScanLayerUnderground: SUBSUELO
+	WaterScanLayerCavern: CAVERNA
+	WaterScanLayerUnderworld: INFRAMUNDO
+	WaterScanEnvOcean: AGUA OCEÁNICA
+	WaterScanEnvDesert: AGUA DEL DESIERTO
+	WaterScanEnvSnow: AGUA NEVADA
+	WaterScanEnvJungle: AGUA DE LA JUNGLA
+	WaterScanEnvCorruption: AGUA CORRUPTA
+	WaterScanEnvCrimson: AGUA CARMESÍ
+	WaterScanEnvHallow: AGUA SAGRADA
+	WaterScanEnvDungeon: AGUA DE MAZMORRA
+	WaterScanEnvMushroom: AGUA DE HONGOS
+	WaterScanEnvUnderworld: LÍQUIDO DEL INFRAMUNDO
+	WaterScanContainmentPocket: BOLSA CERRADA
+	WaterScanContainmentChannel: CANAL
+	WaterScanContainmentOpen: MASA ABIERTA
+	WaterScanStatusStill: QUIETO
+	WaterScanStatusFlowing: FLUYENDO
+	CatParanormal: PARANORMAL
+	WraithScanName: Designación
+	WraithScanNameValue: Espectro desconocido
+	WraithScanType: Entidad paranormal
+	WraithScanThreat: Inevaluable ERR://-∞
+	WraithScanStatus: Estado
+	WraithScanStatusStalking: Acecho sigiloso
+	WraithScanStatusWatched: Bajo vigilancia
+	WraithScanStatusHalt: Detenido
+	WraithScanStatusMemory: Corrupción de memoria
+	WraithScanStatusDismember: Desintegración espectral
+	WraithScanIntegrity: Integridad de datos
+	WraithScanIntegrityValue: 0x??% corrupto
+	WraithScanOrigin: Origen
+	WraithScanOriginValue: Registro no encontrado
+	TurretScanName: Nombre en clave
+	TurretScanLaserName: Vacío · Batería principal
+	TurretScanGatlinName: Vacío · Torreta Gatling
+	TurretScanType: Mecanismo de defensa automática
+	TurretScanPhase: Fase actual
+	TurretScanPhaseIdle: En espera
+	TurretScanPhaseCharging: Cargando
+	TurretScanPhaseFiring: Disparando
+	TurretScanPhaseCooldown: Enfriamiento
+	TurretScanPhaseLocking: Bloqueando objetivo
+	TurretScanCircuit: Estado del circuito
+	TurretScanCircuitOnline: En línea
+	TurretScanCircuitShorted: Cortocircuito
+	TurretScanCircuitOverload: Parálisis por sobrecarga
+	SignalTowerScanName: Vacío · Torre de señal
+	SignalTowerScanType: Máquina núcleo de área amplia
+	SignalTowerScanThreat: Activo estratégico
+	SignalTowerScanStatus: Estado de la torre
+	SignalTowerScanStatusOnline: En línea — Esperando emisión
+	SignalTowerScanStatusBroadcasting: Emitiendo
+	SignalTowerScanStatusElectrified: Carga residual
+	SignalTowerScanProtocol: Protocolos disponibles
+	RightClickHint: Clic derecho para deseleccionar
+	AccessDeniedTitle: HACK TIME NO DISPONIBLE
+	AccessDeniedDesc: Conecta un arma inteligente o instala ciberware de netrunner para acceder a las habilidades de hackeo.
+}
+
+DecryptionStrings: {
+	DecryptionPanelTitle: Vacío · Acceso a terminal de señal
+	DecryptionPanelSubtitleLocked: Bloqueo de protocolo — intrusión manual requerida
+	DecryptionPanelSubtitleBreaching: Intrusión en curso
+	DecryptionPanelSubtitleDataFlood: Inyección de torrente de datos
+	DecryptionPanelSubtitleMessage: Reproducción de señal decodificada
+	DecryptionPanelTerminalId: TERM-ID ▸ {0}
+	DecryptionPanelCoordinate: ΔPOS ▸ {0}, {1}
+	DecryptionPanelSignalLock: Fuerza de bloqueo de señal
+	DecryptionPanelSignalLockValue: "{0}%"
+	DecryptionPanelFooter: "[ESC] Desconectar    [Clic izquierdo] Interactuar    [?] Ayuda"
+	DecryptionPanelHintLocked: Capa de señal encerrada por una cuadrícula cifrada. Pulsa [Espacio] o haz clic en [Iniciar intrusión] para introducir la secuencia.
+	DecryptionPanelHintBreaching: Haz clic en las celdas de la matriz en orden para completar la secuencia objetivo.
+	DecryptionPanelHintDataFlood: Canal de protocolo abierto, inyectando torrente de datos...
+	DecryptionPanelHintMessage: Decodificación completa — fragmento interceptado abajo.
+	DecryptionPanelBeginBreach: ▷ Iniciar intrusión
+	DecryptionPanelClose: ✕ Desconectar
+	DecryptionPanelStatusLocked: BLOQUEADO
+	DecryptionPanelStatusBreaching: INTRUSIÓN
+	DecryptionPanelStatusDataFlood: INYECTANDO
+	DecryptionPanelStatusMessage: DECODIFICADO
+	BreachBuffer: Búfer {0}/{1}
+	BreachTargets: Secuencia objetivo
+	BreachTimer: Tiempo restante
+	BreachAxisRow: Restricción de fila ▸ Fila {0}
+	BreachAxisCol: Restricción de columna ▸ Col {0}
+	BreachCooldown: Reinicio de protocolo en {0:0.0}s
+	BreachAttempt: Intento n.º {0}
+	BreachRestart: ⟳ Reintentar
+}
+
+SHPCUI: {
+	CyberDomain_Title: Dominio Cibernético
+	CyberDomain_Subtitle: CIBERDOMINIO
+	CyberDomain_Description: Desplegar y gestionar ciberespacio multicapa
+	Cyberware_Title: Ciberware
+	Cyberware_Subtitle: CIBERWARE
+	Cyberware_Description: Abrir el gestor de mejoras cibernéticas
+	Cyberware_Status_Open: Abierto
+	Cyberware_Status_Closed: Cerrado
+	Status_Title: Información de estado
+	Status_Subtitle: STATUS
+	Status_Description: Ver sobrecarga actual e información de enfriamiento
+	Status_OK: OK
+	Config_Title: Ajustes del sistema
+	Config_Subtitle: CONFIG
+	Config_Description: Ajustar opciones de asistencia y parámetros de visualización
+	State_On: Activado
+	State_Off: Desactivado
+	State_Layer: C
+	Cyber_PanelTitle: Dominio cibernético
+	Cyber_PanelSubtitle: ACCESO A BLACKWALL
+	Cyber_BtnActivate: Activar dominio
+	Cyber_BtnDeactivate: Cerrar dominio
+	Cyber_LayerLabel: Capa
+	Cyber_StateOnline: EN LÍNEA
+	Cyber_StateOffline: FUERA DE LÍNEA
+	Cyber_Hint: "[{0}] Alternar dominio / Clic en segmento del anillo para cambiar de capa"
+	Cyber_Layer1_Title: Acceso base
+	Cyber_Layer2_Title: Inmersión profunda
+	Cyber_Layer3_Title: Brecha de Blackwall
+	Cyber_NoSkill: Sin habilidad exclusiva
+	Cyber_LayerBaseFooter: Capa base — establece el campo del dominio.
+	Cyber_SkillUnlocked: "[#] Desbloqueada"
+	Cyber_SkillLocked: "[X] Requiere capa {0}"
+	Cyber_KeyUnbound: Sin asignar
+	Cyber_Skill_Teleport_Name: Teletransporte dimensional
+	Cyber_Skill_Teleport_Desc: Descompone el chasis en un flujo de datos, transmite a la ubicación objetivo y recompone la forma física bajo el protocolo Blackwall.
+	Cyber_Skill_Restart_Name: Reinicio del sistema
+	Cyber_Skill_Restart_Desc: Abre el dominio, termina los procesos en curso y reinicia el núcleo, reparando daños y restaurando todas las funciones.
+	Cyber_Skill_Banish_Name: Destierro cibernético
+	Cyber_Skill_Banish_Desc: Envía al enemigo bajo el cursor al ciberespacio profundo.
+	Cyber_Skill_Freeze_Name: Congelación del dominio
+	Cyber_Skill_Freeze_Desc: Inmoviliza a todas las entidades hostiles dentro del dominio.
+	Cyber_DrainHeader: Consumo de RAM
+	Cyber_DrainPerSec: -{0}/s
+	Cyber_SustainTime: Dura ~{0}s
+	Cyber_SustainInfinite: Dura ∞
+	Modify_Title: Modificación de arma
+	Modify_Subtitle: Mejora de arma
+	Modify_Description: Instalar piezas de modificación en el chasis del SHPC
+	Modify_SlotEmpty: Vacío
+	Modify_Install: Instalar
+	Modify_Unequip: Quitar
+	Modify_Equipped: Equipado
+	Modify_NoMatch: No hay módulos compatibles en el inventario
+	Modify_Close: Cerrar
+	Modify_InstallSlot: Instalar · {0}
+	Modify_Current: Actual: {0}
+	Modify_Slot_Barrel: Cañón
+	Modify_Slot_Optic: Óptica
+	Modify_Slot_Power: Energía
+	Modify_Slot_Stock: Culata
+	Modify_Slot_Grip: Empuñadura
+	Modify_Slot_Frame: Armazón
+	Talk_Title: Conversación
+	Talk_Subtitle: Enlace neural
+	Talk_Description: Abrir un canal directo con el SHPC
+	Talk_Status_Busy: Ocupado
+	Talk_Status_Ready: Listo
+	Modify_Preset_A: Ajuste Preestablecido A
+	Modify_Preset_B: Ajuste Preestablecido B
+	Modify_Preset_C: Ajuste Preestablecido C
+}
+
+EntrustManagerLead: {
+	TextKeyPromptBound: Pulsa [{0}] para abrir el panel de encargos
+	TextKeyPromptWarnTitle: ⚠  ¡Tecla de encargos sin asignar!
+	TextKeyPromptDefaultKey: Pulsa [{0}] (tecla predeterminada) para abrir el panel de encargos
+	TextKeyPromptBindHint: Asigna una tecla personalizada en Ajustes → Controles
+	TextKeyPromptConfirmBtn: Entendido
+	TextPanelIntroTitle: Uso del panel de encargos
+	TextRightClickLabel: Clic derecho en un encargo
+	TextRightClickAction: " →  Seguir encargo"
+	TextRightClickDesc: "     El rastreador izquierdo mostrará el progreso de forma continua"
+	TextMiddleClickLabel: Clic central en un encargo
+	TextMiddleClickAction: " →  Suspender encargo"
+	TextMiddleClickDesc: "     Oculta el encargo temporalmente del rastreador"
+	TextStyleButtonTitle: Botón de estilo
+	TextStyleButtonLabel: Clic izquierdo en el botón superior
+	TextStyleButtonAction: " →  Cambiar estilo de interfaz"
+	TextStyleButtonDesc: "     Alterna entre estilos desierto, Draedon y bosque"
+	TextConfirmBtn: De acuerdo
+	TextTrackPromptTitle: Seguir encargos de interés
+	TextTrackPromptHintLabel: Clic derecho en un encargo
+	TextTrackPromptHintAction: " →  Marcar como seguido"
+	TextTrackPromptDesc: "     Los encargos seguidos se fijan a la izquierda de la pantalla para ver el progreso"
+	TextTrackPromptNextBtn: Siguiente
+	TextTrackerIntroTitle: Rastreador de encargos
+	TextTrackerIntroLine1: El rastreador izquierdo muestra de forma permanente todos los encargos seguidos
+	TextTrackerIntroLine2: Mantén clic izquierdo para arrastrar y ajustar la posición vertical
+	TextTrackerIntroLine3: Al abrir el gestor de encargos, el rastreador se repliega automáticamente
+	TextTrackerIntroNextBtn: Siguiente
+	TextSuspendIntroTitle: Suspender encargos que no te interesan
+	TextSuspendIntroHintLabel: Clic central en un encargo
+	TextSuspendIntroHintAction: " →  Suspender encargo"
+	TextSuspendIntroDesc1: "     Los encargos suspendidos no aparecen en el rastreador izquierdo"
+	TextSuspendIntroDesc2: "     Encuéntralos en la pestaña Suspendidas para reanudar el seguimiento"
+}
+
+CyberwareSkillRadialUI: {
+	StatusOn: Activado
+	HintClickToSelect: "[Clic] para establecer como habilidad actual"
+	HintAlreadySelected: "[Seleccionada actualmente]"
+	HintKindCharge: Tipo carga · Mantén la tecla de activación para cargar, suelta para disparar
+	HintKindToggle: Tipo interruptor · Pulsa la tecla de activación para alternar
+	HintKindInstant: Tipo instantáneo · Pulsa la tecla de activación para liberar
+	HintNotReady: No se cumplen las condiciones actuales
+}
+
+AbandonedPortalStrings: {
+	Title: Consola del portal abandonado
+	BrokenSubtitle: Estructura fracturada · Núcleo fuera de línea
+	RepairingSubtitle: Secuencia de autorreparación en curso
+	RepairedSubtitle: Canal estable · Coordenadas del Vacío disponibles
+	BrokenBody: En el marco roto aún persisten débiles ecos del subespacio. Tras iniciar la autorreparación, el portal reconstruirá su anillo de posicionamiento en minutos.
+	RepairingBody: Nanosoldaduras están reconstruyendo el limitador de la grieta. Mantén estable la zona y espera a que termine la calibración.
+	RepairedBody: El portal ha completado su autorreparación. La secuencia de teletransporte abrirá primero una grieta antes de enviarte al Vacío.
+	StartRepair: ▷ Iniciar autorreparación
+	Teleport: ▷ Iniciar teletransporte
+	Close: ✕ Cerrar
+	ProgressFormat: Progreso de reparación {0}%
+	StatusBroken: ESTADO  ▌ FUERA DE LÍNEA
+	StatusRepairing: ESTADO  ▌ CALIBRANDO
+	StatusRepaired: ESTADO  ▌ EN LÍNEA
+	DiagnosticHeader: "[DIAG]"
+	DiagnosticBroken: ERR-0xC4: Anillo de posicionamiento fracturado / Circuito principal de energía desconectado
+	DiagnosticRepairing: INFO: Matriz de soldadura sincronizando... No muevas la base del portal
+	DiagnosticRepaired: OK: Todos los subsistemas en línea / Análisis de coordenadas listo
+}
+
+SupertableUI: {
+	RecipeViewLabel: Ver recetas
+	RecipeEmptyLabel: Ninguno
+	PlacementMonitorOff: Desactivar monitor de colocación
+	PlacementMonitorOn: Activar monitor de colocación
+	QuickPlaceMaterials: Colocar materiales rápidamente
+	QuickTakeMaterials: Recoger materiales rápidamente
+}
+
+ArrowHolderUI: {
+	MarkArrowHint: Clic izquierdo para marcar la flecha
+	UnmarkArrowHint: Clic derecho para quitar marca
+}
+
+BulletinBoardUI: {
+	MenuHoverLabel: Ir al repositorio del mod
+	WikiLabel: Wiki del Mod
+	FeedbackLabel: Informar un problema
+	LogLabel: Ver registro de cambios
+	AcknowledgmentLabel: Lista de agradecimientos
+}
+
+AcknowledgmentUI: {
+	ArtistRole: Artistas
+	CodeAssistanceRole: Cooperación en código
+	MusicianRole: Músicos
+	DonorRole: Donadores
+	BalanceTesterRole: Pruebas de balance
+	TitleText: Agradecimientos
+	SubtitleText: Calamity Overhaul · Todos los colaboradores
+	FinaleText: ¡Gracias por acompañarnos!
+	ExitHintText: Mantén pulsada cualquier tecla para salir
+}
+
+CWRPlayer: {
+	Error_HookFailure:
+		'''
+		Un hook ha fallado. Para el funcionamiento normal del juego, por favor cierra el juego y vuelve a entrar.
+		Si eso no resuelve el problema, lleva el registro exportado a un desarrollador del mod.
+		'''
+	OnEnterWorld_ImproveGameWarning:
+		'''
+		[Quality of Terraria] está instalado, pero tu versión está desactualizada.
+		Para un juego estable, actualiza [Quality of Terraria] al menos a la versión 1.7.1.7.
+		'''
+	HellfireExplosionDeathReason: "{0} se redujo a cenizas en el fuego del Inframundo"
+	SoulfireExplosionDeathReason: "{0} ascendió en llamas"
+
+	CWRPlayer: {
+		Error_HookFailure:
+			'''
+			Un hook ha fallado. Para que el juego funcione con normalidad, cierra el juego y vuelve a entrar.
+			Si eso no resuelve el problema, lleva el registro exportado a un desarrollador del mod.
+			'''
+		OnEnterWorld_ImproveGameWarning:
+			'''
+			[Quality of Terraria] está instalado, pero tu versión está desactualizada.
+			Para un juego estable, actualiza [Quality of Terraria] al menos a la versión 1.7.1.7.
+			'''
+		HellfireExplosionDeathReason: "{0} se redujo a cenizas en el fuego del Inframundo"
+		SoulfireExplosionDeathReason: "{0} ascendió en llamas"
+	}
+}

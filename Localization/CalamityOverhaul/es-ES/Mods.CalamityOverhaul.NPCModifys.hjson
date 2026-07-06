@@ -1,0 +1,98 @@
+ModifyCrabulon: {
+	CrouchText: Esperar
+	CrouchAltText: Seguir
+	MountHoverText: Clic izquierdo para equipar la silla de montar
+	RideHoverText: Clic derecho para montar
+	ChangeSaddleText: Clic izquierdo para cambiar la silla de montar
+	DismountText: Clic derecho para desmontar
+	DontDismountText: Montar no está disponible temporalmente en multijugador
+	RecallText: Llamar de vuelta
+	SaddleText: Silla
+	ReleaseText: Soltar
+	ReleasedText: "{0} ha sido soltado"
+	StatusRestText: "[DESCANSO]"
+	StatusMountText: "[MONTADO]"
+	StatusFollowText: "[SIGUIENDO]"
+	UnsaddleText: Quitar silla
+	CommandHintText: Orden
+	ReleaseConfirmText: Haz clic de nuevo para soltar
+}
+
+ModifyTruffle: {
+	SleepName: Trufa durmiente
+	ButtonText: Despertar
+	Chat0:
+		'''
+		Dentro del cangrejo estaba tan cómodo que viví ahí todo el tiempo.
+		Pero lo destruiste... ahora no tengo hogar.
+		'''
+	Chat1:
+		'''
+		Una vez tuve una granja de hongos; mis hijos me ayudaban mucho.
+		Hasta que un día noté que la mitad crecía en el estómago de alguien.
+		'''
+	Chat2: Sombrero rojo, pie blanco — cómetelo y acuéstate.
+	Chat3: Puedes venderme hongos, pero no recibirás absolutamente nada a cambio.
+	Chat4: Aquí todo el mundo quiere comerme.
+	Chat5:
+		'''
+		Una vez vi un árbol de hongos de al menos 2000 metros.
+		Dicen que si subes y saltas, caes en el reino de los hongos.
+		'''
+	Chat6:
+		'''
+		Si necesitas sopa, compra mis hongos.
+		Al menos no gritan en la olla.
+		'''
+	Chat7: Todos los hongos de aquí son míos.
+	Chat8:
+		'''
+		Hace diez años podías contratarme para llevarte al reino subterráneo de los hongos.
+		Parece que ahora hay liquidación.
+		'''
+	Chat9:
+		'''
+		Creo que te crece algo de hongo en los pulmones.
+		Pasa por mi tienda — tengo lo que hace falta.
+		'''
+	Chat10: Oh, odio al tipo rojo.
+	Chat11:
+		'''
+		Odio este tipo de luna de sangre.
+		Me hace palidecer — como un hongo marchito que nadie quiere.
+		'''
+}
+
+ModifyWITCH: {
+	Homeless0: Disculpa, no tengo nada que ofrecer. Quizá intentes reforjar algo y vuelvas a verme…
+	Homeless1: ¿Hay lugar para mí aquí? Quiero decir… si no, acamparé aquí cerca.
+	Homeless2: ¿Sabes cómo vivía la gente en la era pasada? Sin casas, solo en árboles huecos. ¿Podrías al menos encontrarme un hueco en un árbol?
+	Homeless3: ¿No hay casa libre? ¿Esperas que pague arriendo?
+	L0: No puedo pagar alquiler. Quizá podría ofrecer a tu ciudad una ceremonia de exorcismo para compensar parte del costo.
+	L1: Nunca creí en las almas. Intentar revivir a los muertos solo trae mayores desgracias.
+	L2:
+		'''
+		En el siglo pasado entré en una pequeña ciudad.
+		Las calles bullían de «amigos y parientes» que debían estar muertos. Saludaban, pedían ayuda, lloraban…
+		Intenté traer a mi «madre» de allí — y lo logré.
+		Parecía igual que en vida, impecable… hasta que noté que no tenía pulso y eso le divertía.
+		'''
+	L3:
+		'''
+		A veces confías demasiado en ti mismo; así no llegarás a nada.
+		He visto morir a demasiados como tú en el camino al poder.
+		'''
+	L4:
+		'''
+		Sé que mi magia te interesa — pero no es… magia.
+		Mantente alejado. Quien toca ese poder no acaba bien.
+		'''
+	BloodMoon0: Este cielo nocturno rojo antinatural… palidece junto al color de mis llamas de azufre.
+	BloodMoon1: En una noche así no puedo trabajar. Hasta las estrellas parecen encogerse de miedo.
+	Night0: La noche es el tiempo de los espíritus. No quiero estar fuera cuando llegue ese momento.
+	Night1: Hace mucho adivinaba cada noche antes de dormir — hasta que siete noches seguidas vi que moriría en la octava.
+	SeaKing: El Rey del Mar siempre me mira con ojos tan tristes. Parece no querer que muera. No entiendo por qué siente tanta compasión por mí.
+	Party: Rechazo toda invitación a bailar — mis parejas suelen acabar como cadáveres carbonizados.
+}
+
+ModifyOldDuke.LeavingDiveText: El Viejo Duque se sumergió en el agua…

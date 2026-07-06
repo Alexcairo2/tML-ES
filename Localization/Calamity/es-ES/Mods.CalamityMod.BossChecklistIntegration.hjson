@@ -145,9 +145,9 @@ OldDuke: {
 }
 
 Perforators: {
-	EntryName: Los Perforadores
+	EntryName: La Colmena Perforadora
 	SpawnInfo: Mata un Quiste Perforador en el Carmesí o usa [i:CalamityMod/BloodyWormFood] en el Carmesí.
-	DespawnMessage: "[c/DC143C:Los Perforadores buscan más anfitriones de los que hartarse.]"
+	DespawnMessage: "[c/DC143C:La Colmena Perforadora busca más anfitriones de los que hartarse.]"
 }
 
 PlaguebringerGoliath: {

@@ -1,0 +1,44 @@
+SoulBurning: {
+	DisplayName: Fuego del alma
+	Description: Llamas del inframundo
+}
+
+HellburnBuff: {
+	DisplayName: Estallido infernal
+	Description: Llamas del inframundo
+}
+
+VoidErosion: {
+	DisplayName: Erosión del Vacío
+	Description: Te desvaneces poco a poco en la nada
+}
+
+DestroyerSummonBuff: {
+	DisplayName: El Destructor
+	Description: Un mini Destructor te acompaña en la batalla
+}
+
+FrenziedMachineSoul: {
+	DisplayName: Alma mecánica frenética
+	Description: ¡El alma de la máquina está extasiada!
+}
+
+FishoilBuff: {
+	DisplayName: Aceite de pescado
+	Description: Sientes que tu piel se vuelve aceitosa
+}
+
+HyperDisintegration: {
+	DisplayName: Hiperdesintegración
+	Description: Desintegra al objetivo desde dentro
+}
+
+TemporalStasis: {
+	DisplayName: Estasis temporal
+	Description: El tiempo se congela a su alrededor
+}
+
+GravitationalCollapse: {
+	DisplayName: Colapso gravitacional
+	Description: Arrastrado al abismo por su propio peso
+}

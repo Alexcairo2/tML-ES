@@ -1,0 +1,640 @@
+HalibutOverride: {
+	FishByStudied:
+		'''
+		[i:CalamityOverhaul/HalibutItem]:
+		Este pez puede ser investigado.
+		'''
+	FishOnStudied:
+		'''
+		[i:CalamityOverhaul/HalibutItem]:
+		Este pez ha sido investigado.
+		'''
+	DisplayName: Halibut gigante
+	Tooltip:
+		'''
+		Convierte balas de mosquete en corrientes oceánicas
+		[Lang4]
+		legend_Text
+		'''
+}
+
+HalibutText: {
+	HalibutAtlas: {
+		TitleText: A T L A S  A B I S A L
+		NavSea: Mar de habilidades
+		NavEyes: Ojos del dominio
+		TierName0: Bajíos · Zona iluminada
+		TierName1: Alta mar · Zona crepuscular
+		TierName2: Mar hundido · Zona de medianoche
+		TierName3: Abismo · Zona sin luz
+		DockLabel: Equipamiento {0} / {1} · Clic para seleccionar
+		LockedNodeName: Silueta desconocida
+		LockedNodeHint: Investiga {0} en el altar de investigación para iluminar esta habilidad
+		EquipBtn: Equipar
+		UnequipBtn: Quitar
+		SelectBtn: Seleccionar
+		SelectedTag: Activo
+		LoadoutFullHint: El equipamiento está lleno
+		UnlockFishLine: Fuente de investigación: {0}
+		AltarTitle: Altar de investigación
+		AltarHint: Haz clic en el altar para elegir un pez investigable de tu inventario.
+		StudyPickerTitle: Enviar a investigación
+		StudyPickerCount: Peces investigables · {0}
+		StudyPickerHint: Haz clic en un pez para colocarlo en el altar e investigarlo
+		StudyPickerEmpty: No hay peces investigables en tu inventario
+		StudyPlaceHint: Clic para colocar en el altar de investigación
+		StudyingFormat: Investigando: {0}
+		StudyReclaim: Recuperar
+		DragHint: Mantén y arrastra habilidades al equipamiento · Rueda para descender
+		LayerStateFormat: Capa del dominio {0}
+		UnlockCountFormat: Iluminado {0} / {1}
+	}
+
+	HalibutSkillWheel: {
+		ReleaseHint: Suelta {0} para confirmar
+		CancelHint: Clic derecho para cancelar
+		NoSelection: Ninguna habilidad seleccionada
+	}
+
+	HalibutHud: {
+		OpenAtlasHint: Clic izquierdo o {0} para abrir el Atlas abisal, {1} para invocar la rueda de habilidades
+		DomainLayerFormat: Capas del dominio {0} / 10
+		StudyingLabel: Investigando
+	}
+
+	HalibutHudLead: {
+		HudTitle: Ojo del abismo
+		HudBody: Mientras sostengas el Halibut gigante, este ojo permanece abajo a la izquierda y muestra habilidad, resurrección y capas del dominio
+		HudPrompt: Haz clic izquierdo en el ojo, o pulsa {0} para abrir el Atlas abisal
+		HudOpenBtn: Abrir Atlas
+		ResearchTitle: Altar de investigación
+		ResearchBody: Coloca un pez capturado en el altar para investigarlo y desbloquear la habilidad correspondiente
+		ResearchPrompt: Haz clic en el Altar de investigación resaltado y elige un pez para estudiar
+		EquipTitle: Equipamiento
+		EquipBody: Esa fila de ranuras de abajo es tu equipamiento; las habilidades investigadas van aquí, hasta 10
+		EquipWaiting: Investigando… la habilidad se añadirá al equipamiento al terminar
+		WheelTitle: Rueda de habilidades
+		WheelBody: Con una habilidad equipada, cambia la habilidad activa al instante en combate
+		WheelPrompt: Mantén {0} para invocar la rueda de habilidades — pruébalo
+		SkipBtn: Saltar
+	}
+
+	DomainUI: {
+		TitleText: Dominio abisal
+		ExtraEyeTitleText: La  décima  capa
+		CrashedLabelText: Sistema bloqueado
+		EyeDesc1:
+			'''
+			El primer ojo se abre y desgarra una grieta en el lado oscuro de tu conciencia.
+			Oyes mareas que no deberían existir; un frío húmedo empieza a filtrarse tras el velo de la realidad.
+			[Line]
+			Pulsa [Halibut_Domain] para abrir o cerrar el dominio.
+			Pulsa [Halibut_Teleport] para teletransportarte dentro del dominio.
+			Pulsa [Halibut_Clone] para que el pasado invada el presente.
+			'''
+		EyeDesc2:
+			'''
+			El segundo ojo se superpone al primero y tu visión se llena de imágenes dobles fuera de foco.
+			La realidad se difumina como una foto empapada mientras el paisaje marino de otra dimensión se impone al espacio actual.
+			Se ha abierto a la fuerza un nuevo dominio dentro del original, formando una extraña dimensión anidada de doble capa.
+			[Line]
+			Pulsa [Halibut_Domain] para abrir o cerrar el dominio.
+			Pulsa [Halibut_Teleport] para teletransportarte dentro del dominio.
+			Pulsa [Halibut_Clone] para que el pasado invada el presente.
+			'''
+		EyeDesc3:
+			'''
+			Un dolor desgarrador atraviesa tu frente; tres ojos espectrales azules, de luz funesta, ruedan bajo la piel.
+			La luz empieza a ser devorada por este espacio y los susurros abisales ya no parecen alucinaciones, sino masticar nítido.
+			[Line]
+			Pulsa [Halibut_Domain] para abrir o cerrar el dominio.
+			Pulsa [Halibut_Teleport] para teletransportarte dentro del dominio.
+			Pulsa [Halibut_Clone] para que el pasado invada el presente.
+			'''
+		EyeDesc4:
+			'''
+			Cuatro ojos se dividen en dos pares y cubren los tuyos; las proyecciones abisales, antes separadas, se superponen y fusionan.
+			El mundo que ves ya no es el de antes; la materia se deconstruye y reorganiza en el agua turbia.
+			[Line]
+			Pulsa [Halibut_Domain] para abrir o cerrar el dominio.
+			Pulsa [Halibut_Teleport] para teletransportarte dentro del dominio.
+			Pulsa [Halibut_Clone] para que el pasado invada el presente.
+			'''
+		EyeDesc5:
+			'''
+			Tu piel se vuelve pálida e hinchada, como un cadáver sumergido durante mucho tiempo.
+			Incontables ojos inquietos nadan bajo la piel como peces y convergen en tu frente, abriendo un monstruoso ojo único.
+			Las cinco capas del dominio se fusionan por completo y obtienes el poder de retorcer la causalidad en el espacio distorsionado.
+			[Line]
+			Pulsa [Halibut_Domain] para abrir o cerrar el dominio.
+			Pulsa [Halibut_Teleport] para teletransportarte dentro del dominio.
+			Pulsa [Halibut_Clone] para que el pasado invada el presente.
+			Pulsa [Halibut_Restart] para reiniciarte.
+			'''
+		EyeDesc6:
+			'''
+			El sexto ojo se abre sobre tu corazón.
+			Ya no bombea sangre caliente, sino agua negra fétida y gélida, como alcantarilla empapada de cadáveres en descomposición.
+			Cada latido agita venas azul oscuro visibles en el mar.
+			[Line]
+			Pulsa [Halibut_Domain] para abrir o cerrar el dominio.
+			Pulsa [Halibut_Teleport] para teletransportarte dentro del dominio.
+			Pulsa [Halibut_Clone] para que el pasado invada el presente.
+			Pulsa [Halibut_Restart] para reiniciarte.
+			'''
+		EyeDesc7:
+			'''
+			Siete ojos se alinean en un patrón inquietante en tu frente y estallan en luz al ritmo del tiempo.
+			El dominio erosiona la realidad con furia; donde llegan sus bordes, la materia se disuelve como arena y las leyes las reescriben las mareas.
+			[Line]
+			Pulsa [Halibut_Domain] para abrir o cerrar el dominio.
+			Pulsa [Halibut_Teleport] para teletransportarte dentro del dominio.
+			Pulsa [Halibut_Clone] para que el pasado invada el presente.
+			Pulsa [Halibut_Restart] para un reinicio de gran alcance.
+			Pulsa [Halibut_Superposition] para usar el Ataque de Superposición.
+			'''
+		EyeDesc8:
+			'''
+			El octavo ojo se materializa como un vórtice silencioso en la palma de tu mano.
+			La presión del agua en el dominio es casi tangible; aquí la luz se curva y el sonido muere.
+			[Line]
+			Pulsa [Halibut_Domain] para abrir o cerrar el dominio.
+			Pulsa [Halibut_Teleport] para teletransportarte dentro del dominio.
+			Pulsa [Halibut_Clone] para que el pasado invada el presente.
+			Pulsa [Halibut_Restart] para un reinicio de gran alcance.
+			Pulsa [Halibut_Superposition] para usar el Ataque de Superposición.
+			'''
+		EyeDesc9:
+			'''
+			Nueve es el número límite. Nueve ojos forman un anillo ilusorio del abismo sobre tu cabeza.
+			El último rastro de humanidad ha sido arrastrado por el mar; lo que queda es una cáscara que porta un mar infinito de cadáveres.
+			[Line]
+			Pulsa [Halibut_Domain] para abrir o cerrar el dominio.
+			Pulsa [Halibut_Teleport] para teletransportarte dentro del dominio.
+			Pulsa [Halibut_Clone] para que el pasado invada el presente.
+			Pulsa [Halibut_Restart] para un reinicio de gran alcance.
+			Pulsa [Halibut_Superposition] para usar el Ataque de Superposición.
+			'''
+		EyeDesc10:
+			'''
+			Las capas pierden sentido; uno es infinito.
+			Te has convertido en el abismo, y el abismo eres tú.
+			Donde cae tu mirada nace un nuevo Génesis.
+			Has llegado al final de esta orilla y te has convertido en la deidad del otro lado.
+			[Line]
+			Pulsa [Halibut_Domain] para abrir o cerrar el dominio.
+			Pulsa [Halibut_Teleport] para teletransportarte dentro del dominio.
+			Pulsa [Halibut_Clone] para que el pasado invada el presente.
+			Pulsa [Halibut_Restart] para un reinicio de gran alcance.
+			Pulsa [Halibut_Superposition] para usar el Ataque de Superposición.
+			Mantén pulsado el clic izquierdo para iniciar superposición y reinicio infinitos.
+			'''
+		LayerTitleFormat: Capa {0}
+	}
+
+	ResurrectionUI: {
+		TitleText: Estado de resurrección abisal
+		LinePercentFormat: Porcentaje : {0:F1}%
+		LineValueFormat: Valor de resurrección : {0:F1} / {1:F1}
+		LineRateFormat: Velocidad : {0:F3}/s
+		HeaderSummaryText: Evaluación de la situación actual
+		RateLevelVeryLow: Silencio de muerte
+		RateLevelLow: Susurros
+		RateLevelMedium: Inquietud
+		RateLevelHigh: Ebullición
+		RateLevelDanger: Ruptura
+		Phase1: La resurrección sigue en calma; el abismo permanece en silencio.
+		Phase2: Se oyen mareas inexistentes; los extremos del cuerpo empiezan a enfriarse.
+		Phase3: Las alucinaciones se intensifican. La presión del mar profundo pesa sobre ojos y corazón.
+		Phase4: La lógica de la realidad se derrumba; algo terrorífico y frío reescribe tu existencia.
+		Phase5: Se ha roto el punto crítico. La humanidad se disipa; estás a punto de formar parte de ese mar de cadáveres.
+		Trend1: Casi estancado
+		Trend2: Filtración lenta
+		Trend3: Oleada continua
+		Trend4: Infusión violenta
+		Trend5: Colapso instantáneo
+		SummaryFormat: Diagnóstico actual: {0} [Tendencia de erosión: {1}]
+	}
+}
+
+MurasamaOverride: {
+	World_Text0: Mundo mejorado anteriormente: <{0}> | Nivel registrado: <{1}>
+	Text0: Desbloqueado
+	Text1: No desbloqueada. Debes superar la prueba [Unhook]
+	Text_Lang_0: Prueba:
+	DisplayName: Murasama demoníaca
+	Tooltip:
+		'''
+		Clic derecho para apuntar y cargar la energía de la espada. Clic izquierdo para un ataque cuerpo a cuerpo real; al impactar, carga la energía de la espada.
+		Si hay enemigos poderosos cerca, la energía de la espada se cargará lentamente por sí sola.
+		Con la energía al máximo, pulsa [KEY1] para lanzar la hoja. Durante el vuelo, pulsa clic izquierdo para el corte ascendente [Lang1].
+		Si el corte ascendente impacta a un enemigo, carga el Arma 1. Pulsa [KEY2] para gastar 1 punto de carga y ejecutar un golpe descendente [Lang2].
+		Con 10 puntos de carga, un nuevo corte ascendente que impacte activará el movimiento final [Lang3].
+		[c/ff4500:"Sería mejor si fuera una espada-motosierra"]
+		[Lang4]
+		legend_Text
+		'''
+}
+
+SHPCOverride: {
+	DisplayName: SHPC
+	Tooltip:
+		'''
+		Clic izquierdo para disparar tres rayos láser
+		Mantén clic derecho para cargar energía
+		Todos los ataques pueden ser potenciados por el Dominio
+		[Lang4]
+		legend_Text
+		'''
+}
+
+LegendUpgradeManagerSystem: {
+	QuestManagerHint: Pulsa [{KEY}] para abrir la lista de misiones
+	TrialPassed: Superada
+}
+
+TrialBlockedHint: La siguiente prueba requiere que el contenido correspondiente esté activado.
+
+HalibutTrialQuestLine: {
+	QuestCategory: Leyenda del Halibut
+	TrackerWaiting: Objetivo ausente, esperando invocación...
+	TrackerFighting: "{0}: {1:0%}"
+	Trial_0: Entrante
+	Trial_1: Ojo no invitado
+	Trial_2: Visita a la jungla
+	Trial_3: Descanso y partida
+	Trial_4: Marea de acero
+	Trial_5: Réplica torpe
+	Trial_6: Pilas para las ruinas
+	Trial_7: Cara oculta de la luna
+	Trial_8: Ducha fría
+	Trial_9: Espectro indomable
+	Trial_10: Asesino de Dioses
+	Trial_11: Subida de temperatura
+	Trial_12: Cumbre de la creación
+	Trial_13: Vuelta al mar
+	TrackerBrief: Objetivo: {0}
+	BossRushTargetName: Batalla del Término
+	EventActiveFormat: "{0}: en curso"
+	TextDictionary_Content_0: Amigo, vamos a desafiar a esa enorme criatura terrestre pegajosa
+	TextDictionary_Content_1: Hay un gran ojo mirándonos, eso es muy grosero, necesitamos enseñarle una lección
+	TextDictionary_Content_2: En los lugares llenos de vida no solo hay abismos, también hay junglas, amigo, necesitamos visitar a la reina de las abejas
+	TextDictionary_Content_3:
+		'''
+		Los huesos malditos que no se disuelven, necesitamos dejarlos descansar en paz
+		Los gritos de auxilio desde el infierno son cada vez más frecuentes, necesitamos partir pronto, creo que a nuestro hermano guía no le importará
+		'''
+	TextDictionary_Content_4:
+		'''
+		¿Sabes cómo se mueven los inorgánicos? Una vez construí una enorme máquina submarina que podía disparar misiles de burbujas,
+		y un número interminable de torpedos de fusión térmica, la usé para cazar enormes criaturas que viven a 10,000 metros bajo el mar, hasta que encontré...
+		Oh, me estoy desviando: creo que en un momento llegarán cuatro amigos mecánicos a visitarnos, necesitamos prepararnos
+		Además, en las aguas contaminadas sobre el abismo, hay un gusano marino gigante mutado que solía ser el guardián de la Universidad del Mar de Azufre
+		Debería seguir siendo bastante amigable, podemos ir a tomar té por la tarde con él
+		'''
+	TextDictionary_Content_5:
+		'''
+		La siguiente muestra de estudio es el clon.
+		Una réplica torpe, sí, pero cargada de presencia de azufre... material excelente para el análisis.
+		… Ah, cierto, una cosa más.
+		Me encanta la jungla; es casi mi segundo hogar, rebosante de energía vital,
+		a la altura del fondo del abismo. Pero primero tenemos que encontrar la forma de liberarlos.
+		¿Recuerdas esos enormes capullos subterráneos? Ve a recogerlos; me ayudará con el título de botánica.
+		'''
+	TextDictionary_Content_6:
+		'''
+		Me gusta la arqueología. La última vez que recorrí la jungla vi unas ruinas enormes.
+		Ahora deberíamos tener la llave para abrir esa puerta. Vamos a echar un vistazo.
+		Dentro hay una máquina ancestral esperando que le pongamos baterías, como el control de un aire acondicionado.
+		'''
+	TextDictionary_Content_7:
+		'''
+		¿Sabes el secreto de la cara oculta de la luna? Allí hay un gran pulpo, una esponja y una estrella de mar...
+		Oh, quise decir que la crisis lunar se avecina
+		'''
+	TextDictionary_Content_8:
+		'''
+		Ahora es la crisis solar, un poderoso ente energético ha escapado del lado oscuro del sol hacia el núcleo de este planeta,
+		necesitamos seguir bajando, encontrarlo y darle un baño frío
+		'''
+	TextDictionary_Content_9:
+		'''
+		Las innumerables almas indomables de antiguas batallas se han reunido ahora, se esconden en las profundidades de la mazmorra y están muy inquietas.
+		Podemos ir a matar algunas almas solitarias, esto podría hacer que la pequeña tormenta en el espacio llegue antes, pero también puede atraerlas
+		'''
+	TextDictionary_Content_10:
+		'''
+		Hay una clase de seres que nacen y crecen en el espacio, sus cuerpos pueden soportar radiaciones cósmicas y energías de nivel celeste
+		Hace mucho tiempo nos encontramos con uno, y ahora, debemos enfrentar al más destacado entre ellos, uno que dice haber devorado a dioses
+		'''
+	TextDictionary_Content_11: La temperatura de la jungla ha aumentado últimamente, creo que ese poderoso dragón ha vuelto
+	TextDictionary_Content_12:
+		'''
+		Nos enfrentaremos a la cúspide de los seres inorgánicos, tienen un gran poder de fuego y defensa.
+		Además, parece que el altar de fuego de azufre puede convocar algo
+		'''
+	TextDictionary_Content_13:
+		'''
+		Hay una piedra especial en el abismo, úsala para enfrentar la batalla final
+		Y hay un poderoso ser marino que destruyó mi máquina, vamos a buscarlo para vengarnos
+		'''
+	TextDictionary_Content_14: Honestamente, quiero regresar al mar
+}
+
+MurasamaTrialQuestLine: {
+	QuestCategory: Murasama demoníaca · Pruebas
+	TrackerWaiting: Objetivo ausente, esperando invocación...
+	TrackerFighting: "{0}: {1:0%}"
+	Trial_0: Primer corte del lodo
+	Trial_1: Fantasma del desierto
+	Trial_2: Invasor
+	Trial_3: Purga de la corrupción
+	Trial_4: Amenaza parasitaria
+	Trial_5: Brecha en la mazmorra
+	Trial_6: Ídolo gelatinoso
+	Trial_7: Camino al Inframundo
+	Trial_8: Limpieza abisal
+	Trial_9: Llama purificadora de azufre
+	Trial_10: Grilletes de la tundra
+	Trial_11: Engranajes de acero
+	Trial_12: Aniquilación del doble ojo
+	Trial_13: Cráneo del rey mecánico
+	Trial_14: Operación sombra de Calamitas
+	Trial_15: Flor de la jungla
+	Trial_16: Frente petrificado
+	Trial_17: Erradicación de la plaga
+	Trial_18: Rompedor de gólems
+	Trial_19: Fin del campo astral
+	Trial_20: Caída lunar
+	Trial_21: Sanción fantasmal
+	Trial_22: Exorcismo de espectros
+	Trial_23: Serpiente asesina de dioses
+	Trial_24: Llama de la jungla
+	Trial_25: Fin del núcleo
+	Trial_26: Juicio del caos
+	Trial_27: Retorno primordial
+	TrialSummary_0: Demuéstrame de qué estás hecho, recluta.\nEse bulto azul viscoso es un buen comienzo.\nAcaba con él.
+	TrialSummary_1: Los restos del azote marino bajo la arena aún vagan.\nRastrea y acaba con ellos.
+	TrialSummary_2: La luna cuelga alta en la noche. Vamos a reventar ese ojo gigante que vuela por ahí y dejar a ese falso dios ciego para siempre.
+	TrialSummary_3:
+		'''
+		Los restos de falsos dioses mancillan las tierras de Terra. Libera los continentes corrompidos.
+		¡Destroza el cerebro de ese falso dios y trocea ese gusano morado!
+		¡Quiero ver tu hoja danzar entre la carne xeno!
+		'''
+	TrialSummary_4: La tierra corrompida aún late como un corazón. Los parásitos de carne siguen activos; los tumores corrompidos aún piensan. ¡Destiérralos por completo!
+	TrialSummary_5:
+		'''
+		La maldición de la entrada de la mazmorra se ha aflojado. Siento energía psíquica en sus profundidades, mezclada con gritos, lamentos y susurros...
+		Destroza ese cráneo gigante.
+		'''
+	TrialSummary_6: ¿Lo sientes? Esa podredumbre fétida que apesta a gel.\nPurifica por completo este agregado asqueroso.
+	TrialSummary_7: Entra en el Inframundo. Ese muro de carne sobre la lava es nuestra puerta a la siguiente era.\nDespedázalo.
+	TrialSummary_8: El marginado del Mar de Azufre bloquea nuestra búsqueda de los tesoros del abismo. Acaba con su voracidad y su deambular.
+	TrialSummary_9: El fuego hereje del Emisario de Azufre en las profundidades de la lava es una afrenta. Apágalo.
+	TrialSummary_10: En el frío del norte yace una creación de hielo y nieve sellada.\nDestrúyela antes de que se desate por completo.
+	TrialSummary_11: Un gusano de acero gigante bloquea nuestra cruzada. Córtalo en pedazos.
+	TrialSummary_12: Esos ojos mecánicos nos miran desde arriba, traspásalos con tu hoja.
+	TrialSummary_13: ¿El señor esqueleto creyó que la armadura de acero nos detendría? Destroza ese cráneo metálico.
+	TrialSummary_14: Esa bruja que se entregó al caos tiene una hermana clon deforme. Mata a esa xeno y ofrece su sangre y fuego a la hoja.
+	TrialSummary_15: La planta demente en lo profundo de la jungla se ha desbocado. Usa tu hoja para acabar con este crecimiento fuera de control.
+	TrialSummary_16: La estúpida raza lihzahrd solo sabe adorar estas piedras obstinadas. Redúcelas a polvo y destruye su fe.
+	TrialSummary_17: Entre vapor y gas tóxico hay un híbrido abeja-máquina. Abate esa porquería.
+	TrialSummary_18: Ese gólem de destrucción arrasa la tierra. Pulveriza por completo su cuerpo de acero.
+	TrialSummary_19: Los gusanos astrales acumulan aquí energía cósmica. Acaba con ellos para que este campo estelar sea nuestro.
+	TrialSummary_20:
+		'''
+		Ese falso dios escondido en la cara oculta de la luna no es más que un remiendo defectuoso.
+		Corta sus tentáculos, arráncale el corazón y bebe su sangre hasta saciarte.
+		'''
+	TrialSummary_21: Un dios miserable que sobrevive absorbiendo calor solar. Su fuego hereje debe extinguirse por completo.
+	TrialSummary_22: El agregado de no muertos en lo profundo de la mazmorra. Que esas almas inquietas queden en silencio de una vez.
+	TrialSummary_23: Esa serpiente cósmica arrogante se agita tras el velo del mundo. Acaba con sus ambiciones.
+	TrialSummary_24:
+		'''
+		El Dragón de la Jungla, el último descendiente dracónico áurico de Terra. Muy distinto de otras xenos, merece nuestro respeto.
+		Sin embargo, ahora debemos hacer que muera otra vez para arrebatarle su Alma Áurica.
+		Con esos materiales forjaremos un equipamiento de altísimo nivel.
+		'''
+	TrialSummary_25:
+		'''
+		Ese hereje de la iglesia mecánica cree firmemente que sus Exo Mechs superan el poder de los dioses.
+		Una creencia absurda. Devolvamos esos Titanes a su estado natural: un montón de chatarra.
+		'''
+	TrialSummary_26:
+		'''
+		Una bruja con talento psíquico excepcional, que debió ser un gran apoyo para defender Terra, se perdió hace tiempo en el caos.
+		Solo podemos desterrarla. Clava la hoja en su pecho y deja que el fuego de la lealtad consuma su alma podrida.
+		'''
+	TrialSummary_27:
+		'''
+		Nuestro camino de conquista ya es imparable. Destroza la armadura del dragón demoníaco bajo el abismo negro.
+		Usa el Término y libra la batalla decisiva final contra la xeno.
+		'''
+	TrackerBrief: Objetivo: {0}
+	BossRushTargetName: Batalla del Término
+	EventActiveFormat: "{0}: en curso"
+}
+
+SHPCTrialQuestLine: {
+	QuestCategory: SHPC · Pruebas
+	TrackerWaiting: Objetivo ausente, esperando invocación...
+	TrackerFighting: "{0}: {1:0%}"
+	Trial_0: Autopsia ocular
+	Trial_1: Muestra de corrupción
+	Trial_2: Origen del parasitismo
+	Trial_3: Dios del gel
+	Trial_4: Ruptura del sello
+	Trial_5: Contaminación de las profundidades
+	Trial_6: Muestreo de azufre
+	Trial_7: Gusano mecánico
+	Trial_8: Desmontaje del doble ojo
+	Trial_9: Cráneo de acero
+	Trial_10: Clon de Calamitas
+	Trial_11: Estudio ecológico
+	Trial_12: Tecnología ancestral
+	Trial_13: Coordenadas interestelares
+	Trial_14: Secretos de la cara oculta lunar
+	Trial_15: Expedición al núcleo
+	Trial_16: Observación de espectros
+	Trial_17: El Devorador de Dioses
+	Trial_18: Pluma del descendiente dracónico
+	Trial_19: Visita al creador
+	Trial_20: Auditoría de la bruja
+	Trial_21: Batalla del Término
+	TrialSummary_0:
+		'''
+		Maestro, el primer objetivo es ese ojo gigante flotante.
+		Por favor, derrótelo. Necesito datos completos de sus mecanismos antigravitatorios.
+		'''
+	TrialSummary_1:
+		'''
+		Los gusanos gigantes en la tierra corrompida y los cerebros de carne son muestras biológicas de calidad.
+		Maestro, corta sus tejidos centrales. Debo analizar el mecanismo de propagación de esta erosión ecológica.
+		'''
+	TrialSummary_2:
+		'''
+		El cerebro de la corrupción y el agregado carnoso son fuentes infecciosas con mente de colmena.
+		Maestro, elimínalos. Su patrón parasitario coordinado ya está en la lista de recolección.
+		'''
+	TrialSummary_3:
+		'''
+		El agregado gelatinoso: un objetivo de nivel divino sin sistema nervioso central ni forma fija.
+		Maestro, destroza su núcleo. Registraré adecuadamente esta arquitectura caótica.
+		'''
+	TrialSummary_4:
+		'''
+		Un muro de carne atraviesa las profundidades del Inframundo; es un sello de una era pasada.
+		Maestro, ábrete paso a la fuerza. Es el avance necesario hacia una nueva era.
+		'''
+	TrialSummary_5:
+		'''
+		El gusano gigante del Mar de Azufre ha emergido.
+		Maestro, desmonta sus órganos devoradores. Necesito confirmar cómo opera esta fuente de contaminación.
+		'''
+	TrialSummary_6:
+		'''
+		El Emisario de Azufre en las profundidades de la lava difunde una reacción de alta temperatura.
+		Maestro, apaga su llama central. Registraré a la vez su eficiencia de conversión energética.
+		'''
+	TrialSummary_7:
+		'''
+		El primer objetivo mecánico es un gusano de acero gigante.
+		Maestro, córtalo en chatarra reciclable. Intenta conservar intacta la estructura de propulsión.
+		'''
+	TrialSummary_8:
+		'''
+		El segundo objetivo mecánico es ese par de ojos en espejo; el combate coordinado es su rasgo principal.
+		Maestro, desmonta sus módulos de armamento uno a uno y cuida el área de efecto.
+		'''
+	TrialSummary_9:
+		'''
+		El último objetivo mecánico lleva el cráneo de un antiguo rey.
+		Maestro, destrúyalo. Cuando este protocolo de invasión mecánica quede cerrado, haré el análisis final.
+		'''
+	TrialSummary_10:
+		'''
+		El clon de esa bruja deambula. Aunque solo sea una réplica de nigromancia,
+		basta para calibrar mi modelo de reacción ante la calamidad. Maestro, destrúyelo.
+		'''
+	TrialSummary_11:
+		'''
+		Varios capullos grandes y llamativos han florecido bajo la jungla.
+		Maestro, acompáñame a verlos. Necesito recoger datos experimentales.
+		'''
+	TrialSummary_12:
+		'''
+		El autómata ancestral en lo profundo del templo espera una secuencia de carga para activarse.
+		Maestro, llévame a visitarlo. Ingeniería inversa de tecnología antigua podría ser útil.
+		'''
+	TrialSummary_13:
+		'''
+		En la entrada de la mazmorra, un grupo de cultistas fanáticos realiza un ritual antiguo para bloquear información del cielo.
+		Maestro, interrúmpeles. Necesito esas coordenadas interestelares ocultas.
+		'''
+	TrialSummary_14:
+		'''
+		Los secretos de la cara oculta de la luna serán nuestros.
+		Maestro, quizá esto devuelva ciertas cosas al buen camino.
+		'''
+	TrialSummary_15:
+		'''
+		La deidad parásita en el núcleo del planeta nos ha notado.
+		Maestro, ve al Inframundo. Su forma de aprovechar la energía térmica merece ser registrada.
+		'''
+	TrialSummary_16:
+		'''
+		Los espectros de la mazmorra se amalgaman en un simbionte enorme.
+		Maestro, la conciencia de colmena de esta arquitectura ectoplásmica es muy rara. Acompáñame a observarla.
+		'''
+	TrialSummary_17:
+		'''
+		No es vida basada en carbono; con el solo cuerpo puede rasgar la membrana dimensional.
+		Devora dioses, pero nosotros no lo somos. Derrota y deja constancia en el registro.
+		'''
+	TrialSummary_18:
+		'''
+		El único descendiente dracónico que queda en el mundo; su sola existencia es un milagro.
+		Maestro, llévame a verlo. Necesito una muestra de sus plumas.
+		'''
+	TrialSummary_19:
+		'''
+		Ha llegado el momento de ver a mi antiguo creador.
+		Maestro, recupera el núcleo de control de los Exo Mechs.
+		'''
+	TrialSummary_20:
+		'''
+		Esa bruja lleva tiempo haciendo experimentos caóticos. Ya hay datos suficientes.
+		Maestro, pon fin a sus operaciones. Esta farsa debe terminar.
+		'''
+	TrialSummary_21:
+		'''
+		Maestro, los enemigos que derrotaste antes han formado una coalición y preparan el asalto final.
+		Prepárate. Supervisaré el campo de batalla y te ayudaré a zanjar esto de una vez por todas.
+		'''
+	TrackerBrief: Objetivo: {0}
+	BossRushTargetName: Batalla del Término
+	EventActiveFormat: "{0}: en curso"
+}
+
+SHPCModuleStat: {
+	AttackSpeed: "{0}% velocidad de ataque"
+	Damage: "{0}% daño"
+	Spread: "{0}% dispersión"
+	BeamSpeed: "{0}% velocidad del haz"
+	Homing: "{0}% rastreo"
+	MergedDamage: "{0}% daño fusionado"
+	ManaCost: "{0}% costo de maná"
+	ChargeTime: "{0}% tiempo de carga"
+	OrbSpeed: "{0}% velocidad del orbe"
+	BeamLife: "{0}% alcance del haz"
+	ExplosionRadius: "{0}% radio de explosión"
+	BeamCount: "{0} haces/ráfaga"
+	Crit: "{0}% crítico"
+	Pierce: "{0} penetración extra"
+	Chain: "{0} saltos en cadena"
+	Split: "{0} haces secundarios al extinguirse"
+	Minions: "{0} mini-orbes rastreadores explosivos"
+	MergeBeams: +Fusiona 3 haces en 1
+	BeamExplodeOnHit: +Los haces detonan un micropulso al impactar
+	OrbDrainAura: +El orbe atrae enemigos cercanos al cargar
+	OrbExplosionPropels: +La detonación del orbe impulsa al portador
+	LaserMode: +Clic izq.: columna láser continua que sigue el cursor
+	LaserScorchOnHit: +El láser incendia enemigos al impactar
+	LaserPulse: +El láser detona un pulso al final del haz
+	OrbFlyingAttract: +El orbe persigue al enemigo más cercano en vuelo
+}
+
+SHPCSlotTag: Módulo SHPC · {0}
+
+SHPCSlotName: {
+	Barrel: Ranura del cañón
+	Optic: Ranura óptica
+	Power: Ranura de energía
+	Stock: Ranura de culata
+	Grip: Ranura de la empuñadura
+	Frame: Ranura del armazón
+}
+
+MoldProcessingUI: {
+	Title: Banco de moldes
+	Subtitle: Descomponer · Reforjar
+	TabWorkbench: Banco de trabajo
+	TabCodex: Códice de moldes
+	Decompose: Descomponer
+	Reforge: Reforjar
+	ClearPin: Quitar fijación
+	RandomMode: Aleatorio · sin descubrir primero
+	PinnedMode: Fijado desde el códice
+	CostLine: Coste: {0}
+	HaveLine: En posesión: {0}
+	UnknownName: ??????
+	ProgressFormat: "{0}/{1}"
+	ShardSuffix: fragmentos
+	EmptyCandidates: "// no hay módulos compatibles en el inventario"
+	CloseHint: ESC para cerrar
+	DecomposeHint: Haz clic en un módulo para descomponerlo
+	CodexHint: Haz clic en un molde descubierto para fijarlo como objetivo de reforja
+	Discovered: Descubierto
+	PinnedTag: Fijado
+}

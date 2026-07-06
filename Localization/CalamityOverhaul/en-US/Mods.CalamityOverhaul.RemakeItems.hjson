@@ -1,0 +1,30 @@
+﻿ModifyChargingStationItem: {
+	DisplayName: Charging Station
+	Tooltip:
+		'''
+		Uses electricity to charge electrical devices  
+		Batteries can be placed inside to store electricity  
+		Can be connected to pipelines for power transmission  
+		Right-click the block while holding a rechargeable item to quickly insert it  
+		Shift + Right-click to retrieve items
+		'''
+}
+
+DyeVatItem: {
+	DisplayName: "{$ItemName.DyeVat}"
+	Tooltip:
+		'''
+		Used for crafting dyes
+		Right-click after placing to open the control panel, allowing you to dye items
+		Place a Water Bucket into the dye slot to wash dyes off items
+		'''
+}
+
+RDemonConch: {
+	DisplayName: Demon Conch
+	Tooltip:
+		'''
+		Listen closely and you'll hear screams
+		"Be careful."
+		'''
+}

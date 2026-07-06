@@ -434,7 +434,7 @@ TownNPCMood: {
 	}
 
 	BestiaryGirl: {
-		Monument: ¡Este monumento es como, totalmente escalofriante, tío!
+		Monument: ¡Este monumento es como, totalmente escalofriante!
 		MonumentTransformed: Grrr... PIEDRA GRANDE. ¡MALO! ¡NO!!
 		GiftPositive: ¡¡Oye!! ¡Eres como, supeeeer genial y todo eso por regalarme ese conejito tan mono! Ahora um... ¡tengo que pensar en un nombre para él!
 		GiftPositiveTransformed: AMOR. BUEN REGALO. ¡MONO!
@@ -527,7 +527,7 @@ TownNPCMood: {
 	}
 
 	Pirate: {
-		Monument: ¡Argh, vosotros los de tierra firme tenéis un gusto horrible en decoración! ¡Esa estatua está pidiendo a gritos ser arrasada!
+		Monument: ¡Argh, ustedes los de tierra firme tienen un gusto horrible en decoración! ¡Esa estatua está pidiendo a gritos ser arrasada!
 		GiftPositive: ¡JAR JAR! ¡Me traes la mejor botella de ron que he probado en mi vida! ¡No hay más que decir, perro del mar!
 		GiftNegative: ¡Argh, granuja! ¡Estás pidiendo que te manden al fondo del mar con ese repugnante brebaje que me diste antes!
 	}
@@ -558,7 +558,7 @@ TownNPCMood: {
 
 	TaxCollector: {
 		Monument: ¡Bah! ¡No deberías estar viendo este mensaje, plebeyo!
-		GiftPositive: ¡Qué ganga, recibir un regalo lleno de lo único que vale algo en este mundo: el dinero!
+		GiftPositive: ¡Qué oferta, recibir un regalo lleno de lo único que vale algo en este mundo: el dinero!
 		GiftNegative: ¡Bah! ¿Te crees un bufón con ese trozo de carbón? ¡Fuera de mi vista!
 	}
 

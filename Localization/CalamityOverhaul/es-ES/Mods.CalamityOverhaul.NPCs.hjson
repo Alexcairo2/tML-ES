@@ -1,0 +1,17 @@
+Victor: {
+	DisplayName: Médico cibernético
+	Bestiary: Un médico cibernético que llegó a estas tierras cargando sobre su espalda suficientes implantes como para reconstruir un cuerpo entero. Se dice que es capaz de reemplazar la carne por acero y circuitos, siempre que estés dispuesto a pagar el precio.
+	TalkHint: Hablar con Víctor
+	Name0: Víctor
+
+	TownNPCMood: {
+		Content: Estoy satisfecho.
+		NoHome: Detesto no tener hogar.
+		FarFromHome: Estoy demasiado lejos de mi casa.
+		LoveSpace: Me encanta tener tanto espacio.
+		DislikeCrowded: No me gusta que esté tan lleno...
+		HateCrowded: Odio que esté tan lleno...
+		LikeNPC_Princess: Me gusta {NPCName}.
+		Princess_LovesNPC: Me gusta {NPCName}.
+	}
+}

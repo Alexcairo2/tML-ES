@@ -1,0 +1,344 @@
+MurasamaHeld.DisplayName: Corte molecular
+MuraTriggerDash.DisplayName: Corte molecular
+MuraBreakerSlash.DisplayName: Medio dragón ascendente
+MuraExecutionCut.DisplayName: Corte dimensional · Fin
+MuraExecutionCutOnSpan.DisplayName: Corte dimensional · Inicio
+MuraGroundSmash.DisplayName: Caída de pétalos
+EndSkillEffectStart.DisplayName: Corte dimensional · Inicio
+RebelBladeFlyAttcke.DisplayName: Hoja rebelde
+RebelBladeOrb.DisplayName: Orbe demoníaco
+RebelBladeBack.DisplayName: Hoja rebelde
+ElectricMinRocketHeld.DisplayName: Microcohete eléctrico
+TeslaBallByAttack.DisplayName: Esfera de inducción Tesla
+TeslaBallByGuard.DisplayName: Esfera defensiva Tesla
+WGGCollectorArm.DisplayName: Brazo recolector del chatarrero
+DivineJustice.DisplayName: Juicio divino
+EmblemOfDreadDashProj.DisplayName: Carga del emblema del terror
+JusticeUnveiledExplode.DisplayName: Justicia revelada
+JUZenithWorldTime.DisplayName: Hora del cenit
+TheGravityShield.DisplayName: Escudo de campo gravitatorio
+WarpingPoint.DisplayName: Singularidad de salto
+CommandersRay.DisplayName: Rayo del comandante
+DecayedSeaOrb.DisplayName: Orbe del mar putrefacto
+PowerCoil.DisplayName: Bobina de energía
+SandSmallTornado.DisplayName: Pequeño tornado de arena
+DecayedSeaVortex.DisplayName: Vórtice del mar putrefacto
+UnderTheSandSurge.DisplayName: Oleada de arena
+SporeBoboMagic.DisplayName: Bobo esporal
+SporeBobo.DisplayName: Bobo esporal
+DestroyersBeam.DisplayName: Rayo del destructor
+Glomushroom.DisplayName: Seta luminiscente
+WastelandFangProj.DisplayName: Colmillo del páramo
+WeaverBeam.DisplayName: Rayo del tejedor de rencores
+WeaverExplode.DisplayName: Explosión de rencor
+WeaverGrievancesDash.DisplayName: Carga del tejedor de rencores
+DestroyerGrenade.DisplayName: Granada del destructor
+DicoriaRay.DisplayName: Rayo gemelo
+FungiAmmo.DisplayName: Munición fúngica
+PallbearerArrow.DisplayName: Flecha del portador del féretro
+PrimeCannonOnSpanFriendly.DisplayName: Cañón mecánico · Salva
+PrimeCannonOnSpan.DisplayName: Cañón mecánico · Salva
+PrimeSeekerMissile.DisplayName: Micro misil buscacalor
+PunisherGrenade.DisplayName: Granada castigadora
+RaiderGunDash.DisplayName: Carga del asaltante
+RocketSkeletonFriendly.DisplayName: Cohete esquelético
+RocketSkeleton.DisplayName: Cohete esquelético
+SporeBurst.DisplayName: Explosión esporal
+CommandersClawThrow.DisplayName: Garra del comandante
+SandDaggerThrow.DisplayName: Daga de arena arrojadiza
+SeasonalKunaiProj.DisplayName: Kunai estacional
+SporeBoboRogue.DisplayName: Bobo esporal
+SporeburstPouchThrow.DisplayName: Bolsa de explosión esporal
+WraithKunaiProj.DisplayName: Kunai espectral
+DestroyerBody.DisplayName: El Destructor
+DestroyerHead.DisplayName: El Destructor
+DestroyerTail.DisplayName: El Destructor
+FungalFeedProj.DisplayName: Alimento fúngico
+CannonFishSwarmHitbox.DisplayName: Enjambre de peces cañón
+ClonePlayer.DisplayName: Eco del yo
+FishTeleportProj.DisplayName: Teletransporte del cardumen
+RestartEffectProj.DisplayName: Reconstrucción causal
+SeaDomainProj.DisplayName: Dominio de las mareas
+SuperpositionCannon.DisplayName: Cañón de superposición
+SuperpositionProj.DisplayName: Singularidad de superposición
+YourLevelIsTooLowProj.DisplayName: Aura de poder abrumador
+AmanitaExplosiveMushroom.DisplayName: Amanita explosiva
+AmanitaHomingSpore.DisplayName: Espora guiada de amanita
+AmanitaLightningSpore.DisplayName: Espora eléctrica de amanita
+AmanitaToxicMushroom.DisplayName: Amanita tóxica
+BatSwarmController.DisplayName: Tormenta de murciélagos
+BatSwarmMinion.DisplayName: Murciélago sombrío
+BonefishOrbit.DisplayName: Órbita del pez óseo
+BunnyfishHopper.DisplayName: Pez conejo
+CatfishLeaper.DisplayName: Pez gato
+CloudRain.DisplayName: Lluvia de nubes
+CloudRide.DisplayName: Nube somersault
+CursedFlameStream.DisplayName: Corriente de llamas malditas
+DirtBall.DisplayName: Bola de tierra
+DirtFishFollower.DisplayName: Pez de tierra
+DrizzleFirePillar.DisplayName: Pilar de fuego llovizna
+DrizzleFishHolder.DisplayName: Pez nuboso
+DrizzleSpawnEffect.DisplayName: Invocación de llovizna
+DynamiteExplosionEffect.DisplayName: Explosión del pez dinamita
+DynamiteFishProjectile.DisplayName: Pez dinamita
+FallingPenguin.DisplayName: Pingüino en caída
+FallingStarProjectile.DisplayName: Estrella fugaz
+FishingFly.DisplayName: Mosca de pesca
+FishSwarmController.DisplayName: Tormenta de peces
+FishVoodooMark.DisplayName: Marca vudú del pez
+HarpyFeatherOrbit.DisplayName: Órbita de pluma de arpía
+HellFireBlast.DisplayName: Explosión infernal
+HellRitualCircle.DisplayName: Círculo ritual infernal
+HoneyBeeMinion.DisplayName: Abeja
+HoneyBeeSwarmCore.DisplayName: Núcleo de colmena
+HungryCompanionProjectile.DisplayName: El hambriento
+IchorStream.DisplayName: Corriente de icor
+MudBall.DisplayName: Bola de barro
+MudfishSentry.DisplayName: Centinela lodo
+SkeletronHandExplode.DisplayName: Mano de Skeletron
+SkeletronHandMinion.DisplayName: Mano de Skeletron
+SlimeGelOrb.DisplayName: Orbe de gel de slime
+SoulEaterBite.DisplayName: Mordisco del devorador de almas
+SparklingFishHolder.DisplayName: Pez centelleante
+SparklingRay.DisplayName: Rayo centelleante
+SparklingSpawnEffect.DisplayName: Invocación centelleante
+SpiralStarProjectile.DisplayName: Estrella en espiral
+WaterZombie.DisplayName: Ahogado
+OceanCurrent.DisplayName: Corriente oceánica
+PowerSoundEgg.DisplayName: Huevo resonante
+CrabulonFriendHitbox.DisplayName: Espora de Crabulon
+Fireball.DisplayName: Bola de fuego
+DeadLaser.DisplayName: Láser de la muerte
+PrimeTelegraphLine.DisplayName: Señal de advertencia de Prime
+PrimeArcChainProj.DisplayName: Atadura iónica
+PrimeSkullBeamProj.DisplayName: Rayo del cañón craneal
+PrimeCrossBeamProj.DisplayName: Rayo térmico de ejecución cruzada
+PrimeArmHeatRayProj.DisplayName: Rayo térmico de Prime
+PrimeMortarShellProj.DisplayName: Proyectil de mortero de Prime
+Hit.DisplayName: Impacto
+SpwanTextProj.DisplayName: Palabra manifestada
+DragonsWordCut.DisplayName: Corte de la palabra del dragón
+DragonsWordMouse.DisplayName: Palabra del dragón
+DragonsWordProj.DisplayName: Palabra del dragón
+NeutronMagchStar.DisplayName: Estrella de neutrones
+NeutronWandExplode.DisplayName: Explosión de varita de neutrones
+DivineSourceWaveProjectile.DisplayName: Onda creciente de fuente divina
+DivineSourceHitFXProjectile.DisplayName: Impacto de fuente divina
+DragonsScaleGreatswordBeam.DisplayName: Rayo de gran hoja de alga dracónica
+DragonSoulSerpent.DisplayName: Alma del dragón verdigris
+SporeCloud.DisplayName: Nube esporal
+EXNeutronExplode.DisplayName: Explosión de neutrones EX
+NeutronExplode.DisplayName: Explosión de neutrones
+NeutronGlaiveBeam.DisplayName: Guja de neutrones
+NeutronGlaiveHeldAlt.DisplayName: Guja de neutrones · Derivación
+NeutronsOrb.DisplayName: Orbe de neutrones
+StormArc.DisplayName: Arco de tormenta
+StormLightning.DisplayName: Rayo de tormenta
+CelestialDevourer.DisplayName: Devorador celestial
+CelestialObliterationArrow.DisplayName: Flecha de obliteración celestial
+CosmicEddies.DisplayName: Remolinos cósmicos
+DivineDevourerIllusionBody.DisplayName: Fantasma del devorador de dioses
+DivineDevourerIllusionHead.DisplayName: Fantasma del devorador de dioses
+DivineDevourerIllusionTail.DisplayName: Fantasma del devorador de dioses
+GlacialShell.DisplayName: Proyectil glacial
+GlacierSpikeProj.DisplayName: Pilar de glaciar
+GlacierWave.DisplayName: Ola glacial
+ExtremeColdHail.DisplayName: Granizo gélido
+HeavenRainbowImpact.DisplayName: Impacto del arcoíris celestial
+InfiniteArrow.DisplayName: Flecha infinita
+InfiniteRune.DisplayName: Runa infinita
+ParadiseArrow.DisplayName: Flecha del paraíso
+VientianePunishment.DisplayName: Castigo de los diez mil fenómenos
+IceExplosionFriend.DisplayName: Explosión de hielo
+IceParclose.DisplayName: Cortina de hielo
+FrostGlimmer.DisplayName: Destello helado
+AuroraCurtain.DisplayName: Cortina auroral
+AuroraLance.DisplayName: Lanceta helada
+EXNeutronArrow.DisplayName: Flecha de neutrones EX
+EXNeutronExplosionRanged.DisplayName: Explosión de neutrones EX
+NeutronArrow.DisplayName: Flecha de neutrones
+NeutronExplosionRanged.DisplayName: Explosión de neutrones
+NeutronLaser.DisplayName: Láser de neutrones
+NeutronBullet.DisplayName: Proyectil de neutrones
+SnowQuayFlake.DisplayName: Corriente de nieve
+SnowQuayPackedBall.DisplayName: Bola de nieve compacta
+SnowQuayShard.DisplayName: Fragmento de hielo
+IcicleNail.DisplayName: Clavo de hielo
+NeutronScytheExplosion.DisplayName: Explosión de neutrones
+NeutronScytheHeld.DisplayName: Guadaña de neutrones
+Godslight.DisplayName: Luz divina
+LonginusHeld.DisplayName: Lanza de Longino
+LonginusThrow.DisplayName: Lanza de Longino
+PilgrimsFury.DisplayName: Furia del peregrino
+AzureDragonRageProjectile.DisplayName: Ira del dragón azur
+BleedingScourgeProjectile.DisplayName: Azote sangriento
+ElementWhipProjectile.DisplayName: Látigo elemental
+GhostFireWhipProjectile.DisplayName: Látigo de fuego fantasmal
+WhiplashGalacticaProjectile.DisplayName: Látigo galáctico
+WTrail.DisplayName: Estela
+InfiniteEnmgs.DisplayName: Energía infinita
+InfinitePickProj.DisplayName: Pico infinito
+SpanDMBall.DisplayName: Orbe de materia oscura
+CthulhuEye.DisplayName: Ojo de Cthulhu
+JewelFragmentProjectile.DisplayName: Fragmento de joya
+JewelGemProjectile.DisplayName: Estrella de joya
+EncyclopediaEffect.DisplayName: Aura erudita
+ForgottenTomeEffect.DisplayName: Runas olvidadas
+TunabeardDashProj.DisplayName: Carga del atún
+TunabeardImpactWave.DisplayName: Ola de impacto
+BloodySwarmController.DisplayName: Tormenta sangrienta
+BloodyJellyfishUnit.DisplayName: Medusa sangrienta
+BloodyStrikeWave.DisplayName: Onda de sangre
+UnicornFishDashProj.DisplayName: Carga del unicornio
+FishoilDrinkEffect.DisplayName: Oleada de vitalidad
+MiniWhiteWyvern.DisplayName: Cola de dragón blanco
+WhiteWyvernTailController.DisplayName: Cola de dragón blanco
+ScorpionSentry.DisplayName: Centinela escorpión
+HeartcarverDagger.DisplayName: Daga ritual
+OniHandExplode.DisplayName: Explosión de mano oni
+OniHandMinion.DisplayName: Mano oni
+OniFireBall.DisplayName: Fuego de mano oni
+PandemoniumChannel.DisplayName: Canal del pandemonio
+PandemoniumFireball.DisplayName: Bola de fuego del pandemonio
+PandemoniumScythe.DisplayName: Guadaña del pandemonio
+PandemoniumBlastWave.DisplayName: Onda de choque del pandemonio
+PandemoniumGroundFlame.DisplayName: Llama terrestre del pandemonio
+PandemoniumLightning.DisplayName: Rayo del pandemonio
+PandemoniumRainDrop.DisplayName: Lluvia maldita del pandemonio
+PrismiteWaveProjectile.DisplayName: Onda prismática
+ObsidianFishOrbit.DisplayName: Órbita del pez de obsidiana
+RockHammerFish.DisplayName: Pez martillo de roca
+OilBlob.DisplayName: Bola de crudo viscoso
+PrincessFishMinion.DisplayName: Pez princesa
+PrincessMagicOrb.DisplayName: Orbe mágico de la princesa
+CrimsonTigerFishMinion.DisplayName: Pez tigre carmesí
+TropicalBarracudaProjectile.DisplayName: Barracuda tropical
+NeonTetraLightProjectile.DisplayName: Rayo de neón
+BrimfishSpitterProjectile.DisplayName: Aliento tóxico de azufre
+BrimstoneFlameProjectile.DisplayName: Llama de azufre
+DoubleCodProjectile.DisplayName: Bacalao doble
+FrostMinnowSpitterProjectile.DisplayName: Aliento helado del pececillo
+FrostSnowflakeProjectile.DisplayName: Copo de nieve helado
+PandemoniumCircle.DisplayName: Círculo del pandemonio
+PandemoniumQSkill.DisplayName: Fin del pandemonio
+PandemoniumFirePillar.DisplayName: Pilar de fuego del pandemonio
+PandemoniumRSkill.DisplayName: Fin absoluto del pandemonio
+JusticeCrossMark.DisplayName: Juicio de la justicia
+HeartcarverDash.DisplayName: Carga del tallacorazones
+ProverbsCircle.DisplayName: Runa de azufre
+StormGoddess.DisplayName: Diosa de la tormenta
+JusticeUnveiledCross.DisplayName: Justicia revelada
+AncientStormLightning.DisplayName: Rayo de tormenta ancestral
+AncientStormArc.DisplayName: Orbe de tormenta ancestral
+AccretionDisk.DisplayName: Disco de acreción
+FlattenedAccretionDisk.DisplayName: Disco de acreción
+GammaRayBeam.DisplayName: Rayo gamma
+AriaQSkill.DisplayName: Guardián del anillo estelar
+AriaQSkillDisk.DisplayName: Guardián del anillo estelar
+AriaRSkill.DisplayName: Guardián del anillo estelar
+AriaRSkillBeam.DisplayName: Rayo gamma azul
+AriaQSkillMiniDisk.DisplayName: Guardián del anillo estelar
+SulfuricacidExplosion.DisplayName: Explosión de ácido sulfúrico
+DawnshatterFireball.DisplayName: Fuego del alba
+TransferItemProj.DisplayName: Objeto en tránsito
+Crystal.DisplayName: Cristal
+MuraDimensionSlash.DisplayName: Corte dimensional
+MuraSlashArc.DisplayName: Corte dimensional
+MuraSlashLine.DisplayName: Corte dimensional
+WGGLumberjackSaw.DisplayName: Motosierra oxidada
+WGGLifeWeaverAcorn.DisplayName: Bellota
+GammaRayBurst.DisplayName: Ráfaga de rayos gamma
+QuantumLeapProj.DisplayName: Salto cuántico
+SingularityBlackHole.DisplayName: Agujero negro singular
+SupernovaExplosion.DisplayName: Explosión de supernova
+ArcaneRiftProj.DisplayName: Grieta arcana
+TruthLeapProj.DisplayName: Salto de la verdad
+RealityShockProj.DisplayName: Temblor de la realidad
+SpawnOldDukeWannaToFight.DisplayName: Invocar al Viejo Duque para un combate
+CyberGlitchBoltProj.DisplayName: Rayo cibernético de fallo
+CyberShockwaveProj.DisplayName: Onda de choque cibernética
+CyberTraceBeamProj.DisplayName: Rayo de rastreo cibernético
+CyberChargeOrbProj.DisplayName: Orbe de carga cibernético
+CyberDetonationProj.DisplayName: Detonación cibernética
+SHPCChargeHeldProj.DisplayName: Campo de carga SHPC
+CyberFreezeWaveProj.DisplayName: Onda de congelación cibernética
+StarshipComet.DisplayName: Cometa de la nave estelar
+StarshipCometOrb.DisplayName: Orbe del cometa estelar
+StarshipMaxRateRing.DisplayName: Anillo de energía máxima de la nave
+StarshipMeteor.DisplayName: Meteoro de la nave estelar
+StarshipMicroGalaxy.DisplayName: Microgalaxia de la nave estelar
+StarshipMicroStar.DisplayName: Microestrella de la nave estelar
+StarshipPlanet.DisplayName: Planeta de la nave estelar
+StarshipPlasmaBolt.DisplayName: Proyectil de plasma estelar
+StarshipWingman.DisplayName: Escolta de la nave estelar
+CyberReformProj.DisplayName: Proyectil de reforma cibernética
+CyberRiftSlashProj.DisplayName: Corte de grieta cibernética
+CyberRestartProj.DisplayName: Reinicio cibernético
+CyberPixelDecomposeProj.DisplayName: Descomposición de píxeles cibernética
+MimicPhantom.DisplayName: Fantasma mimético
+CyberExecutionBoltProj.DisplayName: Rayo del cielo fallido
+CyberPrismLaserProj.DisplayName: Láser cibernético
+CyberDataArcProj.DisplayName: Arco de datos cibernético
+CryoCoreParclose.DisplayName: Barrera del núcleo helado
+CyberCascadeNodeProj.DisplayName: Nodo en cascada
+SHPCCoralAnchorProj.DisplayName: Ancla de coral
+SHPCCumulusNodeProj.DisplayName: Nodo de cúmulos
+SHPCFrostfernLineProj.DisplayName: Rayo de helecho helado
+SHPCHiveDroneProj.DisplayName: Dron de colmena
+SHPCMagmaVentProj.DisplayName: Chimenea de magma
+SHPCMoondewPrismProj.DisplayName: Prisma de rocío lunar
+SHPCMossPatchProj.DisplayName: Parche de musgo
+SHPCObsidianShardProj.DisplayName: Fragmento de obsidiana
+SHPCSandCurtainProj.DisplayName: Cortina de arena
+SHPCMoondewRefractFlashProj.DisplayName: Destello refractado de rocío lunar
+MonomolecularWire.DisplayName: Hilo monomolecular
+HolyCross.DisplayName: Cruz sagrada
+ArbiterFireSnake.DisplayName: Serpiente de fuego
+ArbiterGroundFire.DisplayName: Llama del suelo
+ArbiterHeld.DisplayName: Juez de condena
+ArbiterShockwave.DisplayName: Onda de choque
+CloudwalkingHeld.DisplayName: Caminante de las nubes
+DuneStalkerHeadProj.DisplayName: Gancho del acechador de dunas
+GraniteBloom.DisplayName: Floración de granito
+GraniteCrystalShard.DisplayName: Fragmento de cristal de granito
+GraniteEnergyOrb.DisplayName: Orbe de energía de granito
+GraniteFlowerHeld.DisplayName: Flor de granito
+GraniteFlowerSeed.DisplayName: Semilla de cristal de granito
+GraniteThrowingKnifeProj.DisplayName: Cuchillo arrojadizo de granito
+GraniteTomeHeld.DisplayName: Tomo de granito
+MarbleAegisRing.DisplayName: Anillo de égida de mármol
+MarbleClubHeld.DisplayName: Garrote de mármol
+MarbleDiscProj.DisplayName: Disco de mármol
+MarbleHuntingKnifeHeld.DisplayName: Cuchillo de caza de mármol
+MarblePebbleProj.DisplayName: Guijarro de mármol
+MarbleShard.DisplayName: Fragmento de mármol
+MarbleShockwave.DisplayName: Onda de choque de mármol
+SHPCSonicBoomProj.DisplayName: Estallido sónico SHPC
+SHPCVoltArcProj.DisplayName: Arco volt SHPC
+SHPCQuantumLinkProj.DisplayName: Enlace cuántico SHPC
+SHPCCrystalShardProj.DisplayName: Fragmento de cristal SHPC
+SHPCHarmonyWispProj.DisplayName: Fuego fatuo armónico SHPC
+SHPCAdaptiveReticleProj.DisplayName: Retícula adaptativa SHPC
+SHPCHoloLatticeProj.DisplayName: Rejilla holográfica SHPC
+SHPCJudgmentRayProj.DisplayName: Rayo del juicio SHPC
+SHPCPlasmaSunProj.DisplayName: Sol de plasma SHPC
+SHPCSolarFlareProj.DisplayName: Erupción solar SHPC
+SHPCArmBoltProj.DisplayName: Rayo de brazo SHPC
+SHPCAssaultArmProj.DisplayName: Brazo de asalto SHPC
+SHPCBeamSegmentProj.DisplayName: Segmento de rayo SHPC
+SHPCSeismicCounterProj.DisplayName: Contraataque sísmico SHPC
+BarrenArc.DisplayName: Arco del páramo
+BarrenPulseProj.DisplayName: Pulso del páramo
+DestroyerArc.DisplayName: Arco del Destructor
+DestroyerBolt.DisplayName: Rayo del Destructor
+DestroyerHeatWakeProj.DisplayName: Estela térmica del Destructor
+DestroyerShockwave.DisplayName: Onda de choque del Destructor
+DestroyerStrikeTelegraph.DisplayName: Aviso de asalto del Destructor
+CursedFlameJet.DisplayName: Chorro de llamas malditas
+RetinazerDeathRay.DisplayName: Rayo mortal de Retinazer
+RetinazerLaser.DisplayName: Láser de Retinazer
+TwinsSupernovaBlast.DisplayName: Supernova de los Gemelos
+TwinsTetherArc.DisplayName: Arco de anclaje de los Gemelos
+DestroyerMawBeamProj.DisplayName: Rayo de fauces del Destructor
+VictorRiftPortalProj.DisplayName: Grieta cibernética de Víctor
+OniDomain.DisplayName: Dominio Oni

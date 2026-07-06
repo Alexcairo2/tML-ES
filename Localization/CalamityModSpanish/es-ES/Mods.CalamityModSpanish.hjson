@@ -77,6 +77,15 @@ Configs: {
 				'''
 		}
 
+		CalamityOverhaulLocalization: {
+			Label: Calamity Overhaul
+			Tooltip:
+				'''
+				Desactiva la traducción de Calamity - Fargo's Souls DLC.
+				[c/ff388e:Nota:] Esto no desactiva la traducción de objetos, solo la traducción de los textos fuera de los objetos, como las interfaces o diálogos muy rebuscados.
+				'''
+		}
+
 		ShowStartUpCollabMessage: {
 			Label: Mostrar anuncio de colaboradores al iniciar
 			Tooltip: Muestra un mensaje de anuncio indicando que el mod está abierto a recibir contribuciones de la comunidad al entrar a un mundo.
