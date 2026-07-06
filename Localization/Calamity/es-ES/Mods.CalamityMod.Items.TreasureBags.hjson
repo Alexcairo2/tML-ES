@@ -55,7 +55,7 @@ DevourerofGodsBag: {
 }
 
 DraedonBag: {
-	DisplayName: Caja del tesoro (Exo Mechs)
+	DisplayName: Caja del tesoro (Los Exo Mecánicos)
 	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 }
 

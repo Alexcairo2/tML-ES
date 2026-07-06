@@ -81,7 +81,7 @@ BlackHawkRemote: {
 		'''
 		Invoca un jet Halcón Negro para que luche por ti
 		Los jets dispararán balas de tu inventario
-		50% de probabilidad de ahorrar munición
+		50% de probabilidad de no consumir munición
 		'''
 }
 
@@ -223,7 +223,7 @@ CosmicViperEngine: {
 		Invoca una nave de combate cósmica para derribar a tus enemigos
 		Las naves dispararán balas de tu inventario
 		Alterna entre disparar cohetes y balas
-		50% de probabilidad de ahorrar munición
+		50% de probabilidad de no consumir munición
 		Los cohetes no consumen munición
 		'''
 }
@@ -774,7 +774,7 @@ TacticalPlagueEngine: {
 		Invoca un jet de [cbuff:CalamityMod/Plague] para someter a tus enemigos a golpes
 		Los jets dispararán balas de tu inventario
 		A veces dispara un misil en lugar de una bala
-		50% de probabilidad de ahorrar munición
+		50% de probabilidad de no consumir munición
 		Los misiles no consumen munición
 		'''
 }

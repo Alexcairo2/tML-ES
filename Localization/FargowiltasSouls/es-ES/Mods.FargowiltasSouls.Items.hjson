@@ -2701,7 +2701,7 @@ MoonBow: {
 		Mantén clic derecho para acumular poder
 		Suelta en el momento adecuado para recibir temporalmente una bendición lunar
 		Mientras estás bendecido, velocidad de ataque drásticamente aumentada y gravedad de flechas alterada
-		66% de probabilidad de ahorrar munición
+		66% de probabilidad de no consumir munición
 		'La boca reencordada de un enemigo derrotado...'
 		'''
 }

@@ -81,7 +81,25 @@ Configs: {
 			Label: Calamity Overhaul
 			Tooltip:
 				'''
-				Desactiva la traducción de Calamity - Fargo's Souls DLC.
+				Desactiva la traducción de Calamity Overhaul.
+				[c/ff388e:Nota:] Esto no desactiva la traducción de objetos, solo la traducción de los textos fuera de los objetos, como las interfaces o diálogos muy rebuscados.
+				'''
+		}
+
+		CatalystModLocalization: {
+			Label: Catalyst Mod
+			Tooltip:
+				'''
+				Desactiva la traducción de Catalyst Mod.
+				[c/ff388e:Nota:] Esto no desactiva la traducción de objetos, solo la traducción de los textos fuera de los objetos, como las interfaces o diálogos muy rebuscados.
+				'''
+		}
+
+		WotmLocalization: {
+			Label: Calamity: Wrath of the Machines
+			Tooltip:
+				'''
+				Desactiva la traducción de Wrath of the Machines.
 				[c/ff388e:Nota:] Esto no desactiva la traducción de objetos, solo la traducción de los textos fuera de los objetos, como las interfaces o diálogos muy rebuscados.
 				'''
 		}

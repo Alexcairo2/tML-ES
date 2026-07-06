@@ -1,5 +1,5 @@
 AerospecBreastplate: {
-	DisplayName: Pechera Aerospec
+	DisplayName: Pechera de Aerospec
 	Tooltip: "{$CommonItemTooltip.PercentIncreasedDamageCritChance}"
 	CommonSetBonus:
 		'''
@@ -9,7 +9,7 @@ AerospecBreastplate: {
 }
 
 AerospecHeadMagic: {
-	DisplayName: Sombrero Aerospec
+	DisplayName: Sombrero de Aerospec
 	Tooltip:
 		'''
 		{$CommonItemTooltip.IncreasesMaxManaBy}
@@ -24,7 +24,7 @@ AerospecHeadMagic: {
 }
 
 AerospecHeadRogue: {
-	DisplayName: Casco Aerospec
+	DisplayName: Casco de Aerospec
 	Tooltip: "{$Common.RogueDamage} y {$CommonItemTooltip.PercentIncreasedMovementSpeed@1}"
 	SetBonus:
 		'''
@@ -35,7 +35,7 @@ AerospecHeadRogue: {
 }
 
 AerospecHeadMelee: {
-	DisplayName: Yelmo Aerospec
+	DisplayName: Yelmo de Aerospec
 	Tooltip: "{$CommonItemTooltip.PercentIncreasedMeleeDamage}"
 	SetBonus:
 		'''
@@ -46,7 +46,7 @@ AerospecHeadMelee: {
 }
 
 AerospecHeadSummon: {
-	DisplayName: Almete Aerospec
+	DisplayName: Almete de Aerospec
 	Tooltip: "{$CommonItemTooltip.PercentIncreasedSummonDamage} y {$CommonItemTooltip.PercentIncreasedMovementSpeed@1}"
 	SetBonus:
 		'''
@@ -58,7 +58,7 @@ AerospecHeadSummon: {
 }
 
 AerospecHeadRanged: {
-	DisplayName: Capucha Aerospec
+	DisplayName: Capucha de Aerospec
 	Tooltip: "{$CommonItemTooltip.PercentIncreasedRangedDamage}"
 	SetBonus:
 		'''
@@ -68,7 +68,7 @@ AerospecHeadRanged: {
 }
 
 AerospecLeggings: {
-	DisplayName: Grebas Aerospec
+	DisplayName: Grebas de Aerospec
 	Tooltip: "{$CommonItemTooltip.PercentIncreasedMovementSpeed}"
 }
 

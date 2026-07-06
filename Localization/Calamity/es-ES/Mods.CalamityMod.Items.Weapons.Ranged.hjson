@@ -922,7 +922,7 @@ Photoviscerator: {
 		Emite un rayo continuo de [cbuff:CalamityMod/MiracleBlight] que desintegra todo
 		Presiona <right> para disparar bengalas exo teledirigidas que se adhieren a los enemigos y los incineran
 		Usa gel como munición
-		El rayo tiene un {0}% de probabilidad de ahorrar munición
+		El rayo tiene un {0}% de probabilidad de no consumir munición
 		'''
 }
 
@@ -1226,7 +1226,7 @@ Starfleet: {
 		Los disparos estelares pueden acelerarse disparando cuando el destello se activa
 		El tiempo perfecto reduce la dispersión y aumenta el daño
 		El tiempo imperfecto igual aumenta el daño, pero aumenta mucho la dispersión
-		Usa estrellas caídas, 50% de probabilidad de ahorrar munición
+		Usa estrellas caídas, 50% de probabilidad de no consumir munición
 		'Etoile, et toi'
 		'''
 }
@@ -1241,7 +1241,7 @@ Starmada: {
 		El tiempo perfecto reduce la dispersión, aumenta el daño y añade un aumento de poder del arma acumulable
 		El tiempo imperfecto igual aumenta el daño, pero aumenta mucho la dispersión y reduce el poder del arma
 		El aumento de poder del arma fortalece tanto los disparos estelares como el destello contundente
-		Usa estrellas caídas, 50% de probabilidad de ahorrar munición
+		Usa estrellas caídas, 50% de de no consumir munición
 		'Et toi, et moi'
 		'''
 }

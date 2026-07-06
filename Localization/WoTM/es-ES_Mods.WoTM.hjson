@@ -1,0 +1,156 @@
+Projectiles: {
+	ApolloLineTelegraph.DisplayName: Indicador
+	ApolloMissile.DisplayName: Misil de Plasma
+	AresMissile.DisplayName: Misil Térmico
+	AresMissileBackground.DisplayName: Misil Térmico
+	ArtemisLaserImproved.DisplayName: Láser Térmico
+	ArtemisLaserSmall.DisplayName: Láser Térmico Pequeño
+	CannonLaserbeam.DisplayName: Rayo de la Muerte Térmico Energizado
+	DraedonLootCrate.DisplayName: Cofre de Botín de Draedon
+	ExoelectricBlast.DisplayName: Explosión Exoeléctrica
+	ExoOverloadDeathray.DisplayName: Rayo de la Muerte de Sobrecarga Exo
+	GaussNuke.DisplayName: Bomba Nuclear Gauss
+	GaussNukeBoom.DisplayName: Explosión Termonuclear
+	HadesExoEnergyOrb.DisplayName: Orbe de Energía Exoeléctrica
+	HadesLaserBurst.DisplayName: Ráfaga Láser
+	HadesMine.DisplayName: Mina de Hades
+	HadesSuperLaserbeam.DisplayName: Explosión de Energía Exo
+	HomingTeslaBurst.DisplayName: Ráfaga Tesla
+	LargeTeslaSphere.DisplayName: Esfera Tesla
+	LargeTeslaSphereExplosion.DisplayName: Explosión Tesla
+	LingeringPlasmaFireball.DisplayName: Bola de Fuego de Plasma
+	SmallTeslaArc.DisplayName: Arco Tesla
+	ExothermalDisintegrationRay.DisplayName: Rayo de Desintegración Exotérmica
+	ScourgeSandstream.DisplayName: Corriente de Arena del Azote
+	SmallTeslaSphere.DisplayName: Esfera Tesla
+	PlasmaFlameJet.DisplayName: Chorro de Llama de Exoplasma
+	BlazingExoLaserbeam.DisplayName: Rayo Láser Exo Ardiente
+	AresDeathAnimationExplosion.DisplayName: Explosión
+	SmallHadesSegmentExplosion.DisplayName: Explosión
+	BigHadesSegmentExplosion.DisplayName: Explosión
+	AresCoreLaserSmall.DisplayName: Chispa Energizada
+	AresSwingingKatanas.DisplayName: Katana de Energía XF-09 Ares
+	ApolloPlasmaFireball.DisplayName: Bola de Fuego de Plasma
+	AresHyperfuturisticPortal.DisplayName: Portal Hiperfuturista
+	ExoTwinHyperfuturisticPortal.DisplayName: Portal Hiperfuturista
+	HadesMissile.DisplayName: Misil Reforzado
+	CodebreakerDataStream.DisplayName: Flujo de Datos del Descifrador
+	SmallCannonLaser.DisplayName: Láser
+	PulseBlast.DisplayName: Explosión de Pulso
+	ExoelectricFieldDestabilizerOrb.DisplayName: Orbe Desestabilizador de Campo Exoeléctrico
+	ExoelectricFieldDestabilizerProjectile.DisplayName: Proyectil Desestabilizador de Campo Exoeléctrico
+	RefractionRotorProjectile_Custom.DisplayName: Rotor de Refracción_ Custom
+	SpineOfHadesProjectile_Custom.DisplayName: Espina de Hades_ Custom
+	SurgeDriverBlast.DisplayName: Explosión del Impulsor de Sobrecarga
+	SurgeDriverProjectile.DisplayName: Proyectil del Impulsor de Sobrecarga
+	AtomSplitterSpamSource.DisplayName: Fuente de Ráfagas del Divisor de Átomos
+	SplitAtomSplitterProjectile.DisplayName: Proyectil Fragmentado del Divisor de Átomos
+	TheAtomSplitterProjectile_Custom.DisplayName: El Divisor de Átomos_ Custom
+	ApolloMissile2.DisplayName: Misil de Apollo
+	HadesLineTelegraph.DisplayName: Indicador de Línea de Hades
+}
+
+NPCs: {
+	AresHand: {
+		DisplayName: Mano de Ares
+		EnergyKatanaDisplayName: Katana de Energía XF-09 Ares
+		PulseCannonDisplayName: Cañón de Pulso XF-09 Ares
+	}
+
+	Draedon: {
+		IntroductionMonologue1: He esperado mucho tiempo para este momento.
+		IntroductionMonologue2: Tu naturaleza me fascina, pues no la comprendo.
+		IntroductionMonologue3: Te enfrentarás a mis creaciones, que han superado incluso a los dioses.
+		IntroductionMonologue4: Y me mostrarás tu disposición a través de la batalla.
+		IntroductionMonologue5: Ahora, elige.
+		IntroductionMonologueBrief: Haz tu elección.
+		ExoMechChoiceResponse1: Excelente. Tus capacidades de vuelo se potenciarán al comenzar el experimento.
+		ExoMechChoiceResponse2: Llegarán en breve.
+		Interjection1: Hmm...
+		Interjection2_Thermal_Minor: Parece que hasta ahora has sufrido quemaduras térmicas leves.
+		Interjection2_Thermal_Major: Parece que hasta ahora has sufrido quemaduras térmicas graves.
+		Interjection2_Thermal_NearLethal: Parece que hasta ahora has sufrido quemaduras térmicas casi letales.
+		Interjection2_Plasma_Minor: Parece que hasta ahora has sufrido quemaduras de plasma leves.
+		Interjection2_Plasma_Major: Parece que hasta ahora has sufrido quemaduras de plasma graves.
+		Interjection2_Plasma_NearLethal: Parece que hasta ahora has sufrido quemaduras de plasma casi letales.
+		Interjection2_Electricity_Minor: Parece que has sufrido daño nervioso leve por descargas eléctricas.
+		Interjection2_Electricity_Major: Parece que has sufrido daño nervioso grave por descargas eléctricas.
+		Interjection2_Electricity_NearLethal: Parece que has sufrido daño nervioso casi letal por descargas eléctricas.
+		Interjection2_Internal_Minor: Parece que actualmente sufres daños internos leves en los órganos.
+		Interjection2_Internal_Major: Parece que actualmente sufres daños internos graves en los órganos.
+		Interjection2_Internal_NearLethal: Parece que actualmente sufres daños internos en los órganos casi letales.
+		Interjection2_BluntForceTrauma_Minor: Parece que has sufrido un traumatismo contundente leve.
+		Interjection2_BluntForceTrauma_Major: Parece que has sufrido un traumatismo contundente grave.
+		Interjection2_BluntForceTrauma_NearLethal: Parece que has sufrido un traumatismo contundente casi letal.
+		Interjection2_Undamaged: Parece que no has sufrido ningún daño. Fascinante.
+		Interjection3: Estos resultados son excelentes.
+		Interjection4: Ahora reestableceremos las variables a sus controles para la siguiente fase de pruebas.
+		Interjection5: Ahora, prepárate.
+		Interjection6: Mis máquinas restantes regresarán en breve.
+		Interjection7: Maravilloso.
+		Interjection8: Tus habilidades hasta este punto han captado mi interés.
+		Interjection9: Ahora, es el momento de la fase final de pruebas.
+		Interjection10: He instruido a mi última máquina para que opere a máxima potencia de fuego.
+		Interjection10_Plural: He instruido a mis últimas máquinas para que operen a máxima potencia de fuego.
+		Interjection11: Buena suerte.
+		EndOfBattle_FirstDefeat1: ¡Extraordinario!
+		EndOfBattle_FirstDefeat2: Este resultado ha caído muy por fuera de las expectativas de mis hipótesis.
+		EndOfBattle_FirstDefeat3: Partiré pronto. Hay mucho que examinar de este encuentro. Sin embargo, antes de eso...
+		EndOfBattle_FirstDefeat4: Toma esto, como expresión de gratitud por tu tiempo.
+		EndOfBattle_FirstDefeat5: Si deseas combatir con mis máquinas de nuevo, ya sabes cómo operar el Descifrador.
+		EndOfBattle_FirstDefeat6: Hasta luego.
+		EndOfBattle_SuccessiveDefeat1: Otro experimento completado.
+		EndOfBattle_SuccessiveDefeat2: Dame un momento para analizar los resultados...
+		EndOfBattle_SuccessiveDefeat3_Perfect: ¡Extraordinario! Tu compromiso en combate, paciencia, precisión y habilidad no han pasado desapercibidos.
+		EndOfBattle_SuccessiveDefeat3_Excellent: Tu aptitud es excelente. Con un poco más de precisión, un resultado perfecto podría estar al alcance.
+		EndOfBattle_SuccessiveDefeat3_Good: Este resultado es útil.
+		EndOfBattle_SuccessiveDefeat3_Acceptable: Este resultado es anodino, aunque funcional.
+		EndOfBattle_SuccessiveDefeat3_Bad: Estos datos son de escasa utilidad para mí.
+		EndOfBattle_SuccessiveDefeat3_WhyDidYouMeltTheBoss: Estos datos no me son de ninguna utilidad.
+		EndOfBattle_SuccessiveDefeat4_Perfect: Estos datos son de sublime calidad.
+		EndOfBattle_SuccessiveDefeat4_Excellent: ¿Quizás pronto se descubrirá una revelación revolucionaria?
+		EndOfBattle_SuccessiveDefeat4_ImproveFightTime: Si deseas volver a enfrentarte a mis máquinas, te sugeriría un combate más prolongado.
+		EndOfBattle_SuccessiveDefeat4_ImproveAggression: Si deseas volver a enfrentarte a mis máquinas, te sugeriría un enfoque de combate más arriesgado.
+		EndOfBattle_SuccessiveDefeat4_ImproveBuffs: Si deseas volver a enfrentarte a mis máquinas, te sugeriría una reducción en los potenciadores consumibles.
+		EndOfBattle_SuccessiveDefeat4_ImproveHitCounter: Si deseas volver a enfrentarte a mis máquinas, te sugeriría una mayor precisión al esquivar.
+		EndOfBattle_SuccessiveDefeat4_Bad: Un enfoque de combate más refinado sería más propicio para un análisis revelador.
+		EndOfBattle_SuccessiveDefeat4_WhyDidYouMeltTheBoss: Eso fue demasiado breve para extraer cualquier conclusión esclarecedora.
+		EndOfBattle_SuccessiveDefeat5: Aguardo la próxima batalla.
+		EndOfBattle_FirstDefeatReconBodyKill1: Intrigante...
+		EndOfBattle_FirstDefeatReconBodyKill2: Una disposición temperamental no era un dato que hubiera considerado.
+		EndOfBattle_FirstDefeatReconBodyKill3: De todos modos, como iba diciendo...
+		Death: Precisamente dentro de los márgenes de mis cálculos.
+		PlayerDeathAtAmusingTime: Eso fue bastante inoportuno, aunque aún dentro de los márgenes de mis cálculos.
+		Error: El tejido de esta realidad se rasga por las costuras.
+	}
+
+	ThanatosRename: XM-04 Hades
+	ApolloRename: XS-11 Apollo
+	ExoTwinsRenameNormal: XS-01 Artemis y XS-11 Apollo
+}
+
+Items: {
+	ExoelectricFieldDestabilizer: {
+		DisplayName: Desestabilizador de Campo Exoeléctrico
+		Tooltip: Se carga y libera enormes esferas eléctricas
+	}
+
+	SpineOfHades: {
+		DisplayName: Espina de Hades
+		Tooltip: Libera un látigo eléctricamente sobrecargado
+	}
+}
+
+Bestiary: {
+	Draedon: Un cuerpo de reconocimiento desechable para el estimado científico Draedon. Su inquebrantable dedicación a la búsqueda del conocimiento es tan extraordinaria como su marcada amoralidad.
+	Hades: Una de las mejores creaciones de Draedon. Este autómata expulsa el calor y la presión acumulados a través de sus respiraderos, concentrando la energía resultante en potentes ataques de gran alcance.
+	Ares: Una de las mejores creaciones de Draedon. Este autómata es capaz de desmontar dinámicamente sus armas según sea necesario, y posee una asombrosa afinidad por el combate cuerpo a cuerpo.
+	Artemis: Una de las mejores creaciones de Draedon. Este autómata canaliza energía térmica a través de sus redes cristalinas anaranjadas. Opera en un unísono inquebrantable con Apollo al entrar en combate.
+	Apollo: Una de las mejores creaciones de Draedon. Este autómata sobresale en ataques aéreos de alta velocidad que emplean sus reservas de plasma. Parece estar programado para proteger a Artemis.
+}
+
+UI: {
+	AresIconMessage: Ares, una monstruosidad pesada y diabólica con cuatro superarmas Exo desmontables.
+	ArtemisAndApolloIconMessage: Artemis y Apollo, un par de autómatas extraordinariamente ágiles con reservas de energía inestables.
+	HadesIconMessage: Hades, un terror serpentino con armadura impenetrable e incontables torretas láser.
+}
