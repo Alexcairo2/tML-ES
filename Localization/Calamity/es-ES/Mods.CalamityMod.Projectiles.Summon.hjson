@@ -184,7 +184,7 @@ MiniGuardianDefense.DisplayName: Guardián Defensivo
 MiniGuardianFireball.DisplayName: Bola de Fuego de Guardián Miniatura
 MiniGuardianFireballSplit.DisplayName: División de Bola de Fuego de Guardián Miniatura
 MiniGuardianHealer.DisplayName: Guardián Sanador
-MiniGuardianHolyRay.DisplayName: Rayo Sagrado Bebé
+MiniGuardianHolyRay.DisplayName: Rayo Bendito Bebé
 MiniGuardianRock.DisplayName: Camino Rocoso
 MiniGuardianSpear.DisplayName: Lanza Bebé
 MiniGuardianStars.DisplayName: Estrella Bebé
@@ -222,12 +222,12 @@ PolypLauncherProjectile.DisplayName: Trozo de Pólipo
 PolypLauncherSentry.DisplayName: Lanzador de Pólipos
 PolypLauncherShrapnel.DisplayName: Metralla de Pólipo
 PowerfulRaven.DisplayName: Súper Cuervo
-ProfanedCrystalMageFireball.DisplayName: Bola de Fuego Sagrada Bebé
-ProfanedCrystalMageFireballSplit.DisplayName: Fuego Sagrado Bebé
-ProfanedCrystalMeleeSpear.DisplayName: Lanza Amigable Sagrada
-ProfanedCrystalRangedHuges.DisplayName: Boomer Sagrado Bebé
-ProfanedCrystalRangedSmalls.DisplayName: Orbe Boomer Sagrado Bebé
-ProfanedCrystalRogueShard.DisplayName: Fragmento de Cristal Sagrado Bebé
+ProfanedCrystalMageFireball.DisplayName: Bola de Fuego Bendita Bebé
+ProfanedCrystalMageFireballSplit.DisplayName: Fuego Bendito Bebé
+ProfanedCrystalMeleeSpear.DisplayName: Lanza Amigable Bendita
+ProfanedCrystalRangedHuges.DisplayName: Boomer Bendito Bebé
+ProfanedCrystalRangedSmalls.DisplayName: Orbe Boomer Bendito Bebé
+ProfanedCrystalRogueShard.DisplayName: Fragmento de Cristal Bendito Bebé
 ProfanedCrystalWhip.DisplayName: Látigo de Cristal Profanado
 ProfanedEnergy.DisplayName: Energía Profanada
 PuffCloud.DisplayName: Nube Bocanada

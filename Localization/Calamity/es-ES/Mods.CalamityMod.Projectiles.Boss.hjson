@@ -85,13 +85,13 @@ HolyAura.DisplayName: Aura Sagrada
 HolyBlast.DisplayName: Explosión Sagrada
 HolyBlastFrags.DisplayName: Fragmento de Explosión Sagrada
 HolyBomb.DisplayName: Bomba Sagrada
-HolyBurnOrb.DisplayName: Orbe Sagrado
-HolyExplosionBoom.DisplayName: Explosión Sagrada
-HolyFire.DisplayName: Fuego Sagrado
-HolyFire2.DisplayName: Fuego Sagrado
-HolyFlare.DisplayName: Llamarada Sagrada
-HolyLight.DisplayName: Luz Sagrada
-HolySpear.DisplayName: Lanza Sagrada
+HolyBurnOrb.DisplayName: Orbe Bendito
+HolyExplosionBoom.DisplayName: Explosión Bendita
+HolyFire.DisplayName: Fuego Bendito
+HolyFire2.DisplayName: Fuego Bendito
+HolyFlare.DisplayName: Llamarada Bendita
+HolyLight.DisplayName: Luz Bendita
+HolySpear.DisplayName: Lanza Bendita
 HomingGasBulb.DisplayName: Bulbo de Gas Teledirigido
 HomingGasBulbSporeGas.DisplayName: Gas de Bulbo de Espora
 IceBlast.DisplayName: Explosión de Hielo
@@ -134,9 +134,9 @@ PlagueExplosion.DisplayName: Explosión de Aguijón de la Plaga
 PlagueStingerGoliath.DisplayName: Aguijón de la Plaga Teledirigido
 PlagueStingerGoliathV2.DisplayName: Aguijón de la Plaga Explosivo
 ProfanedSpear.DisplayName: Lanza Profanada
-ProvidenceCrystal.DisplayName: Cristal Sagrado
-ProvidenceCrystalShard.DisplayName: Fragmento de Cristal Sagrado
-ProvidenceHolyRay.DisplayName: Rayo Sagrado
+ProvidenceCrystal.DisplayName: Cristal Bendito
+ProvidenceCrystalShard.DisplayName: Fragmento de Cristal Bendito
+ProvidenceHolyRay.DisplayName: Rayo Bendito
 RavagerBlast.DisplayName: Láser Devastador
 RavagerBlaster.DisplayName: Disparador del Devastador
 RavagerFlame.DisplayName: Llama Azul

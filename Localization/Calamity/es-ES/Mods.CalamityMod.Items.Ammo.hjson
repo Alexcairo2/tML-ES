@@ -99,7 +99,7 @@ HallowPointRound: {
 }
 
 HolyFireBullet: {
-	DisplayName: Bala de Fuego Sagrado
+	DisplayName: Bala de Fuego Bendito
 	Tooltip:
 		'''
 		Balas profanadas que infligen 1,15x de daño y explotan al impactar

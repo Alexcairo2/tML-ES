@@ -142,3 +142,35 @@ Misc.CollabMessage:
 	>	    Si deseas ayudar a traducir mods, puedes unirte a nuestro Discord para obtener más detalles.
 	>	    ¡Los colaboradores recibirán créditos en el mod y una mascota exclusiva dentro del mod! ¡Gracias por tu apoyo!
 	'''
+
+Buffs: {
+	MorselliPetBuff: {
+		DisplayName: Mikiko
+		Description: Eeek!
+	}
+}
+
+Items: {
+	MorselliPetItem: {
+		DisplayName: Miracles Conch
+		Tooltip:
+			'''
+			Summons Mikiko, the sinner of miracles.
+			[c/ff002f:Please don't throw salt at her!]
+			[tmles:CalamityModSpanish/MorselliGlyph] [c/eb3498:- Collaborator Item -]
+			'''
+	}
+
+	TeArde: {
+		DisplayName: You mad?
+		Tooltip:
+			'''
+			This painting represents the collective opinion of the tML ES team
+			regardless of [tmles/censored:WOAH, YOU REALLY LOOKED FOR THIS?? GENIUS!!]
+			«If you know, you know. Heh.»
+			[tmles:CalamityModSpanish/DoremyGlyph] [c/eb3498:- Collaborator Item -]
+			'''
+	}
+}
+
+Projectiles.MorselliPet.DisplayName: Mikiko

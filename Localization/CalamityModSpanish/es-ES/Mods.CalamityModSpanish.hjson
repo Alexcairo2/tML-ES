@@ -142,3 +142,35 @@ Misc.CollabMessage:
 	>	    Si deseas ayudar a traducir mods, puedes unirte a nuestro Discord para obtener más detalles.
 	>	    ¡Los colaboradores recibirán créditos en el mod y una mascota exclusiva dentro del mod! ¡Gracias por tu apoyo!
 	'''
+
+Buffs: {
+	MorselliPetBuff: {
+		DisplayName: Mikiko
+		Description: ¡Eeek!
+	}
+}
+
+Items: {
+	MorselliPetItem: {
+		DisplayName: Caracola de los Milagros
+		Tooltip:
+			'''
+			Invoca a Mikiko, la pecadora de los milagros.
+			[c/ff002f:¡No le eches sal, por favor!]
+			[tmles:CalamityModSpanish/MorselliGlyph] [c/eb3498:- Ítem de Colaborador -]
+			'''
+	}
+
+	TeArde: {
+		DisplayName: ¿Te Arde?
+		Tooltip:
+			'''
+			Este cuadro representa la opinión colectiva del equipo de tML ES
+			respecto a [tmles/censored:WOAH, EN SERIO LO BUSCASTE AQUÍ?? GENIO!!]
+			«Si lo sabes, lo sabes. Heh.»
+			[tmles:CalamityModSpanish/DoremyGlyph] [c/eb3498:- Ítem de Colaborador -]
+			'''
+	}
+}
+
+Projectiles.MorselliPet.DisplayName: Mikiko

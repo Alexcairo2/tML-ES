@@ -986,12 +986,12 @@ Mods: {
 			}
 
 			HallowRenewal: {
-				DisplayName: Renovación de lo Sagrado
+				DisplayName: Renovación de la Bendición
 				Tooltip: Consagra un gran radio
 			}
 
 			HallowRenewalSupreme: {
-				DisplayName: Renovación de lo Sagrado Suprema
+				DisplayName: Renovación de la Bendición Suprema
 				Tooltip: Consagra el mundo entero
 			}
 
@@ -2689,7 +2689,7 @@ Mods: {
 					Underworld: El inframundo se ha puesto mucho más caliente desde la última vez que lo visité. Aunque he oído que un cráneo de obsidiana es un buen amuleto contra morir abrasado.
 					SpaceSuffocation: ¿Quieres un concurso de aguantar la respiración? El vacío del espacio sería perfecto. ¡No, no haré trampa respirando agua en vez de aire, ni usando equipo de buceo!
 					UndergroundShadowHands: ¿Te da miedo la oscuridad? ¿No? ¡Pues debería! He oído un rumor de que un monstruo intenta agarrar a la gente bajo tierra... qué escalofriante. ¡Mantente fuera de la oscuridad y no podrán atraparte!
-					UndergroundHallow: Qué cara más graciosa pones... ¿El Sagrado subterráneo deslumbra demasiado? ¡Quédate en zonas más oscuras y sus efectos volátiles se reducen!
+					UndergroundHallow: Qué cara más graciosa pones... ¿La Bendición subterránea deslumbra demasiado? ¡Quédate en zonas más oscuras y sus efectos volátiles se reducen!
 					LifeFruit: Si me preguntas, Plantera se está abandonando bastante. ¡Una dieta de Mineral de clorofita y Fruta de la vida no es TAN sana! ¿Por qué no la ayudas a adelgazar?
 					CactusDamage: ¡Esos cactus pueden ser bastante espinosos! ¿Te sientes pinchado? ¡Prueba a encantarte con esencia de cactus y a ver qué tal!
 					RainLightning: Cuidado con los rayos cuando llueve. ¡Conviene llevar un paraguas para que no te pille desprevenido y acabes empapado!
@@ -2937,8 +2937,8 @@ Mods: {
 			FakeHeart2Deviantt.DisplayName: Corazón falso
 			FakeHeartDeviantt.DisplayName: Corazón falso
 			FakeHeartMarkDeviantt.DisplayName: Corazón falso
-			HallowNukeProj.DisplayName: Renovación de lo Sagrado
-			HallowNukeSupremeProj.DisplayName: Renovación de lo Sagrado Suprema
+			HallowNukeProj.DisplayName: Renovación de la Bendición
+			HallowNukeSupremeProj.DisplayName: Renovación de la Bendición Suprema
 			LumberJaxe.DisplayName: Leñahacha
 			MechEyeProjectile.DisplayName: Proyectil de ojo mecánico
 			MushroomNukeProj.DisplayName: Renovación de Hongos
@@ -3061,7 +3061,7 @@ Mods: {
 			FountainSnow: Al activarse, fuerza el estado del bioma circundante a Nieve
 			FountainCorruption: Al activarse, fuerza el estado del bioma circundante a Corrupción
 			FountainCrimson: Al activarse, fuerza el estado del bioma circundante a Carmesí
-			FountainHallow: Al activarse, fuerza el estado del bioma circundante a Sagrado (solo en modo Difícil)
+			FountainHallow: Al activarse, fuerza el estado del bioma circundante a Bendición (solo en modo Difícil)
 			CatchNPCs: También puede capturar a los habitantes del pueblo
 			ExtraLure1: También otorga un señuelo adicional
 			Lures2: Esta caña lanza 2 señuelos

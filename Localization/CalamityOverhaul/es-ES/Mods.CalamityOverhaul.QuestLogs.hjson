@@ -186,7 +186,7 @@ QuestNode: {
 	ProvidenceQuest: {
 		DisplayName: Providencia, la Diosa Profanada
 		Description: Derrota a Providencia
-		DetailedDescription: Diosa del fuego sagrado y la purificación; desafíala en el Sagrado o el Inframundo sin quemarte.
+		DetailedDescription: Diosa del fuego sagrado y la purificación; desafíala en la Bendición o el Inframundo sin quemarte.
 	}
 
 	SignusQuest: {
@@ -486,7 +486,7 @@ QuestNode: {
 	QueenSlimeQuest: {
 		DisplayName: Reina Slime
 		Description: Derrota a la Reina Slime
-		DetailedDescription: Emperatriz cristalina del Sagrado; más ágil y letal que su consorte; prepárate para un aluvión espectacular.
+		DetailedDescription: Emperatriz cristalina de la Bendición; más ágil y letal que su consorte; prepárate para un aluvión espectacular.
 	}
 
 	BuildHouse: {

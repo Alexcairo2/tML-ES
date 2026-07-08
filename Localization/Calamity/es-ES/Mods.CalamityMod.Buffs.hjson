@@ -240,7 +240,7 @@ HolyFlames: {
 }
 
 HolyInferno: {
-	DisplayName: Infierno Sagrado
+	DisplayName: Infierno Bendito
 	Description: ¡Te has alejado demasiado de la Diosa Profanada!
 }
 
@@ -934,7 +934,7 @@ HallowedRuneDefense: {
 }
 
 HallowedRunePower: {
-	DisplayName: Poder Sagrado
+	DisplayName: Poder Bendito
 	Description: "{0}% más de daño de invocación"
 }
 

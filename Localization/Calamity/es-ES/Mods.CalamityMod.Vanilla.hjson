@@ -116,7 +116,7 @@ EditedTooltip: {
 		Se enfurecerá durante el día
 		'''
 	MechanicalWorm: Invoca al Destructor cuando se usa durante la noche
-	QueenSlimeCrystal: Invoca a la Reina Slime cuando se usa en el Sagrado
+	QueenSlimeCrystal: Invoca a la Reina Slime cuando se usa en la Bendición
 	SuspiciousLookingEye: Invoca al Ojo de Cthulhu cuando se usa durante la noche
 	WormFood:
 		'''

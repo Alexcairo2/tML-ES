@@ -56,7 +56,7 @@ LifeChampion: {
 
 	BossChecklistIntegration: {
 		EntryName: "{$Mods.FargowiltasSouls.NPCs.LifeChampion.DisplayName}"
-		SpawnInfo: Aparece usando [i:FargowiltasSouls/SigilOfChampions] en el Sagrado durante el día.
+		SpawnInfo: Aparece usando [i:FargowiltasSouls/SigilOfChampions] en la Bendición durante el día.
 		DespawnMessage: El Campeón de la Vida se desvanece...
 	}
 }
@@ -301,7 +301,7 @@ LifeChallenger: {
 
 	BossChecklistIntegration: {
 		EntryName: "{$Mods.FargowiltasSouls.NPCs.LifeChallenger.DisplayName}"
-		SpawnInfo: Aparece usando [i:FargowiltasSouls/FragilePixieLamp] en el Sagrado durante el día.
+		SpawnInfo: Aparece usando [i:FargowiltasSouls/FragilePixieLamp] en la Bendición durante el día.
 		DespawnMessage: Mascotaluz se desvanece...
 	}
 

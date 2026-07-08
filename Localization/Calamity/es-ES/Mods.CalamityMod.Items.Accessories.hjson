@@ -949,7 +949,7 @@ GrandGelatin: {
 }
 
 HallowedRune: {
-	DisplayName: Runa Sagrada
+	DisplayName: Runa Bendita
 	Tooltip:
 		'''
 		Los ataques de los súbditos otorgan varias mejoras
@@ -957,9 +957,9 @@ HallowedRune: {
 		'''
 	HoldShiftTooltip:
 		'''
-		[c/8ce0ff:  Poder Sagrado] [c/ccf1ff: otorga un {0}% de daño de invocación aumentado y llueve estrellas sobre los enemigos]
-		[c/d08aff:  Defensa Sagrada] [c/eed4ff: otorga {1} de defensa]
-		[c/ff8cb5:  Regeneración Sagrada] [c/ffccde: otorga +{2} PV/s de regeneración de vida]
+		[c/8ce0ff:  Poder Bendito] [c/ccf1ff: otorga un {0}% de daño de invocación aumentado y llueve estrellas sobre los enemigos]
+		[c/d08aff:  Defensa Bendita] [c/eed4ff: otorga {1} de defensa]
+		[c/ff8cb5:  Regeneración Bendita] [c/ffccde: otorga +{2} PV/s de regeneración de vida]
 		'''
 }
 

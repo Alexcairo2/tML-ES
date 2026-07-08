@@ -163,12 +163,12 @@ Polterghast: {
 
 ProfanedGuardians: {
 	EntryName: Guardianes Profanados
-	SpawnInfo: Usa un [i:CalamityMod/ProfanedShard] en el Sagrado o en el inframundo.
+	SpawnInfo: Usa un [i:CalamityMod/ProfanedShard] en la Bendición o en el inframundo.
 	DespawnMessage: "[c/FFA500:Los Guardianes son convocados de vuelta al lado de su Diosa.]"
 }
 
 Providence: {
-	SpawnInfo: Usa un [i:CalamityMod/ProfanedCore] en el Sagrado o en el inframundo.
+	SpawnInfo: Usa un [i:CalamityMod/ProfanedCore] en la Bendición o en el inframundo.
 	DespawnMessage: "[c/FFA500:La Diosa Profanada se cubre con llamas purificadoras, dejando solo cenizas tras ella…]"
 }
 

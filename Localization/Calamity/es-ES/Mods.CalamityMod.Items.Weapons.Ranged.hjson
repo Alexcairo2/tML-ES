@@ -1241,7 +1241,7 @@ Starmada: {
 		El tiempo perfecto reduce la dispersión, aumenta el daño y añade un aumento de poder del arma acumulable
 		El tiempo imperfecto igual aumenta el daño, pero aumenta mucho la dispersión y reduce el poder del arma
 		El aumento de poder del arma fortalece tanto los disparos estelares como el destello contundente
-		Usa estrellas caídas, 50% de de no consumir munición
+		Usa estrellas caídas, 50% de de probabilidad no consumir munición
 		'Et toi, et moi'
 		'''
 }

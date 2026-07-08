@@ -1211,7 +1211,7 @@ GelicWings: {
 	Tooltip:
 		'''
 		Permite volar y caer lentamente
-		Otorga inmunidad a Iluminado causado por el Sagrado Subterráneo
+		Otorga inmunidad a Iluminado causado por la Bendición Subterráneo
 		Permite al portador hacer un doble salto
 		Cuando aterrizas tras un salto, salen púas de slime a tus costados
 		'Písame'
@@ -3225,7 +3225,7 @@ LifelightTrophy: {
 
 FragilePixieLamp: {
 	DisplayName: Efigie Cristalina
-	Tooltip: Mientras estás en el Sagrado durante el día, manténlo en mano para romperlo, enfureciendo al amo de las hadas
+	Tooltip: Mientras estás en la Bendición durante el día, manténlo en mano para romperlo, enfureciendo al amo de las hadas
 }
 
 CrystallineCongregation: {

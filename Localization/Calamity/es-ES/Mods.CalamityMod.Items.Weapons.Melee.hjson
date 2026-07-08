@@ -737,10 +737,10 @@ Hellkite: {
 }
 
 HolyCollider: {
-	DisplayName: Colisionador Sagrado
+	DisplayName: Colisionador Bendito
 	Tooltip:
 		'''
-		Balancea un mandoble sagrado que puede cargarse para mayor daño
+		Balancea un mandoble bendito que puede cargarse para mayor daño
 		Los balanceos cargados crean cuatro bengalas persistentes que flotan alrededor del punto de impacto
 		Golpear una bengala con un golpe sin cargar la empujará y extenderá su duración
 		Los balanceos cargados pueden potenciar las bengalas, convirtiéndolas en enormes bolas de fuego al golpear y lanzándolas hacia tu cursor
