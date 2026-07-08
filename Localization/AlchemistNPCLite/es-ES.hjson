@@ -419,7 +419,7 @@ Mods: {
 				Tooltip:
 					'''
 					Otorga una mejora del sentido del peligro (Los proyectiles enemigos brillan)
-					Algunos proyectiles enemigos pueden volverse invisibles (por ejemplo Moon Lord's) Usalo con cuidado
+					Algunos proyectiles enemigos pueden volverse invisibles (por ejemplo, los del Señor Lunar). Úsalo con cuidado
 					Este efecto es global para los jugadores
 					POCIÓN NO OFICIAL DE CALAMITY
 					'''
@@ -837,7 +837,7 @@ Mods: {
 					Princess_LovesNPC: Me gusta {NPCName}.
 				}
 
-				Census.SpawnCondition: Tengas al menos 3 NPCs
+				Census.SpawnCondition: Tengas al menos 3 PNJs
 			}
 
 			Brewer: {
@@ -1417,8 +1417,8 @@ Mods: {
 				}
 
 				CatchNPC: {
-					Tooltip: Si se activa esta opción, los NPC de la ciudad del mod se pueden atrapar. El valor predeterminado es Verdadero.
-					Label: Opción para activar o desactivar los NPC del mod «Atrapable»
+					Tooltip: Si se activa esta opción, los PNJ de la ciudad del mod se pueden atrapar. El valor predeterminado es Verdadero.
+					Label: Opción para activar o desactivar los PNJ del mod «Atrapable»
 				}
 
 				ModItems: {
@@ -1432,8 +1432,8 @@ Mods: {
 				}
 
 				DisabledLocatorNpcs: {
-					Tooltip: Las flechas no apuntarán a estos NPCs
-					Label: NPC desactivados para el localizador del analizador de formas de vida
+					Tooltip: Las flechas no apuntarán a estos PNJs
+					Label: PNJ desactivados para el localizador del analizador de formas de vida
 				}
 
 				LocatorRange: {
@@ -1447,42 +1447,42 @@ Mods: {
 				}
 
 				TinkererSpawn: {
-					Tooltip: True para habilitar la aparición del NPC Tinkerer, false para deshabilitarla. El valor predeterminado es Verdadero.
+					Tooltip: Verdadero para habilitar la aparición del PNJ Chapucero, falso para deshabilitarla. El valor predeterminado es Verdadero.
 					Label: Activar/desactivar la aparición del Chapucero
 				}
 
 				MusicianSpawn: {
-					Tooltip: True para habilitar la aparición de NPC músicos; false para deshabilitarla. El valor predeterminado es Verdadero.
+					Tooltip: Verdadero para habilitar la aparición de PNJ músicos; falso para deshabilitarla. El valor predeterminado es Verdadero.
 					Label: Activar/desactivar la aparición del Músico
 				}
 
 				OperatorSpawn: {
-					Tooltip: True para habilitar la aparición del NPC Operador; false para deshabilitarla. El valor predeterminado es Verdadero.
-					Label: Activar/desactivar la aparición del operador
+					Tooltip: Verdadero para habilitar la aparición del PNJ Operador; falso para deshabilitarla. El valor predeterminado es Verdadero.
+					Label: Activar/desactivar la aparición del Operador
 				}
 
 				ArchitectSpawn: {
-					Tooltip: True para habilitar la aparición del NPC Arquitecto; false para deshabilitarla. El valor predeterminado es Verdadero.
-					Label: Activar/desactivar la aparición del arquitecto
+					Tooltip: Verdadero para habilitar la aparición del PNJ Arquitecto; falso para deshabilitarla. El valor predeterminado es Verdadero.
+					Label: Activar/desactivar la aparición del Arquitecto
 				}
 
 				YoungBrewerSpawn: {
-					Tooltip: Verdadero para habilitar la aparición del NPC Joven Destilador, falso para deshabilitarla. El valor predeterminado es Verdadero.
-					Label: Activar/desactivar la aparición del joven Destilador
+					Tooltip: Verdadero para habilitar la aparición del PNJ Joven Destilador, falso para deshabilitarla. El valor predeterminado es Verdadero.
+					Label: Activar/desactivar la aparición del Joven Destilador
 				}
 
 				JewelerSpawn: {
-					Tooltip: True para habilitar la aparición del NPC joyero, false para deshabilitarla. El valor predeterminado es Verdadero.
-					Label: Activar/desactivar la aparición del joyero
+					Tooltip: Verdadero para habilitar la aparición del PNJ Joyero, falso para deshabilitarla. El valor predeterminado es Verdadero.
+					Label: Activar/desactivar la aparición del Joyero
 				}
 
 				BrewerSpawn: {
-					Tooltip: Verdadero para habilitar la aparición del NPC Destilador, falso para deshabilitarla. El valor predeterminado es Verdadero.
+					Tooltip: Verdadero para habilitar la aparición del PNJ Destilador, falso para deshabilitarla. El valor predeterminado es Verdadero.
 					Label: Activar/desactivar la aparición del Destilador
 				}
 
 				AlchemistSpawn: {
-					Tooltip: Verdadero para habilitar la aparición del NPC Alquimista, falso para deshabilitarla. El valor predeterminado es Verdadero.
+					Tooltip: Verdadero para habilitar la aparición del PNJ Alquimista, falso para deshabilitarla. El valor predeterminado es Verdadero.
 					Label: Activar/desactivar la aparición del Alquimista
 				}
 
