@@ -419,7 +419,7 @@ Mods: {
 				Tooltip:
 					'''
 					Otorga una mejora del sentido del peligro (Los proyectiles enemigos brillan)
-					Algunos proyectiles enemigos pueden volverse invisibles (por ejemplo, los del Señor Lunar). Úsalo con cuidado
+					Algunos proyectiles enemigos pueden volverse invisibles (por ejemplo, los del Señor de la Luna). Úsalo con cuidado
 					Este efecto es global para los jugadores
 					POCIÓN NO OFICIAL DE CALAMITY
 					'''
@@ -1019,7 +1019,7 @@ Mods: {
 		Golem: Bolsa del tesoro del Golem
 		Betsy: Bolsa del tesoro de Betsy
 		DukeFishron: Bolsa del tesoro del Duque Fishron
-		MoonLord: Bolsa del tesoro del Señor Lunar
+		MoonLord: Bolsa del tesoro del Señor de la Luna
 		DesertScourge: Bolsa del tesoro del Azote Desértico
 		Crabulon: Bolsa del tesoro de Crabulon
 		HiveMind: Bolsa del tesoro de la Mente Colmena
