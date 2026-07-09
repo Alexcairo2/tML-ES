@@ -74,6 +74,7 @@ Antes de empezar, consulta en Discord qué archivos o mods están disponibles pa
 | Catalyst Mod | ✅ | v1.1.7
 | Calamity: Wrath of the Machines | ✅ | v1.0.4
 | Split | 🔴 | X
+| The Stars Above | 🔴 | 2.1.8.4
 | AlchemistNPC Lite | 🟡 | 1.9.9
 | Quality of Terraria | ⚪ | X
 
