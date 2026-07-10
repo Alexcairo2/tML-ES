@@ -53,7 +53,7 @@ Mods: {
 				HateBiome: ¡Quiero vivir en otro lado! Esto es horrible.
 				LikeNPC: «¡Es tan fácil burlarse de {NPCName}! No puedo evitarlo...»
 				LikeNPC_Princess: Tengo que volver a visitar a {NPCName} algún día, ¡hay una chica que me entiende!
-				LoveNPC: "¡{NPCName} ya llegó! ¿Quién es el niñito de mamá?"
+				LoveNPC: ¡{NPCName} ya llegó! ¿Quién es el niñito de mamá?
 				DislikeNPC: "{NPCName} es tan molesto con sus advertencias constantes. Apenas lo soporto."
 				HateNPC: Entre nosotros. ¿Alguna vez has pensado en devolver a {NPCName} al lugar donde lo encontraste?
 			}
@@ -71,7 +71,7 @@ Mods: {
 				HateBiome: ¡Quiero vivir en otro lado! Esto es horrible.
 				LikeNPC: "{NPCName} tiene olfato para el dinero. Es un poco codicioso, pero lo entiendo perfectamente."
 				LikeNPC_Princess: Tengo que volver a visitar a {NPCName} algún día, ¡hay una chica que me entiende!
-				LoveNPC: "¡{NPCName} ya está aquí! Se nota claramente que somos casi iguales. Aunque no quiero dejarme crecer la barba."
+				LoveNPC: ¡{NPCName} ya está aquí! Se nota claramente que somos casi iguales. Aunque no quiero dejarme crecer la barba.
 				DislikeNPC: No soporto a las chicas como {NPCName}, me distrae totalmente y me hace perder la concentración.
 				HateNPC: Entre nosotros. ¿Alguna vez has pensado en devolver a {NPCName} al lugar donde lo encontraste?
 			}
@@ -89,7 +89,7 @@ Mods: {
 				HateBiome: ¡Quiero vivir en otro lado! Esto es horrible.
 				LikeNPC: "{NPCName} me ayuda mucho cuando me quedo sin cajas de música. ¿Sabes lo difícil que es hacerlas?"
 				LikeNPC_Princess: Tengo que volver a visitar a {NPCName} algún día, ¡hay una chica que me entiende!
-				LoveNPC: "¡A {NPCName} le gusta la música tanto como a mí! Podría pasar todo el día con ella."
+				LoveNPC: ¡A {NPCName} le gusta la música tanto como a mí! Podría pasar todo el día con ella.
 				DislikeNPC: Este tacaño de {NPCName} es tan molesto. ¿Podrías sacarlo de aquí?
 				HateNPC: Entre nosotros. ¿Alguna vez has pensado en devolver a {NPCName} al lugar donde lo encontraste?
 			}
@@ -143,7 +143,7 @@ Mods: {
 				HateBiome: ¡Quiero vivir en otro lado! Esto es horrible.
 				LikeNPC: "{NPCName} es muy amable e inteligente. Eso me merece respeto."
 				LikeNPC_Princess: Tengo que volver a visitar a {NPCName} algún día, ¡hay una chica que me entiende!
-				LoveNPC: "¿Por fin llegó {NPCName}? ¡Tengo mucho que contarte, hermana mayor!"
+				LoveNPC: ¿Por fin llegó {NPCName}? ¡Tengo mucho que contarte, hermana mayor!
 				DislikeNPC: No dejes que {NPCName} se acerque a mí. La arena de su ropa siempre atascó mis mecanismos.
 				HateNPC: Entre nosotros. ¿Alguna vez has pensado en devolver a {NPCName} al lugar donde lo encontraste?
 			}
@@ -170,7 +170,7 @@ Mods: {
 		Buffs: {
 			BattleComb: {
 				DisplayName: Combinación de Batalla
-				Description: Combinación de las pociones de Fuerza vital, Piel de hierro, Regeneración, Rabia e Ira 
+				Description: Combinación de las pociones de Fuerza vital, Piel de hierro, Regeneración, Rabia e Ira
 			}
 
 			Blurring: {
@@ -214,7 +214,7 @@ Mods: {
 				Description:
 					'''
 					Combinación de las mejoras de Sentido del peligro, Cazador, Espeleólogo, visión nocturna, Brillo y Minería
-                    También otorga los efectos de Branquias, Aletas y las pociones de Flotación
+					               También otorga los efectos de Branquias, Aletas y las pociones de Flotación
 					'''
 			}
 
@@ -222,7 +222,7 @@ Mods: {
 				DisplayName: Combinación de Pesca
 				Description:
 					'''
-				Combinación de las mejoras Caja, Sonar, Pesca, Regeneración, Espinas, Piel de hierro, Calma y Infierno
+					Combinación de las mejoras Caja, Sonar, Pesca, Regeneración, Espinas, Piel de hierro, Calma y Infierno
 					Haz clic derecho para habilitar/Deshabilitar el efecto de calma.
 					'''
 			}
@@ -244,7 +244,7 @@ Mods: {
 
 			MageComb: {
 				DisplayName: Combinación de Mago
-				Description: Combinación de las pociones de Poder mágico, Regeneración de maná, Clarividencia, Ira y Rabia 
+				Description: Combinación de las pociones de Poder mágico, Regeneración de maná, Clarividencia, Ira y Rabia
 			}
 
 			NinjaSkill: {
@@ -303,13 +303,13 @@ Mods: {
 
 			VanTankComb: {
 				DisplayName: Combinación de Tanque (Vanilla)
-				Description: Combinación de las mejoras Rapidez, Resistencia, Fuerza vital, Piel de hierro, Piel de obsidiana, Espinas y Regeneración 
+				Description: Combinación de las mejoras Rapidez, Resistencia, Fuerza vital, Piel de hierro, Piel de obsidiana, Espinas y Regeneración
 			}
 
 			ThoriumComb: {
 				DisplayName: Combinación de Thorium
 				Description: Combinación de pociones de Asesino, Sangre, Frenesí, Brillo, Sagrada, Creatividad, Melodía pegajosa, Alcance de la inspiración e Hidratación
-            }
+			}
 		}
 
 		Items: {
@@ -356,7 +356,7 @@ Mods: {
 			}
 
 			DiscordPotion: {
-				DisplayName: Discordia
+				DisplayName: Poción de la Discordia
 				Tooltip:
 					'''
 					Te puedes teletransportar a la posición del cursor usando hotkey 1
@@ -450,20 +450,20 @@ Mods: {
 			}
 
 			AlchemistCharmTier1: {
-				DisplayName: Amuleto de alquimista, nivel 1 
+				DisplayName: Amuleto de Alquimista (Nivel 1)
 				Tooltip:
 					'''
-					Mientras tengas esto en tu inventario, tienes una probabilidad baja de no consumir la poción
+					Mientras tengas esto en tu inventario, tienes una probabilidad baja de no consumir las pociones
 					El Alquimista, el Destilador y el Joven Destilador ofrecen un descuento del 10%
 					La duración de los efectos positivos es un 10% mayor
 					'''
 			}
 
 			AlchemistCharmTier2: {
-				DisplayName: Amuleto de alquimista, nivel 2
+				DisplayName: Amuleto de Alquimista (Nivel 2)
 				Tooltip:
 					'''
-					Mientras tengas esto en tu inventario, tienes una probabilidad moderada de no consumir la poción
+					Mientras tengas esto en tu inventario, tienes una probabilidad moderada de no consumir las pociones
 					Permite usar pociones de la Hucha mediante la tecla de potenciador rápido
 					El Alquimista, el Destilador y el Joven Destilador ofrecen un descuento del 25%
 					La duración de los beneficios es un 25% mayor
@@ -471,10 +471,10 @@ Mods: {
 			}
 
 			AlchemistCharmTier3: {
-				DisplayName: Amuleto de alquimista, nivel 3
+				DisplayName: Amuleto de Alquimista, (Nivel 3)
 				Tooltip:
 					'''
-					Mientras tengas esto en tu inventario, tienes una probabilidad alta de no consumir la poción
+					Mientras tengas esto en tu inventario, tienes una probabilidad alta de no consumir las pociones
 					Permite usar pociones de la Hucha mediante la tecla de potenciador rápido
 					El Alquimista, el Destilador y el Joven Destilador ofrecen un descuento del 35%
 					La duración de los beneficios es un 35% mayor
@@ -482,10 +482,10 @@ Mods: {
 			}
 
 			AlchemistCharmTier4: {
-				DisplayName: Amuleto de alquimista, nivel 4
+				DisplayName: Amuleto de Alquimista, (Nivel 4)
 				Tooltip:
 					'''
-					Mientras tengas esto en tu inventario, tienes una probabilidad muy alta de no consumir la poción
+					Mientras tengas esto en tu inventario, tienes una probabilidad muy alta de no consumir las pociones
 					Permite usar pociones de la Hucha mediante la tecla de potenciador rápido
 					El Alquimista, el Destilador y el Joven Destilador ofrecen un descuento del 50%
 					Hace que las pociones no sean consumibles si se derrota a Calamitas Supremo
@@ -564,7 +564,7 @@ Mods: {
 
 			NatureBlessingPotion: {
 				DisplayName: Poción de bendición de la naturaleza
-				Tooltip: Otorga la bendición de la dríada 
+				Tooltip: Otorga la bendición de la dríada
 			}
 
 			NinjaPotion: {
@@ -582,7 +582,7 @@ Mods: {
 				Tooltip:
 					'''
 					Aún no hay bolsas de tesoros disponibles.
-					Vence a Esqueletrón para desbloquear la primera oleada.
+					Vence a Esqueletrón para desbloquear la primera tanda de bolsas.
 					'''
 			}
 
@@ -696,7 +696,6 @@ Mods: {
 			MusicianHorcrux: {
 				DisplayName: Horrocrux del Músico
 				Tooltip: En su interior se encuentra un fragmento del alma del músico.
-			    
 			}
 
 			TinkererHorcrux: {
@@ -992,9 +991,9 @@ Mods: {
 		tier3HardmodeBar: barra de modo difícil de nivel 3
 		hardmodeComponent: Componente del modo difícil
 		evilBar: Barra de Corrupción/carmesí
-		evilMushroom: hongo maligno 
+		evilMushroom: hongo maligno
 		evilComponent: componente maligno
-		evilDrop: Dropeo maligno
+		evilDrop: Botín maligno
 		tier2anvil: yunque de nivel 2
 		tier2forge: forja de nivel 2
 		tier1anvil: yunque de nivel 1
@@ -1037,7 +1036,7 @@ Mods: {
 		Providence: Bolsa del tesoro de Providencia, la Diosa Profanada
 		StormWeaver: Bolsa del tesoro del Tejedor de Tormentas
 		CeaselessVoid: Bolsa del tesoro del Vacío Incesante
-		Signus: Bolsa del tesoro de Signus, el Centinela del Devorador
+		Signus: Bolsa del tesoro de Signus, Enviado del Devorador
 		Polterghast: Bolsa del tesoro de Polterghast
 		OldDuke: Bolsa del tesoro del Viejo Duque
 		DevourerofGods: Bolsa del tesoro del Devorador de Dioses
@@ -1135,7 +1134,7 @@ Mods: {
 		Shen: Bolsa del tesoro de Shen Doragon
 		ShenGrips: Bolsa del tesoro de Shen Doragon Grips
 		PlantsShop: Tienda de plantas
-		GetCharm: Adquiere Amuleto
+		GetCharm: Adquirir Amuleto
 		Edward: Edward
 		Severus: Severus
 		Horace: Horace
@@ -1151,9 +1150,9 @@ Mods: {
 		EntryA7: ¿Has visto alguna calavera mecánica por ahí?
 		EntryA8: ¿Alguna vez has oído hablar del hongo Ultra? Si encuentras uno, creo que tengo algo que te puede ayudar a potenciarlo.
 		EntryA9: "Pregunté "
-		EntryA10: "si podía comprar la receta del Extracto Potente. Me dijo que no porque, y cito textualmente, 'hasta un idiota se daría cuenta'."
+		EntryA10: si podía comprar la receta del Extracto Potente. Me dijo que no porque, y cito textualmente, 'hasta un idiota se daría cuenta'.
 		EntryA11: Y pensar que es ella quien se lleva las pociones y no yo... pero no puedo discutir eso.
-		EntryA12: "¿Cómo se llama?"
+		EntryA12: ¿Cómo se llama?
 		EntryA13: ? Entonces... ¿Ya llegó la maestra? ¡Mejor me pongo las pilas!
 		EntryA14: Menos mal que conseguí esas piezas de Esqueletrón. ¿Quieres echarles un vistazo?
 		EntryA15: "¿Podrías pedirle, por favor, a "
@@ -1207,7 +1206,7 @@ Mods: {
 		AS8: 8va tienda (Linternas)
 		AS9: 9na tienda (Lámparas Araña)
 		AS10: 10ma tienda (Candelabros)
-		ShopsChanger: Cambiador de tiendas
+		ShopsChanger: Cambiar Tienda
 		Combinations: Combinaciones
 		Flasks: Frascos
 		ShopB1: 1ra tienda (Vanilla)
@@ -1238,7 +1237,7 @@ Mods: {
 		EntryB14: Nací bajo la luz de la Luna de Sangre. ¡Siempre me emociono mucho cuando aparece!
 		EntryB15: Sí, entiendo por qué las otras chicas están molestas, ¡pero eso no me va a detener!
 		EntryB16: Por muy contento que esté, no voy a dar descuentos; no soy tonto.
-		EntryB17: "Normalmente me confunde cómo " 
+		EntryB17: "Normalmente me confunde cómo "
 		EntryB18: " está tan tranquilo como yo, pero luego me acuerdo de... "
 		EntryB19: Una vez viajé muy lejos de Terraria para aprender más sobre la alquimia. En mis viajes conocí a un científico de la magia llamado Azanor. Él me reveló los secretos de algo llamado taumaturgia.
 		ArenaShop: Tienda para las arenas
@@ -1261,8 +1260,8 @@ Mods: {
 		Shop1: Cajas musicales del Vanilla
 		Shop2: Cajas musicales del Vanilla #2
 		Shop3: Cajas de música del otro mundo
-		Shop4: Cajas de música modificadas (Calamity)
-		Shop5: Cajas de música modificadas (Calamity/Thorium)
+		Shop4: Cajas de música (Calamity)
+		Shop5: Cajas de música (Calamity/Thorium)
 		ShopChanger: Cambiar de tienda
 		Beethoven: Beethoven
 		Bach: Bach
@@ -1293,8 +1292,8 @@ Mods: {
 		EntryM20: ¡Ah, esto me trae recuerdos! Recuerdo cuando sonaba esta canción en la mazmorra y en el inframundo... ¡qué buenos tiempos!
 		EntryM21: ¿Hay algún nombre para el miedo a que un pastel te espíe?
 		EntryM22: ¡Me estás lastimando los oídos! ¡Baja el volumen!
-		BossDropsShop: Dropeos de jefes y Tienda de materiales 
-		BossDropsModsShop: Dropeos de jefes y Tienda de materiales modificados
+		BossDropsShop: Botín de jefes y materiales
+		BossDropsModsShop: Botín de jefes y materiales modificados
 		VanillaTreasureBagsShop: Tienda Vanilla de bolsas del tesoro
 		ModdedTreasureBagsShop: Tienda de Bolsas del tesoro modificadas
 		ModdedTreasureBagsShop2: Tienda de Bolsas del tesoro modificadas #2
@@ -1353,7 +1352,7 @@ Mods: {
 		Porky: Porky
 		Leeland: Leeland
 		Atreus: Atreus
-		Entry1: Estoy vendiendo pociones que prepararon mis papás.
+		Entry1: Estoy vendiendo pociones que prepararon mis padres.
 		Entry2: Tengo algunas pociones que te puedo vender.
 		Entry3: Aunque la Combinación de batalla fue idea mía.
 		Entry4: Hay un yoyó legendario conocido como el Sasscade.
