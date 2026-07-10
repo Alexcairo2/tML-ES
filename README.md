@@ -60,7 +60,7 @@ Los cambios aprobados aquí son integrados periódicamente al mod principal y pu
 | Calamity: Wrath of the Machines | ✅ | v1.0.4
 | Split | 🔴 | X
 | The Stars Above | 🔴 | 2.1.8.4
-| AlchemistNPC Lite | 🟡 | 1.9.9
+| AlchemistNPC Lite | ✅ | 1.9.9
 | Quality of Terraria | ⚪ | X
 ---
 
@@ -80,9 +80,9 @@ El equipo y la comunidad de tML ES están en Discord. Es el lugar donde coordina
 |---------|-----|
 | **Doremy** | Desarrollo del núcleo del mod; parcheo en tiempo de ejecución; sistema de localización |
 | **Blassurks** | QA Testing; propuesta de nuevas entradas de localización |
-| **purrMorselli** | Arte de UI |
+| **purrMorselli** | Arte de UI, sprites de mascotas comunitarias y assets en general |
 | **tetan47** | Revisión y retroalimentación de localización |
-| **all_xozzin** | Diseño del icono del mod; pixel art |
+| **all_xozzin** | Diseño del icono del mod; sprites de mascotas y assets en general |
 
 ---
 
